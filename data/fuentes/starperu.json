@@ -1,0 +1,22 @@
+{
+ "id": "starperu",
+ "leido": "2026-09-24T09:24",
+ "filas": [
+  [
+   "Star Perú",
+   "Diners Club",
+   "porcentaje",
+   40,
+   0,
+   "",
+   "",
+   "40% de descuento sobre el valor neto de las siguientes clases según ruta.",
+   "Pagando con Diners Club en starperu.com",
+   "Diners Club",
+   {
+    "conf": "of",
+    "canal": "APP"
+   }
+  ]
+ ]
+}

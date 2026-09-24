@@ -1,0 +1,262 @@
+{
+ "id": "cuponatic",
+ "leido": "2026-09-24T09:24",
+ "filas": [
+  [
+   "La Bistecca",
+   "Cuponatic",
+   "precio",
+   85.9,
+   103.9,
+   "",
+   "",
+   "LA BISTECCA Almuerzo o Cena Buffet + Bebida",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "TODAS LAS SEDES - Juega 30 o 60 Minutos en JUMP SPOT",
+   "Cuponatic",
+   "precio",
+   19.9,
+   35.0,
+   "",
+   "",
+   "Jump Spot Perú",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Revisión Técnica para Auto ó Camioneta - Ate con La Molina",
+   "Cuponatic",
+   "precio",
+   69.0,
+   130.0,
+   "",
+   "",
+   "REVISIONES TÉCNICAS ABC - ATE",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Cineplanet",
+   "Cuponatic",
+   "precio",
+   47.9,
+   107.0,
+   "",
+   "",
+   "Cineplanet: 2 Entradas + Combo Gigante para 2 Todos los Días",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Elige cuánto saltar: 30, 45 o 60 min en Supernova",
+   "Cuponatic",
+   "precio",
+   25.0,
+   40.0,
+   "",
+   "",
+   "1825 Vendidos",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "BUFFET INTERNACIONAL: Almuerzo ó Cena Bailable",
+   "Cuponatic",
+   "precio",
+   54.9,
+   77.0,
+   "",
+   "",
+   "Buffet Internacional Mandarín",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "INFLABLES + MAQUINAS RECREATIVAS - Todas Sedes - Lun a Dom",
+   "Cuponatic",
+   "precio",
+   21.9,
+   26.0,
+   "",
+   "",
+   "Flying Squirrel",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "¡Salsacumbiando: La Gran Fiesta de Salsa y Cumbia!",
+   "Cuponatic",
+   "precio",
+   22.9,
+   48.0,
+   "",
+   "",
+   "Tropic Life Sac Producciones",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Coney Park",
+   "Cuponatic",
+   "precio",
+   39.9,
+   60.0,
+   "",
+   "",
+   "2697 Vendidos",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Cinemark",
+   "Cuponatic",
+   "precio",
+   10.9,
+   27.8,
+   "",
+   "",
+   "¡Cinemark! Entrada 2D de Lunes a Domingo",
+   "¡Cinemark! Entrada 2D de Lunes a Domingo",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "El Salto del Fraile",
+   "Cuponatic",
+   "precio",
+   109.9,
+   205.0,
+   "",
+   "",
+   "Frente al Mar: Parrilla de Carne para 2 con Copas de Vino",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Super Artrotheca Animales Exóticos - General o Infantil",
+   "Cuponatic",
+   "precio",
+   29.99,
+   80.0,
+   "",
+   "",
+   "120 Vendidos",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Noche para 2 hasta 9 Personas + Desayuno en Oxapampa",
+   "Cuponatic",
+   "precio",
+   169.0,
+   250.0,
+   "",
+   "",
+   "Cabañas El Pinar de Oxapampa",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "City Tour Cusco + Transporte + Guía + 04 Ruinas y Más",
+   "Cuponatic",
+   "precio",
+   15.9,
+   0,
+   "",
+   "",
+   "JASTHY`N TRAVEL TOURS",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Suscrito",
+   "Cuponatic",
+   "porcentaje",
+   15,
+   0,
+   "",
+   "",
+   "¡Súper! Ya estás suscrit@.",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "cashback",
+   "Cuponatic",
+   "porcentaje",
+   15,
+   0,
+   "",
+   "",
+   "Válido solo para nuevos suscriptores. Sujeto a límites y Términos y Condiciones.",
+   "Válido solo para nuevos suscriptores. Sujeto a límites y Términos y Condiciones.",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ]
+ ]
+}

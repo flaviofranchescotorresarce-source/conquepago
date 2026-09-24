@@ -1,0 +1,38 @@
+{
+ "id": "nutripoint",
+ "leido": "2026-09-24T09:24",
+ "filas": [
+  [
+   "NutriPoint",
+   "Promo del local",
+   "precio",
+   300.0,
+   0,
+   "",
+   "",
+   "🆓 ENVÍO GRATIS POR COMPRAS MAYORES A S/300",
+   "Precio de la tienda NutriPoint",
+   "Promo del local",
+   {
+    "conf": "of",
+    "canal": "A"
+   }
+  ],
+  [
+   "NutriPoint",
+   "Promo del local",
+   "precio",
+   99.0,
+   659.0,
+   "",
+   "",
+   "GOLD STANDARD WHEY 5 LB - OPTIMUM NUTRITION",
+   "Precio de la tienda NutriPoint",
+   "Promo del local",
+   {
+    "conf": "of",
+    "canal": "A"
+   }
+  ]
+ ]
+}

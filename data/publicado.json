@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-24T09:16",
+ "actualizado": "2026-09-24T09:25",
  "filas": [
   [
    "Tambo",
@@ -1948,268 +1948,6 @@
    }
   ],
   [
-   "Papa Johns",
-   "Web/app de la marca",
-   "precio",
-   22.9,
-   29.6,
-   "2026-07-01",
-   "",
-   "Papa Full Dúo: 2 pizzas personales clásicas + 2 gaseosas 500 ml",
-   "Promo de carta en la web, app, WhatsApp y call center · sin fecha de cierre publicada",
-   "Web/app de la marca",
-   {
-    "conf": "of",
-    "canal": "A"
-   }
-  ],
-  [
-   "Papa Johns",
-   "Web/app de la marca",
-   "precio",
-   45.9,
-   71.7,
-   "2026-07-01",
-   "",
-   "Combo: 1 pizza grande clásica + complemento + gaseosa 1 L",
-   "Promo de carta en la web y app · sin fecha de cierre publicada",
-   "Web/app de la marca",
-   {
-    "conf": "of",
-    "canal": "A"
-   }
-  ],
-  [
-   "Papa Johns",
-   "Web/app de la marca",
-   "precio",
-   99.9,
-   183.6,
-   "2026-07-01",
-   "",
-   "Superpack: 4 pizzas grandes",
-   "Promo de carta en la web y app · cobertura Lima, Arequipa, Cusco, Chiclayo, Ica, Trujillo, Huancayo y Piura",
-   "Web/app de la marca",
-   {
-    "conf": "of",
-    "canal": "A"
-   }
-  ],
-  [
-   "Papa Johns",
-   "Web/app de la marca",
-   "porcentaje",
-   44,
-   0,
-   "2026-07-14",
-   "2026-07-19",
-   "Cyber Pizza: hasta 44 % en la web y app",
-   "Campaña de 6 días · Papa Johns la repite varias veces al año",
-   "Web/app de la marca",
-   {
-    "conf": "of",
-    "canal": "APP"
-   }
-  ],
-  [
-   "Papa Johns",
-   "Web/app de la marca",
-   "precio",
-   39.9,
-   55.8,
-   "2026-06-15",
-   "2026-06-21",
-   "Papa Days Dúo Grande: 2 pizzas grandes clásicas",
-   "Campaña Papa Days, se agotó el stock · vuelve cada cierto tiempo",
-   "Web/app de la marca",
-   {
-    "conf": "of",
-    "canal": "A"
-   }
-  ],
-  [
-   "Papa Johns",
-   "Web/app de la marca",
-   "precio",
-   49.9,
-   98.7,
-   "2026-06-15",
-   "2026-06-21",
-   "Papa Days Tripack Grande: 3 pizzas grandes clásicas o de especialidad",
-   "Campaña Papa Days, se agotó el stock · vuelve cada cierto tiempo",
-   "Web/app de la marca",
-   {
-    "conf": "of",
-    "canal": "A"
-   }
-  ],
-  [
-   "Papa Johns",
-   "Web/app de la marca",
-   "precio",
-   59.9,
-   128.7,
-   "2026-06-15",
-   "2026-06-21",
-   "Papa Days Tripack Familiar: 3 pizzas familiares clásicas o de especialidad",
-   "Campaña Papa Days, se agotó el stock · el mejor % que publicó Papa Johns este año",
-   "Web/app de la marca",
-   {
-    "conf": "of",
-    "canal": "A"
-   }
-  ],
-  [
-   "Excelencia Pollos",
-   "Cuponidad",
-   "precio",
-   16.9,
-   0,
-   "2026-07-01",
-   "",
-   "1/4 pollo a la brasa con guarniciones",
-   "Compra el cupón en Cuponidad · revisa las sedes y el horario antes de ir",
-   "Cuponidad",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Dragon Rolls",
-   "Cuponidad",
-   "precio",
-   9.9,
-   0,
-   "2026-07-01",
-   "",
-   "Tabla de 12 makis + bebida",
-   "Compra el cupón en Cuponidad · revisa las sedes",
-   "Cuponidad",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Kasamama",
-   "Cuponidad",
-   "precio",
-   37.9,
-   0,
-   "2026-07-01",
-   "",
-   "Buffet criollo de almuerzo",
-   "6 sedes · lunes a domingo · compra el cupón en Cuponidad",
-   "Cuponidad",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Oshi",
-   "Cuponidad",
-   "precio",
-   49.9,
-   0,
-   "2026-07-01",
-   "",
-   "Barra libre de makis + alitas + gyozas + bebida",
-   "Compra el cupón en Cuponidad · revisa las sedes",
-   "Cuponidad",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "D Mare Sushi",
-   "Cuponidad",
-   "precio",
-   55,
-   0,
-   "2026-07-01",
-   "",
-   "60 cortes de makis + 2 gaseosas",
-   "Compra el cupón en Cuponidad · ideal para compartir",
-   "Cuponidad",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Villa Chicken",
-   "Cuponidad",
-   "precio",
-   80.9,
-   0,
-   "2026-07-01",
-   "",
-   "Pollo a la leña + papas + bebida",
-   "Válido para consumo en local o recojo · compra el cupón en Cuponidad",
-   "Cuponidad",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "La Bistecca",
-   "Cuponidad",
-   "precio",
-   85.9,
-   0,
-   "2026-07-01",
-   "",
-   "Buffet de almuerzo o cena + postre + ice tea",
-   "4 locales · compra el cupón en Cuponidad",
-   "Cuponidad",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Rodizio",
-   "Cuponidad",
-   "precio",
-   89.9,
-   0,
-   "2026-07-01",
-   "",
-   "Parrilla buffet con carnes, salad bar y bebida",
-   "Compra el cupón en Cuponidad · revisa las sedes",
-   "Cuponidad",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Do Santos",
-   "Cuponidad",
-   "precio",
-   99,
-   0,
-   "2026-07-01",
-   "",
-   "Parrilla para 2 con bife argentino",
-   "Compra el cupón en Cuponidad",
-   "Cuponidad",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "El Salto del Fraile",
-   "Cuponidad",
-   "precio",
-   129,
-   0,
-   "2026-07-01",
-   "",
-   "Parrilla para 2 con baby beef y más",
-   "Compra el cupón en Cuponidad",
-   "Cuponidad",
-   {
-    "conf": "of"
-   }
-  ],
-  [
    "Cineplanet",
    "Yape",
    "precio",
@@ -2297,22 +2035,6 @@
     "conf": "of",
     "canal": "APP",
     "max": 2
-   }
-  ],
-  [
-   "Cinemark",
-   "Cuponidad",
-   "variable",
-   0,
-   0,
-   "2026-07-01",
-   "",
-   "2 entradas + 2 gaseosas + cancha mediana o grande",
-   "El precio cambia según el cupón vigente · validación online o mostrando el celular",
-   "Cuponidad",
-   {
-    "conf": "rep",
-    "canal": "A"
    }
   ],
   [
@@ -2410,158 +2132,6 @@
     "dias": [
      3
     ]
-   }
-  ],
-  [
-   "Coney Park",
-   "Cuponatic",
-   "precio",
-   59.9,
-   150,
-   "2026-07-01",
-   "",
-   "S/150 en crédito para juegos",
-   "Compra el cupón en Cuponatic · vale en todas las sedes",
-   "Cuponatic",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Coney Park",
-   "Cuponatic",
-   "precio",
-   39.9,
-   100,
-   "2026-07-01",
-   "",
-   "S/100 en crédito para juegos",
-   "Compra el cupón en Cuponatic · vale en todas las sedes",
-   "Cuponatic",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Coney Park",
-   "Cuponidad",
-   "precio",
-   28.9,
-   0,
-   "2026-07-01",
-   "",
-   "Coney Active: 1 hora de juego",
-   "Lunes a domingo · cupón móvil de Cuponidad",
-   "Cuponidad",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Mr Jump",
-   "Cuponatic",
-   "precio",
-   27.9,
-   55,
-   "2026-07-01",
-   "",
-   "Entrada al parque inflable más grande de Lima",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Gran Circo de Rusia",
-   "Cuponatic",
-   "precio",
-   49,
-   0,
-   "2026-07-01",
-   "",
-   "Entrada al Gran Circo de Rusia 2026 (Jockey Plaza)",
-   "Compra el cupón en Cuponatic · revisa la función y el horario",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Circo del Niño Alfredito",
-   "Cuponatic",
-   "precio",
-   21.8,
-   110,
-   "2026-07-01",
-   "",
-   "Entrada al circo",
-   "80 % de descuento · compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Granja Fundo San Vicente",
-   "Cuponatic",
-   "precio",
-   44.9,
-   54.9,
-   "2026-07-01",
-   "",
-   "Paseo y actividades en la granja",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "La Choza de La Anaconda",
-   "Cuponatic",
-   "precio",
-   38.9,
-   0,
-   "2026-07-01",
-   "",
-   "Buffet amazónico y criollo",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Isushi",
-   "Cuponatic",
-   "precio",
-   54.9,
-   66,
-   "2026-07-01",
-   "",
-   "Barra de sushi",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "La Bistecca",
-   "Cuponatic",
-   "precio",
-   85.9,
-   103.9,
-   "2026-07-01",
-   "",
-   "Buffet de almuerzo o cena",
-   "Compra el cupón en Cuponatic · el mismo plan también está en Cuponidad",
-   "Cuponatic",
-   {
-    "conf": "of"
    }
   ],
   [
@@ -2760,86 +2330,6 @@
    "Promo del local",
    {
     "conf": "rep"
-   }
-  ],
-  [
-   "NutriPoint",
-   "Promo del local",
-   "precio",
-   89,
-   267,
-   "2026-07-01",
-   "",
-   "Pack x3 Creatina Monohidratada 120 g — Ultimate Nutrition",
-   "El mejor descuento del catálogo de packs · envío gratis sobre S/399",
-   "Promo del local",
-   {
-    "conf": "of",
-    "canal": "A"
-   }
-  ],
-  [
-   "NutriPoint",
-   "Promo del local",
-   "precio",
-   149,
-   189,
-   "2026-07-01",
-   "",
-   "Creatina 300 g — Optimum Nutrition",
-   "Envío gratis en compras mayores a S/399",
-   "Promo del local",
-   {
-    "conf": "of",
-    "canal": "A"
-   }
-  ],
-  [
-   "NutriPoint",
-   "Promo del local",
-   "precio",
-   409,
-   489,
-   "2026-07-01",
-   "",
-   "Gold Standard Whey 5 lb — Optimum Nutrition",
-   "Envío gratis en compras mayores a S/399",
-   "Promo del local",
-   {
-    "conf": "of",
-    "canal": "A"
-   }
-  ],
-  [
-   "NutriPoint",
-   "Promo del local",
-   "precio",
-   619,
-   659,
-   "2026-07-01",
-   "",
-   "ISO 100 Hydrolyzed 5 lb — Dymatize + shaker de regalo",
-   "Incluye shaker · envío gratis en compras mayores a S/399",
-   "Promo del local",
-   {
-    "conf": "of",
-    "canal": "A"
-   }
-  ],
-  [
-   "NutriPoint",
-   "Promo del local",
-   "variable",
-   0,
-   0,
-   "2026-07-01",
-   "",
-   "Envío gratis en compras mayores a S/399",
-   "También se puede pagar en 3, 6 o 12 cuotas con PowerPay",
-   "Promo del local",
-   {
-    "conf": "of",
-    "canal": "A"
    }
   ],
   [
@@ -3683,39 +3173,6 @@
    }
   ],
   [
-   "Star Perú",
-   "Diners Club",
-   "porcentaje",
-   40,
-   0,
-   "2026-05-01",
-   "2026-07-31",
-   "40 % sobre la tarifa neta · código D40",
-   "Rutas desde y hacia Lima: Chiclayo, Pucallpa y Tarapoto (clases N y V), Iquitos y Cajamarca (N, V y X) · solo en la web de Star Perú · sin restricción de fecha de viaje · incluye 23 kg en bodega y 8 kg de mano · no aplica en feriados ni fines de semana largos · no vale en rutas transversales de selva",
-   "Diners Club",
-   {
-    "conf": "of",
-    "canal": "APP",
-    "como": "Ingresa el código D40 en starperu.com pagando con Diners Club"
-   }
-  ],
-  [
-   "Star Perú",
-   "Diners Club",
-   "variable",
-   0,
-   0,
-   "2026-05-01",
-   "2026-07-31",
-   "6 cuotas sin intereses",
-   "Consulta el tarifario en la web o en el call center (01) 705-9000",
-   "Diners Club",
-   {
-    "conf": "of",
-    "canal": "APP"
-   }
-  ],
-  [
    "LATAM",
    "Promo del local",
    "porcentaje",
@@ -4244,111 +3701,15 @@
    }
   ],
   [
-   "Brunno Pizzería",
-   "Tarjeta Caja Arequipa",
-   "porcentaje",
-   25,
-   0,
-   "2026-07-08",
-   "2027-07-08",
-   "25 % de descuento",
-   "Paga con la tarjeta de débito VISA de Caja Arequipa",
-   "Tarjeta Caja Arequipa",
-   {
-    "conf": "of",
-    "ciudad": "AQP"
-   }
-  ],
-  [
-   "Alfa",
-   "Tarjeta Caja Arequipa",
-   "porcentaje",
-   20,
-   0,
-   "2026-07-08",
-   "2027-07-08",
-   "20 % de descuento",
-   "Paga con la tarjeta de débito VISA de Caja Arequipa",
-   "Tarjeta Caja Arequipa",
-   {
-    "conf": "of",
-    "ciudad": "AQP"
-   }
-  ],
-  [
-   "Posho",
-   "Tarjeta Caja Arequipa",
-   "porcentaje",
-   20,
-   0,
-   "2026-07-08",
-   "2027-07-08",
-   "20 % de descuento",
-   "Paga con la tarjeta de débito VISA de Caja Arequipa",
-   "Tarjeta Caja Arequipa",
-   {
-    "conf": "of",
-    "ciudad": "AQP"
-   }
-  ],
-  [
-   "Barra 420",
-   "Tarjeta Caja Arequipa",
-   "porcentaje",
-   20,
-   0,
-   "2026-07-08",
-   "2027-07-08",
-   "20 % de descuento",
-   "Paga con la tarjeta de débito VISA de Caja Arequipa",
-   "Tarjeta Caja Arequipa",
-   {
-    "conf": "of",
-    "ciudad": "AQP"
-   }
-  ],
-  [
-   "Di Mazza",
-   "Tarjeta Caja Arequipa",
-   "porcentaje",
-   20,
-   0,
-   "2026-07-08",
-   "2027-07-08",
-   "20 % de descuento",
-   "Paga con la tarjeta de débito VISA de Caja Arequipa",
-   "Tarjeta Caja Arequipa",
-   {
-    "conf": "of",
-    "ciudad": "AQP"
-   }
-  ],
-  [
-   "Che Carreta",
-   "Tarjeta Caja Arequipa",
-   "porcentaje",
-   20,
-   0,
-   "2026-07-08",
-   "2027-07-08",
-   "20 % de descuento",
-   "Paga con la tarjeta de débito VISA de Caja Arequipa",
-   "Tarjeta Caja Arequipa",
-   {
-    "conf": "rep",
-    "ciudad": "AQP"
-   }
-  ],
-  [
    "Fulana",
    "Tarjeta Caja Arequipa",
    "porcentaje",
    20,
    0,
-   "2026-07-08",
-   "2027-07-08",
-   "20 % de descuento",
-   "Paga con la tarjeta de débito VISA de Caja Arequipa",
+   "",
+   "",
+   "Entretenimiento",
+   "Pagando con tarjeta de débito VISA de Caja Arequipa",
    "Tarjeta Caja Arequipa",
    {
     "conf": "of",
@@ -4361,10 +3722,74 @@
    "porcentaje",
    20,
    0,
-   "2026-07-08",
-   "2027-07-08",
-   "20 % de descuento",
-   "Paga con la tarjeta de débito VISA de Caja Arequipa",
+   "",
+   "",
+   "Entretenimiento",
+   "Pagando con tarjeta de débito VISA de Caja Arequipa",
+   "Tarjeta Caja Arequipa",
+   {
+    "conf": "of",
+    "ciudad": "AQP"
+   }
+  ],
+  [
+   "Alfa",
+   "Tarjeta Caja Arequipa",
+   "porcentaje",
+   20,
+   0,
+   "",
+   "",
+   "Restaurantes",
+   "Pagando con tarjeta de débito VISA de Caja Arequipa",
+   "Tarjeta Caja Arequipa",
+   {
+    "conf": "of",
+    "ciudad": "AQP"
+   }
+  ],
+  [
+   "Posho",
+   "Tarjeta Caja Arequipa",
+   "porcentaje",
+   20,
+   0,
+   "",
+   "",
+   "Restaurantes",
+   "Pagando con tarjeta de débito VISA de Caja Arequipa",
+   "Tarjeta Caja Arequipa",
+   {
+    "conf": "of",
+    "ciudad": "AQP"
+   }
+  ],
+  [
+   "Barra 420",
+   "Tarjeta Caja Arequipa",
+   "porcentaje",
+   20,
+   0,
+   "",
+   "",
+   "Restaurantes",
+   "Pagando con tarjeta de débito VISA de Caja Arequipa",
+   "Tarjeta Caja Arequipa",
+   {
+    "conf": "of",
+    "ciudad": "AQP"
+   }
+  ],
+  [
+   "Di Mazza",
+   "Tarjeta Caja Arequipa",
+   "porcentaje",
+   20,
+   0,
+   "",
+   "",
+   "Restaurantes",
+   "Pagando con tarjeta de débito VISA de Caja Arequipa",
    "Tarjeta Caja Arequipa",
    {
     "conf": "of",
@@ -4377,10 +3802,10 @@
    "2x1",
    0,
    0,
-   "2026-07-08",
-   "2027-07-08",
-   "Entradas 2x1",
-   "Paga con la tarjeta de débito VISA de Caja Arequipa",
+   "",
+   "",
+   "Entretenimiento",
+   "Pagando con tarjeta de débito VISA de Caja Arequipa",
    "Tarjeta Caja Arequipa",
    {
     "conf": "of",
@@ -4390,21 +3815,984 @@
   [
    "Lima Gas",
    "Tarjeta Caja Arequipa",
-   "monto",
-   15,
+   "precio",
+   15.0,
    0,
-   "2026-07-08",
-   "2027-07-08",
-   "S/15 de descuento",
-   "Paga con la tarjeta de débito VISA de Caja Arequipa",
+   "",
+   "",
+   "Hogar y servicios",
+   "Pagando con tarjeta de débito VISA de Caja Arequipa",
    "Tarjeta Caja Arequipa",
    {
     "conf": "of",
     "ciudad": "AQP"
    }
+  ],
+  [
+   "Brunno Pizzería",
+   "Tarjeta Caja Arequipa",
+   "porcentaje",
+   25,
+   0,
+   "",
+   "",
+   "Restaurantes",
+   "Pagando con tarjeta de débito VISA de Caja Arequipa",
+   "Tarjeta Caja Arequipa",
+   {
+    "conf": "of",
+    "ciudad": "AQP"
+   }
+  ],
+  [
+   "La Bistecca",
+   "Cuponatic",
+   "precio",
+   85.9,
+   103.9,
+   "",
+   "",
+   "LA BISTECCA Almuerzo o Cena Buffet + Bebida",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "TODAS LAS SEDES - Juega 30 o 60 Minutos en JUMP SPOT",
+   "Cuponatic",
+   "precio",
+   19.9,
+   35.0,
+   "",
+   "",
+   "Jump Spot Perú",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Revisión Técnica para Auto ó Camioneta - Ate con La Molina",
+   "Cuponatic",
+   "precio",
+   69.0,
+   130.0,
+   "",
+   "",
+   "REVISIONES TÉCNICAS ABC - ATE",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Cineplanet",
+   "Cuponatic",
+   "precio",
+   47.9,
+   107.0,
+   "",
+   "",
+   "Cineplanet: 2 Entradas + Combo Gigante para 2 Todos los Días",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Elige cuánto saltar: 30, 45 o 60 min en Supernova",
+   "Cuponatic",
+   "precio",
+   25.0,
+   40.0,
+   "",
+   "",
+   "1825 Vendidos",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "BUFFET INTERNACIONAL: Almuerzo ó Cena Bailable",
+   "Cuponatic",
+   "precio",
+   54.9,
+   77.0,
+   "",
+   "",
+   "Buffet Internacional Mandarín",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "INFLABLES + MAQUINAS RECREATIVAS - Todas Sedes - Lun a Dom",
+   "Cuponatic",
+   "precio",
+   21.9,
+   26.0,
+   "",
+   "",
+   "Flying Squirrel",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "¡Salsacumbiando: La Gran Fiesta de Salsa y Cumbia!",
+   "Cuponatic",
+   "precio",
+   22.9,
+   48.0,
+   "",
+   "",
+   "Tropic Life Sac Producciones",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Coney Park",
+   "Cuponatic",
+   "precio",
+   39.9,
+   60.0,
+   "",
+   "",
+   "2697 Vendidos",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Cinemark",
+   "Cuponatic",
+   "precio",
+   10.9,
+   27.8,
+   "",
+   "",
+   "¡Cinemark! Entrada 2D de Lunes a Domingo",
+   "¡Cinemark! Entrada 2D de Lunes a Domingo",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "El Salto del Fraile",
+   "Cuponatic",
+   "precio",
+   109.9,
+   205.0,
+   "",
+   "",
+   "Frente al Mar: Parrilla de Carne para 2 con Copas de Vino",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Super Artrotheca Animales Exóticos - General o Infantil",
+   "Cuponatic",
+   "precio",
+   29.99,
+   80.0,
+   "",
+   "",
+   "120 Vendidos",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Noche para 2 hasta 9 Personas + Desayuno en Oxapampa",
+   "Cuponatic",
+   "precio",
+   169.0,
+   250.0,
+   "",
+   "",
+   "Cabañas El Pinar de Oxapampa",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "City Tour Cusco + Transporte + Guía + 04 Ruinas y Más",
+   "Cuponatic",
+   "precio",
+   15.9,
+   0,
+   "",
+   "",
+   "JASTHY`N TRAVEL TOURS",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Suscrito",
+   "Cuponatic",
+   "porcentaje",
+   15,
+   0,
+   "",
+   "",
+   "¡Súper! Ya estás suscrit@.",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "cashback",
+   "Cuponatic",
+   "porcentaje",
+   15,
+   0,
+   "",
+   "",
+   "Válido solo para nuevos suscriptores. Sujeto a límites y Términos y Condiciones.",
+   "Válido solo para nuevos suscriptores. Sujeto a límites y Términos y Condiciones.",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Cupones de descuento en Perú. Hasta 90% OFF en restaurantes,",
+   "Cuponidad",
+   "porcentaje",
+   90,
+   0,
+   "",
+   "",
+   "Cupones de descuento en Perú. Hasta 90% OFF en restaurantes, entretenimiento y más – Cuponidad",
+   "Compra el cupón en Cuponidad",
+   "Cuponidad",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Cinemark",
+   "Cuponidad",
+   "precio",
+   10.9,
+   25.0,
+   "",
+   "",
+   "Cinemark: Entrada 2D - opción a combo (Validación ONLINE o mostrando tu celular)",
+   "Cinemark: Entrada 2D - opción a combo (Validación ONLINE o mostrando tu celular) · Cinemark: Desde S/ 10.90 por entrada 2D. Válido a nivel nacional con opción a combo (Sin costo de",
+   "Cuponidad",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Pulsera Full Pass de 60 minutos + acceso a 3 juegos interact",
+   "Cuponidad",
+   "precio",
+   40.0,
+   74.0,
+   "",
+   "",
+   "Pulsera Full Pass de 60 minutos + acceso a 3 juegos interactivos + garra humana. Válido para niño o adulto",
+   "Pulsera Full Pass de 60 minutos + acceso a 3 juegos interactivos + garra humana. Válido para niño o adulto",
+   "Cuponidad",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "RALLY KART: 10, 16 ó 30 vueltas en sus locales de Jockey Pla",
+   "Cuponidad",
+   "precio",
+   14.9,
+   50.0,
+   "",
+   "",
+   "RALLY KART: 10, 16 ó 30 vueltas en sus locales de Jockey Plaza, Open Plaza La Marina, Ate,  Bellavista, Mall Plaza Comas Lunes a Viernes",
+   "RALLY KART: 10, 16 ó 30 vueltas en sus locales de Jockey Plaza, Open Plaza La Marina, Ate,  Bellavista, Mall Plaza Comas Lunes a Viernes",
+   "Cuponidad",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Fun Jungle: Full Day o 60 minutos según elijas en los Inflab",
+   "Cuponidad",
+   "precio",
+   28.9,
+   55.0,
+   "",
+   "",
+   "Fun Jungle: Full Day o 60 minutos según elijas en los Inflables en El Defby  y Parque de la Amistad",
+   "Compra el cupón en Cuponidad",
+   "Cuponidad",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Fórmula Kart:  Sesiones para niños y adultos. Lunes a doming",
+   "Cuponidad",
+   "precio",
+   22.9,
+   40.0,
+   "",
+   "",
+   "Fórmula Kart:  Sesiones para niños y adultos. Lunes a domingo",
+   "Fórmula Kart:  Sesiones para niños y adultos. Lunes a domingo · ¡Fórmula Kart! Desde S/ 22.90 por Sesiones de Kart para adultos o niños en La Molina! ¡De lunes a domingo! Muestra e",
+   "Cuponidad",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Paradox Park: Parque inmersivo donde Roma, Egipto y Grecia c",
+   "Cuponidad",
+   "precio",
+   69.0,
+   115.0,
+   "",
+   "",
+   "Paradox Park: Parque inmersivo donde Roma, Egipto y Grecia cobran vida con juegos, shows, etc",
+   "Compra el cupón en Cuponidad",
+   "Cuponidad",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "La Bistecca",
+   "Cuponidad",
+   "precio",
+   85.9,
+   97.9,
+   "",
+   "",
+   "Buffet Almuerzo o Cena + Postres + 1 Bebida ( Ice Tea ) en cualquiera de sus 4 locales",
+   "Compra el cupón en Cuponidad",
+   "Cuponidad",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Flying Squirrel:  Full Day, 60 o 120 minutos según elijas en",
+   "Cuponidad",
+   "precio",
+   21.9,
+   70.0,
+   "",
+   "",
+   "Flying Squirrel:  Full Day, 60 o 120 minutos según elijas en Jockey Plaza, San Miguel e Independencia.",
+   "Compra el cupón en Cuponidad",
+   "Cuponidad",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Cineplanet",
+   "Cuponidad",
+   "precio",
+   10.9,
+   47.9,
+   "",
+   "",
+   "breña, cercado de lima, comas, independencia, jesus maria, la molina, la victoria, lince, los olivos, miraflores, san borja, san isidro, san",
+   "Cineplanet: 2 Entradas 2D + 2 Bebidas Grandes + Pop corn gigante. Lunes a Domingo · Cinemark: Entrada 2D - opción a combo (Validación ONLINE o mostrando tu celular) · Cinemark: 2 E",
+   "Cuponidad",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "FABULANDIA: Full diversión(Piscina de pelotas, toboganes, y ",
+   "Cuponidad",
+   "precio",
+   9.9,
+   30.9,
+   "",
+   "",
+   "JUMP SPOT KIDS: Full Diversión por 30 o 60 minutos Jockey Plaza, Mall Plaza Comas, Mall Plaza Arequipa",
+   "Mr. Joy : Juega por 150 minutos (2:30 hrs). Válido en sus 3 locales. Lunes a Domingo.",
+   "Cuponidad",
+   {
+    "conf": "of",
+    "ciudad": "AQP"
+   }
+  ],
+  [
+   "Jump Spot: Accede por 30 o 60 minutos de Full Diversión  en ",
+   "Cuponidad",
+   "precio",
+   19.9,
+   28.9,
+   "",
+   "",
+   "Flying Squirrel:  Full Day, 60 o 120 minutos según elijas en Jockey Plaza, San Miguel e Independencia.",
+   "Compra el cupón en Cuponidad",
+   "Cuponidad",
+   {
+    "conf": "of",
+    "ciudad": "AQP"
+   }
+  ],
+  [
+   "Rally Kart:  5, 8 o 15 vueltas según elijas. Válido en sus 6",
+   "Cuponidad",
+   "precio",
+   14.9,
+   39.9,
+   "",
+   "",
+   "RALLY KART: 10, 16 ó 30 vueltas en sus locales de Jockey Plaza, Open Plaza La Marina, Ate,  Bellavista, Mall Plaza Comas Lunes a Viernes",
+   "Rally Kart:  5, 8 o 15 vueltas según elijas. Válido en sus 6 locales · RALLY KART: 10, 16 ó 30 vueltas en sus locales de Jockey Plaza, Open Plaza La Marina, Ate,  Bellavista, Mall ",
+   "Cuponidad",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Buffet Almuerzo Criollo Marino: Casa Andina Select Miraflore",
+   "Cuponidad",
+   "precio",
+   26.9,
+   61.9,
+   "",
+   "",
+   "Buffet Almuerzo Criollo Marino: Casa Andina Select Miraflores en Restaurante La Plaza",
+   "Buffet Almuerzo: Entradas + Ensaladas + Fondos + Postres de Lunes a Domingo",
+   "Cuponidad",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Dragon Rolls",
+   "Cuponidad",
+   "precio",
+   29.9,
+   54.9,
+   "",
+   "",
+   "Barra Libre de Makis + alitas + refresco ILIMITADO ó 01 bebida embotellada (gaseosa o agua mineral) . Elige  cualquiera de sus 8 LOCALES",
+   "Barra Libre de Makis o Alitas: Sabores a elección. De Lunes a Domingo",
+   "Cuponidad",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Caperucita Roja y los 3 cerditos: SETIEMBRE  en el  Centro c",
+   "Cuponidad",
+   "precio",
+   14.9,
+   29.9,
+   "2026-09-26",
+   "2026-10-03",
+   "Electro Showck: La comedia de alto voltaje 11, 12, 18, 19, 25 y 26 de setiembre, 2 y 3 de octubre. Capital Restobar Barranco",
+   "Compra el cupón en Cuponidad",
+   "Cuponidad",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Dragon Rolls",
+   "Cuponidad",
+   "precio",
+   37.0,
+   177.9,
+   "",
+   "",
+   "barranco, breña, chorrillos, jesus maria, la molina, lince, magdalena del mar, miraflores, pueblo libre, san borja, san isidro, san luis, sa",
+   "Delivery · MAKIS:  50 makis a elección + 12 alitas . Consumo en el local, recojo o delivery",
+   "Cuponidad",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Examen Médico para Brevete VILLA EL SALVADOR para auto y mot",
+   "Cuponidad",
+   "precio",
+   89.9,
+   120.0,
+   "",
+   "",
+   "Examen Médico Para Brevete SAN JUAN DE MIRAFLORES para auto y moto",
+   "Compra el cupón en Cuponidad",
+   "Cuponidad",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Excelencia Pollos",
+   "Cuponidad",
+   "precio",
+   16.9,
+   80.9,
+   "",
+   "",
+   "cercado de lima, independencia, jesus maria, la molina, lince, los olivos, magdalena del mar, miraflores, pueblo libre, san borja, san juan ",
+   "Delivery · POLLO A LA LEÑA: 1 pollo + papas fritas + 1 lt. de bebida para CONSUMO EN SALON · POLLO A LA BRASA: 1 Pollo  a la brasa entero + papas fritas + ensalada (SOLO RECOJO)",
+   "Cuponidad",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "El Salto del Fraile",
+   "Cuponidad",
+   "precio",
+   89.9,
+   129.0,
+   "",
+   "",
+   "Parrilla para 2: Parrilla marina para 2 personas + 2 copas de vino blanco, frente al mar",
+   "Compra el cupón en Cuponidad",
+   "Cuponidad",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Lavado de salón profesional: Lavado de asientos, techo, carr",
+   "Cuponidad",
+   "precio",
+   149.0,
+   0,
+   "",
+   "",
+   "Lavado de salón profesional: Lavado de asientos, techo, carrocería y más",
+   "Lavado de salón profesional: Lavado de asientos, techo, carrocería y más",
+   "Cuponidad",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Pulido de faros para auto o camioneta",
+   "Cuponidad",
+   "precio",
+   59.9,
+   0,
+   "",
+   "",
+   "los negocios carwash",
+   "Compra el cupón en Cuponidad",
+   "Cuponidad",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Lavado VIP pata auto o camioneta + Lavado de motor + Encerad",
+   "Cuponidad",
+   "precio",
+   39.9,
+   0,
+   "",
+   "",
+   "Lavado VIP pata auto o camioneta + Lavado de motor + Encerado",
+   "Compra el cupón en Cuponidad",
+   "Cuponidad",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "SAN MATEO DE OTAO: Mirador de la Doncella,  bicicleta volado",
+   "Cuponidad",
+   "precio",
+   85.9,
+   0,
+   "",
+   "",
+   "SAN MATEO DE OTAO: Mirador de la Doncella,  bicicleta voladora,  trekking y más con CEA TRAVEL",
+   "Compra el cupón en Cuponidad",
+   "Cuponidad",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Full day Lunahuaná - Cerro Azul con CEA TRAVEL",
+   "Cuponidad",
+   "precio",
+   69.8,
+   0,
+   "",
+   "",
+   "Ver más detalles",
+   "Compra el cupón en Cuponidad",
+   "Cuponidad",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Full day ANTIOQUIA: Visita a Nieve Nieve,  Camino Inca Qapaq",
+   "Cuponidad",
+   "precio",
+   68.9,
+   0,
+   "",
+   "",
+   "Full day ANTIOQUIA: Visita a Nieve Nieve,  Camino Inca Qapaq Ñan y más con CEA TRAVEL",
+   "Compra el cupón en Cuponidad",
+   "Cuponidad",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Full day CHANCAY - HUARAL  : Ecotruly, Castillo de Chancay y",
+   "Cuponidad",
+   "precio",
+   73.9,
+   0,
+   "",
+   "",
+   "Full day CHANCAY - HUARAL  : Ecotruly, Castillo de Chancay y mucho  más con CEA TRAVEL",
+   "Compra el cupón en Cuponidad",
+   "Cuponidad",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Depilación brasilera completa para damas.",
+   "Cuponidad",
+   "precio",
+   14.9,
+   299.9,
+   "",
+   "",
+   "Tratamiento reductor en 10 visitas, carboxiterapia, drenaje linfático, ultra cavitación y más",
+   "Compra el cupón en Cuponidad",
+   "Cuponidad",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "LR FOCUS",
+   "Cuponidad",
+   "porcentaje",
+   0,
+   0,
+   "",
+   "",
+   "Accede con tu cuenta de LRFOCUS para disfrutar todos los beneficios y contenidos exclusivos.",
+   "Compra el cupón en Cuponidad",
+   "Cuponidad",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Papa Johns",
+   "Web/app de la marca",
+   "precio",
+   35.9,
+   91.8,
+   "",
+   "",
+   "1 pizza grande clásica mas gaseosa de 1LT con 3 rolls de pepperoni",
+   "Miercoles de Signature Familiar · Miercoles de Signature Grande",
+   "Web/app de la marca",
+   {
+    "conf": "of",
+    "canal": "A"
+   }
+  ],
+  [
+   "Papa Johns",
+   "Web/app de la marca",
+   "precio",
+   59.9,
+   183.6,
+   "",
+   "",
+   "2 pizzas grandes clásicas con 1 pizza grande signature y 1 gaseosa 1L",
+   "Promo de la web y app de Papa Johns",
+   "Web/app de la marca",
+   {
+    "conf": "of",
+    "canal": "A"
+   }
+  ],
+  [
+   "Papa Johns",
+   "Web/app de la marca",
+   "precio",
+   7.0,
+   71.7,
+   "",
+   "",
+   "1 Pizza Grande Clásica + 1 Pizza Grande Power Pepperoni + 1 Gaseosa 1 L",
+   "Promo de la web y app de Papa Johns",
+   "Web/app de la marca",
+   {
+    "conf": "of",
+    "canal": "A"
+   }
+  ],
+  [
+   "Papa Johns",
+   "Web/app de la marca",
+   "precio",
+   14.9,
+   15.9,
+   "",
+   "",
+   "1 Pizza mediana clásica con  3 rolls de pepperoni y gaseosa",
+   "Promo de la web y app de Papa Johns",
+   "Web/app de la marca",
+   {
+    "conf": "of",
+    "canal": "A"
+   }
+  ],
+  [
+   "NutriPoint",
+   "Promo del local",
+   "precio",
+   300.0,
+   0,
+   "",
+   "",
+   "🆓 ENVÍO GRATIS POR COMPRAS MAYORES A S/300",
+   "Precio de la tienda NutriPoint",
+   "Promo del local",
+   {
+    "conf": "of",
+    "canal": "A"
+   }
+  ],
+  [
+   "NutriPoint",
+   "Promo del local",
+   "precio",
+   99.0,
+   659.0,
+   "",
+   "",
+   "GOLD STANDARD WHEY 5 LB - OPTIMUM NUTRITION",
+   "Precio de la tienda NutriPoint",
+   "Promo del local",
+   {
+    "conf": "of",
+    "canal": "A"
+   }
+  ],
+  [
+   "Star Perú",
+   "Diners Club",
+   "porcentaje",
+   40,
+   0,
+   "",
+   "",
+   "40% de descuento sobre el valor neto de las siguientes clases según ruta.",
+   "Pagando con Diners Club en starperu.com",
+   "Diners Club",
+   {
+    "conf": "of",
+    "canal": "APP"
+   }
   ]
  ],
- "relampago": [],
- "ver": {},
- "estado": {}
+ "relampago": [
+  {
+   "f": "2026-09-23",
+   "t": "Falabella",
+   "o": "#falabella",
+   "p": 25.8,
+   "r": 0,
+   "n": "O F E R T A · ❗️ · ✔️ · Corrector Studio Fix 24H · a · sólo S/ 25.80 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en · @concuponperu · ⚠️",
+   "u": "https://t.me/concuponperu/19251"
+  },
+  {
+   "f": "2026-09-23",
+   "t": "Falabella",
+   "o": "#falabella",
+   "p": 32.0,
+   "r": 0,
+   "n": "O F E R T A · ❗️ · ✔️ · Bronceador En Crema Hoola Wave · a · sólo S/ 32.00 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en · @concuponper",
+   "u": "https://t.me/concuponperu/19252"
+  },
+  {
+   "f": "2026-09-23",
+   "t": "Falabella",
+   "o": "#falabella",
+   "p": 35.8,
+   "r": 0,
+   "n": "O F E R T A · ❗️ · ✔️ · Base Líquida Studio Fix mac 30ml · a · sólo S/ 35.80 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en · @concuponp",
+   "u": "https://t.me/concuponperu/19253"
+  },
+  {
+   "f": "2026-09-23",
+   "t": "Falabella",
+   "o": "#falabella",
+   "p": 99.9,
+   "r": 0,
+   "n": "O F E R T A · ❗️ · ✔️ · Persiana Horizontal 25mm 250x160cm · a · sólo S/ 99.90 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en · @concupo",
+   "u": "https://t.me/concuponperu/19254"
+  },
+  {
+   "f": "2026-09-23",
+   "t": "Falabella",
+   "o": "#falabella",
+   "p": 129.9,
+   "r": 0,
+   "n": "O F E R T A · ❗️ · ✔️ · Tobogán Resbalón con Aro de Básquet Castillo Scoop · a · sólo S/ 129.90 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Vi",
+   "u": "https://t.me/concuponperu/19255"
+  }
+ ],
+ "ver": {
+  "Tarjeta Caja Arequipa": "2026-09-24",
+  "Cuponatic": "2026-09-24",
+  "Cuponidad": "2026-09-24",
+  "Web/app de la marca": "2026-09-24"
+ },
+ "estado": {
+  "interbank": {
+   "ok": false,
+   "filas": 0,
+   "leido": "",
+   "intento": "2026-09-24T09:24",
+   "error": "could not convert string to float: '28.80.'"
+  },
+  "telegram": {
+   "ok": true,
+   "filas": 5,
+   "leido": "2026-09-24T09:24",
+   "error": ""
+  },
+  "bbva": {
+   "ok": false,
+   "filas": 0,
+   "leido": "",
+   "intento": "2026-09-24T09:24",
+   "error": "No se pudo descargar https://www.bbva.pe/content/dam/public-web/peru/documents/personas/catalogo-promociones/Catalogo-provincias.pdf: 403 Client Error: Forbidden for url: https://www.bbva.pe/content/dam/public-web/peru/documents/personas/catalogo-promociones/Catalogo-provincias.pdf"
+  },
+  "caja_arequipa": {
+   "ok": true,
+   "filas": 9,
+   "leido": "2026-09-24T09:24",
+   "error": ""
+  },
+  "cuponatic": {
+   "ok": true,
+   "filas": 16,
+   "leido": "2026-09-24T09:24",
+   "error": ""
+  },
+  "cuponidad": {
+   "ok": true,
+   "filas": 29,
+   "leido": "2026-09-24T09:24",
+   "error": ""
+  },
+  "papajohns": {
+   "ok": true,
+   "filas": 4,
+   "leido": "2026-09-24T09:24",
+   "error": ""
+  },
+  "nutripoint": {
+   "ok": true,
+   "filas": 2,
+   "leido": "2026-09-24T09:24",
+   "error": ""
+  },
+  "cencosud": {
+   "ok": false,
+   "filas": 0,
+   "leido": "",
+   "intento": "2026-09-24T09:24",
+   "error": "could not convert string to float: '46.80.'"
+  },
+  "starperu": {
+   "ok": true,
+   "filas": 1,
+   "leido": "2026-09-24T09:24",
+   "error": ""
+  }
+ }
 }

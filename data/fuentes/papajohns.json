@@ -1,0 +1,70 @@
+{
+ "id": "papajohns",
+ "leido": "2026-09-24T09:24",
+ "filas": [
+  [
+   "Papa Johns",
+   "Web/app de la marca",
+   "precio",
+   35.9,
+   91.8,
+   "",
+   "",
+   "1 pizza grande clásica mas gaseosa de 1LT con 3 rolls de pepperoni",
+   "Miercoles de Signature Familiar · Miercoles de Signature Grande",
+   "Web/app de la marca",
+   {
+    "conf": "of",
+    "canal": "A"
+   }
+  ],
+  [
+   "Papa Johns",
+   "Web/app de la marca",
+   "precio",
+   59.9,
+   183.6,
+   "",
+   "",
+   "2 pizzas grandes clásicas con 1 pizza grande signature y 1 gaseosa 1L",
+   "Promo de la web y app de Papa Johns",
+   "Web/app de la marca",
+   {
+    "conf": "of",
+    "canal": "A"
+   }
+  ],
+  [
+   "Papa Johns",
+   "Web/app de la marca",
+   "precio",
+   7.0,
+   71.7,
+   "",
+   "",
+   "1 Pizza Grande Clásica + 1 Pizza Grande Power Pepperoni + 1 Gaseosa 1 L",
+   "Promo de la web y app de Papa Johns",
+   "Web/app de la marca",
+   {
+    "conf": "of",
+    "canal": "A"
+   }
+  ],
+  [
+   "Papa Johns",
+   "Web/app de la marca",
+   "precio",
+   14.9,
+   15.9,
+   "",
+   "",
+   "1 Pizza mediana clásica con  3 rolls de pepperoni y gaseosa",
+   "Promo de la web y app de Papa Johns",
+   "Web/app de la marca",
+   {
+    "conf": "of",
+    "canal": "A"
+   }
+  ]
+ ]
+}
