@@ -1,0 +1,94 @@
+name: Refrescar promos
+
+on:
+  schedule:
+    - cron: '17 11 * * *'   # 06:17 en Perú (UTC-5)
+  workflow_dispatch:
+  push:
+    branches: [main, mainbkb]   # la rama por defecto del repo hoy es mainbkb
+    paths: ['data/base.json', 'data/fuentes/**', 'data/logos_bbva.json', 'web/**', 'scripts/**']
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+  issues: write
+  actions: write
+
+concurrency:
+  group: refrescar
+  cancel-in-progress: false
+
+jobs:
+  refrescar:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Leer las fuentes
+        if: github.event_name != 'push'
+        run: python scripts/refrescar.py
+
+      - name: Armar promos.json (freno de seguridad)
+        run: python scripts/build.py
+
+      - name: Reporte
+        run: python scripts/reporte.py
+
+      - name: Guardar datos en el repo
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if ! git diff --cached --quiet; then
+            git commit -m "Promos del $(TZ=America/Lima date +%F)"
+            git pull --rebase origin "$GITHUB_REF_NAME"
+            git push origin "HEAD:$GITHUB_REF_NAME"
+          fi
+
+      - name: Páginas descargadas (para revisar un script que falló)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: paginas-descargadas
+          path: debug/
+          retention-days: 7
+          if-no-files-found: ignore
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - id: deploy
+        uses: actions/deploy-pages@v4
+
+      - name: Mandar el reporte (llega por correo)
+        if: github.event_name != 'push'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          num=$(gh issue list --label reporte --state open --json number -q '.[0].number')
+          if [ -z "$num" ]; then
+            gh label create reporte --color FBCA04 --force
+            url=$(gh issue create --title "Reporte diario de promos" --label reporte \
+              --body "Cada mañana llega aquí un comentario con lo que cambió. GitHub te lo manda por correo.")
+            num=${url##*/}
+          fi
+          gh issue comment "$num" --body-file reporte.md
+
+      - name: Evitar que GitHub apague el cron a los 60 días
+        if: github.event_name == 'schedule'
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api -X PUT "repos/${{ github.repository }}/actions/workflows/refrescar.yml/enable"

@@ -1,0 +1,1230 @@
+<!doctype html><html><head><meta charset=utf8><meta name=viewport content="width=device-width,initial-scale=1"><style>:root{color-scheme:light}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#faf9f5;color:#141413}img{max-width:100%}</style></head><body>
+<title>¿Con qué pago? · Promos de comida, cine, salud, ropa y vuelos</title>
+<style>
+/* Identidad: recibo térmico. Tinta sobre papel de caja, ocre de sello, verde de "pagado".
+   Todo el color pasa por tokens para que el tema oscuro sea el mismo recibo bajo otra luz. */
+:root{--tinta:#191C1F;--gris:#E4E7E9;--gris2:#F1F3F4;--linea:#C9CED2;--papel:#FFFDF8;
+--oro:#D9A21B;--verde:#16624B;--rojo:#A4321F;--ambar:#8A6A0B;--tenue:#5E656A;
+--sup:#FFFFFF;--txt2:#4A5157;--win:#FFFDF4;--neutro:#4A5157;
+--marca:#191C1F;--marcaTxt:#FFFDF8;--sel:#191C1F;--selTxt:#FFFDF8;
+--avisoBg:#FBF0D2;--avisoTxt:#5C4708;--avisoLinea:#E6D296;--r:4px;--display:"Arial Black","Helvetica Neue",Impact,system-ui,sans-serif;--body:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;--mono:ui-monospace,"SF Mono",Menlo,Consolas,monospace}
+@media(prefers-color-scheme:dark){:root:not([data-theme="light"]){
+--tinta:#EDE9E1;--gris:#131618;--gris2:#1B1F22;--linea:#3A4046;--papel:#23272A;
+--oro:#E3B23C;--verde:#5BC79C;--rojo:#E88B75;--ambar:#E3B23C;--tenue:#959DA4;
+--sup:#23272A;--txt2:#C2C8CD;--win:#2C2A20;
+--marca:#0D0F11;--marcaTxt:#EDE9E1;--sel:#E3B23C;--selTxt:#14171A;
+--avisoBg:#2E2718;--avisoTxt:#E7CF92;--avisoLinea:#4A3D1E;--sombra:rgba(0,0,0,.5)}}
+:root[data-theme="dark"]{
+--tinta:#EDE9E1;--gris:#131618;--gris2:#1B1F22;--linea:#3A4046;--papel:#23272A;
+--oro:#E3B23C;--verde:#5BC79C;--rojo:#E88B75;--ambar:#E3B23C;--tenue:#959DA4;
+--sup:#23272A;--txt2:#C2C8CD;--win:#2C2A20;
+--marca:#0D0F11;--marcaTxt:#EDE9E1;--sel:#E3B23C;--selTxt:#14171A;
+--avisoBg:#2E2718;--avisoTxt:#E7CF92;--avisoLinea:#4A3D1E;--sombra:rgba(0,0,0,.5)}
+*{box-sizing:border-box;margin:0;padding:0}
+html{-webkit-text-size-adjust:100%}
+body{font-family:var(--body);background:var(--gris);color:var(--tinta);font-size:15px;line-height:1.45;padding-bottom:70px}
+.mono{font-family:var(--mono);font-variant-numeric:tabular-nums}
+.wrap{max-width:760px;margin:0 auto;padding:0 14px}
+
+header{background:var(--marca);color:var(--marcaTxt);padding:16px 0 0}
+header .top{display:flex;align-items:flex-end;justify-content:space-between;gap:12px}
+h1{font-family:var(--display);font-size:clamp(23px,6.6vw,36px);line-height:.92;letter-spacing:-.02em;text-transform:uppercase}
+h1 em{font-style:normal;color:var(--oro)}
+.sub{font-size:10px;letter-spacing:.12em;text-transform:uppercase;color:#9AA1A6;margin-top:7px}
+.hbtn{background:none;border:1px solid var(--txt2);color:var(--marcaTxt);font:500 11px/1 var(--body);letter-spacing:.09em;text-transform:uppercase;padding:9px 11px;border-radius:var(--r);cursor:pointer;white-space:nowrap;flex-shrink:0}
+.hbtn:hover{border-color:var(--oro);color:var(--oro)}
+.hbtns{display:flex;flex-direction:column;gap:6px}
+.tabs{display:flex;margin-top:14px}
+.tab{flex:1;background:none;border:none;border-bottom:3px solid transparent;color:#9AA1A6;
+  font:600 11.5px/1 var(--body);letter-spacing:.07em;text-transform:uppercase;padding:12px 4px;cursor:pointer}
+.tab[aria-selected="true"]{color:var(--oro);border-bottom-color:var(--oro)}
+
+.aviso{background:var(--avisoBg);border-bottom:1px solid var(--avisoLinea);font-size:12.5px;padding:9px 0;color:var(--avisoTxt)}
+.aviso b{font-weight:600}
+
+.panel{background:var(--gris2);border-bottom:1px solid var(--linea);padding:12px 0 14px}
+.campos{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.campo{display:flex;flex-direction:column;gap:5px}
+.campo.ancho{grid-column:1/-1}
+label{font-size:10px;letter-spacing:.12em;text-transform:uppercase;color:var(--tenue);font-weight:600}
+input,select,textarea{font-family:var(--body);font-size:15px;color:var(--tinta);background:var(--sup);border:1px solid var(--linea);border-radius:var(--r);padding:10px;width:100%}
+input:focus,select:focus,textarea:focus{outline:2px solid var(--oro);outline-offset:-1px;border-color:var(--oro)}
+#monto{font-family:var(--mono);font-size:20px;font-weight:600;padding:7px 10px}
+#busca{padding:10px 12px}
+.chips{display:flex;flex-wrap:wrap;gap:6px;margin-top:4px}
+.chip{font:500 12px/1 var(--body);padding:8px 11px;border-radius:20px;border:1px solid var(--linea);background:var(--sup);color:var(--tenue);cursor:pointer}
+.chip[aria-pressed="true"]{background:var(--sel);color:var(--selTxt);border-color:var(--sel)}
+.geo{display:flex;gap:8px;align-items:center}
+.geo select{flex:1}
+#geoEst{font-size:11.5px;color:var(--tenue);margin-top:4px}
+.solo-local,.solo-expl{display:none}
+body[data-vista="local"] .solo-local{display:flex}
+body[data-vista="explorar"] .solo-expl{display:flex}
+
+/* ── Tira de días: qué promo exclusiva tiene cada día, ordenada por descuento ── */
+.dias-zona{margin-bottom:14px}
+.dias-lab{font-size:10px;letter-spacing:.12em;text-transform:uppercase;color:var(--tenue);font-weight:600;margin-bottom:6px;display:flex;align-items:baseline;gap:8px;flex-wrap:wrap}
+.dias-lab i{font-style:normal;text-transform:none;letter-spacing:0;font-weight:400;font-size:11px}
+.dias-strip{display:grid;grid-template-columns:repeat(auto-fit,minmax(88px,1fr));gap:5px}
+.dia-c{background:var(--papel);border:1px solid var(--linea);border-radius:5px;padding:8px 7px;cursor:pointer;
+  text-align:left;font:inherit;color:inherit;display:flex;flex-direction:column;gap:3px;position:relative;min-width:0}
+.dia-c:hover{border-color:var(--oro)}
+.dia-c[aria-pressed="true"]{border-color:var(--oro);background:var(--win);box-shadow:inset 0 0 0 1px var(--oro)}
+.dia-c b{font-family:var(--display);font-size:11px;text-transform:uppercase;letter-spacing:.06em}
+.dia-c em{font-style:normal;font-family:var(--mono);font-size:14px;font-weight:600;color:var(--verde);line-height:1}
+.dia-c span{font-size:10px;color:var(--tenue);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.dia-c.vacio-d em{color:var(--tenue);font-size:12px}
+.dia-c i{position:absolute;top:6px;right:6px;font-style:normal;font-family:var(--display);font-size:9px;color:var(--oro)}
+.dia-c.hoy-d b::after{content:' · hoy';font-family:var(--body);font-size:8.5px;color:var(--oro);letter-spacing:.04em}
+
+/* ── Ofertas relámpago: duran un día, van aparte y con la fecha bien visible ── */
+.relampago{background:var(--win);border:1px solid var(--oro);border-radius:6px;padding:12px 13px;margin-bottom:14px}
+.relampago-h{display:flex;align-items:baseline;gap:8px;flex-wrap:wrap;margin-bottom:9px}
+.relampago-h b{font-family:var(--display);font-size:11px;text-transform:uppercase;letter-spacing:.1em;color:var(--ambar)}
+.relampago-h i{font-style:normal;font-size:11px;color:var(--tenue)}
+.relampago-h a{margin-left:auto;font-size:11px;color:var(--verde);text-decoration:none;border-bottom:1px solid var(--verde)}
+.rel-lista{display:flex;flex-direction:column;gap:6px}
+.rel{display:flex;align-items:baseline;gap:8px;font-size:12.5px;flex-wrap:wrap}
+.rel b{font-family:var(--display);font-size:11.5px;text-transform:uppercase;min-width:74px}
+.rel span{color:var(--txt2);flex:1;min-width:120px}
+.rel em{font-style:normal;font-family:var(--mono);font-weight:600;font-size:14px;white-space:nowrap}
+.rel small{font-size:10px;color:var(--tenue);width:100%;padding-left:82px}
+@media(max-width:430px){.rel small{padding-left:0}}
+
+/* ── Explorar: rejilla tipo catálogo ── */
+.expl-zona{padding:16px 0 0}
+.resumen{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-bottom:12px;font-size:11.5px;color:var(--tenue)}
+.resumen b{font-family:var(--mono);color:var(--tinta);font-size:13px}
+.rejilla{display:grid;grid-template-columns:repeat(auto-fill,minmax(228px,1fr));gap:10px}
+.pc{background:var(--papel);border:1px solid var(--linea);border-radius:6px;padding:11px 12px 12px;cursor:pointer;text-align:left;font:inherit;color:inherit;display:flex;flex-direction:column;gap:6px;position:relative;overflow:hidden}
+.pc:hover{border-color:var(--oro);box-shadow:0 3px 12px var(--sombra)}
+.pc-top{display:flex;align-items:center;gap:6px}
+.pc-off{font-family:var(--display);font-size:11px;background:#16624B;color:#fff;padding:3px 6px;border-radius:3px;letter-spacing:.02em}
+.pc-off.tibio{background:#8A6A0B}
+.pc-off.plano{background:var(--neutro)}
+.pc-banco{font-size:9.5px;letter-spacing:.09em;text-transform:uppercase;color:var(--tenue);margin-left:auto;text-align:right;font-weight:600}
+.pc-loc{font-family:var(--display);font-size:14.5px;text-transform:uppercase;letter-spacing:.01em;line-height:1.1}
+.pc-det{font-size:12px;color:var(--txt2);line-height:1.35;flex:1}
+.pc-precio{display:flex;align-items:baseline;gap:7px;flex-wrap:wrap}
+.pc-precio b{font-family:var(--mono);font-size:19px;font-weight:600}
+.pc-precio s{font-size:12px;color:var(--tenue)}
+.pc-pie{display:flex;gap:6px;flex-wrap:wrap;align-items:center;font-size:10px;color:var(--tenue);letter-spacing:.03em;border-top:1px dashed var(--linea);padding-top:7px}
+.pc.no-mio{opacity:.62}
+.pc.no-mio::after{content:'no tienes este medio';position:absolute;top:0;right:0;background:var(--gris);color:var(--tenue);font-size:8.5px;letter-spacing:.08em;text-transform:uppercase;padding:2px 6px;border-bottom-left-radius:4px}
+
+.tag{font-size:9.5px;padding:2px 5px;border-radius:3px;letter-spacing:.04em;text-transform:uppercase;font-weight:600;white-space:nowrap}
+/* Las etiquetas llevan color fijo: fondo claro + texto oscuro, legible en ambos temas. */
+.tag.urg{background:#F7E2DE;color:#8C2A19}
+.tag.pronto{background:#FBF0D2;color:#6B5209}
+.tag.ok{background:#E3EDEA;color:#12513E}
+.tag.geo{background:#E3E7F5;color:#33418A}
+.tag.dia{background:#EDE6F5;color:#553B86}
+.tag.rep{background:#DFE3E6;color:#585F65}
+.tag.venc{background:#F1E3E0;color:#8C2A19}
+
+/* ── Ticket ── */
+.tira-zona{padding:20px 0 4px}
+.tira{background:var(--papel);max-width:500px;margin:0 auto;box-shadow:0 1px 0 rgba(0,0,0,.08),0 10px 26px var(--sombra);padding:20px 16px 6px;position:relative}
+.tira::before,.tira::after{content:'';position:absolute;left:0;right:0;height:10px;
+  background:linear-gradient(-45deg,var(--gris) 6px,var(--papel) 0) 0 6px,linear-gradient(45deg,var(--gris) 6px,var(--papel) 0) 0 6px;
+  background-size:12px 12px;background-repeat:repeat-x}
+.tira::before{top:-10px;transform:scaleY(-1)}
+.tira::after{bottom:-10px}
+.tira-head{text-align:center;border-bottom:1px dashed var(--linea);padding-bottom:12px}
+.tira-head .t{font-family:var(--display);text-transform:uppercase;font-size:14px;letter-spacing:.05em}
+.tira-head .m{font-size:11px;color:var(--tenue);letter-spacing:.06em;margin-top:3px}
+.vacio{text-align:center;padding:30px 10px;color:var(--tenue);font-size:13.5px}
+.tira-pie{text-align:center;font-size:10.5px;color:var(--tenue);letter-spacing:.08em;padding:14px 0 16px;text-transform:uppercase}
+
+.grupo{padding:14px 0 12px;border-bottom:1px dashed var(--linea)}
+.grupo:last-of-type{border-bottom:none}
+.grupo.gana{background:linear-gradient(90deg,rgba(217,162,27,.13),rgba(217,162,27,0));margin:0 -16px;padding:14px 16px 12px}
+.g-top{display:flex;align-items:flex-start;gap:8px}
+.pos{font-family:var(--display);font-size:13px;color:var(--oro);min-width:20px;padding-top:2px}
+.g-nom{font-family:var(--display);font-size:15px;text-transform:uppercase;letter-spacing:.02em}
+.g-nom a{color:inherit;text-decoration:none;border-bottom:1px solid var(--oro)}
+.g-sub{font-size:11.5px;color:var(--tenue);margin-top:2px}
+.g-max{margin-left:auto;text-align:right;flex-shrink:0}
+.g-max span{font-size:9px;letter-spacing:.13em;text-transform:uppercase;color:var(--tenue);display:block}
+.g-max b{font-family:var(--mono);font-size:19px;color:var(--verde)}
+.ops{margin-top:9px;display:flex;flex-direction:column;gap:5px}
+.op{display:flex;align-items:baseline;gap:7px;font-size:12.5px;padding:7px 8px;border:1px solid var(--gris2);border-radius:var(--r);flex-wrap:wrap;cursor:pointer;text-align:left;width:100%;background:none;font-family:inherit;color:inherit}
+.op:hover{border-color:var(--linea);background:var(--sup)}
+.op .med{font-weight:600;font-size:10.5px;text-transform:uppercase;letter-spacing:.03em;white-space:nowrap;color:var(--txt2)}
+.op .det{color:var(--tenue);flex:1;min-width:110px}
+.op .pre{font-family:var(--mono);font-weight:600;font-size:15px;white-space:nowrap;margin-left:auto}
+.op .reg{font-size:11px;color:var(--tenue);text-decoration:line-through;white-space:nowrap}
+.op.win{border-color:var(--oro);background:var(--win)}
+.op.win .med{color:var(--ambar)}
+.op.off{opacity:.55;border-style:dashed;cursor:default}
+.op.off .pre{font-size:11.5px;color:var(--tenue);font-family:var(--body);font-weight:500}
+.g-nota{font-size:11px;color:var(--rojo);margin-top:6px}
+.excl{font-size:10px;letter-spacing:.06em;text-transform:uppercase;color:var(--verde);font-weight:600}
+
+h2{font-family:var(--display);font-size:12px;letter-spacing:.14em;text-transform:uppercase;margin:26px 0 10px;display:flex;align-items:center;gap:8px}
+.card{background:var(--sup);border:1px solid var(--linea);border-radius:var(--r);padding:14px}
+.btn{font:600 13px/1 var(--body);padding:12px 14px;border-radius:var(--r);border:1px solid var(--sel);background:var(--sel);color:var(--selTxt);cursor:pointer}
+.btn.sec{background:var(--sup);color:var(--tinta);border-color:var(--linea)}
+.btn.mini{font-size:11px;padding:7px 9px}
+.btn:disabled{opacity:.5;cursor:wait}
+.btns{display:flex;flex-wrap:wrap;gap:8px;margin-top:10px}
+.lista{list-style:none;max-height:340px;overflow:auto}
+.item{display:flex;gap:10px;align-items:flex-start;padding:11px 0;border-bottom:1px solid var(--gris2)}
+.item:last-child{border:none}
+.item .txt{flex:1;min-width:0}
+.item .n{font-weight:600;font-size:13.5px}
+.item .d{font-size:11.5px;color:var(--tenue);margin-top:2px}
+.item .x{background:none;border:none;color:var(--tenue);font-size:19px;cursor:pointer;padding:0 4px;line-height:1}
+.item .x:hover{color:var(--rojo)}
+
+.fuente{display:flex;justify-content:space-between;gap:10px;align-items:center;padding:10px 0;border-bottom:1px solid var(--gris2)}
+.fuente:last-of-type{border:none}
+.fuente .fn{font-size:13.5px;font-weight:600}
+.fuente .fv{font-size:11px;color:var(--tenue);margin-top:1px}
+.fuente a{color:var(--verde);text-decoration:none;font-size:12px;white-space:nowrap;border:1px solid var(--linea);padding:6px 9px;border-radius:var(--r)}
+.fuente a:hover{border-color:var(--verde)}
+.punto{display:inline-block;width:7px;height:7px;border-radius:50%;margin-right:5px;vertical-align:middle}
+.punto.v{background:var(--verde)}.punto.a{background:var(--oro)}.punto.r{background:var(--rojo)}
+
+/* Calendario de tarifa aérea · colores fijos, legibles en ambos temas */
+.meses{display:grid;grid-template-columns:repeat(auto-fit,minmax(50px,1fr));gap:4px;margin-bottom:12px}
+.mes{text-align:center;padding:8px 2px;border-radius:3px;font:600 11px/1.2 var(--body);letter-spacing:.03em}
+.mes.bajo{background:#E3EDEA;color:#12513E}
+.mes.medio{background:#E8EBED;color:#585F65}
+.mes.alto{background:#F7E2DE;color:#8C2A19}
+.mes span{display:block;font-size:8.5px;font-weight:500;opacity:.8;margin-top:3px;text-transform:uppercase;letter-spacing:.06em}
+.mes.ahora{outline:2px solid var(--oro);outline-offset:1px}
+.tips{list-style:none;display:flex;flex-direction:column;gap:7px}
+.tips li{font-size:12.5px;color:var(--txt2);padding-left:14px;position:relative;line-height:1.4}
+.tips li::before{content:'·';position:absolute;left:3px;color:var(--oro);font-weight:700}
+.tips b{color:var(--tinta);font-weight:600}
+
+dialog{border:none;border-radius:8px;padding:0;max-width:520px;width:calc(100% - 24px);background:var(--gris2)}
+dialog::backdrop{background:rgba(25,28,31,.55)}
+.dlg-h{background:var(--marca);color:var(--marcaTxt);padding:14px 16px;display:flex;justify-content:space-between;align-items:center;gap:10px}
+.dlg-h b{font-family:var(--display);font-size:12px;letter-spacing:.13em;text-transform:uppercase}
+.dlg-b{padding:16px;max-height:74vh;overflow:auto}
+.est{font-size:12px;padding:8px 10px;border-radius:var(--r);margin-top:8px;display:none}
+.est.on{display:block}
+.est.err{background:#F7E2DE;color:#8C2A19}
+.est.ok{background:#E3EDEA;color:#12513E}
+.est.trab{background:var(--sup);color:var(--tenue)}
+.hint{font-size:11.5px;color:var(--tenue);margin-top:6px}
+
+/* ── Ficha de promo ── */
+.ficha-hero{background:var(--papel);padding:16px;border-bottom:1px solid var(--linea)}
+.ficha-loc{font-family:var(--display);font-size:20px;text-transform:uppercase;line-height:1.05}
+.ficha-det{font-size:14px;margin-top:6px;color:var(--txt2)}
+.ficha-nums{display:flex;align-items:baseline;gap:10px;margin-top:12px;flex-wrap:wrap}
+.ficha-nums .p{font-family:var(--mono);font-size:30px;font-weight:600;line-height:1}
+.ficha-nums .r{font-size:14px;color:var(--tenue);text-decoration:line-through}
+.ficha-nums .a{margin-left:auto;text-align:right;font-size:10px;letter-spacing:.1em;text-transform:uppercase;color:var(--tenue)}
+.ficha-nums .a b{display:block;font-family:var(--mono);font-size:18px;color:var(--verde);letter-spacing:0}
+.ficha-tags{display:flex;gap:5px;flex-wrap:wrap;margin-top:11px}
+dl.datos{display:grid;grid-template-columns:auto 1fr;gap:0}
+dl.datos dt{font-size:10px;letter-spacing:.1em;text-transform:uppercase;color:var(--tenue);font-weight:600;padding:9px 12px 9px 0;border-bottom:1px solid var(--gris2);white-space:nowrap}
+dl.datos dd{font-size:13px;padding:9px 0;border-bottom:1px solid var(--gris2)}
+dl.datos dd:last-of-type,dl.datos dt:last-of-type{border-bottom:none}
+
+@media(max-width:430px){.campos{grid-template-columns:1fr}.rejilla{grid-template-columns:1fr}}
+@media(prefers-reduced-motion:no-preference){.tira{animation:sube .35s ease-out}@keyframes sube{from{opacity:0;transform:translateY(10px)}}}
+</style>
+
+<header>
+  <div class="wrap">
+    <div class="top">
+      <div>
+        <h1>¿Con qué<br><em>pago?</em></h1>
+        <div class="sub" id="subHead">Comida · Cine · Salud · Ropa · Vuelos — bancos, Yape, Sip, Plin, delivery, operadores y cuponeras</div>
+      </div>
+      <div class="hbtns">
+        <button class="hbtn" id="btnMet">Mis medios</button>
+      </div>
+    </div>
+    <div class="tabs" role="tablist">
+      <button class="tab" role="tab" data-vista="explorar" aria-selected="true">Explorar</button>
+      <button class="tab" role="tab" data-vista="local" aria-selected="false">Por local</button>
+      <button class="tab" role="tab" data-vista="banco" aria-selected="false">Por programa</button>
+    </div>
+  </div>
+</header>
+
+<div class="aviso"><div class="wrap" id="avisoTxt">—</div></div>
+
+<div class="panel">
+  <div class="wrap">
+    <div class="campos">
+      <div class="campo ancho solo-expl" style="display:none">
+        <label for="busca">Buscar local, plato o plan</label>
+        <input id="busca" type="search" placeholder="pizza, pollo, cine, Bembos…" autocomplete="off">
+      </div>
+      <div class="campo">
+        <label for="monto">Gasto S/ (para promos de %)</label>
+        <input id="monto" type="number" inputmode="decimal" min="0" step="0.5" value="60">
+      </div>
+      <div class="campo">
+        <label for="dia">Día</label>
+        <select id="dia"></select>
+      </div>
+      <div class="campo">
+        <label for="estado">Mostrar</label>
+        <select id="estado">
+          <option value="vig" selected>Solo vigentes hoy</option>
+          <option value="vigconf">Vigentes + por confirmar</option>
+          <option value="todo">Todas</option>
+        </select>
+      </div>
+      <div class="campo">
+        <label for="ciudad">Ciudad</label>
+        <select id="ciudad"></select>
+        <label style="display:flex;gap:6px;align-items:center;text-transform:none;letter-spacing:0;font-size:11.5px;font-weight:400;color:var(--tinta);margin-top:2px">
+          <input type="checkbox" id="soloLocal" style="width:auto"> Solo lo de esta ciudad
+        </label>
+      </div>
+      <div class="campo ancho solo-expl" style="display:none">
+        <label for="ordenE">Ordenar por</label>
+        <select id="ordenE">
+          <option value="pct">Mayor % de descuento</option>
+          <option value="ahorro">Mayor ahorro en S/</option>
+          <option value="precio">Precio más bajo</option>
+          <option value="vence">Vence pronto</option>
+          <option value="local">Local (A–Z)</option>
+        </select>
+      </div>
+      <div class="campo ancho solo-local" style="display:none">
+        <label for="orden">Ordenar locales por</label>
+        <select id="orden"><option value="ahorro">Mayor ahorro</option><option value="dist">Más cerca</option></select>
+      </div>
+      <div class="campo ancho solo-local" style="display:none;flex-direction:column">
+        <label>Mi ubicación (para distancias)</label>
+        <div class="geo">
+          <button class="btn sec mini" id="btnGeo">📍 Usar GPS</button>
+          <select id="zona"></select>
+        </div>
+        <div id="geoEst"></div>
+      </div>
+      <div class="campo ancho">
+        <label>Qué estás buscando</label>
+        <div class="chips" id="rubros"></div>
+      </div>
+      <div class="campo ancho">
+        <label>Categoría</label>
+        <div class="chips" id="cats"></div>
+      </div>
+      <div class="campo ancho">
+        <label>De dónde sale el descuento</label>
+        <div class="chips" id="tipos"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="wrap expl-zona" id="zonaExplorar">
+  <div id="zonaRelampago"></div>
+  <div class="dias-zona">
+    <div class="dias-lab">Promos que solo existen un día <i id="diasNota"></i></div>
+    <div class="dias-strip" id="diasStrip"></div>
+  </div>
+  <div class="resumen" id="resumen"></div>
+  <div class="rejilla" id="rejilla"></div>
+</div>
+
+<div class="tira-zona" id="zonaTicket" style="display:none"><div class="wrap">
+  <div class="tira">
+    <div class="tira-head">
+      <div class="t" id="ticketT">Versus por local</div>
+      <div class="m mono" id="ticketMeta">—</div>
+    </div>
+    <div id="resultados"></div>
+    <div class="tira-pie">Precios referenciales · no es un comprobante</div>
+  </div>
+</div></div>
+
+<div class="wrap">
+  <h2>Frescura de las fuentes</h2>
+  <div class="card" id="fuentesBox"></div>
+  <p class="hint" style="padding:0 2px" id="datosHint">Cada mañana (6:17 a. m., hora de Perú) un script gratuito lee las páginas oficiales y copia los precios tal como aparecen. Las fuentes sin script se mantienen a mano en <b>data/base.json</b>.</p>
+
+  <h2>Cuándo vuela barato</h2>
+  <div class="card" id="tempBox"></div>
+  <p class="hint" style="padding:0 2px">Esto no es una promo: es el patrón de precios del año. Sirve para elegir <b>cuándo</b> comprar, no <b>con qué</b> pagar.</p>
+
+  <h2>Cuentas que avisan primero</h2>
+  <div class="card" id="redesBox"></div>
+  <p class="hint" style="padding:0 2px">Estas cuentas suelen publicar la promo antes que la web del banco, y a veces son la única forma de enterarse de un código. <b>No son fuentes oficiales:</b> antes de ir al local, confirma el precio y la vigencia en la página del programa.</p>
+
+  <h2>Catálogo (<span id="nPromos">0</span> promos)</h2>
+  <div class="card">
+    <div id="listaPromos"></div>
+    <div class="btns">
+      <button class="btn" id="btnNueva">Agregar a mano</button>
+      <button class="btn sec mini" id="btnExport">Exportar</button>
+      <button class="btn sec mini" id="btnImport">Importar</button>
+      <button class="btn sec mini" id="btnSeed">Restaurar catálogo base</button>
+    </div>
+  </div>
+</div>
+
+<dialog id="dlgMet">
+  <div class="dlg-h"><b>Medios que tengo</b><button class="hbtn" data-cerrar>Listo</button></div>
+  <div class="dlg-b"><p class="hint" style="margin-bottom:10px">Las promos de medios que no marques se muestran en gris, no desaparecen.</p><div class="chips" id="metChips"></div></div>
+</dialog>
+
+<dialog id="dlgFicha">
+  <div class="dlg-h"><b>Detalle de la promo</b><button class="hbtn" data-cerrar>Cerrar</button></div>
+  <div id="fichaBody"></div>
+</dialog>
+
+<dialog id="dlgPromo">
+  <div class="dlg-h"><b id="dlgPromoT">Nueva promo</b><button class="hbtn" data-cerrar>Cerrar</button></div>
+  <div class="dlg-b">
+    <div class="campos">
+      <div class="campo ancho"><label for="pLocal">Local</label><input id="pLocal" list="dlLoc"><datalist id="dlLoc"></datalist></div>
+      <div class="campo"><label for="pCat">Categoría</label><input id="pCat" list="dlCat"><datalist id="dlCat"></datalist></div>
+      <div class="campo"><label for="pCiudad">Alcance</label><select id="pCiudad"></select></div>
+      <div class="campo ancho"><label>Medios de pago que aplican</label><div class="chips" id="pMets"></div></div>
+      <div class="campo"><label for="pTipo">Tipo</label><select id="pTipo">
+        <option value="precio">Combo a precio fijo</option><option value="porcentaje">% de descuento</option>
+        <option value="monto">Descuento fijo S/</option><option value="2x1">2x1</option><option value="cashback">Cashback %</option>
+        <option value="variable">Variable / según campaña</option></select></div>
+      <div class="campo"><label for="pValor">Valor (precio o %)</label><input id="pValor" type="number" step="0.1" value="0"></div>
+      <div class="campo"><label for="pReg">Precio regular S/</label><input id="pReg" type="number" step="0.1" value="0"></div>
+      <div class="campo"><label for="pTope">Tope S/ (0 = sin tope)</label><input id="pTope" type="number" step="0.5" value="0"></div>
+      <div class="campo"><label for="pMin">Consumo mínimo S/</label><input id="pMin" type="number" step="0.5" value="0"></div>
+      <div class="campo"><label for="pCanal">Canal</label><select id="pCanal"></select></div>
+      <div class="campo"><label for="pMax">Máx. por usuario/día (0 = s/d)</label><input id="pMax" type="number" step="1" value="0"></div>
+      <div class="campo"><label for="pStock">Stock de la campaña (0 = s/d)</label><input id="pStock" type="number" step="1" value="0"></div>
+      <div class="campo ancho"><label for="pDet">Qué incluye</label><input id="pDet"></div>
+      <div class="campo ancho"><label>Días válidos (nada = todos)</label><div class="chips" id="pDias"></div></div>
+      <div class="campo"><label for="pDesde">Desde</label><input id="pDesde" type="date"></div>
+      <div class="campo"><label for="pVence">Vence</label><input id="pVence" type="date"></div>
+      <div class="campo ancho"><label for="pHora">Horario (vacío = todo el día)</label><input id="pHora" placeholder="Ej: desde 6:00 p.m."></div>
+      <div class="campo ancho"><label for="pComo">Cómo se canjea</label><input id="pComo" placeholder="Ej: escanea el QR Plin en el POS"></div>
+      <div class="campo ancho"><label for="pNota">Nota / restricciones</label><input id="pNota"></div>
+      <div class="campo ancho"><label for="pUrl">Link de la fuente</label><input id="pUrl" type="url" placeholder="https://..."></div>
+    </div>
+    <div class="btns"><button class="btn" id="btnGuardar">Guardar promo</button></div>
+  </div>
+</dialog>
+
+<dialog id="dlgJson">
+  <div class="dlg-h"><b id="dlgJsonT">JSON</b><button class="hbtn" data-cerrar>Cerrar</button></div>
+  <div class="dlg-b">
+    <textarea id="txtJson" rows="10" class="mono" style="font-size:12px"></textarea>
+    <div class="btns"><button class="btn" id="btnCargarJson">Reemplazar catálogo</button></div>
+    <div class="est" id="estJson"></div>
+  </div>
+</dialog>
+
+<script>
+const DIAS=['Dom','Lun','Mar','Mié','Jue','Vie','Sáb'];
+const LUNVIE=[1,2,3,4,5];
+const MEDIOS=['Yape','Billetera Sip','Plin BBVA','Plin Interbank','Plin Scotiabank','Tarjeta BBVA','Tarjeta Interbank',
+ 'Tarjeta BCP','Cuenta sueldo BCP','Tarjeta Scotiabank','Cuenta sueldo Falabella','Tarjeta CMR Falabella','Diners Club',
+ 'App Rappi','Rappi Pro','App PedidosYa','PedidosYa Plus','App DiDi Food',
+ 'App Tambo+','App OXXO','Claro Club','Club Movistar','Entel Black Power','Club El Comercio',
+ 'Tarjeta American Express','Tarjeta Santander','Tarjeta Oh!','Tarjeta Cencosud','Tarjeta Única','Tarjeta Caja Arequipa',
+ 'Web/app de la marca','App Falabella','Promo del local','Cuponidad','Cuponatic','Código promocional'];
+/* Un descuento de comida no siempre sale de un banco: también de la app de delivery,
+   del club del operador, de una suscripción o de la propia marca. TIPOS agrupa esas vías. */
+const TIPOS=['Banco','Billetera','App de delivery','Operador','Suscripción','Cuponera','Tienda','Marca'];
+const PLIN=['Plin BBVA','Plin Interbank','Plin Scotiabank'];
+const CATS=['Hamburguesa','Pizza','Pollo frito','Pollo a la brasa','Chifa','Sushi','Sándwich','Carnes y parrilla',
+ 'Criolla','Gourmet','Restobar','Café y dulces','Helados','Saludable','Buffet','Delivery','Tienda','Varios',
+ 'Cine','Parques y juegos','Shows y circo','Paseos',
+ 'Botica y medicinas','Proteínas y creatina','Vitaminas','Piel y belleza','Belleza y bienestar',
+ 'Ropa y vestuario','Calzado','Joyas y accesorios','Deportivo',
+ 'Vuelos','Combustible','Transporte','Hospedaje'];
+/* Rubro: la app empezó siendo solo comida, ahora también hay planes, salud y ropa.
+   Se separan para que el filtro de categorías no mezcle pollo a la brasa con creatina. */
+const RUBROS=['Comida','Entretenimiento','Salud','Ropa','Viajes y servicios'];
+const CATS_ENT=['Cine','Parques y juegos','Shows y circo','Paseos'];
+const CATS_SALUD=['Botica y medicinas','Proteínas y creatina','Vitaminas','Piel y belleza','Belleza y bienestar'];
+const CATS_ROPA=['Ropa y vestuario','Calzado','Joyas y accesorios','Deportivo'];
+const CATS_SERV=['Vuelos','Combustible','Transporte','Hospedaje'];
+const rubroDeCat=c=>CATS_ENT.includes(c)?'Entretenimiento'
+  :CATS_SALUD.includes(c)?'Salud':CATS_ROPA.includes(c)?'Ropa'
+  :CATS_SERV.includes(c)?'Viajes y servicios':'Comida';
+
+/* Calendario de tarifa aérea: no es una promo, es cuándo conviene comprar.
+   Clasificado por precio de pasaje, no por clima ni por afluencia turística. */
+const MESES=[['Ene','medio'],['Feb','bajo'],['Mar','bajo'],['Abr','medio'],['May','medio'],['Jun','bajo'],
+ ['Jul','alto'],['Ago','medio'],['Sep','bajo'],['Oct','medio'],['Nov','medio'],['Dic','alto']];
+const TIPS_VIAJE=[
+ 'Los meses de menor demanda son <b>febrero, marzo, junio y setiembre</b>. Junio es el más barato para vuelos al extranjero.',
+ '<b>Julio y diciembre son los más caros</b>: coinciden con vacaciones escolares y fiestas.',
+ 'Vuelos nacionales: compra <b>entre 1 y 3 meses antes</b>. Internacionales: al menos 3 meses.',
+ 'La temporada baja de turismo va de <b>noviembre a marzo</b> — bajan hoteles y tours, pero en Cusco es época de lluvias.',
+ 'Vuelos con escala, horarios de madrugada y aeropuertos alternativos bajan bastante el precio final.'
+];
+const CIUDADES=[['','Todo el Perú'],['Lima','Lima'],['AQP','Arequipa'],['Cusco','Cusco'],['Otras','Otras ciudades']];
+const CANALES=[['S','Salón y llevar'],['D','Solo delivery'],['A','Salón, llevar y delivery'],['APP','En la app / web']];
+const K_PROMOS='promos:catalogo:v10',K_MET='config:medios',K_LOC='config:ubicacion',K_VER='config:verificado',K_DATOS='config:datos';
+
+const PROGRAMAS={
+ 'Billetera Sip':{nom:'Billetera Sip',tipo:'Billetera',url:'https://elcomercio.pe/economia/peru/sip-la-billetera-digital-que-te-devuelve-el-dinero-por-tus-compras-como-funciona-l-ultimas-noticia/',via:'App Sip (grupo Intercorp) — nació el 6 de abril de 2026',ver:'2026-07-29'},
+ 'Yape':{nom:'Yape (BCP)',tipo:'Billetera',url:'https://www.yape.com.pe/productos/yape-promos',via:'Cupón en la sección Promos de la app Yape',ver:'2026-07-24'},
+ 'Plin BBVA':{nom:'BBVA',tipo:'Banco',url:'https://www.bbva.pe/personas/servicios-digitales/plin/descuentos.html',via:'QR Plin en POS físico · app BBVA',ver:'2026-07-24'},
+ 'Tarjeta BBVA':{nom:'BBVA',tipo:'Banco',url:'https://www.bbva.pe/content/dam/public-web/peru/documents/personas/catalogo-promociones/Catalogo-provincias.pdf',via:'Tarjeta de crédito o débito BBVA · catálogo de provincias en PDF',ver:'2026-07-31'},
+ 'Tarjeta Caja Arequipa':{nom:'Caja Arequipa',tipo:'Banco',url:'https://www.cajaarequipa.pe/programa-de-beneficios/',via:'Tarjeta de débito VISA de Caja Arequipa',ver:'2026-07-31'},
+ 'Plin Interbank':{nom:'Interbank',tipo:'Banco',url:'https://interbank.pe/promociones/descuentos/plinpromos',via:'QR Plin en POS físico · app Interbank',ver:'2026-07-24'},
+ 'Tarjeta Interbank':{nom:'Interbank',tipo:'Banco',url:'https://interbank.pe/promociones/descuentos/rappi',via:'Tarjeta Interbank / Apple-Google Pay',ver:'2026-07-29'},
+ 'Plin Scotiabank':{nom:'Scotiabank',tipo:'Banco',url:'https://www.scotiabank.com.pe/Personas/beneficios/promociones',via:'QR Plin en POS físico · app Scotiabank',ver:'2026-07-24'},
+ 'Tarjeta Scotiabank':{nom:'Scotiabank',tipo:'Banco',url:'https://www.scotiabank.com.pe/Personas/beneficios/promociones',via:'Tarjeta Scotiabank',ver:'2026-07-24'},
+ 'Tarjeta BCP':{nom:'BCP',tipo:'Banco',url:'https://www.viabcp.com/beneficios',via:'Tarjeta de crédito BCP',ver:'2026-07-24'},
+ 'Cuenta sueldo BCP':{nom:'BCP',tipo:'Banco',url:'https://www.viabcp.com/beneficios',via:'Requiere cuenta sueldo BCP activa',ver:'2026-07-24'},
+ 'Cuenta sueldo Falabella':{nom:'Banco Falabella',tipo:'Banco',url:'https://www.bancofalabella.pe/promociones',via:'Requiere sueldo abonado el mes anterior',ver:'2026-07-24'},
+ 'Tarjeta CMR Falabella':{nom:'Banco Falabella',tipo:'Banco',url:'https://www.bancofalabella.pe/promociones',via:'Tarjeta CMR / débito Falabella',ver:'2026-07-24'},
+ 'Diners Club':{nom:'Diners Club',tipo:'Banco',url:'https://dinersclub.pe/promociones',via:'Tarjeta Diners Club',ver:'2026-07-24'},
+ 'App Rappi':{nom:'Rappi',tipo:'App de delivery',url:'https://www.rappi.com.pe/',via:'Promos dentro de la app Rappi',ver:'2026-07-29'},
+ 'Rappi Pro':{nom:'Rappi Pro',tipo:'App de delivery',url:'https://www.rappi.com.pe/',via:'Suscripción Rappi Pro (antes Prime)',ver:'2026-07-29'},
+ 'App PedidosYa':{nom:'PedidosYa',tipo:'App de delivery',url:'https://www.pedidosya.com.pe/promociones',via:'Promos dentro de la app PedidosYa',ver:'2026-07-29'},
+ 'PedidosYa Plus':{nom:'PedidosYa Plus',tipo:'App de delivery',url:'https://www.pedidosya.com.pe/promociones',via:'Suscripción PedidosYa Plus',ver:'2026-07-29'},
+ 'App DiDi Food':{nom:'DiDi Food',tipo:'App de delivery',url:'https://www.didi-food.com/es-PE/',via:'Cupones dentro de la app DiDi',ver:'2026-07-29'},
+ 'App Tambo+':{nom:'Tambo+',tipo:'Tienda',url:'https://www.tambo.pe/',via:'Cupón en la web o app de Tambo+',ver:'2026-07-29'},
+ 'App OXXO':{nom:'OXXO',tipo:'Tienda',url:'https://oxxo.pe/',via:'Cupones en la app Spin Premia',ver:'2026-07-29'},
+ 'Claro Club':{nom:'Claro Club',tipo:'Operador',url:'https://www.claro.com.pe/personas/beneficios/claro-club/',via:'Canjea el cupón en la app Claro Club',ver:'2026-07-29'},
+ 'Club Movistar':{nom:'Club Movistar',tipo:'Operador',url:'https://www.movistar.com.pe/club-movistar',via:'App Mi Movistar → Beneficios, con tu DNI',ver:'2026-07-29'},
+ 'Entel Black Power':{nom:'Entel Black Power',tipo:'Operador',url:'https://www.entel.pe/beneficios',via:'App Mi Entel → Beneficios',ver:'2026-07-29'},
+ 'Club El Comercio':{nom:'Club El Comercio',tipo:'Suscripción',url:'https://clubelcomercio.pe/',via:'Presenta tu DNI de suscriptor en el local',ver:'2026-07-29'},
+ 'Web/app de la marca':{nom:'Web o app de la marca',tipo:'Marca',url:'https://www.papajohns.com.pe/menu/promociones',via:'Pide directo en la web o app del restaurante',ver:'2026-07-29'},
+ 'Cuponidad':{nom:'Cuponidad',tipo:'Cuponera',url:'https://cuponidad.pe/',via:'Compra el cupón en Cuponidad y canjéalo en el local',ver:'2026-07-29'},
+ 'Cuponatic':{nom:'Cuponatic',tipo:'Cuponera',url:'https://www.cuponatic.com.pe/',via:'Compra el cupón en Cuponatic y canjéalo en el local',ver:'2026-07-29'},
+ 'Tarjeta American Express':{nom:'American Express',tipo:'Banco',url:'https://www.americanexpress.com/es-pe/network/beneficios/',via:'Tarjeta American Express emitida por Interbank o BCP',ver:'2026-07-29'},
+ 'Tarjeta Santander':{nom:'Santander Consumer',tipo:'Banco',url:'https://www.santanderconsumer.com.pe/personas/promocion/coney-park',via:'Tarjeta Santander Consumer',ver:'2026-07-29'},
+ 'Promo del local':{nom:'Promo del propio local',tipo:'Marca',url:'',via:'No necesitas medio de pago especial: la promo es del local',ver:'2026-07-29'},
+ 'Tarjeta Oh!':{nom:'Tarjeta Oh!',tipo:'Banco',url:'https://www.beneficios.tarjetaoh.pe/ohfarmas/',via:'Tarjeta Oh! — la de Inkafarma, Mifarma y Oechsle',ver:'2026-07-29'},
+ 'Tarjeta Cencosud':{nom:'Tarjeta Cencosud',tipo:'Banco',url:'https://www.tarjetacencosud.pe/promotion/boticas-y-salud/',via:'Tarjeta Cencosud · pide el descuento en caja',ver:'2026-07-29'},
+ 'Tarjeta Única':{nom:'Tarjeta Única',tipo:'Banco',url:'https://www.picodi.com/pe/topitop',via:'Tarjeta de crédito Única, la de Topitop',ver:'2026-07-29'},
+ 'App Falabella':{nom:'App Falabella',tipo:'Marca',url:'https://www.falabella.com.pe/falabella-pe/collection/descuentos-cmr',via:'Descuento exclusivo comprando desde la app Falabella',ver:'2026-07-29'},
+ 'Código promocional':{nom:'Código promocional',tipo:'Cuponera',url:'https://www.cuponesperu.com.pe/tienda/falabella-peru/',via:'Pega el código al pagar — los publican cuentas como @concupon',ver:'2026-07-29'}
+};
+
+/* Cuentas de terceros que avisan de promos nuevas antes que las webs oficiales.
+   No son fuentes oficiales: lo que publican hay que confirmarlo en el banco o la marca. */
+/* Ofertas relámpago del canal de Telegram de Concupón. Duran un día o menos,
+   así que van aparte del catálogo y se caen solas al vencer.
+   El agente diario reescribe esta lista cada mañana. */
+const RELAMPAGO_FUENTE='https://t.me/s/concuponperu';
+let RELAMPAGO=[];
+
+const REDES=[
+ {nom:'@concuponperu',red:'Instagram',det:'≈328 mil seguidores · descuentos, datazos y ofertas en todo el Perú',url:'https://www.instagram.com/concuponperu/'},
+ {nom:'@concupon',red:'TikTok',det:'+1 millón de seguidores · avisa remates de Falabella, Ripley y tiendas de ropa',url:'https://www.tiktok.com/@concupon'},
+ {nom:'@concupon.pe',red:'Instagram',det:'La misma casa que @concupon · códigos y cupones del día',url:'https://www.instagram.com/concupon.pe/'},
+ {nom:'CONCUPON Perú',red:'Telegram',det:'+150 mil · el canal donde caen los códigos primero',url:'https://t.me/s/concuponperu'},
+ {nom:'@cuponidadperu',red:'Instagram',det:'≈42 mil seguidores · cupones de cine, buffets, juegos y viajes',url:'https://www.instagram.com/cuponidadperu/'},
+ {nom:'#promociones',red:'TikTok',det:'Hashtag general: lo que se está publicando ahora mismo',url:'https://www.tiktok.com/tag/promociones'},
+ {nom:'Cupón Perú',red:'TikTok',det:'Página de descubrimiento con códigos de Rappi, PedidosYa y Wong',url:'https://www.tiktok.com/discover/cup%C3%B3n-per%C3%BA'}
+];
+
+/* cat = categoría · sedes = solo donde están confirmadas (si va vacío, no se calcula distancia) */
+const LOCALES={
+ 'Bembos':{cat:'Hamburguesa',sedes:[['Mall Plaza Cayma',-16.3778,-71.5486],['Mall Aventura Porongoche',-16.4079,-71.5073],['Real Plaza Arequipa',-16.3903,-71.5513]]},
+ 'Burger King':{cat:'Hamburguesa',sedes:[['Mall Aventura Porongoche',-16.4079,-71.5073],['Real Plaza Arequipa',-16.3903,-71.5513]]},
+ 'KFC':{cat:'Pollo frito',sedes:[['Mall Plaza Cayma',-16.3778,-71.5486],['Mall Aventura Porongoche',-16.4079,-71.5073],['Real Plaza Arequipa',-16.3903,-71.5513],['Arequipa Center',-16.3646,-71.5666],['Parque Lambramani',-16.4103,-71.5222]]},
+ 'Popeyes':{cat:'Pollo frito',sedes:[]},
+ 'Papa Johns':{cat:'Pizza',sedes:[['Av. Ejército (Cayma)',-16.3892,-71.5497],['Mall Aventura Porongoche',-16.4079,-71.5073]]},
+ 'Pizza Hut':{cat:'Pizza',sedes:[['Mall Aventura Porongoche',-16.4079,-71.5073],['Real Plaza Arequipa',-16.3903,-71.5513]]},
+ 'Little Caesars':{cat:'Pizza',sedes:[['Mall Plaza Cayma',-16.3778,-71.5486]]},
+ 'China Wok':{cat:'Chifa',sedes:[['Mall Plaza Cayma',-16.3778,-71.5486],['Mall Aventura Porongoche',-16.4079,-71.5073],['Parque Lambramani',-16.4103,-71.5222]]},
+ 'Chowking':{cat:'Chifa',sedes:[]},
+ 'Madam Tusan':{cat:'Chifa',sedes:[]},
+ 'Norky’s':{cat:'Pollo a la brasa',sedes:[['Av. Ejército',-16.3885,-71.5505],['Parque Lambramani',-16.4103,-71.5222]]},
+ 'Roky’s':{cat:'Pollo a la brasa',sedes:[['Av. Dolores',-16.4185,-71.5232],['Mall Aventura Porongoche',-16.4079,-71.5073]]},
+ 'Don Belisario':{cat:'Pollo a la brasa',sedes:[]},
+ 'Granja Azul':{cat:'Pollo a la brasa',sedes:[]},
+ 'Tomasa Pollo & Grill':{cat:'Pollo a la brasa',sedes:[]},
+ 'TGI Fridays':{cat:'Restobar',sedes:[['Mall Aventura Porongoche — revisa exclusiones',-16.4079,-71.5073]]},
+ 'Chili’s':{cat:'Restobar',sedes:[]},
+ 'Épico Bar':{cat:'Restobar',sedes:[]},
+ 'La Barra del Chino':{cat:'Restobar',sedes:[]},
+ 'Subway':{cat:'Sándwich',sedes:[]},
+ 'Cinnabon':{cat:'Café y dulces',sedes:[]},
+ 'Dunkin':{cat:'Café y dulces',sedes:[]},
+ 'Beso Francés':{cat:'Café y dulces',sedes:[]},
+ 'Bottega Capuccino':{cat:'Café y dulces',sedes:[]},
+ 'Anyli Café Bar':{cat:'Café y dulces',sedes:[]},
+ 'Pinkberry':{cat:'Helados',sedes:[]},
+ 'Mr. Sushi':{cat:'Sushi',sedes:[]},
+ 'Isushi':{cat:'Sushi',sedes:[]},
+ 'Gran Carbón':{cat:'Carnes y parrilla',sedes:[]},
+ 'Marakos Grill':{cat:'Carnes y parrilla',sedes:[]},
+ 'La Boutique de las Carnes':{cat:'Carnes y parrilla',sedes:[]},
+ 'Uchu Peruvian Steakhouse':{cat:'Carnes y parrilla',sedes:[]},
+ 'Mis Costillitas':{cat:'Carnes y parrilla',sedes:[]},
+ 'Otto Grill':{cat:'Carnes y parrilla',sedes:[]},
+ 'Rodizio':{cat:'Carnes y parrilla',sedes:[]},
+ 'SAMI’S Burgers':{cat:'Hamburguesa',sedes:[]},
+ 'El Cordón y La Rosa':{cat:'Criolla',sedes:[]},
+ 'Suyu Peruvian Restaurant':{cat:'Criolla',sedes:[]},
+ 'Manta':{cat:'Gourmet',sedes:[]},
+ 'La Bocca':{cat:'Gourmet',sedes:[]},
+ 'Restaurantes Dine Out':{cat:'Gourmet',sedes:[]},
+ 'Restaurantes Modo Tasty':{cat:'Gourmet',sedes:[]},
+ 'Restaurantes TOP de Lima':{cat:'Gourmet',sedes:[]},
+ 'La Nevera Fit':{cat:'Saludable',sedes:[]},
+ 'La Feria Valle Sagrado':{cat:'Buffet',sedes:[]},
+ 'Tambo':{cat:'Tienda',sedes:[]},
+ 'OXXO':{cat:'Tienda',sedes:[]},
+ 'Rappi':{cat:'Delivery',sedes:[]},
+ 'PedidosYa':{cat:'Delivery',sedes:[]},
+ 'DiDi Food':{cat:'Delivery',sedes:[]},
+ /* Los cupones de Cuponidad y Cuponatic son de locales limeños: si no se marcan,
+    aparecen como nacionales y ensucian la vista al elegir Arequipa. */
+ 'Kasamama':{cat:'Criolla',ciudad:'Lima',sedes:[]},
+ 'La Bistecca':{cat:'Buffet',ciudad:'Lima',sedes:[]},
+ 'Villa Chicken':{cat:'Pollo a la brasa',ciudad:'Lima',sedes:[]},
+ 'Excelencia Pollos':{cat:'Pollo a la brasa',ciudad:'Lima',sedes:[]},
+ 'Dragon Rolls':{cat:'Sushi',ciudad:'Lima',sedes:[]},
+ 'Oshi':{cat:'Sushi',ciudad:'Lima',sedes:[]},
+ 'D Mare Sushi':{cat:'Sushi',ciudad:'Lima',sedes:[]},
+ 'El Salto del Fraile':{cat:'Carnes y parrilla',ciudad:'Lima',sedes:[]},
+ 'Do Santos':{cat:'Carnes y parrilla',ciudad:'Lima',sedes:[]},
+ 'Restaurantes Club El Comercio':{cat:'Varios',sedes:[]},
+ 'Restaurantes Claro Club':{cat:'Varios',sedes:[]},
+ 'Cadenas de comida rápida':{cat:'Varios',sedes:[]},
+ 'La Choza de La Anaconda':{cat:'Criolla',ciudad:'Lima',sedes:[]},
+ 'Cineplanet':{cat:'Cine',sedes:[['Mall Aventura Porongoche',-16.4079,-71.5073],['Real Plaza Arequipa',-16.3903,-71.5513],['Mall Plaza Cayma',-16.3778,-71.5486]]},
+ 'Cinemark':{cat:'Cine',sedes:[['Mall Aventura Porongoche',-16.4079,-71.5073]]},
+ 'Happyland':{cat:'Parques y juegos',sedes:[['Mall Aventura Porongoche',-16.4079,-71.5073]]},
+ 'Coney Park':{cat:'Parques y juegos',sedes:[['Real Plaza Arequipa',-16.3903,-71.5513],['Parque Lambramani',-16.4103,-71.5222]]},
+ 'Mr Jump':{cat:'Parques y juegos',sedes:[]},
+ 'Gran Circo de Rusia':{cat:'Shows y circo',sedes:[]},
+ 'Circo del Niño Alfredito':{cat:'Shows y circo',ciudad:'Lima',sedes:[]},
+ 'Granja Fundo San Vicente':{cat:'Paseos',ciudad:'Lima',sedes:[]},
+ 'Inkafarma':{cat:'Botica y medicinas',sedes:[]},
+ 'Mifarma':{cat:'Botica y medicinas',sedes:[]},
+ 'Boticas y Salud':{cat:'Botica y medicinas',sedes:[]},
+ 'Boticas Perú':{cat:'Botica y medicinas',sedes:[]},
+ 'NutriPoint':{cat:'Proteínas y creatina',sedes:[]},
+ /* Moda y belleza: venían en la misma página oficial de Interbank que las promos de comida */
+ 'Bohoo':{cat:'Joyas y accesorios',sedes:[]},
+ 'Tous':{cat:'Joyas y accesorios',sedes:[]},
+ 'New Athletic':{cat:'Deportivo',sedes:[]},
+ 'Big Head':{cat:'Ropa y vestuario',sedes:[]},
+ 'Oakley':{cat:'Ropa y vestuario',sedes:[]},
+ 'Volcom':{cat:'Ropa y vestuario',sedes:[]},
+ 'Bimba y Lola':{cat:'Ropa y vestuario',sedes:[]},
+ 'Creditex Factory':{cat:'Ropa y vestuario',sedes:[]},
+ 'MBO':{cat:'Ropa y vestuario',sedes:[]},
+ 'Norman & Taylor':{cat:'Ropa y vestuario',sedes:[]},
+ 'Kelly’s Shoes':{cat:'Calzado',sedes:[]},
+ 'Falabella':{cat:'Ropa y vestuario',sedes:[['Mall Aventura Porongoche',-16.4079,-71.5073],['Real Plaza Arequipa',-16.3903,-71.5513]]},
+ 'Oechsle':{cat:'Ropa y vestuario',sedes:[['Mall Plaza Cayma',-16.3778,-71.5486]]},
+ 'Topitop':{cat:'Ropa y vestuario',sedes:[]},
+ 'Platanitos':{cat:'Calzado',sedes:[]},
+ 'Tiendas de ropa online':{cat:'Ropa y vestuario',sedes:[]},
+ 'Montalvo':{cat:'Belleza y bienestar',sedes:[]},
+ 'Barber X':{cat:'Belleza y bienestar',sedes:[]},
+ 'Soho.color':{cat:'Belleza y bienestar',sedes:[]},
+ 'Toque X':{cat:'Belleza y bienestar',sedes:[]},
+ 'Multident':{cat:'Belleza y bienestar',sedes:[]},
+ /* Las 11 marcas de Plin que faltaban: la página de Interbank trae 67 en total */
+ 'La B Restaurante y Pastelería':{cat:'Café y dulces',sedes:[]},
+ 'Tinta':{cat:'Gourmet',sedes:[]},
+ 'KenDo Sushi Lounge':{cat:'Sushi',sedes:[]},
+ 'Tokuyo':{cat:'Sushi',sedes:[]},
+ 'Renusa':{cat:'Varios',sedes:[]},
+ 'Repsol':{cat:'Combustible',sedes:[]},
+ 'Ava':{cat:'Combustible',sedes:[]},
+ 'Oltursa':{cat:'Transporte',sedes:[]},
+ 'Taxi 365':{cat:'Transporte',sedes:[]},
+ 'Movil Bus':{cat:'Transporte',sedes:[]},
+ 'Panorama Garden Inn':{cat:'Hospedaje',sedes:[]},
+ 'Tiendas del grupo Intercorp':{cat:'Varios',sedes:[]},
+ 'LATAM':{cat:'Vuelos',sedes:[]},
+ 'SKY Airline':{cat:'Vuelos',sedes:[]},
+ 'JetSMART':{cat:'Vuelos',sedes:[]},
+ 'Star Perú':{cat:'Vuelos',sedes:[]},
+ 'Despegar':{cat:'Vuelos',sedes:[]},
+ /* Arequipa: programa de beneficios de Caja Arequipa + catálogo de provincias de BBVA */
+ 'Brunno Pizzería':{cat:'Pizza',sedes:[]},
+ 'Di Mazza':{cat:'Pizza',sedes:[]},
+ 'Alfa':{cat:'Gourmet',sedes:[]},
+ 'Posho':{cat:'Gourmet',sedes:[]},
+ 'Barra 420':{cat:'Restobar',sedes:[]},
+ 'Fulana':{cat:'Restobar',sedes:[]},
+ 'Patria':{cat:'Restobar',sedes:[]},
+ 'Che Carreta':{cat:'Carnes y parrilla',sedes:[]},
+ 'Circo Mundo de Dinosaurios':{cat:'Shows y circo',sedes:[]},
+ 'Lima Gas':{cat:'Combustible',sedes:[]},
+ 'Metro':{cat:'Tienda',sedes:[]},
+ 'Viajes con BBVA':{cat:'Transporte',sedes:[]},
+ 'Hoteles con BBVA':{cat:'Hospedaje',sedes:[]},
+ 'Restaurantes BBVA Arequipa':{cat:'Varios',sedes:[]}
+};
+
+const ZONAS=[['Cayma',-16.376,-71.550],['Yanahuara',-16.389,-71.545],['Cercado',-16.399,-71.537],
+ ['José L. Bustamante y Rivero',-16.430,-71.530],['Paucarpata',-16.430,-71.500],['Cerro Colorado',-16.365,-71.570],
+ ['Miraflores',-16.390,-71.520],['Sachaca',-16.425,-71.565],['Socabaya',-16.462,-71.531]];
+
+/* [local, medios, tipo, valor, regular, desde, vence, detalle, nota, banco, extra]
+   extra: {dias,canal,tope,min,ciudad,stock,max,hora,como,conf}
+   conf: 'of' = leída de la web oficial del banco · 'rep' = reportada en prensa/portales, confírmala */
+const M_PLIN='PLIN', OF={conf:'of'}, REP={conf:'rep'};
+const x=(a,b)=>Object.assign({},a,b);
+/* Los datos vienen de promos.json, que arma cada mañana el workflow de GitHub Actions */
+let RAW=[],ACTUALIZADO='',ESTADO={};
+
+function expandir(r){
+  const e=r[10]||{};
+  const mets=r[1]===M_PLIN?PLIN.slice():r[1].split(',');
+  /* cat sale del local, salvo que la promo la pise: una botica vende vitaminas, cremas y proteína */
+  return {local:r[0],cat:e.cat||LOCALES[r[0]]?.cat||'',mets,tipo:r[2],valor:r[3],regular:r[4],
+    desde:r[5],vence:r[6],detalle:r[7],nota:r[8],banco:r[9],
+    url:PROGRAMAS[r[9]]?.url||'',dias:e.dias||[],canal:e.canal||'S',
+    /* la ciudad puede venir del local (un restaurante limeño lo es en toda promo) */
+    tope:e.tope||0,min:e.min||0,ciudad:e.ciudad||LOCALES[r[0]]?.ciudad||'',stock:e.stock||0,max:e.max||0,
+    hora:e.hora||'',como:e.como||PROGRAMAS[r[9]]?.via||'',conf:e.conf||'rep'};
+}
+const SEED=()=>RAW.map(expandir);
+
+let promos=[],medios=[...MEDIOS],catFiltro='',tipoFiltro='',rubroFiltro='',editId=null,ubic=null,vista='explorar',texto='';
+const $=s=>document.querySelector(s),$$=s=>[...document.querySelectorAll(s)];
+const esc=s=>String(s??'').replace(/[<>&"]/g,c=>({'<':'&lt;','>':'&gt;','&':'&amp;','"':'&quot;'}[c]));
+const fmt=n=>'S/ '+(+n).toFixed(2);
+const canalTxt=c=>(CANALES.find(k=>k[0]===c)||CANALES[0])[1];
+const ciudadTxt=c=>(CIUDADES.find(k=>k[0]===c)||CIUDADES[0])[1];
+/* reloj real del dispositivo: la vigencia se recalcula sola cada vez que abres la página */
+const hoy=()=>{const d=new Date();d.setHours(12,0,0,0);return d;};
+const iso=d=>d.toISOString().slice(0,10);
+const diasEntre=(a,b)=>Math.round((b-a)/86400000);
+
+/* storage: usa el puente del entorno si existe, si no localStorage (archivo local) */
+async function guardar(k,v){
+  const s=JSON.stringify(v);
+  try{if(window.storage)await window.storage.set(k,s);}catch(e){}
+  try{localStorage.setItem(k,s);}catch(e){}
+}
+async function leer(k){
+  try{if(window.storage){const r=await window.storage.get(k);if(r&&r.value)return JSON.parse(r.value);}}catch(e){}
+  try{const r=localStorage.getItem(k);if(r)return JSON.parse(r);}catch(e){}
+  return null;
+}
+
+function estado(p){
+  const h=hoy();
+  if(p.desde&&new Date(p.desde+'T00:00:00')>h) return 'proxima';
+  if(!p.vence) return 'vigente';
+  const v=new Date(p.vence+'T23:59:59');
+  if(v>=h) return 'vigente';
+  return diasEntre(v,h)<=120?'porconfirmar':'vencida';
+}
+const restan=p=>p.vence?diasEntre(hoy(),new Date(p.vence+'T23:59:59')):null;
+
+function distKm(a,b){const R=6371,r=v=>v*Math.PI/180;
+  const dLat=r(b[1]-a.lat),dLng=r(b[2]-a.lng);
+  const s=Math.sin(dLat/2)**2+Math.cos(r(a.lat))*Math.cos(r(b[1]))*Math.sin(dLng/2)**2;
+  return 2*R*Math.asin(Math.sqrt(s));}
+function sedeCercana(n){const l=LOCALES[n];if(!ubic||!l||!l.sedes.length)return null;
+  let m=null;for(const s of l.sedes){const d=distKm(ubic,s);if(!m||d<m.d)m={d,n:s[0]};}return m;}
+
+/* ── cálculo ── */
+function metricas(p,ctx){
+  const m=ctx.monto;let pagas=null,ahorro=0,pct=null;
+  if(p.tipo==='precio'){pagas=p.valor;ahorro=p.regular>0?p.regular-p.valor:0;pct=p.regular>0?(p.regular-p.valor)/p.regular*100:null;}
+  else if(p.tipo==='porcentaje'){let d=m*p.valor/100;if(p.tope>0)d=Math.min(d,p.tope);d=Math.min(d,m);pagas=m-d;ahorro=d;pct=p.valor;}
+  /* En un descuento fijo el % depende de cuánto gastes, así que no se muestra:
+     si no, un S/80 sobre un gasto de S/60 se vería como "100 % OFF". */
+  else if(p.tipo==='monto'){const d=Math.min(p.valor,m);pagas=m-d;ahorro=d;pct=null;}
+  else if(p.tipo==='2x1'){pagas=m/2;ahorro=m/2;pct=50;}
+  else if(p.tipo==='cashback'){let c=m*p.valor/100;if(p.tope>0)c=Math.min(c,p.tope);pagas=m;ahorro=c;pct=p.valor;}
+  return {pagas,ahorro,pct};
+}
+function evalPromo(p,ctx){
+  const raz=[],est=estado(p);
+  if(p.dias&&p.dias.length&&!p.dias.includes(ctx.dia)) raz.push('No los '+DIAS[ctx.dia]);
+  if(p.ciudad&&ctx.ciudad&&p.ciudad!==ctx.ciudad) raz.push('Solo '+ciudadTxt(p.ciudad));
+  if(p.tipo==='porcentaje'&&p.min&&ctx.monto<p.min) raz.push('Mínimo '+fmt(p.min));
+  if(est==='vencida') raz.push('Venció el '+p.vence);
+  if(est==='proxima') raz.push('Empieza el '+p.desde);
+  const mio=p.mets.some(m=>medios.includes(m));
+  const mt=metricas(p,ctx),ok=raz.length===0;
+  return {p,aplica:ok,mio,raz,pagas:mt.pagas,ahorro:ok?mt.ahorro:0,pct:mt.pct,est};
+}
+const progNom=p=>PROGRAMAS[p.banco]?.nom||p.banco;
+const medLabel=p=>{const mios=p.mets.filter(m=>medios.includes(m));
+  const l=(mios.length?mios:p.mets);
+  return l.length===3&&PLIN.every(v=>l.includes(v))?'Plin':l.join(' / ');};
+
+/* ── filtros ── */
+function filtroEstado(p){
+  const f=$('#estado').value,e=estado(p);
+  if(f==='todo')return true;
+  if(f==='vig')return e==='vigente';
+  return e!=='vencida';
+}
+function catDe(p){return p.cat||LOCALES[p.local]?.cat||'';}
+function tipoDe(p){return PROGRAMAS[p.banco]?.tipo||'Banco';}
+/* Ciudad: antes las promos de otra ciudad seguían apareciendo (en gris, al final),
+   así que elegir Arequipa no cambiaba casi nada. Ahora se van de la lista, y con
+   «Solo lo de esta ciudad» quedan únicamente las que son exclusivas de aquí. */
+function pasaCiudad(p,ciudad,solo){
+  if(!ciudad) return !solo;
+  if(p.ciudad&&p.ciudad!==ciudad) return false;
+  return solo?p.ciudad===ciudad:true;
+}
+function baseFiltrada(){
+  const t=texto.trim().toLowerCase();
+  const ciudad=$('#ciudad').value,solo=$('#soloLocal').checked;
+  return promos.filter(p=>filtroEstado(p)&&(!catFiltro||catDe(p)===catFiltro)
+    &&(!tipoFiltro||tipoDe(p)===tipoFiltro)
+    &&(!rubroFiltro||rubroDeCat(catDe(p))===rubroFiltro)
+    &&pasaCiudad(p,ciudad,solo)
+    &&(!t||(p.local+' '+p.detalle+' '+catDe(p)+' '+progNom(p)+' '+tipoDe(p)).toLowerCase().includes(t)));
+}
+/* Los chips de categoría se rearman según el rubro para no mostrar 22 opciones de golpe. */
+function pintarCats(){
+  const visibles=rubroFiltro?CATS.filter(c=>rubroDeCat(c)===rubroFiltro):CATS;
+  if(catFiltro&&!visibles.includes(catFiltro))catFiltro='';
+  chips($('#cats'),['Todas',...visibles],(i,t)=>(i===0?catFiltro==='':catFiltro===t),i=>{
+    catFiltro=i===0?'':visibles[i-1];
+    $$('#cats .chip').forEach((b,j)=>b.setAttribute('aria-pressed',j===i));render();});
+}
+
+/* ── etiquetas ── */
+function tags(p,e){
+  const t=[],r=restan(p);
+  const quedan=n=>n===1?'queda 1 día':'quedan '+n+' días';
+  if(e==='vencida')t.push(['venc','venció']);
+  else if(e==='porconfirmar')t.push(['pronto','por confirmar']);
+  else if(e==='proxima')t.push(['ok','aún no empieza']);
+  else if(r!=null&&r<=3)t.push(['urg',r<=0?'último día':quedan(r)]);
+  else if(r!=null&&r<=10)t.push(['pronto',quedan(r)]);
+  if(p.dias&&p.dias.length)t.push(['dia',p.dias.length===5&&p.dias.every(d=>LUNVIE.includes(d))?'lun a vie':'solo '+p.dias.map(d=>DIAS[d]).join(', ')]);
+  if(p.hora)t.push(['dia',p.hora.toLowerCase()]);
+  if(p.ciudad)t.push(['geo','solo '+ciudadTxt(p.ciudad)]);
+  if(p.canal==='APP')t.push(['geo','en la app']);
+  /* Si no viene de un banco, decilo: cambia por completo lo que necesitas tener. */
+  const tp=tipoDe(p);
+  if(tp!=='Banco')t.push(['dia',tp.toLowerCase()]);
+  if(p.conf==='rep')t.push(['rep','sin confirmar']);
+  return t;
+}
+const tagsHtml=(p,e)=>tags(p,e).map(t=>`<span class="tag ${t[0]}">${esc(t[1])}</span>`).join('');
+
+/* ── Ofertas relámpago ──
+   Solo se muestran las de hoy y ayer: más viejas ya no sirven de nada. */
+function pintarRelampago(){
+  const h=hoy(),vivas=RELAMPAGO.filter(r=>diasEntre(new Date(r.f+'T12:00:00'),h)<=1)
+    .sort((a,b)=>b.f.localeCompare(a.f));
+  if(!vivas.length){$('#zonaRelampago').innerHTML='';return;}
+  $('#zonaRelampago').innerHTML=`<div class="relampago">
+    <div class="relampago-h"><b>Ofertas relámpago</b>
+      <i>duran un día · las publica @concupon</i>
+      <a href="${RELAMPAGO_FUENTE}" target="_blank" rel="noopener">Ver el canal ↗</a></div>
+    <div class="rel-lista">${vivas.map(r=>{
+      const hoyEs=diasEntre(new Date(r.f+'T12:00:00'),h)===0;
+      return `<div class="rel"><b>${esc(r.t)}</b><span>${r.u?`<a href="${esc(r.u)}" target="_blank" rel="noopener" style="color:inherit">${esc(r.o)}</a>`:esc(r.o)}</span>
+        <em>${r.p>0?fmt(r.p):'—'}</em>
+        <span class="tag ${hoyEs?'urg':'rep'}" style="flex:0">${hoyEs?'hoy':'ayer'}</span>
+        ${r.n?`<small>${esc(r.n)}</small>`:''}</div>`;}).join('')}</div></div>`;
+}
+
+/* ── Tira de días ──
+   Por cada día, la mejor promo que exista SOLO ese día (hasta 3 días).
+   Las de todos los días quedan fuera a propósito, y las de «lunes a viernes»
+   también: si no, cuatro días se verían idénticos y taparían el dato útil. */
+const ORDEN_SEMANA=[1,2,3,4,5,6,0],MAX_DIAS_EXCL=3;
+function pintarDias(base,ctx){
+  const porDia=ORDEN_SEMANA.map(d=>{
+    const evs=base.filter(p=>p.dias&&p.dias.length&&p.dias.length<=MAX_DIAS_EXCL&&p.dias.includes(d))
+      .map(p=>evalPromo(p,{...ctx,dia:d})).filter(e=>e.aplica);
+    evs.sort((a,b)=>(b.pct??-1)-(a.pct??-1)||b.ahorro-a.ahorro);
+    return {d,mejor:evs[0]||null,n:evs.length};
+  });
+  /* el ranking va por descuento, no por orden de la semana */
+  const rank=porDia.filter(x=>x.mejor).slice()
+    .sort((a,b)=>(b.mejor.pct??-1)-(a.mejor.pct??-1)||b.mejor.ahorro-a.mejor.ahorro);
+  const puesto=new Map(rank.map((x,i)=>[x.d,i+1]));
+  const hoyD=hoy().getDay();
+
+  $('#diasStrip').innerHTML=porDia.map(({d,mejor,n})=>{
+    const sel=d===ctx.dia,cls=[d===hoyD?'hoy-d':'',mejor?'':'vacio-d'].filter(Boolean).join(' ');
+    if(!mejor) return `<button class="dia-c ${cls}" aria-pressed="${sel}" data-dia="${d}">
+      <b>${DIAS[d]}</b><em>—</em><span>nada exclusivo</span></button>`;
+    const p=mejor.p,pct=mejor.pct==null?null:Math.round(mejor.pct);
+    /* prefiere el % porque compara mejor entre rubros; si no hay precio regular, cae al precio */
+    const cifra=pct!=null?pct+'% OFF':(p.tipo==='precio'?fmt(p.valor):'promo');
+    const pos=puesto.get(d);
+    return `<button class="dia-c ${cls}" aria-pressed="${sel}" data-dia="${d}"
+      title="${esc(p.local)} · ${esc(p.detalle)}">
+      ${pos<=3?`<i>${pos}º</i>`:''}
+      <b>${DIAS[d]}</b><em>${cifra}</em>
+      <span>${esc(p.local)}${n>1?` +${n-1}`:''}</span></button>`;
+  }).join('');
+  const top=rank[0];
+  $('#diasNota').textContent=top
+    ? `— gana el ${DIAS[top.d].toLowerCase()} con ${esc(top.mejor.p.local)}. Toca un día para filtrar.`
+    : '— no hay promos de un solo día con estos filtros.';
+}
+
+/* ── vista EXPLORAR (catálogo tipo app, ordenable) ── */
+function vistaExplorar(base,ctx){
+  const evs=base.map(p=>evalPromo(p,ctx));
+  const orden=$('#ordenE').value;
+  const val=e=>{
+    if(orden==='pct')return e.pct==null?-1:e.pct;
+    if(orden==='ahorro')return e.ahorro;
+    /* «más barato» compara productos con precio fijo. Un % o un monto sobre un gasto
+       hipotético no es el precio de nada, así que van después y sin encabezar. */
+    if(orden==='precio')return e.p.tipo==='precio'?-e.p.valor:-9e9;
+    if(orden==='vence'){const r=restan(e.p);return r==null?-9e9:-r;}
+    return 0;
+  };
+  /* con una ciudad elegida, lo que es exclusivo de ahí sube antes que lo nacional */
+  const local=e=>ctx.ciudad&&e.p.ciudad===ctx.ciudad?1:0;
+  evs.sort((a,b)=>(b.mio?1:0)-(a.mio?1:0)||(b.aplica?1:0)-(a.aplica?1:0)||local(b)-local(a)||
+    (orden==='local'?a.p.local.localeCompare(b.p.local):val(b)-val(a)));
+
+  const vig=evs.filter(e=>e.aplica).length;
+  const top=evs.filter(e=>e.aplica&&e.mio&&e.ahorro>0)[0];
+  const locales=ctx.ciudad?evs.filter(e=>e.p.ciudad===ctx.ciudad).length:0;
+  $('#resumen').innerHTML=
+    `<span><b>${evs.length}</b> promos</span><span>·</span><span><b>${vig}</b> te aplican hoy</span>`+
+    (ctx.ciudad?`<span>·</span><span><b>${locales}</b> solo de ${esc(ciudadTxt(ctx.ciudad))}, <b>${evs.length-locales}</b> en todo el Perú</span>`:'')+
+    (top?`<span>·</span><span>mejor ahorro <b>${fmt(top.ahorro)}</b> en ${esc(top.p.local)}</span>`:'')+
+    `<span style="margin-left:auto">toca una tarjeta para ver el detalle completo</span>`;
+
+  if(!evs.length)return '<div class="vacio" style="grid-column:1/-1">Nada con estos filtros.<br>Prueba «Todas» en Mostrar o limpia la búsqueda.</div>';
+  return evs.map(e=>{
+    const p=e.p,pct=e.pct==null?null:Math.round(e.pct);
+    const esMonto=p.tipo==='monto';
+    const clsOff=esMonto?(p.valor>=30?'':'tibio'):pct==null?'plano':(pct>=40?'':(pct>=20?'tibio':'plano'));
+    const off=p.tipo==='variable'?'ROTA':esMonto?('−S/'+p.valor):(pct!=null?pct+'% OFF':'PROMO');
+    const precio=p.tipo==='variable'?'<b>según campaña</b>':
+      (p.tipo==='precio'?`<b>${fmt(p.valor)}</b>${p.regular>0?`<s>${fmt(p.regular)}</s>`:''}`
+        :`<b>${fmt(e.pagas)}</b><s>${fmt(ctx.monto)}</s>`);
+    const pie=[canalTxt(p.canal)].concat(p.stock?['stock '+p.stock.toLocaleString('es-PE')]:[],p.max?['máx '+p.max+'/día']:[]);
+    return `<button class="pc ${e.mio?'':'no-mio'}" data-ficha="${promos.indexOf(p)}">
+      <div class="pc-top"><span class="pc-off ${clsOff}">${off}</span><span class="pc-banco">${esc(progNom(p))}</span></div>
+      <div class="pc-loc">${esc(p.local)}</div>
+      <div class="pc-det">${esc(p.detalle)}</div>
+      <div class="pc-precio">${precio}</div>
+      <div class="pc-pie">${tagsHtml(p,e.est)}<span>${esc(pie.join(' · '))}</span></div>
+    </button>`;
+  }).join('');
+}
+
+/* ── vista POR LOCAL ── */
+function filaOp(e,esGanadora,mostrarLocal){
+  const p=e.p,i=promos.indexOf(p);
+  const nom=mostrarLocal?`<b>${esc(p.local)}</b> · `:'';
+  if(!e.aplica) return `<div class="op off"><span class="med">${esc(medLabel(p))}</span><span class="det">${nom}${esc(p.detalle)}</span><span class="pre">${e.raz.map(esc).join(' · ')}</span></div>`;
+  if(p.tipo==='variable') return `<button class="op" data-ficha="${i}"><span class="med">${esc(medLabel(p))}</span><span class="det">${nom}${esc(p.detalle)} ${tagsHtml(p,e.est)}</span><span class="pre">según campaña</span></button>`;
+  const det=p.tipo==='porcentaje'?`${nom}${p.valor}% · ${esc(p.detalle)}${p.tope>0?' · tope '+fmt(p.tope):''}`:`${nom}${esc(p.detalle)}`;
+  return `<button class="op ${esGanadora?'win':''} ${e.mio?'':'off'}" data-ficha="${i}"><span class="med">${esc(medLabel(p))}</span>
+    <span class="det">${det} ${tagsHtml(p,e.est)}</span>
+    ${p.regular>0?`<span class="reg">${fmt(p.regular)}</span>`:''}
+    <span class="pre">${fmt(e.pagas)}</span></button>`;
+}
+function vistaLocal(base,ctx){
+  const g={};
+  base.forEach(p=>(g[p.local]=g[p.local]||[]).push(evalPromo(p,ctx)));
+  const grupos=Object.entries(g).map(([n,evs])=>{
+    const ok=evs.filter(e=>e.aplica&&e.mio&&e.pagas!=null).sort((a,b)=>b.ahorro-a.ahorro);
+    const c=sedeCercana(n);
+    return {n,evs,mejor:ok[0]||null,max:ok[0]?.ahorro||0,dist:c?c.d:Infinity,sede:c?c.n:''};
+  });
+  grupos.sort((a,b)=>$('#orden').value==='dist'?a.dist-b.dist:b.max-a.max);
+  return grupos.map((gr,i)=>{
+    const bancosAqui=[...new Set(gr.evs.filter(e=>e.aplica).map(e=>progNom(e.p)))];
+    const dt=isFinite(gr.dist)?` · ≈${gr.dist.toFixed(1)} km · ${esc(gr.sede)}`:'';
+    const filas=gr.evs.sort((a,b)=>(b.aplica?1:0)-(a.aplica?1:0)||b.ahorro-a.ahorro)
+      .map(e=>filaOp(e,e===gr.mejor,false)).join('');
+    const notas=[...new Set(gr.evs.filter(e=>e.aplica&&e.p.nota).map(e=>e.p.nota))].slice(0,2).map(esc).join(' · ');
+    return `<div class="grupo ${i===0&&gr.mejor?'gana':''}">
+      <div class="g-top"><span class="pos">${i+1}</span>
+        <div><div class="g-nom">${esc(gr.n)}</div>
+        <div class="g-sub">${esc(LOCALES[gr.n]?.cat||'')}${dt}${bancosAqui.length>1?' · compiten '+bancosAqui.length+' programas':''}</div></div>
+        ${gr.mejor&&gr.mejor.ahorro>0?`<div class="g-max"><span>ahorras</span><b>${fmt(gr.mejor.ahorro)}</b></div>`:''}
+      </div><div class="ops">${filas}</div>${notas?`<div class="g-nota">${notas}</div>`:''}</div>`;
+  }).join('');
+}
+
+/* ── vista POR BANCO ── */
+function vistaBanco(base,ctx){
+  const porLocal={};
+  base.forEach(p=>{(porLocal[p.local]=porLocal[p.local]||new Set()).add(progNom(p));});
+  const g={};
+  base.forEach(p=>{const k=progNom(p);(g[k]=g[k]||[]).push(evalPromo(p,ctx));});
+  const grupos=Object.entries(g).map(([n,evs])=>{
+    const ok=evs.filter(e=>e.aplica&&e.pagas!=null).sort((a,b)=>b.ahorro-a.ahorro);
+    const excl=[...new Set(evs.map(e=>e.p.local))].filter(l=>porLocal[l].size===1).length;
+    const b=evs.find(e=>PROGRAMAS[e.p.banco]);
+    return {n,evs,ok,max:ok[0]?.ahorro||0,excl,locales:new Set(evs.map(e=>e.p.local)).size,
+      url:b?PROGRAMAS[b.p.banco].url:'',via:b?PROGRAMAS[b.p.banco].via:''};
+  }).sort((a,b)=>b.evs.length-a.evs.length);
+  return grupos.map((gr,i)=>{
+    const filas=gr.evs.sort((a,b)=>(b.aplica?1:0)-(a.aplica?1:0)||b.ahorro-a.ahorro)
+      .map(e=>filaOp(e,e===gr.ok[0],true)).join('');
+    const nom=gr.url?`<a href="${gr.url}" target="_blank" rel="noopener">${esc(gr.n)} ↗</a>`:esc(gr.n);
+    return `<div class="grupo ${i===0?'gana':''}">
+      <div class="g-top"><span class="pos">${i+1}</span>
+        <div><div class="g-nom">${nom}</div>
+          <div class="g-sub">${gr.evs.length} promo${gr.evs.length===1?'':'s'} en ${gr.locales} local${gr.locales===1?'':'es'}${gr.excl?` · <span class="excl">${gr.excl} solo aquí</span>`:''}</div>
+          <div class="g-sub">${esc(gr.via)}</div></div>
+        ${gr.max>0?`<div class="g-max"><span>ahorro top</span><b>${fmt(gr.max)}</b></div>`:''}
+      </div><div class="ops">${filas}</div></div>`;
+  }).join('');
+}
+
+/* ── render ── */
+function render(){
+  const ctx={monto:parseFloat($('#monto').value)||0,dia:+$('#dia').value,ciudad:$('#ciudad').value};
+  const base=baseFiltrada();
+  $('#zonaExplorar').style.display=vista==='explorar'?'':'none';
+  $('#zonaTicket').style.display=vista==='explorar'?'none':'';
+  if(vista==='explorar'){pintarRelampago();pintarDias(base,ctx);$('#rejilla').innerHTML=vistaExplorar(base,ctx);return;}
+  $('#ticketMeta').textContent=`${fmt(ctx.monto)} · ${DIAS[ctx.dia]} · ${ciudadTxt(ctx.ciudad)}${ubic&&vista==='local'?' · '+ubic.label:''}`;
+  $('#ticketT').textContent=vista==='local'?'Versus por local':'Qué ofrece cada programa';
+  const cont=$('#resultados');
+  cont.innerHTML=!base.length?'<div class="vacio">Nada con estos filtros.<br>Prueba «Todas» en Mostrar.</div>'
+    :(vista==='local'?vistaLocal(base,ctx):vistaBanco(base,ctx));
+}
+
+/* ── ficha ── */
+function abrirFicha(i){
+  const p=promos[i];if(!p)return;
+  const ctx={monto:parseFloat($('#monto').value)||0,dia:+$('#dia').value,ciudad:$('#ciudad').value};
+  const e=evalPromo(p,ctx),r=restan(p),pct=e.pct==null?null:Math.round(e.pct);
+  const fila=(k,v)=>v?`<dt>${k}</dt><dd>${v}</dd>`:'';
+  const precio=p.tipo==='variable'?'<span class="p">según campaña</span>'
+    :`<span class="p">${fmt(e.pagas)}</span>${p.tipo==='precio'&&p.regular>0?`<span class="r">${fmt(p.regular)}</span>`:''}`;
+  $('#fichaBody').innerHTML=`
+   <div class="ficha-hero">
+     <div class="ficha-loc">${esc(p.local)}</div>
+     <div class="ficha-det">${esc(p.detalle)}</div>
+     <div class="ficha-nums">${precio}
+       ${e.ahorro>0?`<span class="a">ahorras<b>${fmt(e.ahorro)}</b></span>`:''}</div>
+     <div class="ficha-tags">${pct!=null?`<span class="tag ok">${pct}% de descuento</span>`:''}${tagsHtml(p,e.est)}
+       ${e.mio?'':'<span class="tag venc">no marcaste este medio</span>'}</div>
+   </div>
+   <div class="dlg-b"><dl class="datos">
+     ${fila('Necesitas tener',esc(p.mets.join(' · ')))}
+     ${fila('Programa',esc(progNom(p)))}
+     ${fila('De dónde sale',esc(tipoDe(p)))}
+     ${fila('Cómo se canjea',esc(p.como))}
+     ${fila('Canal',esc(canalTxt(p.canal)))}
+     ${fila('Días',p.dias.length?p.dias.map(d=>DIAS[d]).join(', '):'Todos los días')}
+     ${fila('Horario',esc(p.hora))}
+     ${fila('Dónde',ciudadTxt(p.ciudad))}
+     ${fila('Vigencia',(p.desde||'—')+' → '+(p.vence||'sin fecha de cierre'))}
+     ${fila('Tiempo restante',r==null?'':(r<0?'venció hace '+Math.abs(r)+' días':r+' días'))}
+     ${fila('Precio regular',p.regular>0?fmt(p.regular):'')}
+     ${fila('Tope de descuento',p.tope>0?fmt(p.tope):'')}
+     ${fila('Consumo mínimo',p.min>0?fmt(p.min):'')}
+     ${fila('Máximo por usuario',p.max>0?p.max+' al día':'')}
+     ${fila('Stock de campaña',p.stock>0?p.stock.toLocaleString('es-PE')+' unidades':'')}
+     ${fila('Restricciones',esc(p.nota))}
+     ${fila('Confianza del dato',p.conf==='of'?'Leída de la fuente oficial':'Reportada por portales de promos — confírmala antes de pedir')}
+     ${fila('Fuente',p.url?`<a href="${p.url}" target="_blank" rel="noopener" style="color:var(--verde)">Abrir la fuente oficial ↗</a>`:'')}
+   </dl>
+   <div class="btns"><button class="btn sec mini" data-editar="${i}">Editar esta promo</button></div></div>`;
+  $('#dlgFicha').showModal();
+}
+
+/* ── frescura de fuentes ── */
+function renderFuentes(){
+  const vistos={},h=hoy();
+  Object.values(PROGRAMAS).forEach(b=>{
+    if(!b.url)return;
+    const k=b.nom;
+    if(!vistos[k]||b.ver>vistos[k].ver)vistos[k]={...b};
+  });
+  const filas=Object.values(vistos).map(b=>{
+    const d=diasEntre(new Date(b.ver+'T12:00:00'),h);
+    const cls=d<=7?'v':(d<=21?'a':'r');
+    const txt=d<=0?'verificado hoy':(d===1?'verificado ayer':'verificado hace '+d+' días');
+    return `<div class="fuente"><div><div class="fn"><span class="punto ${cls}"></span>${esc(b.nom)} <span class="tag rep">${esc(b.tipo)}</span></div>
+      <div class="fv">${txt} · ${esc(b.via)}</div></div>
+      <a href="${b.url}" target="_blank" rel="noopener">Revisar ↗</a></div>`;
+  }).join('');
+  $('#fuentesBox').innerHTML=filas+
+    `<div class="fuente"><div><div class="fn"><span class="punto v"></span>Plin (portal general) <span class="tag rep">Banco</span></div>
+      <div class="fv">Todas las marcas afiliadas a Plin, sin importar el banco</div></div>
+      <a href="https://plin.pe/promociones/" target="_blank" rel="noopener">Revisar ↗</a></div>`;
+  const mAhora=hoy().getMonth();
+  $('#tempBox').innerHTML='<div class="meses">'+MESES.map(([m,n],i)=>
+    `<div class="mes ${n}${i===mAhora?' ahora':''}">${m}<span>${n==='bajo'?'barato':n==='alto'?'caro':'medio'}</span></div>`).join('')+
+    '</div><ul class="tips">'+TIPS_VIAJE.map(t=>`<li>${t}</li>`).join('')+'</ul>';
+  $('#redesBox').innerHTML=REDES.map(r=>
+    `<div class="fuente"><div><div class="fn">${esc(r.nom)} <span class="tag rep">${esc(r.red)}</span></div>
+      <div class="fv">${esc(r.det)}</div></div>
+      <a href="${r.url}" target="_blank" rel="noopener">Abrir ↗</a></div>`).join('');
+}
+function renderAviso(){
+  const h=hoy(),ctx={monto:0,dia:h.getDay(),ciudad:$('#ciudad')?.value||''};
+  const vig=promos.filter(p=>estado(p)==='vigente');
+  const prontas=vig.filter(p=>{const r=restan(p);return r!=null&&r<=7;}).length;
+  const rep=promos.filter(p=>p.conf!=='of').length;
+  const vers=Object.values(PROGRAMAS).filter(b=>b.url).map(b=>b.ver).sort();
+  const antig=diasEntre(new Date(vers[0]+'T12:00:00'),h);
+  $('#avisoTxt').innerHTML=`<b>${vig.length} promos vigentes hoy, ${h.getDate()} de ${h.toLocaleDateString('es-PE',{month:'long'}).toLowerCase()}.</b> `+
+    (prontas?`${prontas} vencen esta semana. `:'')+
+    `La vigencia se recalcula sola con la fecha de tu equipo y los precios se leen solos cada mañana: `+
+    (antig<=0?`todas las fuentes se revisaron hoy.`
+      :antig<=7?`la fuente más antigua se revisó hace ${antig} día${antig===1?'':'s'}.`
+      :`la fuente más antigua tiene ${antig} días — conviene actualizar.`)+
+    ` ${rep} promos están marcadas «sin confirmar» porque vienen de portales de promos, no de la fuente oficial.`;
+}
+
+/* ── catálogo ── */
+function tipoTxt(p){
+  if(p.tipo==='precio')return `${esc(p.detalle||'combo')} a ${fmt(p.valor)}`;
+  if(p.tipo==='porcentaje')return `${p.valor}% dscto${p.tope>0?' (tope '+p.tope+')':''}`;
+  if(p.tipo==='monto')return `− ${fmt(p.valor)}`;
+  if(p.tipo==='cashback')return `${p.valor}% cashback`;
+  if(p.tipo==='2x1')return '2x1';
+  return esc(p.detalle||'variable');
+}
+function renderLista(){
+  $('#nPromos').textContent=promos.length;
+  const c=$('#listaPromos');
+  if(!promos.length){c.innerHTML='<div class="vacio" style="padding:16px">Catálogo vacío.</div>';return;}
+  const ord=promos.map((p,i)=>({p,i})).sort((a,b)=>a.p.local.localeCompare(b.p.local));
+  c.innerHTML='<ul class="lista">'+ord.map(({p,i})=>
+    `<li class="item"><div class="txt"><div class="n">${esc(p.local)} · ${tipoTxt(p)}</div>
+     <div class="d">${esc(medLabel(p))}${p.vence?' · hasta '+p.vence:''} ${tagsHtml(p,estado(p))}</div></div>
+     <button class="btn sec mini" data-edit="${i}">Editar</button>
+     <button class="x" data-del="${i}" aria-label="Eliminar">×</button></li>`).join('')+'</ul>';
+}
+function chips(cont,items,act,tap){
+  cont.innerHTML=items.map((t,i)=>`<button class="chip" aria-pressed="${act(i,t)}" data-i="${i}">${esc(t)}</button>`).join('');
+  cont.onclick=ev=>{const b=ev.target.closest('.chip');if(b)tap(+b.dataset.i,b);};
+}
+
+/* ── ubicación ── */
+async function setUbic(u){ubic=u;await guardar(K_LOC,u);$('#geoEst').textContent=u?('Usando: '+u.label):'';render();}
+$('#btnGeo').onclick=()=>{
+  if(!navigator.geolocation){$('#geoEst').textContent='GPS no disponible — elige tu zona.';return;}
+  $('#geoEst').textContent='Buscando señal…';
+  navigator.geolocation.getCurrentPosition(
+    p=>setUbic({lat:p.coords.latitude,lng:p.coords.longitude,label:'GPS'}),
+    ()=>{$('#geoEst').textContent='Sin permiso de GPS — elige tu zona.';},{timeout:8000,maximumAge:300000});
+};
+$('#zona').onchange=ev=>{const z=ZONAS[ev.target.value];if(z)setUbic({lat:z[1],lng:z[2],label:z[0]});};
+$$('.tab').forEach(t=>t.onclick=()=>{
+  vista=t.dataset.vista;document.body.dataset.vista=vista;
+  $$('.tab').forEach(o=>o.setAttribute('aria-selected',o===t));
+  $$('.solo-expl').forEach(el=>el.style.display=vista==='explorar'?'flex':'none');
+  $$('.solo-local').forEach(el=>el.style.display=vista==='local'?'flex':'none');
+  render();
+});
+document.addEventListener('click',ev=>{
+  const dd=ev.target.closest('[data-dia]');
+  if(dd){$('#dia').value=dd.dataset.dia;render();return;}
+  const f=ev.target.closest('[data-ficha]');if(f){abrirFicha(+f.dataset.ficha);return;}
+  const ed=ev.target.closest('[data-editar]');if(ed){$('#dlgFicha').close();abrirPromo(+ed.dataset.editar);}
+});
+
+/* ── init ── */
+async function cargarDatos(){
+  try{
+    const r=await fetch('promos.json',{cache:'no-cache'});
+    if(!r.ok)throw new Error(r.status);
+    const d=await r.json();
+    RAW=d.filas||[];RELAMPAGO=d.relampago||[];ACTUALIZADO=d.actualizado||'';ESTADO=d.estado||{};
+    for(const [k,v] of Object.entries(d.ver||{}))if(PROGRAMAS[k]&&v>PROGRAMAS[k].ver)PROGRAMAS[k].ver=v;
+  }catch(e){console.warn('No se pudo leer promos.json',e);}
+}
+async function init(){
+  await cargarDatos();
+  const h=hoy();
+  $('#dia').innerHTML=DIAS.map((d,i)=>`<option value="${i}"${i===h.getDay()?' selected':''}>${d}${i===h.getDay()?' (hoy)':''}</option>`).join('');
+  $('#ciudad').innerHTML=CIUDADES.map(c=>`<option value="${c[0]}"${c[0]==='AQP'?' selected':''}>${c[1]}</option>`).join('');
+  $('#pCiudad').innerHTML=CIUDADES.map(c=>`<option value="${c[0]}">${c[0]?'Solo '+c[1]:'Todo el Perú'}</option>`).join('');
+  $('#pCanal').innerHTML=CANALES.map(c=>`<option value="${c[0]}">${c[1]}</option>`).join('');
+  $('#zona').innerHTML='<option value="">— o elige tu zona —</option>'+ZONAS.map((z,i)=>`<option value="${i}">${z[0]}</option>`).join('');
+  $('#dlCat').innerHTML=CATS.map(c=>`<option value="${c}">`).join('');
+  $('#dlLoc').innerHTML=Object.keys(LOCALES).map(l=>`<option value="${l}">`).join('');
+  const gp=await leer(K_PROMOS),gm=await leer(K_MET),gu=await leer(K_LOC);
+  /* si llegó un promos.json nuevo, se recarga el catálogo y se conservan las promos agregadas a mano */
+  const guardadas=Array.isArray(gp)?gp:[],vista=await leer(K_DATOS);
+  if(RAW.length&&vista!==ACTUALIZADO){
+    promos=SEED().concat(guardadas.filter(p=>p.propia));
+    await guardar(K_PROMOS,promos);await guardar(K_DATOS,ACTUALIZADO);
+  }else promos=guardadas.length?guardadas:SEED();
+  medios=Array.isArray(gm)?gm:[...MEDIOS];
+  if(gu){ubic=gu;$('#geoEst').textContent='Usando: '+gu.label;}
+  chips($('#rubros'),['Todo',...RUBROS],(i,t)=>(i===0?rubroFiltro==='':rubroFiltro===t),i=>{
+    rubroFiltro=i===0?'':RUBROS[i-1];
+    $$('#rubros .chip').forEach((b,j)=>b.setAttribute('aria-pressed',j===i));
+    pintarCats();render();});
+  pintarCats();
+  chips($('#tipos'),['De todas partes',...TIPOS],(i,t)=>(i===0?tipoFiltro==='':tipoFiltro===t),i=>{
+    tipoFiltro=i===0?'':TIPOS[i-1];$$('#tipos .chip').forEach((b,j)=>b.setAttribute('aria-pressed',j===i));render();});
+  chips($('#metChips'),MEDIOS,(i,t)=>medios.includes(t),(i,b)=>{
+    const m=MEDIOS[i];medios.includes(m)?medios=medios.filter(v=>v!==m):medios.push(m);
+    b.setAttribute('aria-pressed',medios.includes(m));guardar(K_MET,medios);render();});
+  chips($('#pMets'),MEDIOS,()=>false,(i,b)=>b.setAttribute('aria-pressed',b.getAttribute('aria-pressed')!=='true'));
+  chips($('#pDias'),DIAS,()=>false,(i,b)=>b.setAttribute('aria-pressed',b.getAttribute('aria-pressed')!=='true'));
+  ['#monto','#dia','#ciudad','#orden','#ordenE','#estado','#soloLocal'].forEach(s=>$(s).addEventListener('input',render));
+  $('#busca').addEventListener('input',ev=>{texto=ev.target.value;render();});
+  $$('.solo-expl').forEach(el=>el.style.display='flex');
+  if(ACTUALIZADO){const fallas=Object.entries(ESTADO).filter(([k,v])=>!v.ok).map(([k])=>k);
+    $('#datosHint').insertAdjacentHTML('beforeend',` Última lectura: <b>${esc(ACTUALIZADO.slice(0,16).replace('T',' '))}</b>`+
+      (fallas.length?` · sin actualizar hoy: ${esc(fallas.join(', '))} (se muestran sus datos anteriores).`:' · todas las fuentes respondieron.'));}
+  renderFuentes();renderAviso();render();renderLista();
+}
+
+$$('[data-cerrar]').forEach(b=>b.onclick=()=>b.closest('dialog').close());
+$('#btnMet').onclick=()=>$('#dlgMet').showModal();
+$('#btnNueva').onclick=()=>abrirPromo(null);
+
+function abrirPromo(i){
+  editId=i;
+  const p=i==null?{local:'',cat:'',mets:[],tipo:'precio',valor:0,regular:0,tope:0,min:0,canal:'S',dias:[],desde:'',vence:'',detalle:'',nota:'',url:'',ciudad:'',banco:'',stock:0,max:0,hora:'',como:''}:promos[i];
+  $('#dlgPromoT').textContent=i==null?'Nueva promo':'Editar promo';
+  $('#pLocal').value=p.local||'';$('#pCat').value=p.cat||LOCALES[p.local]?.cat||'';
+  $('#pCiudad').value=p.ciudad||'';$('#pTipo').value=p.tipo||'precio';
+  $('#pValor').value=p.valor||0;$('#pReg').value=p.regular||0;$('#pTope').value=p.tope||0;$('#pMin').value=p.min||0;
+  $('#pCanal').value=p.canal||'S';$('#pDet').value=p.detalle||'';
+  $('#pMax').value=p.max||0;$('#pStock').value=p.stock||0;$('#pHora').value=p.hora||'';$('#pComo').value=p.como||'';
+  $('#pDesde').value=p.desde||'';$('#pVence').value=p.vence||'';$('#pNota').value=p.nota||'';$('#pUrl').value=p.url||'';
+  $$('#pMets .chip').forEach((b,j)=>b.setAttribute('aria-pressed',(p.mets||[]).includes(MEDIOS[j])));
+  $$('#pDias .chip').forEach((b,j)=>b.setAttribute('aria-pressed',(p.dias||[]).includes(j)));
+  $('#dlgPromo').showModal();
+}
+$('#btnGuardar').onclick=async()=>{
+  const local=$('#pLocal').value.trim();if(!local){$('#pLocal').focus();return;}
+  const mets=$$('#pMets .chip').map((b,j)=>b.getAttribute('aria-pressed')==='true'?MEDIOS[j]:null).filter(Boolean);
+  if(!mets.length){alert('Marca al menos un medio de pago.');return;}
+  const p={local,cat:$('#pCat').value.trim(),ciudad:$('#pCiudad').value,mets,banco:mets[0],
+    tipo:$('#pTipo').value,valor:+$('#pValor').value||0,regular:+$('#pReg').value||0,
+    tope:+$('#pTope').value||0,min:+$('#pMin').value||0,canal:$('#pCanal').value,
+    stock:+$('#pStock').value||0,max:+$('#pMax').value||0,
+    hora:$('#pHora').value.trim(),como:$('#pComo').value.trim()||PROGRAMAS[mets[0]]?.via||'',
+    detalle:$('#pDet').value.trim(),conf:editId==null?'rep':(promos[editId].conf||'rep'),
+    propia:editId==null?true:!!promos[editId].propia,
+    dias:$$('#pDias .chip').map((b,j)=>b.getAttribute('aria-pressed')==='true'?j:-1).filter(j=>j>=0),
+    desde:$('#pDesde').value,vence:$('#pVence').value,nota:$('#pNota').value.trim(),
+    url:$('#pUrl').value.trim()||PROGRAMAS[mets[0]]?.url||''};
+  editId==null?promos.push(p):promos[editId]=p;
+  await guardar(K_PROMOS,promos);$('#dlgPromo').close();renderAviso();render();renderLista();
+};
+$('#listaPromos').onclick=async ev=>{
+  const ed=ev.target.closest('[data-edit]'),dl=ev.target.closest('[data-del]');
+  if(ed)abrirPromo(+ed.dataset.edit);
+  if(dl){promos.splice(+dl.dataset.del,1);await guardar(K_PROMOS,promos);renderAviso();render();renderLista();}
+};
+$('#btnSeed').onclick=async()=>{
+  if(!confirm('Reemplaza tu catálogo con las '+RAW.length+' promos publicadas'+(ACTUALIZADO?' el '+ACTUALIZADO.slice(0,10):'')+'. Se borran las que agregaste a mano. ¿Continuar?'))return;
+  promos=SEED();await guardar(K_PROMOS,promos);renderAviso();render();renderLista();};
+$('#btnExport').onclick=()=>{$('#dlgJsonT').textContent='Exportar';$('#txtJson').value=JSON.stringify(promos,null,1);$('#estJson').className='est';$('#dlgJson').showModal();$('#txtJson').select();};
+$('#btnImport').onclick=()=>{$('#dlgJsonT').textContent='Importar';$('#txtJson').value='';$('#estJson').className='est';$('#dlgJson').showModal();};
+$('#btnCargarJson').onclick=async()=>{
+  const est=$('#estJson');
+  try{const d=JSON.parse($('#txtJson').value);
+    if(!Array.isArray(d))throw new Error('Se esperaba una lista');
+    d.forEach(p=>{if(!p.mets&&p.met)p.mets=[p.met];if(!p.banco&&p.mets)p.banco=p.mets[0];});
+    promos=d;await guardar(K_PROMOS,promos);renderAviso();render();renderLista();
+    est.className='est on ok';est.textContent=`Catálogo reemplazado: ${d.length} promos.`;
+  }catch(err){est.className='est on err';est.textContent='JSON inválido: '+err.message;}
+};
+
+document.body.dataset.vista='explorar';
+init();
+</script>
+</body></html>
