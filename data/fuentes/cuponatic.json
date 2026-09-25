@@ -1,55 +1,7 @@
 {
  "id": "cuponatic",
- "leido": "2026-09-24T09:24",
+ "leido": "2026-09-25T10:50",
  "filas": [
-  [
-   "La Bistecca",
-   "Cuponatic",
-   "precio",
-   85.9,
-   103.9,
-   "",
-   "",
-   "LA BISTECCA Almuerzo o Cena Buffet + Bebida",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "TODAS LAS SEDES - Juega 30 o 60 Minutos en JUMP SPOT",
-   "Cuponatic",
-   "precio",
-   19.9,
-   35.0,
-   "",
-   "",
-   "Jump Spot Perú",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Revisión Técnica para Auto ó Camioneta - Ate con La Molina",
-   "Cuponatic",
-   "precio",
-   69.0,
-   130.0,
-   "",
-   "",
-   "REVISIONES TÉCNICAS ABC - ATE",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
   [
    "Cineplanet",
    "Cuponatic",
@@ -59,54 +11,6 @@
    "",
    "",
    "Cineplanet: 2 Entradas + Combo Gigante para 2 Todos los Días",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Elige cuánto saltar: 30, 45 o 60 min en Supernova",
-   "Cuponatic",
-   "precio",
-   25.0,
-   40.0,
-   "",
-   "",
-   "1825 Vendidos",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "BUFFET INTERNACIONAL: Almuerzo ó Cena Bailable",
-   "Cuponatic",
-   "precio",
-   54.9,
-   77.0,
-   "",
-   "",
-   "Buffet Internacional Mandarín",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "INFLABLES + MAQUINAS RECREATIVAS - Todas Sedes - Lun a Dom",
-   "Cuponatic",
-   "precio",
-   21.9,
-   26.0,
-   "",
-   "",
-   "Flying Squirrel",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -131,6 +35,102 @@
    }
   ],
   [
+   "INFLABLES + MAQUINAS RECREATIVAS - Todas Sedes - Lun a Dom",
+   "Cuponatic",
+   "precio",
+   21.9,
+   26.0,
+   "",
+   "",
+   "Flying Squirrel",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "BUFFET INTERNACIONAL: Almuerzo ó Cena Bailable",
+   "Cuponatic",
+   "precio",
+   54.9,
+   77.0,
+   "",
+   "",
+   "Buffet Internacional Mandarín",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Elige cuánto saltar: 30, 45 o 60 min en Supernova",
+   "Cuponatic",
+   "precio",
+   25.0,
+   40.0,
+   "",
+   "",
+   "1827 Vendidos",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "La Bistecca",
+   "Cuponatic",
+   "precio",
+   85.9,
+   103.9,
+   "",
+   "",
+   "LA BISTECCA Almuerzo o Cena Buffet + Bebida",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Revisión Técnica para Auto ó Camioneta Categoría M1",
+   "Cuponatic",
+   "precio",
+   69.0,
+   130.0,
+   "",
+   "",
+   "REVISIONES TÉCNICAS ABC - ATE",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "TODAS LAS SEDES - Juega 30 o 60 Minutos en JUMP SPOT",
+   "Cuponatic",
+   "precio",
+   19.9,
+   35.0,
+   "",
+   "",
+   "Jump Spot Perú",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
    "Coney Park",
    "Cuponatic",
    "precio",
@@ -138,7 +138,7 @@
    60.0,
    "",
    "",
-   "2697 Vendidos",
+   "2702 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {

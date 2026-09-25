@@ -1,6 +1,6 @@
 {
  "id": "caja_arequipa",
- "leido": "2026-09-24T09:24",
+ "leido": "2026-09-25T10:50",
  "filas": [
   [
    "Fulana",
@@ -11,6 +11,22 @@
    "",
    "",
    "Entretenimiento",
+   "Pagando con tarjeta de débito VISA de Caja Arequipa",
+   "Tarjeta Caja Arequipa",
+   {
+    "conf": "of",
+    "ciudad": "AQP"
+   }
+  ],
+  [
+   "Alfa",
+   "Tarjeta Caja Arequipa",
+   "porcentaje",
+   20,
+   0,
+   "",
+   "",
+   "Restaurantes",
    "Pagando con tarjeta de débito VISA de Caja Arequipa",
    "Tarjeta Caja Arequipa",
    {
@@ -35,7 +51,7 @@
    }
   ],
   [
-   "Alfa",
+   "Di Mazza",
    "Tarjeta Caja Arequipa",
    "porcentaje",
    20,
@@ -68,22 +84,6 @@
   ],
   [
    "Barra 420",
-   "Tarjeta Caja Arequipa",
-   "porcentaje",
-   20,
-   0,
-   "",
-   "",
-   "Restaurantes",
-   "Pagando con tarjeta de débito VISA de Caja Arequipa",
-   "Tarjeta Caja Arequipa",
-   {
-    "conf": "of",
-    "ciudad": "AQP"
-   }
-  ],
-  [
-   "Di Mazza",
    "Tarjeta Caja Arequipa",
    "porcentaje",
    20,
