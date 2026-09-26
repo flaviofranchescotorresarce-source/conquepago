@@ -1,6 +1,6 @@
 {
  "id": "cuponidad",
- "leido": "2026-09-25T10:50",
+ "leido": "2026-09-26T09:59",
  "filas": [
   [
    "Cupones de descuento en Perú. Hasta 90% OFF en restaurantes,",
@@ -19,31 +19,15 @@
    }
   ],
   [
-   "Perulandia Full Day + Piscinas + S/. 35 de VALE DE CONSUMO  ",
+   "Cineplanet",
    "Cuponidad",
    "precio",
-   35.0,
-   65.0,
+   47.9,
+   104.0,
    "",
    "",
-   "ENTRETENIMIENTO",
-   "S/42.90 por Full day en Perulandia: entrada + vale de consumo de 35  soles + Perusaurus de lunes a domingo y feriados",
-   "Cuponidad",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Paradox Park: Parque inmersivo donde Roma, Egipto y Grecia c",
-   "Cuponidad",
-   "precio",
-   69.9,
-   115.0,
-   "",
-   "",
-   "Paradox Park: Parque inmersivo donde Roma, Egipto y Grecia cobran vida con juegos, shows, etc",
-   "Compra el cupón en Cuponidad",
+   "Cineplanet: 2 Entradas 2D + 2 Bebidas Grandes + Pop corn gigante. Lunes a Domingo",
+   "Cineplanet: 2 Entradas 2D + 2 Bebidas Grandes + Pop corn gigante. Lunes a Domingo · Cineplanet: S/ 47.90 por 2 entradas 2D + Pop corn gigante  + 2 bebidas grandes. Válido a nivel n",
    "Cuponidad",
    {
     "conf": "of",
@@ -60,38 +44,6 @@
    "",
    "Flying Squirrel:  Full Day, 60 o 120 minutos según elijas en Jockey Plaza, San Miguel e Independencia.",
    "Compra el cupón en Cuponidad",
-   "Cuponidad",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "La Bistecca",
-   "Cuponidad",
-   "precio",
-   85.9,
-   97.9,
-   "",
-   "",
-   "Buffet Almuerzo o Cena + Postres + 1 Bebida ( Ice Tea ) en cualquiera de sus 4 locales",
-   "Compra el cupón en Cuponidad",
-   "Cuponidad",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "RALLY KART: 10, 16 ó 30 vueltas en sus locales de Jockey Pla",
-   "Cuponidad",
-   "precio",
-   14.9,
-   50.0,
-   "",
-   "",
-   "RALLY KART: 10, 16 ó 30 vueltas en sus locales de Jockey Plaza, Open Plaza La Marina, Ate,  Bellavista, Mall Plaza Comas Lunes a Viernes",
-   "RALLY KART: 10, 16 ó 30 vueltas en sus locales de Jockey Plaza, Open Plaza La Marina, Ate,  Bellavista, Mall Plaza Comas Lunes a Viernes",
    "Cuponidad",
    {
     "conf": "of",
@@ -131,15 +83,63 @@
    }
   ],
   [
-   "Cineplanet",
+   "Paradox Park: Parque inmersivo donde Roma, Egipto y Grecia c",
    "Cuponidad",
    "precio",
-   47.9,
-   104.0,
+   69.9,
+   115.0,
    "",
    "",
-   "Cineplanet: 2 Entradas 2D + 2 Bebidas Grandes + Pop corn gigante. Lunes a Domingo",
-   "Cineplanet: 2 Entradas 2D + 2 Bebidas Grandes + Pop corn gigante. Lunes a Domingo · Cineplanet: S/ 47.90 por 2 entradas 2D + Pop corn gigante  + 2 bebidas grandes. Válido a nivel n",
+   "Paradox Park: Parque inmersivo donde Roma, Egipto y Grecia cobran vida con juegos, shows, etc",
+   "Compra el cupón en Cuponidad",
+   "Cuponidad",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Rally Kart:  5, 8 o 15 vueltas según elijas. Válido en sus 6",
+   "Cuponidad",
+   "precio",
+   19.5,
+   39.0,
+   "",
+   "",
+   "Rally Kart:  5, 8 o 15 vueltas según elijas. Válido en sus 6 locales",
+   "Rally Kart:  5, 8 o 15 vueltas según elijas. Válido en sus 6 locales · RALLY KART S/ 19.50 por Sesiones de Karts en JOCKEY PLAZA, LA MARINA, COMAS, ATE, BELLAVISTA  y CHICLAYO. De ",
+   "Cuponidad",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Perulandia Full Day + Piscinas + S/. 35 de VALE DE CONSUMO  ",
+   "Cuponidad",
+   "precio",
+   35.0,
+   65.0,
+   "",
+   "",
+   "ENTRETENIMIENTO",
+   "S/42.90 por Full day en Perulandia: entrada + vale de consumo de 35  soles + Perusaurus de lunes a domingo y feriados",
+   "Cuponidad",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "La Bistecca",
+   "Cuponidad",
+   "precio",
+   85.9,
+   97.9,
+   "",
+   "",
+   "Buffet Almuerzo o Cena + Postres + 1 Bebida ( Ice Tea ) en cualquiera de sus 4 locales",
+   "Compra el cupón en Cuponidad",
    "Cuponidad",
    {
     "conf": "of",
@@ -155,7 +155,7 @@
    "",
    "",
    "breña, cercado de lima, comas, independencia, jesus maria, la molina, la victoria, lince, los olivos, miraflores, san borja, san isidro, san",
-   "Cinemark: 2 Entradas + 2 gaseosas + cancha grande o mediana según elijas (validación ONLINE o física) · Cinemark: Entrada 2D - opción a combo (Validación ONLINE o mostrando tu celu",
+   "Cinemark: 2 Entradas + 2 gaseosas + cancha grande o mediana según elijas (validación ONLINE o física) · Cineplanet: 2 Entradas 2D + 2 Bebidas Grandes + Pop corn gigante. Lunes a Do",
    "Cuponidad",
    {
     "conf": "of",
@@ -163,7 +163,7 @@
    }
   ],
   [
-   "Jump Spot: Accede por 30 o 60 minutos de Full Diversión  en ",
+   "Experiencia Inmersiva casa Warner: Mas de 35 spots instagram",
    "Cuponidad",
    "precio",
    9.9,
@@ -171,7 +171,7 @@
    "",
    "",
    "Pulsera Full Pass de 60 minutos + acceso a 3 juegos interactivos + garra humana. Válido para niño o adulto",
-   "Mr. Joy : Juega por 150 minutos (2:30 hrs). Válido en sus 3 locales. Lunes a Domingo. · Pulsera Full Pass de 60 minutos + acceso a 3 juegos interactivos + garra humana. Válido para",
+   "Pulsera Full Pass de 60 minutos + acceso a 3 juegos interactivos + garra humana. Válido para niño o adulto · Mr. Joy : Juega por 150 minutos (2:30 hrs). Válido en sus 3 locales. Lu",
    "Cuponidad",
    {
     "conf": "of",
@@ -182,11 +182,11 @@
    "Fun Jungle: Full Day o 60 minutos según elijas en los Inflab",
    "Cuponidad",
    "precio",
-   19.9,
+   21.9,
    44.9,
    "",
    "",
-   "Fun Jungle: Full Day o 60 minutos según elijas en los Inflables en El Defby  y Parque de la Amistad",
+   "Flying Squirrel:  Full Day, 60 o 120 minutos según elijas en Jockey Plaza, San Miguel e Independencia.",
    "Yakupark Paracas: 45 o 90 minutos de Diversión según elijas. Lunes a Domingo",
    "Cuponidad",
    {
@@ -198,12 +198,12 @@
    "Sesión de 6 minutos en el Circuito Explanada Olguín Jockey P",
    "Cuponidad",
    "precio",
-   19.5,
+   14.9,
    39.9,
    "",
    "",
-   "Kartódromo RF Karting de Asia: Entrada para niños o adultos según elijas",
-   "Rally Kart:  5, 8 o 15 vueltas según elijas. Válido en sus 6 locales · Fórmula Kart:  Sesiones para niños y adultos. Lunes a domingo",
+   "RALLY KART: 10, 16 ó 30 vueltas en sus locales de Jockey Plaza, Open Plaza La Marina, Ate,  Bellavista, Mall Plaza Comas Lunes a Viernes",
+   "RALLY KART: 10, 16 ó 30 vueltas en sus locales de Jockey Plaza, Open Plaza La Marina, Ate,  Bellavista, Mall Plaza Comas Lunes a Viernes",
    "Cuponidad",
    {
     "conf": "of",
@@ -211,14 +211,46 @@
    }
   ],
   [
-   "Buffet Almuerzo Amazónico Criollo: Entradas, sopas, fondos, ",
+   "Buffet Almuerzo Criollo Marino: Casa Andina Premium Golf Los",
    "Cuponidad",
    "precio",
-   35.9,
+   26.9,
    84.9,
    "",
    "",
    "Buffet Almuerzo Criollo Marino: Casa Andina Premium Golf Los Incas en el restaurante Alma Bar",
+   "Buffet Almuerzo: Entradas + Ensaladas + Fondos + Postres de Lunes a Domingo",
+   "Cuponidad",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Dragon Rolls",
+   "Cuponidad",
+   "precio",
+   29.9,
+   54.9,
+   "",
+   "",
+   "Barra Libre de Makis + alitas + refresco ILIMITADO ó 01 bebida embotellada (gaseosa o agua mineral) . Elige  cualquiera de sus 8 LOCALES",
+   "Barra Libre de Makis o Alitas: Sabores a elección. De Lunes a Domingo",
+   "Cuponidad",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Los 3 chanchitos y el Lobo feroz: 5, 6, 12, 13,  19, 20, 26,",
+   "Cuponidad",
+   "precio",
+   14.9,
+   19.9,
+   "2026-09-26",
+   "2026-09-27",
+   "Mujer que no jode, es Hombre: 5, 12, 19, y 26 de Setiembre. Estación de Barranco - Milagros Porturas",
    "Compra el cupón en Cuponidad",
    "Cuponidad",
    {
@@ -230,12 +262,12 @@
    "Dragon Rolls",
    "Cuponidad",
    "precio",
-   34.9,
-   54.9,
+   9.9,
+   177.0,
    "",
    "",
-   "Barra Libre de Makis + alitas + refresco ILIMITADO ó 01 bebida embotellada (gaseosa o agua mineral) . Elige  cualquiera de sus 8 LOCALES",
-   "Compra el cupón en Cuponidad",
+   "MAKIS: Maki Box 20 makis, Sabores a elección para Consumo, Recojo o Delivery",
+   "Delivery · Tabla de 60 Makis con 6 Sabores al escoger. Opción a recojo o delivery · MAKIS: Maki Box 20 makis, Sabores a elección para Consumo, Recojo o Delivery",
    "Cuponidad",
    {
     "conf": "of",
@@ -243,94 +275,14 @@
    }
   ],
   [
-   "Encanto La Familia Madrigal:  6, 13, 20, 27 de Setiembre en ",
+   "Examen médico brevete SAN JUAN DE MIRAFLORES para AUTO o MOT",
    "Cuponidad",
    "precio",
-   14.9,
-   24.9,
-   "",
-   "2026-09-27",
-   "Los 3 chanchitos y el Lobo feroz: 5, 6, 12, 13,  19, 20, 26, 27 de SETIEMBRE Jazz Zone - Miraflores",
-   "Compra el cupón en Cuponidad",
-   "Cuponidad",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "D Mare Sushi",
-   "Cuponidad",
-   "precio",
-   27.0,
-   0,
+   89.9,
+   149.0,
    "",
    "",
-   "MAKIS: 30 Cortes de Makis + Gaseosa de 500 ml, deliciosos sabores a elección",
-   "Compra el cupón en Cuponidad",
-   "Cuponidad",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "D Mare Sushi",
-   "Cuponidad",
-   "precio",
-   19.9,
-   0,
-   "",
-   "",
-   "MAKIS: 10 cortes de makis + 1 porción de alitas + gaseosa personal",
-   "Compra el cupón en Cuponidad",
-   "Cuponidad",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "D Mare Sushi",
-   "Cuponidad",
-   "precio",
-   37.0,
-   0,
-   "",
-   "",
-   "MAKIS: 40 cortes de makis + 4 fish fingers, deliciosos sabores a elección",
-   "Compra el cupón en Cuponidad",
-   "Cuponidad",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "D Mare Sushi",
-   "Cuponidad",
-   "precio",
-   55.0,
-   0,
-   "",
-   "",
-   "MAKIS: 60 cortes de makis + 2 gaseosas de 500 ml ¡Deliciosos sabores a elección",
-   "Compra el cupón en Cuponidad",
-   "Cuponidad",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Examen Médico para Brevete VILLA EL SALVADOR para auto y mot",
-   "Cuponidad",
-   "precio",
-   94.9,
-   109.99,
-   "",
-   "",
-   "Examen Médico para Brevete VILLA EL SALVADOR para auto y moto",
+   "Examen Médico Para Brevete SAN JUAN DE MIRAFLORES para auto y moto",
    "Compra el cupón en Cuponidad",
    "Cuponidad",
    {
@@ -342,12 +294,12 @@
    "Villa Chicken",
    "Cuponidad",
    "precio",
-   16.9,
-   83.9,
+   60.9,
+   114.9,
    "",
    "",
    "cercado de lima, independencia, jesus maria, la molina, lince, los olivos, magdalena del mar, miraflores, pueblo libre, san borja, san juan ",
-   "Pollo a la brasa + papas fritas + ensalada + gaseosa para CONSUMO o  RECOJO.  Lunes a Domingo",
+   "1 Pollo a la brasa + papas fritas + ensalada + gaseosa para CONSUMO o  RECOJO.  Lunes a Domingo · POLLO A LA LEÑA: 1 pollo + papas fritas + 1 lt. de bebida para CONSUMO EN SALON",
    "Cuponidad",
    {
     "conf": "of",
@@ -371,7 +323,7 @@
    }
   ],
   [
-   "Lavado Deluxe para auto o camioneta de 2 filas de asientos e",
+   "Lavado básico para autos y camionetas de 2 o 3 filas. Válido",
    "Cuponidad",
    "precio",
    29.0,
@@ -387,15 +339,15 @@
    }
   ],
   [
-   "Pucallpa: 2D/1N para 2 en habitación Matrimonial standard",
+   "Full day CHANCAY - HUARAL  : Ecotruly, Castillo de Chancay y",
    "Cuponidad",
    "precio",
-   9.9,
-   799.0,
+   73.9,
+   0,
    "",
    "",
-   "La Fogata de Cieneguilla: Full Day de lunes a domingo para niño o adulto + vale de consumo",
-   "La Fogata de Cieneguilla: Full Day de lunes a domingo para niño o adulto + vale de consumo",
+   "Full day CHANCAY - HUARAL  : Ecotruly, Castillo de Chancay y mucho  más con CEA TRAVEL",
+   "Compra el cupón en Cuponidad",
    "Cuponidad",
    {
     "conf": "of",
@@ -403,14 +355,46 @@
    }
   ],
   [
-   "Perfilado facial sin agujas: Lipoláser diodo facial, drenaje",
+   "Full day Lunahuaná - Cerro Azul con CEA TRAVEL",
    "Cuponidad",
    "precio",
-   19.9,
-   299.9,
+   69.8,
+   0,
    "",
    "",
-   "Perfilado facial sin agujas: Lipoláser diodo facial, drenaje linfático facial  y más",
+   "Ver más detalles",
+   "Compra el cupón en Cuponidad",
+   "Cuponidad",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Full day ANTIOQUIA: Visita a Nieve Nieve,  Camino Inca Qapaq",
+   "Cuponidad",
+   "precio",
+   68.9,
+   0,
+   "",
+   "",
+   "Full day ANTIOQUIA: Visita a Nieve Nieve,  Camino Inca Qapaq Ñan y más con CEA TRAVEL",
+   "Compra el cupón en Cuponidad",
+   "Cuponidad",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Mechas balayage o iluminación cepillado y más",
+   "Cuponidad",
+   "precio",
+   14.9,
+   150.0,
+   "",
+   "",
+   "Tratamiento reductor en 10 visitas, carboxiterapia, drenaje linfático, ultra cavitación y más",
    "eithan blue salón",
    "Cuponidad",
    {
