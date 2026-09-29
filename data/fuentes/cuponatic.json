@@ -1,64 +1,16 @@
 {
  "id": "cuponatic",
- "leido": "2026-09-28T13:37",
+ "leido": "2026-09-29T11:54",
  "filas": [
   [
    "BUFFET INTERNACIONAL: Almuerzo ó Cena Bailable",
    "Cuponatic",
    "precio",
-   54.9,
+   48.0,
    77.0,
    "",
    "",
    "Buffet Internacional Mandarín",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "¡Salsacumbiando: La Gran Fiesta de Salsa y Cumbia!",
-   "Cuponatic",
-   "precio",
-   22.9,
-   48.0,
-   "",
-   "",
-   "Tropic Life Sac Producciones",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "INFLABLES + MAQUINAS RECREATIVAS - Todas Sedes - Lun a Dom",
-   "Cuponatic",
-   "precio",
-   21.9,
-   26.0,
-   "",
-   "",
-   "Flying Squirrel",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Elige cuánto saltar: 30, 45 o 60 min en Supernova",
-   "Cuponatic",
-   "precio",
-   25.0,
-   40.0,
-   "",
-   "",
-   "1890 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -83,6 +35,22 @@
    }
   ],
   [
+   "Elige cuánto saltar: 30, 45 o 60 min en Supernova",
+   "Cuponatic",
+   "precio",
+   25.0,
+   40.0,
+   "",
+   "",
+   "1891 Vendidos",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
    "La Bistecca",
    "Cuponatic",
    "precio",
@@ -99,6 +67,22 @@
    }
   ],
   [
+   "Noche para 2 hasta 9 Personas + Desayuno en Oxapampa",
+   "Cuponatic",
+   "precio",
+   169.0,
+   250.0,
+   "",
+   "",
+   "Cabañas El Pinar de Oxapampa",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
    "Revisión Técnica para Auto ó Camioneta Categoría M1",
    "Cuponatic",
    "precio",
@@ -107,6 +91,22 @@
    "",
    "",
    "REVISIONES TÉCNICAS ABC - ATE",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Isushi",
+   "Cuponatic",
+   "precio",
+   54.9,
+   66.0,
+   "",
+   "",
+   "Barra de Libre de  Makis+ Alitas Isushi Sushi Bar",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -138,7 +138,7 @@
    60.0,
    "",
    "",
-   "2773 Vendidos",
+   "2780 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -163,14 +163,14 @@
    }
   ],
   [
-   "El Salto del Fraile",
+   "Tour Baquíjano Nocturno: Individual o Dúo ¡No Vayas Solo!",
    "Cuponatic",
    "precio",
-   109.9,
-   205.0,
+   35.0,
+   110.0,
    "",
    "",
-   "Frente al Mar: Parrilla de Carne para 2 con Copas de Vino",
+   "Tour Nocturno Baquijano",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -179,14 +179,14 @@
    }
   ],
   [
-   "Super Artrotheca Animales Exóticos - General o Infantil",
+   "INFLABLES + MAQUINAS RECREATIVAS - Todas Sedes - Lun a Dom",
    "Cuponatic",
    "precio",
-   29.99,
-   80.0,
+   21.9,
+   26.0,
    "",
    "",
-   "120 Vendidos",
+   "Flying Squirrel",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -195,31 +195,15 @@
    }
   ],
   [
-   "Noche para 2 hasta 9 Personas + Desayuno en Oxapampa",
+   "Luce Divina: Depilación Brasilera Completa para Damas",
    "Cuponatic",
    "precio",
-   169.0,
-   250.0,
+   19.9,
+   39.9,
    "",
    "",
-   "Cabañas El Pinar de Oxapampa",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "City Tour Cusco + Transporte + Guía + 04 Ruinas y Más",
-   "Cuponatic",
-   "precio",
-   23.9,
-   0,
-   "",
-   "",
-   "JASTHY`N TRAVEL TOURS",
-   "Compra el cupón en Cuponatic",
+   "Babsy Salón de Belleza",
+   "Babsy Salón de Belleza",
    "Cuponatic",
    {
     "conf": "of",
