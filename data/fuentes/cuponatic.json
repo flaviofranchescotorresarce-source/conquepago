@@ -1,16 +1,16 @@
 {
  "id": "cuponatic",
- "leido": "2026-09-30T11:50",
+ "leido": "2026-10-01T12:24",
  "filas": [
   [
-   "Noche para 2 hasta 9 Personas + Desayuno en Oxapampa",
+   "Revisión Técnica para Auto ó Camioneta Categoría M1",
    "Cuponatic",
    "precio",
-   169.0,
-   250.0,
+   69.0,
+   130.0,
    "",
    "",
-   "Cabañas El Pinar de Oxapampa",
+   "REVISIONES TÉCNICAS ABC - ATE",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -42,7 +42,7 @@
    40.0,
    "",
    "",
-   "1902 Vendidos",
+   "1907 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -54,43 +54,11 @@
    "La Bistecca",
    "Cuponatic",
    "precio",
-   85.9,
+   21.9,
    103.9,
    "",
    "",
-   "LA BISTECCA Almuerzo o Cena Buffet + Bebida",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "BUFFET INTERNACIONAL: Almuerzo ó Cena Bailable",
-   "Cuponatic",
-   "precio",
-   48.0,
-   77.0,
-   "",
-   "",
-   "Buffet Internacional Mandarín",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Revisión Técnica para Auto ó Camioneta Categoría M1",
-   "Cuponatic",
-   "precio",
-   69.0,
-   130.0,
-   "",
-   "",
-   "REVISIONES TÉCNICAS ABC - ATE",
+   "INFLABLES + MAQUINAS RECREATIVAS - Todas Sedes - Lun a Dom",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -138,7 +106,7 @@
    60.0,
    "",
    "",
-   "2786 Vendidos",
+   "2794 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -166,7 +134,7 @@
    "Tour Baquíjano Nocturno: Individual o Dúo ¡No Vayas Solo!",
    "Cuponatic",
    "precio",
-   35.0,
+   54.9,
    110.0,
    "",
    "",
@@ -179,14 +147,14 @@
    }
   ],
   [
-   "INFLABLES + MAQUINAS RECREATIVAS - Todas Sedes - Lun a Dom",
+   "La Choza de La Anaconda",
    "Cuponatic",
    "precio",
-   21.9,
-   26.0,
+   38.9,
+   0,
    "",
    "",
-   "Flying Squirrel",
+   "BUFFET Amazónico / Criollo: Jesús María - Los Olivos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -195,14 +163,14 @@
    }
   ],
   [
-   "5 o 7 Curaciones + Fluorización + Profilaxis y más",
+   "Los Tres Chanchitos - JAZZ ZONE | Sab y Dom en Setiembre",
    "Cuponatic",
    "precio",
-   19.9,
-   350.0,
+   14.9,
+   30.0,
    "",
    "",
-   "435 Vendidos",
+   "Vicky Paz Producciones",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -211,14 +179,14 @@
    }
   ],
   [
-   "¡Cuerpo de Infarto! 10 Sesiones de Carboxiterapia",
+   "Podología Completa: Corte, Exfoliación y Hidratación",
    "Cuponatic",
    "precio",
-   44.9,
-   1200.0,
+   39.9,
+   100.0,
    "",
    "",
-   "A&C estética integral y spa",
+   "podologos delgado",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
