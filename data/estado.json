@@ -3,63 +3,63 @@
   "ok": false,
   "filas": 0,
   "leido": "",
-  "intento": "2026-10-02T11:40",
-  "error": "could not convert string to float: '28.80.'"
+  "intento": "2026-10-03T10:09",
+  "error": "could not convert string to float: '2.50.'"
  },
  "telegram": {
   "ok": true,
-  "filas": 1,
-  "leido": "2026-10-02T11:40",
+  "filas": 0,
+  "leido": "2026-10-03T10:09",
   "error": ""
  },
  "bbva": {
   "ok": false,
   "filas": 0,
   "leido": "",
-  "intento": "2026-10-02T11:40",
+  "intento": "2026-10-03T10:09",
   "error": "No se pudo descargar https://www.bbva.pe/content/dam/public-web/peru/documents/personas/catalogo-promociones/Catalogo-provincias.pdf: 403 Client Error: Forbidden for url: https://www.bbva.pe/content/dam/public-web/peru/documents/personas/catalogo-promociones/Catalogo-provincias.pdf"
  },
  "caja_arequipa": {
   "ok": true,
   "filas": 9,
-  "leido": "2026-10-02T11:40",
+  "leido": "2026-10-03T10:09",
   "error": ""
  },
  "cuponatic": {
   "ok": true,
-  "filas": 16,
-  "leido": "2026-10-02T11:40",
+  "filas": 18,
+  "leido": "2026-10-03T10:09",
   "error": ""
  },
  "cuponidad": {
   "ok": true,
-  "filas": 30,
-  "leido": "2026-10-02T11:40",
+  "filas": 27,
+  "leido": "2026-10-03T10:09",
   "error": ""
  },
  "papajohns": {
   "ok": true,
   "filas": 4,
-  "leido": "2026-10-02T11:40",
+  "leido": "2026-10-03T10:09",
   "error": ""
  },
  "nutripoint": {
   "ok": true,
   "filas": 2,
-  "leido": "2026-10-02T11:40",
+  "leido": "2026-10-03T10:09",
   "error": ""
  },
  "cencosud": {
   "ok": false,
   "filas": 0,
   "leido": "",
-  "intento": "2026-10-02T11:40",
+  "intento": "2026-10-03T10:09",
   "error": "could not convert string to float: '46.80.'"
  },
  "starperu": {
   "ok": true,
   "filas": 1,
-  "leido": "2026-10-02T11:40",
+  "leido": "2026-10-03T10:09",
   "error": ""
  }
 }

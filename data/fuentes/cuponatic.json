@@ -1,48 +1,16 @@
 {
  "id": "cuponatic",
- "leido": "2026-10-02T11:40",
+ "leido": "2026-10-03T10:09",
  "filas": [
   [
-   "Juegos Ilimitados + Opción a Piscina en Rancho Aventura Park",
+   "Elige cuánto saltar: 30, 45 o 60 min en Supernova",
    "Cuponatic",
    "precio",
-   44.9,
-   0,
+   25.0,
+   40.0,
    "",
    "",
-   "¡Mejor precio!",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Revisión Técnica para Auto ó Camioneta Categoría M1",
-   "Cuponatic",
-   "precio",
-   69.0,
-   130.0,
-   "",
-   "",
-   "REVISIONES TÉCNICAS ABC - ATE",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Cineplanet",
-   "Cuponatic",
-   "precio",
-   47.9,
-   107.0,
-   "",
-   "",
-   "Cineplanet: 2 Entradas + Combo Gigante para 2 Todos los Días",
+   "1919 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -67,14 +35,14 @@
    }
   ],
   [
-   "Desayuno Buffet Completo | Radisson RED Miraflores",
+   "Cineplanet",
    "Cuponatic",
    "precio",
-   45.0,
-   69.0,
+   47.9,
+   107.0,
    "",
    "",
-   "Radisson RED Miraflores",
+   "Cineplanet: 2 Entradas + Combo Gigante para 2 Todos los Días",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -83,14 +51,46 @@
    }
   ],
   [
-   "Circuito de Karting para Niños o Adultos Boulevard Asia",
+   "Vive la Adrenalina -Sesión de 6 Minutos Circuito -Euro Karts",
+   "Cuponatic",
+   "precio",
+   24.9,
+   35.0,
+   "",
+   "",
+   "6734 Vendidos",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Patinaje Sobre Hielo en Lima Bajo Cero de Lunes a Viernes -",
+   "Cuponatic",
+   "precio",
+   16.9,
+   20.0,
+   "",
+   "",
+   "LIMA BAJO CERO",
+   "Patinaje Sobre Hielo en Lima Bajo Cero de Lunes a Viernes -",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Coney Park",
    "Cuponatic",
    "precio",
    39.9,
-   0,
+   60.0,
    "",
    "",
-   "RF Karting Asia",
+   "2813 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -99,14 +99,14 @@
    }
   ],
   [
-   "Elige cuánto saltar: 30, 45 o 60 min en Supernova",
+   "Mr Jump",
    "Cuponatic",
    "precio",
-   25.0,
-   40.0,
+   27.9,
+   55.0,
    "",
    "",
-   "1909 Vendidos",
+   "Parque Inflable Más Grande de Lima - Entrada General Mr Jump",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -147,14 +147,14 @@
    }
   ],
   [
-   "Coney Park",
+   "Juegos Ilimitados + Opción a Piscina en Rancho Aventura Park",
    "Cuponatic",
    "precio",
-   39.9,
-   60.0,
+   44.9,
+   0,
    "",
    "",
-   "2799 Vendidos",
+   "¡Mejor precio!",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -179,6 +179,38 @@
    }
   ],
   [
+   "ECOGRANJITA: Granjita Interactiva en Jockey Club",
+   "Cuponatic",
+   "precio",
+   19.9,
+   30.0,
+   "",
+   "",
+   "Ecogranjita",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Revisión Técnica para Auto ó Camioneta Categoría M1",
+   "Cuponatic",
+   "precio",
+   69.0,
+   130.0,
+   "",
+   "",
+   "REVISIONES TÉCNICAS ABC - ATE",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
    "Coney Park",
    "Cuponatic",
    "precio",
@@ -186,7 +218,7 @@
    130.0,
    "",
    "",
-   "2658 Vendidos",
+   "2665 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -195,14 +227,14 @@
    }
   ],
   [
-   "Cuidado Dental: Limpieza, Sellantes o Curaciones",
+   "Granja Fundo San Vicente",
    "Cuponatic",
    "precio",
-   49.9,
-   350.0,
+   44.9,
+   59.0,
    "",
    "",
-   "Clínica Dental Smile Perfection",
+   "Full Day en Granja Interactiva Fundo San Vicente",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -211,14 +243,14 @@
    }
   ],
   [
-   "Noche para 2 hasta 9 Personas + Desayuno en Oxapampa",
+   "Circuito de Karting para Niños o Adultos Boulevard Asia",
    "Cuponatic",
    "precio",
-   215.0,
-   250.0,
+   39.9,
+   0,
    "",
    "",
-   "Cabañas El Pinar de Oxapampa",
+   "RF Karting Asia",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
