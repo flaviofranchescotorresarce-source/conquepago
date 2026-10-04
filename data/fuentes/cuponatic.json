@@ -1,16 +1,64 @@
 {
  "id": "cuponatic",
- "leido": "2026-10-03T10:09",
+ "leido": "2026-10-04T10:49",
  "filas": [
   [
-   "Elige cuánto saltar: 30, 45 o 60 min en Supernova",
+   "Cineplanet",
    "Cuponatic",
    "precio",
-   25.0,
-   40.0,
+   47.9,
+   107.0,
    "",
    "",
-   "1919 Vendidos",
+   "Cineplanet: 2 Entradas + Combo Gigante para 2 Todos los Días",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Ronda Chozera para 02: 1 Cebiche + Arroz con mariscos y Más",
+   "Cuponatic",
+   "precio",
+   27.9,
+   85.0,
+   "",
+   "",
+   "La Choza Naútica Breña",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Mr Jump",
+   "Cuponatic",
+   "precio",
+   27.9,
+   55.0,
+   "",
+   "",
+   "Parque Inflable Más Grande de Lima - Entrada General Mr Jump",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Granja Fundo San Vicente",
+   "Cuponatic",
+   "precio",
+   44.9,
+   59.0,
+   "",
+   "",
+   "Full Day en Granja Interactiva Fundo San Vicente",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -35,54 +83,6 @@
    }
   ],
   [
-   "Cineplanet",
-   "Cuponatic",
-   "precio",
-   47.9,
-   107.0,
-   "",
-   "",
-   "Cineplanet: 2 Entradas + Combo Gigante para 2 Todos los Días",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Vive la Adrenalina -Sesión de 6 Minutos Circuito -Euro Karts",
-   "Cuponatic",
-   "precio",
-   24.9,
-   35.0,
-   "",
-   "",
-   "6734 Vendidos",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Patinaje Sobre Hielo en Lima Bajo Cero de Lunes a Viernes -",
-   "Cuponatic",
-   "precio",
-   16.9,
-   20.0,
-   "",
-   "",
-   "LIMA BAJO CERO",
-   "Patinaje Sobre Hielo en Lima Bajo Cero de Lunes a Viernes -",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
    "Coney Park",
    "Cuponatic",
    "precio",
@@ -90,7 +90,7 @@
    60.0,
    "",
    "",
-   "2813 Vendidos",
+   "2860 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -99,14 +99,30 @@
    }
   ],
   [
-   "Mr Jump",
+   "Elige cuánto saltar: 30, 45 o 60 min en Supernova",
    "Cuponatic",
    "precio",
-   27.9,
-   55.0,
+   25.0,
+   40.0,
    "",
    "",
-   "Parque Inflable Más Grande de Lima - Entrada General Mr Jump",
+   "1957 Vendidos",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Artrotheca Exhibición Animales en Jockey Plaza",
+   "Cuponatic",
+   "precio",
+   16.99,
+   80.0,
+   "",
+   "",
+   "25 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -147,14 +163,14 @@
    }
   ],
   [
-   "Juegos Ilimitados + Opción a Piscina en Rancho Aventura Park",
+   "Circuito de Karting para Niños o Adultos Boulevard Asia",
    "Cuponatic",
    "precio",
-   44.9,
+   39.9,
    0,
    "",
    "",
-   "¡Mejor precio!",
+   "RF Karting Asia",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -218,7 +234,7 @@
    130.0,
    "",
    "",
-   "2665 Vendidos",
+   "2677 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -227,30 +243,14 @@
    }
   ],
   [
-   "Granja Fundo San Vicente",
+   "Juegos Ilimitados + Opción a Piscina en Rancho Aventura Park",
    "Cuponatic",
    "precio",
    44.9,
-   59.0,
-   "",
-   "",
-   "Full Day en Granja Interactiva Fundo San Vicente",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Circuito de Karting para Niños o Adultos Boulevard Asia",
-   "Cuponatic",
-   "precio",
-   39.9,
    0,
    "",
    "",
-   "RF Karting Asia",
+   "¡Mejor precio!",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
