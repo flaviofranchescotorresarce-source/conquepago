@@ -1,16 +1,16 @@
 {
  "id": "cuponatic",
- "leido": "2026-10-04T10:49",
+ "leido": "2026-10-05T14:43",
  "filas": [
   [
-   "Cineplanet",
+   "Rústica Santa Eulalia: 1 Noche para 2 o 4 Personas + Piscina",
    "Cuponatic",
    "precio",
-   47.9,
-   107.0,
+   99.9,
+   150.0,
    "",
    "",
-   "Cineplanet: 2 Entradas + Combo Gigante para 2 Todos los Días",
+   "San Eulalia Rustica",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -35,14 +35,14 @@
    }
   ],
   [
-   "Mr Jump",
+   "Cineplanet",
    "Cuponatic",
    "precio",
-   27.9,
-   55.0,
+   47.9,
+   107.0,
    "",
    "",
-   "Parque Inflable Más Grande de Lima - Entrada General Mr Jump",
+   "Cineplanet: 2 Entradas + Combo Gigante para 2 Todos los Días",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -51,14 +51,14 @@
    }
   ],
   [
-   "Granja Fundo San Vicente",
+   "Spa para 1 o 2 + Sauna a Vapor o Hidromasaje",
    "Cuponatic",
    "precio",
-   44.9,
-   59.0,
+   159.0,
+   300.0,
    "",
    "",
-   "Full Day en Granja Interactiva Fundo San Vicente",
+   "Q Spa Wellness",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -90,7 +90,7 @@
    60.0,
    "",
    "",
-   "2860 Vendidos",
+   "2901 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -106,7 +106,7 @@
    40.0,
    "",
    "",
-   "1957 Vendidos",
+   "1968 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -115,14 +115,14 @@
    }
   ],
   [
-   "Artrotheca Exhibición Animales en Jockey Plaza",
+   "Láser para hongos 10 sesiones + Alta frecuencia 3 sesiones",
    "Cuponatic",
    "precio",
-   16.99,
-   80.0,
+   59.9,
+   200.0,
    "",
    "",
-   "25 Vendidos",
+   "podologos delgado",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -147,14 +147,14 @@
    }
   ],
   [
-   "TODAS LAS SEDES - Juega 30 o 60 Minutos en JUMP SPOT",
+   "Uñas Rubber o Acrílicas con Diseño y Forma a Elección y Más",
    "Cuponatic",
    "precio",
-   19.9,
-   35.0,
+   45.0,
+   85.0,
    "",
    "",
-   "Jump Spot Perú",
+   "Lunha Spa",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -163,14 +163,14 @@
    }
   ],
   [
-   "Circuito de Karting para Niños o Adultos Boulevard Asia",
+   "Rodizio",
    "Cuponatic",
    "precio",
-   39.9,
-   0,
+   89.9,
+   94.9,
    "",
    "",
-   "RF Karting Asia",
+   "Buffet de Carnes ILIMITADAS + Salad Bar - RODIZIO",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -195,14 +195,14 @@
    }
   ],
   [
-   "ECOGRANJITA: Granjita Interactiva en Jockey Club",
+   "¡Renuevate! Día de SPA para 02 - THERAPY SPA",
    "Cuponatic",
    "precio",
-   19.9,
-   30.0,
+   99.0,
+   189.0,
    "",
    "",
-   "Ecogranjita",
+   "331 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -227,30 +227,14 @@
    }
   ],
   [
-   "Coney Park",
+   "Noche para 2 hasta 9 Personas + Desayuno en Oxapampa",
    "Cuponatic",
    "precio",
-   59.9,
-   130.0,
+   215.0,
+   250.0,
    "",
    "",
-   "2677 Vendidos",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Juegos Ilimitados + Opción a Piscina en Rancho Aventura Park",
-   "Cuponatic",
-   "precio",
-   44.9,
-   0,
-   "",
-   "",
-   "¡Mejor precio!",
+   "Cabañas El Pinar de Oxapampa",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {

@@ -1,6 +1,6 @@
 {
  "id": "cuponidad",
- "leido": "2026-10-04T10:49",
+ "leido": "2026-10-05T14:43",
  "filas": [
   [
    "Cupones de descuento en Perú — Hasta 90% OFF | Cuponidad",
@@ -19,46 +19,14 @@
    }
   ],
   [
-   "Cinemark",
+   "La Bistecca",
    "Cuponidad",
    "precio",
-   10.9,
-   25.0,
+   85.9,
+   97.9,
    "",
    "",
-   "Cinemark: Entrada 2D - opción a combo (Validación ONLINE o mostrando tu celular)",
-   "Cinemark: Entrada 2D - opción a combo (Validación ONLINE o mostrando tu celular) · Cinemark: Desde S/ 10.90 por entrada 2D. Válido a nivel nacional con opción a combo (Sin costo de",
-   "Cuponidad",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Rally Kart:  5, 8 o 15 vueltas según elijas. Válido en sus 6",
-   "Cuponidad",
-   "precio",
-   19.5,
-   39.0,
-   "",
-   "",
-   "Rally Kart:  5, 8 o 15 vueltas según elijas. Válido en sus 6 locales",
-   "Rally Kart:  5, 8 o 15 vueltas según elijas. Válido en sus 6 locales · RALLY KART S/ 19.50 por Sesiones de Karts en JOCKEY PLAZA, LA MARINA, COMAS, ATE, BELLAVISTA  y CHICLAYO. De ",
-   "Cuponidad",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Paradox Park: Parque inmersivo donde Roma, Egipto y Grecia c",
-   "Cuponidad",
-   "precio",
-   69.9,
-   115.0,
-   "",
-   "",
-   "Paradox Park: Parque inmersivo donde Roma, Egipto y Grecia cobran vida con juegos, shows, etc",
+   "Buffet Almuerzo o Cena + Postres + 1 Bebida ( Ice Tea ) en cualquiera de sus 4 locales",
    "Compra el cupón en Cuponidad",
    "Cuponidad",
    {
@@ -67,14 +35,30 @@
    }
   ],
   [
-   "Fun Jungle: Full Day o 60 minutos según elijas en los Inflab",
+   "Fórmula Kart:  Sesiones para niños y adultos. Lunes a doming",
    "Cuponidad",
    "precio",
-   28.9,
-   55.0,
+   22.9,
+   40.0,
    "",
    "",
-   "Fun Jungle: Full Day o 60 minutos según elijas en los Inflables en El Defby  y Parque de la Amistad",
+   "Fórmula Kart:  Sesiones para niños y adultos. Lunes a domingo",
+   "Fórmula Kart:  Sesiones para niños y adultos. Lunes a domingo · ¡Fórmula Kart! Desde S/ 22.90 por Sesiones de Kart para adultos o niños en La Molina! ¡De lunes a domingo! Muestra e",
+   "Cuponidad",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Extraña Pareja:  03, 18 de OCTUBRE  en el teatro Jazz Zone -",
+   "Cuponidad",
+   "precio",
+   19.9,
+   25.0,
+   "",
+   "2026-10-18",
+   "Extraña Pareja:  03, 18 de OCTUBRE  en el teatro Jazz Zone - Miraflores",
    "Compra el cupón en Cuponidad",
    "Cuponidad",
    {
@@ -99,15 +83,15 @@
    }
   ],
   [
-   "Mr. Joy : Juega por 150 minutos (2:30 hrs). Válido en sus 3 ",
+   "Paradox Park: Parque inmersivo donde Roma, Egipto y Grecia c",
    "Cuponidad",
    "precio",
-   30.9,
-   50.0,
+   69.9,
+   115.0,
    "",
    "",
-   "Mr. Joy : Juega por 150 minutos (2:30 hrs). Válido en sus 3 locales. Lunes a Domingo.",
-   "Mr. Joy : Juega por 150 minutos (2:30 hrs). Válido en sus 3 locales. Lunes a Domingo. · Disfruta  2:30 horas de diversión en MR JOY por solo S/ 30.90 Válido en Real Plaza Puruchuco",
+   "Paradox Park: Parque inmersivo donde Roma, Egipto y Grecia cobran vida con juegos, shows, etc",
+   "Compra el cupón en Cuponidad",
    "Cuponidad",
    {
     "conf": "of",
@@ -115,15 +99,15 @@
    }
   ],
   [
-   "La Bistecca",
+   "RALLY KART: 10, 16 ó 30 vueltas en sus locales de Jockey Pla",
    "Cuponidad",
    "precio",
-   85.9,
-   97.9,
+   14.9,
+   50.0,
    "",
    "",
-   "Buffet Almuerzo o Cena + Postres + 1 Bebida ( Ice Tea ) en cualquiera de sus 4 locales",
-   "Compra el cupón en Cuponidad",
+   "RALLY KART: 10, 16 ó 30 vueltas en sus locales de Jockey Plaza, Open Plaza La Marina, Ate,  Bellavista, Mall Plaza Comas Lunes a Viernes",
+   "RALLY KART: 10, 16 ó 30 vueltas en sus locales de Jockey Plaza, Open Plaza La Marina, Ate,  Bellavista, Mall Plaza Comas Lunes a Viernes",
    "Cuponidad",
    {
     "conf": "of",
@@ -147,6 +131,22 @@
    }
   ],
   [
+   "Experiencia Inmersiva casa Warner: Mas de 35 spots instagram",
+   "Cuponidad",
+   "precio",
+   25.0,
+   50.0,
+   "",
+   "",
+   "Experiencia Inmersiva casa Warner: Mas de 35 spots instagrameables y 18 salas. Plaza Norte",
+   "S/25  por entrada a la CASA WARNER ¡Sumérgete en el universo de tus personajes favoritos! Lunes a Domingo en Explanada Plaza Norte!",
+   "Cuponidad",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
    "Cineplanet",
    "Cuponidad",
    "precio",
@@ -163,15 +163,31 @@
    }
   ],
   [
-   "Pulsera Full Pass de 60 minutos + acceso a 3 juegos interact",
+   "La Fogata de Cieneguilla: Full Day de lunes a domingo para n",
    "Cuponidad",
    "precio",
-   12.9,
+   9.9,
+   70.9,
+   "",
+   "",
+   "La Fogata de Cieneguilla: Full Day de lunes a domingo para niño o adulto + vale de consumo",
+   "La Fogata de Cieneguilla: Full Day de lunes a domingo para niño o adulto + vale de consumo · Toboganes de Santa Ana: Ingreso con opción a almuerzo. Lunes a Domingo. Chosica",
+   "Cuponidad",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Jump Spot: Accede por 30 o 60 minutos de Full Diversión  en ",
+   "Cuponidad",
+   "precio",
+   17.9,
    69.9,
    "",
    "",
    "Pulsera Full Pass de 60 minutos + acceso a 3 juegos interactivos + garra humana. Válido para niño o adulto",
-   "Pulsera Full Pass de 60 minutos + acceso a 3 juegos interactivos + garra humana. Válido para niño o adulto",
+   "Pulsera Full Pass de 60 minutos + acceso a 3 juegos interactivos + garra humana. Válido para niño o adulto · Mr. Joy : Juega por 150 minutos (2:30 hrs). Válido en sus 3 locales. Lu",
    "Cuponidad",
    {
     "conf": "of",
@@ -179,10 +195,10 @@
    }
   ],
   [
-   "Yakupark Paracas: 45 o 90 minutos de Diversión según elijas.",
+   "Infinity Park Arequipa: entrada para niño o adulto al parque",
    "Cuponidad",
    "precio",
-   21.9,
+   19.9,
    44.9,
    "",
    "",
@@ -195,7 +211,7 @@
    }
   ],
   [
-   "Fórmula Kart:  Sesiones para niños y adultos. Lunes a doming",
+   "RF Karting La Victoria: Sesiones para niños o adultos según ",
    "Cuponidad",
    "precio",
    14.9,
@@ -203,7 +219,7 @@
    "",
    "",
    "Rally Kart:  5, 8 o 15 vueltas según elijas. Válido en sus 6 locales",
-   "Fórmula Kart:  Sesiones para niños y adultos. Lunes a domingo · Rally Kart:  5, 8 o 15 vueltas según elijas. Válido en sus 6 locales",
+   "Rally Kart:  5, 8 o 15 vueltas según elijas. Válido en sus 6 locales · Fórmula Kart:  Sesiones para niños y adultos. Lunes a domingo",
    "Cuponidad",
    {
     "conf": "of",
@@ -211,15 +227,15 @@
    }
   ],
   [
-   "Buffet Almuerzo Criollo Marino: Casa Andina Select Miraflore",
+   "Buffet Almuerzo: Entradas + Ensaladas + Fondos + Postres de ",
    "Cuponidad",
    "precio",
-   29.9,
-   84.9,
+   26.9,
+   61.9,
    "",
    "",
-   "Buffet Almuerzo Criollo Marino: Casa Andina Premium Golf Los Incas en el restaurante Alma Bar",
-   "Compra el cupón en Cuponidad",
+   "Buffet Almuerzo Criollo Marino: Casa Andina Select Miraflores en Restaurante La Plaza",
+   "Buffet Almuerzo: Entradas + Ensaladas + Fondos + Postres de Lunes a Domingo",
    "Cuponidad",
    {
     "conf": "of",
@@ -243,46 +259,14 @@
    }
   ],
   [
-   "Halloween vs. Canción Criolla: Obra teatral para niños 31 de",
-   "Cuponidad",
-   "precio",
-   14.9,
-   0,
-   "",
-   "2026-10-31",
-   "Halloween vs. Canción Criolla: Obra teatral para niños 31 de Octubre Jazz Zone - Miraflores",
-   "Compra el cupón en Cuponidad",
-   "Cuponidad",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
    "Extraña Pareja:  03, 18 de OCTUBRE  en el teatro Jazz Zone -",
    "Cuponidad",
    "precio",
-   19.9,
-   0,
-   "",
-   "2026-10-18",
-   "Extraña Pareja:  03, 18 de OCTUBRE  en el teatro Jazz Zone - Miraflores",
-   "Compra el cupón en Cuponidad",
-   "Cuponidad",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Hansel y Gretel: El 08 de Octubre en el Teatro Jazz Zone - M",
-   "Cuponidad",
-   "precio",
    14.9,
-   0,
-   "",
-   "2026-10-08",
-   "Hansel y Gretel: El 08 de Octubre en el Teatro Jazz Zone - Miraflores",
+   34.9,
+   "2026-10-18",
+   "2026-10-31",
+   "Halloween vs. Canción Criolla: Obra teatral para niños 31 de Octubre Jazz Zone - Miraflores",
    "Compra el cupón en Cuponidad",
    "Cuponidad",
    {
@@ -299,7 +283,7 @@
    "",
    "",
    "barranco, breña, chorrillos, jesus maria, la molina, lince, magdalena del mar, miraflores, pueblo libre, san borja, san isidro, san luis, sa",
-   "20 makis + 1 bebida de 300 ml. Sabores a elección para Consumo, Recojo o Delivery · Delivery",
+   "Delivery · Tabla de 60 Makis con 6 Sabores al escoger. Opción a recojo o delivery",
    "Cuponidad",
    {
     "conf": "of",
@@ -307,15 +291,15 @@
    }
   ],
   [
-   "Examen médico para brevete INDEPENDENCIA para AUTO",
+   "Examen médico para brevete COMAS para AUTO o MOTO",
    "Cuponidad",
    "precio",
-   94.9,
-   110.0,
+   99.9,
+   120.0,
    "",
    "",
-   "Examen Medico para brevete SAN JUAN DE MIRAFLORES para AUTO o MOTO",
-   "Compra el cupón en Cuponidad",
+   "Examen Médico para Brevete de Auto o Moto: Licencia nuevo, revalidar, recategorizar",
+   "Examen Médico para Brevete de Auto o Moto: Licencia nuevo, revalidar, recategorizar",
    "Cuponidad",
    {
     "conf": "of",
@@ -323,15 +307,15 @@
    }
   ],
   [
-   "Parilla para 2: Churrasco, Chuleta, Pollo a la leña, Molleja",
+   "Excelencia Pollos",
    "Cuponidad",
    "precio",
    16.9,
-   114.9,
+   83.9,
    "",
    "",
-   "1 Pollo a la Brasa + 1/4 pollo a la leña + 1 porción de papas nativas fritas + 1 ensalada familiar + Bebida familiar",
-   "POLLO A LA BRASA: 1 Pollo  a la brasa entero + papas fritas + ensalada (SOLO RECOJO)",
+   "cercado de lima, independencia, jesus maria, la molina, lince, los olivos, magdalena del mar, miraflores, pueblo libre, san borja, san juan ",
+   "Pollo a la brasa + papas fritas + ensalada + gaseosa para CONSUMO o  RECOJO.  Lunes a Domingo",
    "Cuponidad",
    {
     "conf": "of",
@@ -346,7 +330,7 @@
    129.0,
    "",
    "",
-   "Parrilla para 2:  Baby beef, pollo, chorizo, anticucho, etc frente al mar",
+   "Parrilla para 2: Parrilla marina para 2 personas + 2 copas de vino blanco, frente al mar",
    "Compra el cupón en Cuponidad",
    "Cuponidad",
    {
@@ -355,15 +339,15 @@
    }
   ],
   [
-   "Servicio de Undercoating La Perla: Para auto o camioneta de ",
+   "Lavado VIP pata auto o camioneta + Lavado de motor + Encerad",
    "Cuponidad",
    "precio",
-   29.0,
-   128.0,
+   39.9,
+   0,
    "",
    "",
-   "Lavado Deluxe para auto o camioneta de 2 filas de asientos en Gabriel Carwash de Cercado",
-   "Lavado básico para autos y camionetas de 2 o 3 filas. Válido en 4 locales · Carwash Callao: Lavado de salón Vip para auto o camioneta",
+   "Lavado VIP pata auto o camioneta + Lavado de motor + Encerado",
+   "Compra el cupón en Cuponidad",
    "Cuponidad",
    {
     "conf": "of",
@@ -371,15 +355,47 @@
    }
   ],
   [
-   "Tour de aventura con tubulares y Sandboard para 02 personas",
+   "Pulido de faros para auto o camioneta",
    "Cuponidad",
    "precio",
-   19.9,
-   150.0,
+   59.9,
+   0,
+   "",
+   "",
+   "los negocios carwash",
+   "Compra el cupón en Cuponidad",
+   "Cuponidad",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Lavado de salón profesional: Lavado de asientos, techo, carr",
+   "Cuponidad",
+   "precio",
+   149.0,
+   0,
+   "",
+   "",
+   "Lavado de salón profesional: Lavado de asientos, techo, carrocería y más",
+   "Lavado de salón profesional: Lavado de asientos, techo, carrocería y más",
+   "Cuponidad",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Full Day en Huampani:  Piscina, granja, juegos, restaurantes",
+   "Cuponidad",
+   "precio",
+   9.9,
+   799.0,
    "",
    "",
    "CHINCHA: Full Day para niño o adulto: Piscina, juegos y cine familiar en Hotel Thiago ¡Diversión asegurada!",
-   "La Fogata de Cieneguilla: Full Day de lunes a domingo para niño o adulto + vale de consumo",
+   "Compra el cupón en Cuponidad",
    "Cuponidad",
    {
     "conf": "of",
@@ -387,15 +403,15 @@
    }
   ],
   [
-   "Tratamiento botox  capilar  a todo largo  ¡Cabello super bri",
+   "Full day Spa para uno o dos con masajes y más",
    "Cuponidad",
    "precio",
    19.9,
-   99.9,
+   84.9,
    "",
    "",
-   "Tratamiento reductor en 10 visitas, carboxiterapia, drenaje linfático, ultra cavitación y más",
-   "eithan blue salón",
+   "¡Adiós horquillas! Tratamiento Split Ender + mascarilla + trat. bruma y más.",
+   "bonet´s salon spa · eithan blue salón",
    "Cuponidad",
    {
     "conf": "of",
