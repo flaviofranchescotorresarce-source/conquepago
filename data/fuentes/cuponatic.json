@@ -1,208 +1,16 @@
 {
  "id": "cuponatic",
- "leido": "2026-10-05T14:43",
+ "leido": "2026-10-06T12:14",
  "filas": [
   [
-   "Rústica Santa Eulalia: 1 Noche para 2 o 4 Personas + Piscina",
+   "Para 2: Masaje Relajante + Reflexología + Copa Vino",
    "Cuponatic",
    "precio",
-   99.9,
-   150.0,
-   "",
-   "",
-   "San Eulalia Rustica",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Ronda Chozera para 02: 1 Cebiche + Arroz con mariscos y Más",
-   "Cuponatic",
-   "precio",
-   27.9,
-   85.0,
-   "",
-   "",
-   "La Choza Naútica Breña",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Cineplanet",
-   "Cuponatic",
-   "precio",
-   47.9,
-   107.0,
-   "",
-   "",
-   "Cineplanet: 2 Entradas + Combo Gigante para 2 Todos los Días",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Spa para 1 o 2 + Sauna a Vapor o Hidromasaje",
-   "Cuponatic",
-   "precio",
-   159.0,
-   300.0,
-   "",
-   "",
-   "Q Spa Wellness",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "La Bistecca",
-   "Cuponatic",
-   "precio",
-   85.9,
-   103.9,
-   "",
-   "",
-   "LA BISTECCA Almuerzo o Cena Buffet + Bebida",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Coney Park",
-   "Cuponatic",
-   "precio",
-   39.9,
-   60.0,
-   "",
-   "",
-   "2901 Vendidos",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Elige cuánto saltar: 30, 45 o 60 min en Supernova",
-   "Cuponatic",
-   "precio",
-   25.0,
-   40.0,
-   "",
-   "",
-   "1968 Vendidos",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Láser para hongos 10 sesiones + Alta frecuencia 3 sesiones",
-   "Cuponatic",
-   "precio",
-   59.9,
+   130.0,
    200.0,
    "",
    "",
-   "podologos delgado",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "BUFFET INTERNACIONAL: Almuerzo ó Cena Bailable",
-   "Cuponatic",
-   "precio",
-   54.9,
-   60.0,
-   "",
-   "",
-   "Buffet Internacional Mandarín",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Uñas Rubber o Acrílicas con Diseño y Forma a Elección y Más",
-   "Cuponatic",
-   "precio",
-   45.0,
-   85.0,
-   "",
-   "",
-   "Lunha Spa",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Rodizio",
-   "Cuponatic",
-   "precio",
-   89.9,
-   94.9,
-   "",
-   "",
-   "Buffet de Carnes ILIMITADAS + Salad Bar - RODIZIO",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Cinemark",
-   "Cuponatic",
-   "precio",
-   10.9,
-   27.8,
-   "",
-   "",
-   "¡Cinemark! Entrada 2D de Lunes a Domingo",
-   "¡Cinemark! Entrada 2D de Lunes a Domingo",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "¡Renuevate! Día de SPA para 02 - THERAPY SPA",
-   "Cuponatic",
-   "precio",
-   99.0,
-   189.0,
-   "",
-   "",
-   "331 Vendidos",
+   "Essenza Massage",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -227,15 +35,207 @@
    }
   ],
   [
-   "Noche para 2 hasta 9 Personas + Desayuno en Oxapampa",
+   "Cineplanet",
    "Cuponatic",
    "precio",
-   215.0,
+   47.9,
+   107.0,
+   "",
+   "",
+   "Cineplanet: 2 Entradas + Combo Gigante para 2 Todos los Días",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Buffet Almuerzo o Cena de Lunes a Viernes en Buffet Mágico",
+   "Cuponatic",
+   "precio",
+   19.9,
+   24.9,
+   "",
+   "",
+   "Buffet Mágico",
+   "Buffet Almuerzo o Cena de Lunes a Viernes en Buffet Mágico",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Laminado de Cejas + Depilación con Cera o Hilo",
+   "Cuponatic",
+   "precio",
+   19.9,
+   40.0,
+   "",
+   "",
+   "SoniaLaura Salón",
+   "SoniaLaura Salón",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "La Bistecca",
+   "Cuponatic",
+   "precio",
+   85.9,
+   103.9,
+   "",
+   "",
+   "LA BISTECCA Almuerzo o Cena Buffet + Bebida",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Elige cuánto saltar: 30, 45 o 60 min en Supernova",
+   "Cuponatic",
+   "precio",
+   25.0,
+   40.0,
+   "",
+   "",
+   "1980 Vendidos",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Coney Park",
+   "Cuponatic",
+   "precio",
+   59.9,
+   130.0,
+   "",
+   "",
+   "2712 Vendidos",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Spa para 1 o 2 + Sauna a Vapor o Hidromasaje",
+   "Cuponatic",
+   "precio",
+   159.0,
+   300.0,
+   "",
+   "",
+   "Q Spa Wellness",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "BUFFET INTERNACIONAL: Almuerzo ó Cena Bailable",
+   "Cuponatic",
+   "precio",
+   54.9,
+   60.0,
+   "",
+   "",
+   "Buffet Internacional Mandarín",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Cinemark",
+   "Cuponatic",
+   "precio",
+   10.9,
+   27.8,
+   "",
+   "",
+   "¡Cinemark! Entrada 2D de Lunes a Domingo",
+   "¡Cinemark! Entrada 2D de Lunes a Domingo",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Reduce con Ultracavitador + Carboxiterapia + Hidrolipoclasia",
+   "Cuponatic",
+   "precio",
+   94.9,
+   550.0,
+   "",
+   "",
+   "Confidencias Spa",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "TODAS LAS SEDES - Juega 30 o 60 Minutos en JUMP SPOT",
+   "Cuponatic",
+   "precio",
+   19.9,
+   35.0,
+   "",
+   "",
+   "Jump Spot Perú",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "1 Férula de Relajación + 1 Porta Férula + Fluor - Dentu",
+   "Cuponatic",
+   "precio",
+   129.9,
    250.0,
    "",
    "",
-   "Cabañas El Pinar de Oxapampa",
+   "1 Vendidos",
    "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Depilación con Cera: Ceja + Bozo + Axila + Cortesía",
+   "Cuponatic",
+   "precio",
+   29.9,
+   60.0,
+   "",
+   "",
+   "Letty Salón & Spa",
+   "Letty Salón & Spa",
    "Cuponatic",
    {
     "conf": "of",
