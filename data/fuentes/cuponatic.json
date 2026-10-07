@@ -1,16 +1,48 @@
 {
  "id": "cuponatic",
- "leido": "2026-10-06T12:14",
+ "leido": "2026-10-07T12:50",
  "filas": [
   [
-   "Para 2: Masaje Relajante + Reflexología + Copa Vino",
+   "Cineplanet",
    "Cuponatic",
    "precio",
-   130.0,
-   200.0,
+   47.9,
+   107.0,
    "",
    "",
-   "Essenza Massage",
+   "Cineplanet: 2 Entradas + Combo Gigante para 2 Todos los Días",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "La Bistecca",
+   "Cuponatic",
+   "precio",
+   85.9,
+   103.9,
+   "",
+   "",
+   "LA BISTECCA Almuerzo o Cena Buffet + Bebida",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "INFLABLES + MAQUINAS RECREATIVAS - Todas Sedes - Lun a Dom",
+   "Cuponatic",
+   "precio",
+   21.9,
+   26.0,
+   "",
+   "",
+   "Flying Squirrel",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -35,14 +67,14 @@
    }
   ],
   [
-   "Cineplanet",
+   "1 Entrada SUPER TONO NOVENTERO HALLOWEEN 2026!",
    "Cuponatic",
    "precio",
-   47.9,
-   107.0,
+   39.9,
+   64.0,
    "",
    "",
-   "Cineplanet: 2 Entradas + Combo Gigante para 2 Todos los Días",
+   "Super Tono Noventero",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -51,15 +83,15 @@
    }
   ],
   [
-   "Buffet Almuerzo o Cena de Lunes a Viernes en Buffet Mágico",
+   "Elige cuánto saltar: 30, 45 o 60 min en Supernova",
    "Cuponatic",
    "precio",
-   19.9,
-   24.9,
+   25.0,
+   40.0,
    "",
    "",
-   "Buffet Mágico",
-   "Buffet Almuerzo o Cena de Lunes a Viernes en Buffet Mágico",
+   "1996 Vendidos",
+   "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
     "conf": "of",
@@ -83,30 +115,14 @@
    }
   ],
   [
-   "La Bistecca",
+   "Rústica Pachacamac: 1 Noche - 2 Adultos + 1 Niño + Desayuno",
    "Cuponatic",
    "precio",
-   85.9,
-   103.9,
+   189.0,
+   250.0,
    "",
    "",
-   "LA BISTECCA Almuerzo o Cena Buffet + Bebida",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Elige cuánto saltar: 30, 45 o 60 min en Supernova",
-   "Cuponatic",
-   "precio",
-   25.0,
-   40.0,
-   "",
-   "",
-   "1980 Vendidos",
+   "66 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -119,42 +135,10 @@
    "Cuponatic",
    "precio",
    59.9,
-   130.0,
+   150.0,
    "",
    "",
-   "2712 Vendidos",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Spa para 1 o 2 + Sauna a Vapor o Hidromasaje",
-   "Cuponatic",
-   "precio",
-   159.0,
-   300.0,
-   "",
-   "",
-   "Q Spa Wellness",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "BUFFET INTERNACIONAL: Almuerzo ó Cena Bailable",
-   "Cuponatic",
-   "precio",
-   54.9,
-   60.0,
-   "",
-   "",
-   "Buffet Internacional Mandarín",
+   "1164 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -179,15 +163,15 @@
    }
   ],
   [
-   "Reduce con Ultracavitador + Carboxiterapia + Hidrolipoclasia",
+   "Buffet Marino, Oriental y Criollo de Lunes a Domingo",
    "Cuponatic",
    "precio",
-   94.9,
-   550.0,
+   59.0,
+   0,
    "",
    "",
-   "Confidencias Spa",
-   "Compra el cupón en Cuponatic",
+   "Divino Mar Chorrillos",
+   "Buffet Marino, Oriental y Criollo de Lunes a Domingo",
    "Cuponatic",
    {
     "conf": "of",
@@ -211,14 +195,14 @@
    }
   ],
   [
-   "1 Férula de Relajación + 1 Porta Férula + Fluor - Dentu",
+   "Eliminación de Lunares o Puntos Rubí + Diagnostico",
    "Cuponatic",
    "precio",
-   129.9,
-   250.0,
+   29.9,
+   70.0,
    "",
    "",
-   "1 Vendidos",
+   "Corpo lineal estetica",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -227,15 +211,15 @@
    }
   ],
   [
-   "Depilación con Cera: Ceja + Bozo + Axila + Cortesía",
+   "1 Piqueo + 2 Cocteles a Elección en Rooftop 933 Aqua Hotel",
    "Cuponatic",
    "precio",
-   29.9,
-   60.0,
+   42.9,
+   70.0,
    "",
    "",
-   "Letty Salón & Spa",
-   "Letty Salón & Spa",
+   "Aqua Hotel 933",
+   "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
     "conf": "of",
