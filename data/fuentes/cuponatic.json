@@ -1,6 +1,6 @@
 {
  "id": "cuponatic",
- "leido": "2026-10-08T12:53",
+ "leido": "2026-10-09T12:27",
  "filas": [
   [
    "Elige cuánto saltar: 30, 45 o 60 min en Supernova",
@@ -10,39 +10,7 @@
    40.0,
    "",
    "",
-   "2020 Vendidos",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "INFLABLES + MAQUINAS RECREATIVAS - Todas Sedes - Lun a Dom",
-   "Cuponatic",
-   "precio",
-   21.9,
-   26.0,
-   "",
-   "",
-   "Flying Squirrel",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Cineplanet",
-   "Cuponatic",
-   "precio",
-   47.9,
-   107.0,
-   "",
-   "",
-   "Cineplanet: 2 Entradas + Combo Gigante para 2 Todos los Días",
+   "2028 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -67,6 +35,38 @@
    }
   ],
   [
+   "Granja Fundo San Vicente",
+   "Cuponatic",
+   "precio",
+   44.9,
+   59.0,
+   "",
+   "",
+   "Full Day en Granja Interactiva Fundo San Vicente",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Cineplanet",
+   "Cuponatic",
+   "precio",
+   47.9,
+   107.0,
+   "",
+   "",
+   "Cineplanet: 2 Entradas + Combo Gigante para 2 Todos los Días",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
    "Revisión Técnica para Auto ó Camioneta Categoría M1",
    "Cuponatic",
    "precio",
@@ -75,6 +75,38 @@
    "",
    "",
    "REVISIONES TÉCNICAS ABC - ATE",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "INFLABLES + MAQUINAS RECREATIVAS - Todas Sedes - Lun a Dom",
+   "Cuponatic",
+   "precio",
+   21.9,
+   26.0,
+   "",
+   "",
+   "Flying Squirrel",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Coney Park",
+   "Cuponatic",
+   "precio",
+   59.9,
+   150.0,
+   "",
+   "",
+   "1164 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -99,118 +131,6 @@
    }
   ],
   [
-   "Patinaje Sobre Hielo en Lima Bajo Cero de Lunes a Viernes -",
-   "Cuponatic",
-   "precio",
-   16.9,
-   20.0,
-   "",
-   "",
-   "LIMA BAJO CERO",
-   "Patinaje Sobre Hielo en Lima Bajo Cero de Lunes a Viernes -",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Coney Park",
-   "Cuponatic",
-   "precio",
-   59.9,
-   150.0,
-   "",
-   "",
-   "1164 Vendidos",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Vuelo en Parapente en la Costa Verde + Video + Seguro y Más",
-   "Cuponatic",
-   "precio",
-   164.9,
-   280.0,
-   "",
-   "",
-   "27 Vendidos",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "¡BARRA LIBRE! + Bebidas Ilimitadas Válido en 4 Locales",
-   "Cuponatic",
-   "precio",
-   44.9,
-   59.9,
-   "",
-   "",
-   "761 Vendidos",
-   "¡BARRA LIBRE! + Bebidas Ilimitadas Válido en 4 Locales",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Vive la Adrenalina -Sesión de 6 Minutos Circuito -Euro Karts",
-   "Cuponatic",
-   "precio",
-   24.9,
-   35.0,
-   "",
-   "",
-   "6755 Vendidos",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Cinemark",
-   "Cuponatic",
-   "precio",
-   10.9,
-   27.8,
-   "",
-   "",
-   "¡Cinemark! Entrada 2D de Lunes a Domingo",
-   "¡Cinemark! Entrada 2D de Lunes a Domingo",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Super Artrotheca Animales Exóticos - General o Infantil",
-   "Cuponatic",
-   "precio",
-   29.99,
-   80.0,
-   "",
-   "",
-   "128 Vendidos",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
    "BUFFET INTERNACIONAL: Almuerzo ó Cena Bailable",
    "Cuponatic",
    "precio",
@@ -227,15 +147,31 @@
    }
   ],
   [
-   "Coney Park",
+   "Mr Jump",
    "Cuponatic",
    "precio",
-   39.9,
-   60.0,
+   27.9,
+   55.0,
    "",
    "",
-   "2934 Vendidos",
+   "Parque Inflable Más Grande de Lima - Entrada General Mr Jump",
    "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Patinaje Sobre Hielo en Lima Bajo Cero de Lunes a Viernes -",
+   "Cuponatic",
+   "precio",
+   16.9,
+   20.0,
+   "",
+   "",
+   "LIMA BAJO CERO",
+   "Patinaje Sobre Hielo en Lima Bajo Cero de Lunes a Viernes -",
    "Cuponatic",
    {
     "conf": "of",
@@ -252,6 +188,22 @@
    "",
    "¡Mejor precio!",
    "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Cinemark",
+   "Cuponatic",
+   "precio",
+   10.9,
+   27.8,
+   "",
+   "",
+   "Vive la Adrenalina -Sesión de 6 Minutos Circuito -Euro Karts",
+   "¡Cinemark! Entrada 2D de Lunes a Domingo",
    "Cuponatic",
    {
     "conf": "of",
