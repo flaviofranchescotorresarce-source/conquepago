@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-10T11:15",
+ "actualizado": "2026-10-11T11:40",
  "filas": [
   [
    "Tambo",
@@ -3852,7 +3852,7 @@
    40.0,
    "",
    "",
-   "2059 Vendidos",
+   "2081 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -3933,6 +3933,22 @@
    "",
    "",
    "Flying Squirrel",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Coney Park",
+   "Cuponatic",
+   "precio",
+   59.9,
+   130.0,
+   "",
+   "",
+   "2757 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -4053,30 +4069,14 @@
    }
   ],
   [
-   "Luce Divina: Depilación Brasilera Completa para Damas",
+   "5 o 7 Curaciones + Fluorización + Profilaxis y más",
    "Cuponatic",
    "precio",
    29.9,
-   39.9,
+   350.0,
    "",
    "",
-   "Babsy Salón de Belleza",
-   "Babsy Salón de Belleza",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Reducción de Papada Enzimas Lipasa, Colagenasa, Hialuronida",
-   "Cuponatic",
-   "precio",
-   149.0,
-   799.0,
-   "",
-   "",
-   "Belapiel Centro Estético",
+   "435 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -5624,7 +5624,7 @@
    "NutriPoint",
    "Promo del local",
    "precio",
-   159.0,
+   229.0,
    659.0,
    "",
    "",
@@ -5653,76 +5653,95 @@
    }
   ]
  ],
- "relampago": [],
+ "relampago": [
+  {
+   "f": "2026-10-11",
+   "t": "Oechsle",
+   "o": "Alisador Siegen SG-3820 Negro con Rosado a",
+   "p": 99.0,
+   "r": 0,
+   "n": "O F E R T A · ❗️ · #oechsle · ✔️ · sólo S/ 99.00 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en · @concuponperu · ⚠️ · Válido hasta agot",
+   "u": "https://t.me/concuponperu/19292"
+  },
+  {
+   "f": "2026-10-11",
+   "t": "Concupón",
+   "o": "Combo SIEGEN Secadora de Cabello SG-3005 + Alisadora de Cabello SG-3510 a",
+   "p": 94.0,
+   "r": 0,
+   "n": "O F E R T A · ❗️ · #plazavea · ✔️ · sólo S/ 94.00 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en · @concuponperu · ⚠️ · Válido hasta ago",
+   "u": "https://t.me/concuponperu/19293"
+  }
+ ],
  "ver": {
-  "Tarjeta Caja Arequipa": "2026-10-10",
-  "Cuponatic": "2026-10-10",
+  "Tarjeta Caja Arequipa": "2026-10-11",
+  "Cuponatic": "2026-10-11",
   "Cuponidad": "2026-10-08",
-  "Web/app de la marca": "2026-10-10"
+  "Web/app de la marca": "2026-10-11"
  },
  "estado": {
   "interbank": {
    "ok": false,
    "filas": 0,
    "leido": "",
-   "intento": "2026-10-10T11:15",
+   "intento": "2026-10-11T11:39",
    "error": "could not convert string to float: '2.50.'"
   },
   "telegram": {
    "ok": true,
-   "filas": 0,
-   "leido": "2026-10-10T11:15",
+   "filas": 2,
+   "leido": "2026-10-11T11:39",
    "error": ""
   },
   "bbva": {
    "ok": false,
    "filas": 0,
    "leido": "",
-   "intento": "2026-10-10T11:15",
+   "intento": "2026-10-11T11:39",
    "error": "No se pudo descargar https://www.bbva.pe/content/dam/public-web/peru/documents/personas/catalogo-promociones/Catalogo-provincias.pdf: 403 Client Error: Forbidden for url: https://www.bbva.pe/content/dam/public-web/peru/documents/personas/catalogo-promociones/Catalogo-provincias.pdf"
   },
   "caja_arequipa": {
    "ok": true,
    "filas": 9,
-   "leido": "2026-10-10T11:15",
+   "leido": "2026-10-11T11:39",
    "error": ""
   },
   "cuponatic": {
    "ok": true,
    "filas": 17,
-   "leido": "2026-10-10T11:15",
+   "leido": "2026-10-11T11:39",
    "error": ""
   },
   "cuponidad": {
    "ok": false,
    "filas": 89,
    "leido": "2026-10-08T12:53",
-   "intento": "2026-10-10T11:15",
+   "intento": "2026-10-11T11:39",
    "error": "bajó de 89 a 29 filas: probablemente cambió la página"
   },
   "papajohns": {
    "ok": true,
    "filas": 4,
-   "leido": "2026-10-10T11:15",
+   "leido": "2026-10-11T11:39",
    "error": ""
   },
   "nutripoint": {
    "ok": true,
    "filas": 2,
-   "leido": "2026-10-10T11:15",
+   "leido": "2026-10-11T11:39",
    "error": ""
   },
   "cencosud": {
    "ok": false,
    "filas": 0,
    "leido": "",
-   "intento": "2026-10-10T11:15",
+   "intento": "2026-10-11T11:39",
    "error": "could not convert string to float: '46.80.'"
   },
   "starperu": {
    "ok": true,
    "filas": 1,
-   "leido": "2026-10-10T11:15",
+   "leido": "2026-10-11T11:39",
    "error": ""
   }
  }
