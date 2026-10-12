@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-11T11:40",
+ "actualizado": "2026-10-12T15:19",
  "filas": [
   [
    "Tambo",
@@ -3749,22 +3749,6 @@
    }
   ],
   [
-   "Di Mazza",
-   "Tarjeta Caja Arequipa",
-   "porcentaje",
-   20,
-   0,
-   "",
-   "",
-   "Restaurantes",
-   "Pagando con tarjeta de débito VISA de Caja Arequipa",
-   "Tarjeta Caja Arequipa",
-   {
-    "conf": "of",
-    "ciudad": "AQP"
-   }
-  ],
-  [
    "Posho",
    "Tarjeta Caja Arequipa",
    "porcentaje",
@@ -3782,6 +3766,22 @@
   ],
   [
    "Barra 420",
+   "Tarjeta Caja Arequipa",
+   "porcentaje",
+   20,
+   0,
+   "",
+   "",
+   "Restaurantes",
+   "Pagando con tarjeta de débito VISA de Caja Arequipa",
+   "Tarjeta Caja Arequipa",
+   {
+    "conf": "of",
+    "ciudad": "AQP"
+   }
+  ],
+  [
+   "Di Mazza",
    "Tarjeta Caja Arequipa",
    "porcentaje",
    20,
@@ -3845,38 +3845,6 @@
    }
   ],
   [
-   "Elige cuánto saltar: 30, 45 o 60 min en Supernova",
-   "Cuponatic",
-   "precio",
-   25.0,
-   40.0,
-   "",
-   "",
-   "2081 Vendidos",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "La Bistecca",
-   "Cuponatic",
-   "precio",
-   85.9,
-   103.9,
-   "",
-   "",
-   "LA BISTECCA Almuerzo o Cena Buffet + Bebida",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
    "Granja Fundo San Vicente",
    "Cuponatic",
    "precio",
@@ -3885,6 +3853,38 @@
    "",
    "",
    "Full Day en Granja Interactiva Fundo San Vicente",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Rústica Pachacamac: 1 Noche - 2 Adultos + 1 Niño + Desayuno",
+   "Cuponatic",
+   "precio",
+   189.0,
+   250.0,
+   "",
+   "",
+   "68 Vendidos",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Coney Park",
+   "Cuponatic",
+   "precio",
+   59.9,
+   130.0,
+   "",
+   "",
+   "2792 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -3909,14 +3909,14 @@
    }
   ],
   [
-   "Revisión Técnica para Auto ó Camioneta Categoría M1",
+   "La Bistecca",
    "Cuponatic",
    "precio",
-   69.0,
-   130.0,
+   85.9,
+   103.9,
    "",
    "",
-   "REVISIONES TÉCNICAS ABC - ATE",
+   "LA BISTECCA Almuerzo o Cena Buffet + Bebida",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -3941,14 +3941,14 @@
    }
   ],
   [
-   "Coney Park",
+   "Elige cuánto saltar: 30, 45 o 60 min en Supernova",
    "Cuponatic",
    "precio",
-   59.9,
-   130.0,
+   25.0,
+   40.0,
    "",
    "",
-   "2757 Vendidos",
+   "2124 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -3973,14 +3973,14 @@
    }
   ],
   [
-   "BUFFET INTERNACIONAL: Almuerzo ó Cena Bailable",
+   "Revisión Técnica para Auto ó Camioneta Categoría M1",
    "Cuponatic",
    "precio",
-   54.9,
-   60.0,
+   69.0,
+   130.0,
    "",
    "",
-   "Buffet Internacional Mandarín",
+   "REVISIONES TÉCNICAS ABC - ATE",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -4005,15 +4005,15 @@
    }
   ],
   [
-   "Patinaje Sobre Hielo en Lima Bajo Cero de Lunes a Viernes -",
+   "1 Entrada SUPER TONO NOVENTERO HALLOWEEN 2026!",
    "Cuponatic",
    "precio",
-   16.9,
-   20.0,
+   39.9,
+   64.0,
    "",
    "",
-   "LIMA BAJO CERO",
-   "Patinaje Sobre Hielo en Lima Bajo Cero de Lunes a Viernes -",
+   "Super Tono Noventero",
+   "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
     "conf": "of",
@@ -4024,7 +4024,7 @@
    "Juegos + Piscina – Rancho Aventura Park – CIENEGUILLA",
    "Cuponatic",
    "precio",
-   44.9,
+   41.9,
    0,
    "",
    "",
@@ -4069,14 +4069,30 @@
    }
   ],
   [
-   "5 o 7 Curaciones + Fluorización + Profilaxis y más",
+   "Rejuvenecimiento Facial con Plasma y Células Madre",
+   "Cuponatic",
+   "precio",
+   89.9,
+   100.0,
+   "",
+   "",
+   "11 Vendidos",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "5 o 7 Curaciones Simples con Resina 3M o Sellantes + Profila",
    "Cuponatic",
    "precio",
    29.9,
    350.0,
    "",
    "",
-   "435 Vendidos",
+   "M&M Odontologos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -5544,8 +5560,8 @@
    "Papa Johns",
    "Web/app de la marca",
    "precio",
-   35.9,
-   91.8,
+   6.0,
+   55.8,
    "",
    "",
    "1 pizza grande clásica mas gaseosa de 1LT con 3 rolls de pepperoni",
@@ -5560,8 +5576,8 @@
    "Papa Johns",
    "Web/app de la marca",
    "precio",
-   69.9,
-   167.7,
+   79.9,
+   183.6,
    "",
    "",
    "2 pizzas grandes clásicas con 1 pizza grande signature y 1 gaseosa 1L",
@@ -5624,7 +5640,7 @@
    "NutriPoint",
    "Promo del local",
    "precio",
-   229.0,
+   159.0,
    659.0,
    "",
    "",
@@ -5674,74 +5690,74 @@
   }
  ],
  "ver": {
-  "Tarjeta Caja Arequipa": "2026-10-11",
-  "Cuponatic": "2026-10-11",
+  "Tarjeta Caja Arequipa": "2026-10-12",
+  "Cuponatic": "2026-10-12",
   "Cuponidad": "2026-10-08",
-  "Web/app de la marca": "2026-10-11"
+  "Web/app de la marca": "2026-10-12"
  },
  "estado": {
   "interbank": {
    "ok": false,
    "filas": 0,
    "leido": "",
-   "intento": "2026-10-11T11:39",
+   "intento": "2026-10-12T15:19",
    "error": "could not convert string to float: '2.50.'"
   },
   "telegram": {
    "ok": true,
    "filas": 2,
-   "leido": "2026-10-11T11:39",
+   "leido": "2026-10-12T15:19",
    "error": ""
   },
   "bbva": {
    "ok": false,
    "filas": 0,
    "leido": "",
-   "intento": "2026-10-11T11:39",
+   "intento": "2026-10-12T15:19",
    "error": "No se pudo descargar https://www.bbva.pe/content/dam/public-web/peru/documents/personas/catalogo-promociones/Catalogo-provincias.pdf: 403 Client Error: Forbidden for url: https://www.bbva.pe/content/dam/public-web/peru/documents/personas/catalogo-promociones/Catalogo-provincias.pdf"
   },
   "caja_arequipa": {
    "ok": true,
    "filas": 9,
-   "leido": "2026-10-11T11:39",
+   "leido": "2026-10-12T15:19",
    "error": ""
   },
   "cuponatic": {
    "ok": true,
-   "filas": 17,
-   "leido": "2026-10-11T11:39",
+   "filas": 18,
+   "leido": "2026-10-12T15:19",
    "error": ""
   },
   "cuponidad": {
    "ok": false,
    "filas": 89,
    "leido": "2026-10-08T12:53",
-   "intento": "2026-10-11T11:39",
-   "error": "bajó de 89 a 29 filas: probablemente cambió la página"
+   "intento": "2026-10-12T15:19",
+   "error": "bajó de 89 a 30 filas: probablemente cambió la página"
   },
   "papajohns": {
    "ok": true,
    "filas": 4,
-   "leido": "2026-10-11T11:39",
+   "leido": "2026-10-12T15:19",
    "error": ""
   },
   "nutripoint": {
    "ok": true,
    "filas": 2,
-   "leido": "2026-10-11T11:39",
+   "leido": "2026-10-12T15:19",
    "error": ""
   },
   "cencosud": {
    "ok": false,
    "filas": 0,
    "leido": "",
-   "intento": "2026-10-11T11:39",
+   "intento": "2026-10-12T15:19",
    "error": "could not convert string to float: '46.80.'"
   },
   "starperu": {
    "ok": true,
    "filas": 1,
-   "leido": "2026-10-11T11:39",
+   "leido": "2026-10-12T15:19",
    "error": ""
   }
  }

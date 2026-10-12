@@ -1,39 +1,7 @@
 {
  "id": "cuponatic",
- "leido": "2026-10-11T11:39",
+ "leido": "2026-10-12T15:19",
  "filas": [
-  [
-   "Elige cuánto saltar: 30, 45 o 60 min en Supernova",
-   "Cuponatic",
-   "precio",
-   25.0,
-   40.0,
-   "",
-   "",
-   "2081 Vendidos",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "La Bistecca",
-   "Cuponatic",
-   "precio",
-   85.9,
-   103.9,
-   "",
-   "",
-   "LA BISTECCA Almuerzo o Cena Buffet + Bebida",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
   [
    "Granja Fundo San Vicente",
    "Cuponatic",
@@ -43,6 +11,38 @@
    "",
    "",
    "Full Day en Granja Interactiva Fundo San Vicente",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Rústica Pachacamac: 1 Noche - 2 Adultos + 1 Niño + Desayuno",
+   "Cuponatic",
+   "precio",
+   189.0,
+   250.0,
+   "",
+   "",
+   "68 Vendidos",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Coney Park",
+   "Cuponatic",
+   "precio",
+   59.9,
+   130.0,
+   "",
+   "",
+   "2792 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -67,14 +67,14 @@
    }
   ],
   [
-   "Revisión Técnica para Auto ó Camioneta Categoría M1",
+   "La Bistecca",
    "Cuponatic",
    "precio",
-   69.0,
-   130.0,
+   85.9,
+   103.9,
    "",
    "",
-   "REVISIONES TÉCNICAS ABC - ATE",
+   "LA BISTECCA Almuerzo o Cena Buffet + Bebida",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -99,14 +99,14 @@
    }
   ],
   [
-   "Coney Park",
+   "Elige cuánto saltar: 30, 45 o 60 min en Supernova",
    "Cuponatic",
    "precio",
-   59.9,
-   130.0,
+   25.0,
+   40.0,
    "",
    "",
-   "2757 Vendidos",
+   "2124 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -131,14 +131,14 @@
    }
   ],
   [
-   "BUFFET INTERNACIONAL: Almuerzo ó Cena Bailable",
+   "Revisión Técnica para Auto ó Camioneta Categoría M1",
    "Cuponatic",
    "precio",
-   54.9,
-   60.0,
+   69.0,
+   130.0,
    "",
    "",
-   "Buffet Internacional Mandarín",
+   "REVISIONES TÉCNICAS ABC - ATE",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -163,15 +163,15 @@
    }
   ],
   [
-   "Patinaje Sobre Hielo en Lima Bajo Cero de Lunes a Viernes -",
+   "1 Entrada SUPER TONO NOVENTERO HALLOWEEN 2026!",
    "Cuponatic",
    "precio",
-   16.9,
-   20.0,
+   39.9,
+   64.0,
    "",
    "",
-   "LIMA BAJO CERO",
-   "Patinaje Sobre Hielo en Lima Bajo Cero de Lunes a Viernes -",
+   "Super Tono Noventero",
+   "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
     "conf": "of",
@@ -182,7 +182,7 @@
    "Juegos + Piscina – Rancho Aventura Park – CIENEGUILLA",
    "Cuponatic",
    "precio",
-   44.9,
+   41.9,
    0,
    "",
    "",
@@ -227,14 +227,30 @@
    }
   ],
   [
-   "5 o 7 Curaciones + Fluorización + Profilaxis y más",
+   "Rejuvenecimiento Facial con Plasma y Células Madre",
+   "Cuponatic",
+   "precio",
+   89.9,
+   100.0,
+   "",
+   "",
+   "11 Vendidos",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "5 o 7 Curaciones Simples con Resina 3M o Sellantes + Profila",
    "Cuponatic",
    "precio",
    29.9,
    350.0,
    "",
    "",
-   "435 Vendidos",
+   "M&M Odontologos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
