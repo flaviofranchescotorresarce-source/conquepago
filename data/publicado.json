@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-12T15:19",
+ "actualizado": "2026-10-13T13:22",
  "filas": [
   [
    "Tambo",
@@ -3717,6 +3717,38 @@
    }
   ],
   [
+   "logo-negro-espacio-200",
+   "Tarjeta Caja Arequipa",
+   "porcentaje",
+   20,
+   0,
+   "",
+   "",
+   "Alquiler de espacios corporativos",
+   "Pagando con tarjeta de débito VISA de Caja Arequipa",
+   "Tarjeta Caja Arequipa",
+   {
+    "conf": "of",
+    "ciudad": "AQP"
+   }
+  ],
+  [
+   "logo-negro-espacio-200",
+   "Tarjeta Caja Arequipa",
+   "porcentaje",
+   50,
+   0,
+   "",
+   "",
+   "Alquiler de espacios corporativos",
+   "Pagando con tarjeta de débito VISA de Caja Arequipa",
+   "Tarjeta Caja Arequipa",
+   {
+    "conf": "of",
+    "ciudad": "AQP"
+   }
+  ],
+  [
    "Alfa",
    "Tarjeta Caja Arequipa",
    "porcentaje",
@@ -3741,6 +3773,22 @@
    "",
    "",
    "Entretenimiento",
+   "Pagando con tarjeta de débito VISA de Caja Arequipa",
+   "Tarjeta Caja Arequipa",
+   {
+    "conf": "of",
+    "ciudad": "AQP"
+   }
+  ],
+  [
+   "Di Mazza",
+   "Tarjeta Caja Arequipa",
+   "porcentaje",
+   20,
+   0,
+   "",
+   "",
+   "Restaurantes",
    "Pagando con tarjeta de débito VISA de Caja Arequipa",
    "Tarjeta Caja Arequipa",
    {
@@ -3781,22 +3829,6 @@
    }
   ],
   [
-   "Di Mazza",
-   "Tarjeta Caja Arequipa",
-   "porcentaje",
-   20,
-   0,
-   "",
-   "",
-   "Restaurantes",
-   "Pagando con tarjeta de débito VISA de Caja Arequipa",
-   "Tarjeta Caja Arequipa",
-   {
-    "conf": "of",
-    "ciudad": "AQP"
-   }
-  ],
-  [
    "Circo Mundo de Dinosaurios",
    "Tarjeta Caja Arequipa",
    "2x1",
@@ -3813,47 +3845,15 @@
    }
   ],
   [
-   "Lima Gas",
-   "Tarjeta Caja Arequipa",
-   "precio",
-   15.0,
-   0,
-   "",
-   "",
-   "Hogar y servicios",
-   "Pagando con tarjeta de débito VISA de Caja Arequipa",
-   "Tarjeta Caja Arequipa",
-   {
-    "conf": "of",
-    "ciudad": "AQP"
-   }
-  ],
-  [
-   "Brunno Pizzería",
-   "Tarjeta Caja Arequipa",
-   "porcentaje",
-   25,
-   0,
-   "",
-   "",
-   "Restaurantes",
-   "Pagando con tarjeta de débito VISA de Caja Arequipa",
-   "Tarjeta Caja Arequipa",
-   {
-    "conf": "of",
-    "ciudad": "AQP"
-   }
-  ],
-  [
-   "Granja Fundo San Vicente",
+   "La Bistecca",
    "Cuponatic",
    "precio",
-   44.9,
-   59.0,
+   11.9,
+   20.0,
    "",
    "",
-   "Full Day en Granja Interactiva Fundo San Vicente",
-   "Compra el cupón en Cuponatic",
+   "Cineplanet: 2 Entradas + Combo Gigante para 2 Todos los Días",
+   "Patinaje Sobre Hielo en Lima Bajo Cero de Lunes a Viernes -",
    "Cuponatic",
    {
     "conf": "of",
@@ -3861,14 +3861,14 @@
    }
   ],
   [
-   "Rústica Pachacamac: 1 Noche - 2 Adultos + 1 Niño + Desayuno",
+   "Elige cuánto saltar: 30, 45 o 60 min en Supernova",
    "Cuponatic",
    "precio",
-   189.0,
-   250.0,
+   25.0,
+   40.0,
    "",
    "",
-   "68 Vendidos",
+   "2148 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -3880,43 +3880,11 @@
    "Coney Park",
    "Cuponatic",
    "precio",
-   59.9,
-   130.0,
+   39.9,
+   60.0,
    "",
    "",
-   "2792 Vendidos",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Cineplanet",
-   "Cuponatic",
-   "precio",
-   47.9,
-   107.0,
-   "",
-   "",
-   "Cineplanet: 2 Entradas + Combo Gigante para 2 Todos los Días",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "La Bistecca",
-   "Cuponatic",
-   "precio",
-   85.9,
-   103.9,
-   "",
-   "",
-   "LA BISTECCA Almuerzo o Cena Buffet + Bebida",
+   "Últimas unidades",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -3941,14 +3909,14 @@
    }
   ],
   [
-   "Elige cuánto saltar: 30, 45 o 60 min en Supernova",
+   "Alquiler Karaoke + Piso LED + Letreros y Más",
    "Cuponatic",
    "precio",
-   25.0,
-   40.0,
+   249.0,
+   850.0,
    "",
    "",
-   "2124 Vendidos",
+   "Cosmos Games",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -3957,14 +3925,14 @@
    }
   ],
   [
-   "TODAS LAS SEDES - Juega 30 o 60 Minutos en JUMP SPOT",
+   "3D/2N para 2 Vichayito-Habitación Vista a Piscina + Desayuno",
    "Cuponatic",
    "precio",
-   19.9,
-   35.0,
+   179.0,
+   500.0,
    "",
    "",
-   "Jump Spot Perú",
+   "El Refugio de Vichayito",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -3973,62 +3941,30 @@
    }
   ],
   [
-   "Revisión Técnica para Auto ó Camioneta Categoría M1",
+   "Buffet Almuerzo o Cena de Lunes a Viernes en Buffet Mágico",
+   "Cuponatic",
+   "precio",
+   18.9,
+   24.9,
+   "",
+   "",
+   "Buffet Mágico",
+   "Buffet Almuerzo o Cena de Lunes a Viernes en Buffet Mágico",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Entrena 1 Mes en Todas las Sedes con Diversas Clases",
    "Cuponatic",
    "precio",
    69.0,
-   130.0,
+   79.9,
    "",
    "",
-   "REVISIONES TÉCNICAS ABC - ATE",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Mr Jump",
-   "Cuponatic",
-   "precio",
-   27.9,
-   55.0,
-   "",
-   "",
-   "Parque Inflable Más Grande de Lima - Entrada General Mr Jump",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "1 Entrada SUPER TONO NOVENTERO HALLOWEEN 2026!",
-   "Cuponatic",
-   "precio",
-   39.9,
-   64.0,
-   "",
-   "",
-   "Super Tono Noventero",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Juegos + Piscina – Rancho Aventura Park – CIENEGUILLA",
-   "Cuponatic",
-   "precio",
-   41.9,
-   0,
-   "",
-   "",
-   "¡Mejor precio!",
+   "XFLY ESTUDIO FITNESS",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -4053,14 +3989,14 @@
    }
   ],
   [
-   "Vive la Adrenalina -Sesión de 6 Minutos Circuito -Euro Karts",
+   "FESTIVAL DE LIMA - Día de la salsa en el Perú 17 de octubre",
    "Cuponatic",
    "precio",
-   24.9,
-   35.0,
+   35.9,
+   48.0,
    "",
-   "",
-   "6770 Vendidos",
+   "2026-10-17",
+   "Tropic Life Sac Producciones",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -4069,30 +4005,14 @@
    }
   ],
   [
-   "Rejuvenecimiento Facial con Plasma y Células Madre",
+   "Revisión Técnica para Auto ó Camioneta Categoría M1",
    "Cuponatic",
    "precio",
-   89.9,
-   100.0,
+   69.0,
+   130.0,
    "",
    "",
-   "11 Vendidos",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "5 o 7 Curaciones Simples con Resina 3M o Sellantes + Profila",
-   "Cuponatic",
-   "precio",
-   29.9,
-   350.0,
-   "",
-   "",
-   "M&M Odontologos",
+   "REVISIONES TÉCNICAS ABC - ATE",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -5560,12 +5480,12 @@
    "Papa Johns",
    "Web/app de la marca",
    "precio",
-   6.0,
-   55.8,
+   24.9,
+   91.8,
    "",
    "",
    "1 pizza grande clásica mas gaseosa de 1LT con 3 rolls de pepperoni",
-   "Promo de la web y app de Papa Johns",
+   "Martes de Hawaiana Familiar · Martes de Hawaiana Grande",
    "Web/app de la marca",
    {
     "conf": "of",
@@ -5644,7 +5564,7 @@
    659.0,
    "",
    "",
-   "CREATINA MONOHIDRATADA 1KG - ULTIMATE NUTRITION",
+   "GOLD STANDARD WHEY 5 LB - OPTIMUM NUTRITION",
    "Precio de la tienda NutriPoint",
    "Promo del local",
    {
@@ -5671,93 +5591,93 @@
  ],
  "relampago": [
   {
-   "f": "2026-10-11",
-   "t": "Oechsle",
-   "o": "Alisador Siegen SG-3820 Negro con Rosado a",
-   "p": 99.0,
+   "f": "2026-10-13",
+   "t": "Tottus",
+   "o": "Audífonos Sudio A1 Negro a",
+   "p": 16.9,
    "r": 0,
-   "n": "O F E R T A · ❗️ · #oechsle · ✔️ · sólo S/ 99.00 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en · @concuponperu · ⚠️ · Válido hasta agot",
-   "u": "https://t.me/concuponperu/19292"
+   "n": "O F E R T A · ❗️ · #tottus · ✔️ · sólo S/ 16.90 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en · @concuponperu · ⚠️ · Válido hasta agota",
+   "u": "https://t.me/concuponperu/19294"
   },
   {
-   "f": "2026-10-11",
-   "t": "Concupón",
-   "o": "Combo SIEGEN Secadora de Cabello SG-3005 + Alisadora de Cabello SG-3510 a",
-   "p": 94.0,
+   "f": "2026-10-13",
+   "t": "Falabella",
+   "o": "#falabella",
+   "p": 19.9,
    "r": 0,
-   "n": "O F E R T A · ❗️ · #plazavea · ✔️ · sólo S/ 94.00 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en · @concuponperu · ⚠️ · Válido hasta ago",
-   "u": "https://t.me/concuponperu/19293"
+   "n": "O F E R T A · ❗️ · ✔️ · Bolsa JET ULA a · sólo S/ 19.90 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en · @concuponperu · ⚠️ · Válido has",
+   "u": "https://t.me/concuponperu/19295"
   }
  ],
  "ver": {
-  "Tarjeta Caja Arequipa": "2026-10-12",
-  "Cuponatic": "2026-10-12",
+  "Tarjeta Caja Arequipa": "2026-10-13",
+  "Cuponatic": "2026-10-13",
   "Cuponidad": "2026-10-08",
-  "Web/app de la marca": "2026-10-12"
+  "Web/app de la marca": "2026-10-13"
  },
  "estado": {
   "interbank": {
    "ok": false,
    "filas": 0,
    "leido": "",
-   "intento": "2026-10-12T15:19",
+   "intento": "2026-10-13T13:22",
    "error": "could not convert string to float: '2.50.'"
   },
   "telegram": {
    "ok": true,
    "filas": 2,
-   "leido": "2026-10-12T15:19",
+   "leido": "2026-10-13T13:22",
    "error": ""
   },
   "bbva": {
    "ok": false,
    "filas": 0,
    "leido": "",
-   "intento": "2026-10-12T15:19",
+   "intento": "2026-10-13T13:22",
    "error": "No se pudo descargar https://www.bbva.pe/content/dam/public-web/peru/documents/personas/catalogo-promociones/Catalogo-provincias.pdf: 403 Client Error: Forbidden for url: https://www.bbva.pe/content/dam/public-web/peru/documents/personas/catalogo-promociones/Catalogo-provincias.pdf"
   },
   "caja_arequipa": {
    "ok": true,
    "filas": 9,
-   "leido": "2026-10-12T15:19",
+   "leido": "2026-10-13T13:22",
    "error": ""
   },
   "cuponatic": {
    "ok": true,
-   "filas": 18,
-   "leido": "2026-10-12T15:19",
+   "filas": 13,
+   "leido": "2026-10-13T13:22",
    "error": ""
   },
   "cuponidad": {
    "ok": false,
    "filas": 89,
    "leido": "2026-10-08T12:53",
-   "intento": "2026-10-12T15:19",
-   "error": "bajó de 89 a 30 filas: probablemente cambió la página"
+   "intento": "2026-10-13T13:22",
+   "error": "bajó de 89 a 27 filas: probablemente cambió la página"
   },
   "papajohns": {
    "ok": true,
    "filas": 4,
-   "leido": "2026-10-12T15:19",
+   "leido": "2026-10-13T13:22",
    "error": ""
   },
   "nutripoint": {
    "ok": true,
    "filas": 2,
-   "leido": "2026-10-12T15:19",
+   "leido": "2026-10-13T13:22",
    "error": ""
   },
   "cencosud": {
    "ok": false,
    "filas": 0,
    "leido": "",
-   "intento": "2026-10-12T15:19",
+   "intento": "2026-10-13T13:22",
    "error": "could not convert string to float: '46.80.'"
   },
   "starperu": {
    "ok": true,
    "filas": 1,
-   "leido": "2026-10-12T15:19",
+   "leido": "2026-10-13T13:22",
    "error": ""
   }
  }

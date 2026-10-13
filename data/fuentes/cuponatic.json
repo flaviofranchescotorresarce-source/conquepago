@@ -1,17 +1,17 @@
 {
  "id": "cuponatic",
- "leido": "2026-10-12T15:19",
+ "leido": "2026-10-13T13:22",
  "filas": [
   [
-   "Granja Fundo San Vicente",
+   "La Bistecca",
    "Cuponatic",
    "precio",
-   44.9,
-   59.0,
+   11.9,
+   20.0,
    "",
    "",
-   "Full Day en Granja Interactiva Fundo San Vicente",
-   "Compra el cupón en Cuponatic",
+   "Cineplanet: 2 Entradas + Combo Gigante para 2 Todos los Días",
+   "Patinaje Sobre Hielo en Lima Bajo Cero de Lunes a Viernes -",
    "Cuponatic",
    {
     "conf": "of",
@@ -19,14 +19,14 @@
    }
   ],
   [
-   "Rústica Pachacamac: 1 Noche - 2 Adultos + 1 Niño + Desayuno",
+   "Elige cuánto saltar: 30, 45 o 60 min en Supernova",
    "Cuponatic",
    "precio",
-   189.0,
-   250.0,
+   25.0,
+   40.0,
    "",
    "",
-   "68 Vendidos",
+   "2148 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -38,43 +38,11 @@
    "Coney Park",
    "Cuponatic",
    "precio",
-   59.9,
-   130.0,
+   39.9,
+   60.0,
    "",
    "",
-   "2792 Vendidos",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Cineplanet",
-   "Cuponatic",
-   "precio",
-   47.9,
-   107.0,
-   "",
-   "",
-   "Cineplanet: 2 Entradas + Combo Gigante para 2 Todos los Días",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "La Bistecca",
-   "Cuponatic",
-   "precio",
-   85.9,
-   103.9,
-   "",
-   "",
-   "LA BISTECCA Almuerzo o Cena Buffet + Bebida",
+   "Últimas unidades",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -99,14 +67,14 @@
    }
   ],
   [
-   "Elige cuánto saltar: 30, 45 o 60 min en Supernova",
+   "Alquiler Karaoke + Piso LED + Letreros y Más",
    "Cuponatic",
    "precio",
-   25.0,
-   40.0,
+   249.0,
+   850.0,
    "",
    "",
-   "2124 Vendidos",
+   "Cosmos Games",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -115,14 +83,14 @@
    }
   ],
   [
-   "TODAS LAS SEDES - Juega 30 o 60 Minutos en JUMP SPOT",
+   "3D/2N para 2 Vichayito-Habitación Vista a Piscina + Desayuno",
    "Cuponatic",
    "precio",
-   19.9,
-   35.0,
+   179.0,
+   500.0,
    "",
    "",
-   "Jump Spot Perú",
+   "El Refugio de Vichayito",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -131,62 +99,30 @@
    }
   ],
   [
-   "Revisión Técnica para Auto ó Camioneta Categoría M1",
+   "Buffet Almuerzo o Cena de Lunes a Viernes en Buffet Mágico",
+   "Cuponatic",
+   "precio",
+   18.9,
+   24.9,
+   "",
+   "",
+   "Buffet Mágico",
+   "Buffet Almuerzo o Cena de Lunes a Viernes en Buffet Mágico",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Entrena 1 Mes en Todas las Sedes con Diversas Clases",
    "Cuponatic",
    "precio",
    69.0,
-   130.0,
+   79.9,
    "",
    "",
-   "REVISIONES TÉCNICAS ABC - ATE",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Mr Jump",
-   "Cuponatic",
-   "precio",
-   27.9,
-   55.0,
-   "",
-   "",
-   "Parque Inflable Más Grande de Lima - Entrada General Mr Jump",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "1 Entrada SUPER TONO NOVENTERO HALLOWEEN 2026!",
-   "Cuponatic",
-   "precio",
-   39.9,
-   64.0,
-   "",
-   "",
-   "Super Tono Noventero",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Juegos + Piscina – Rancho Aventura Park – CIENEGUILLA",
-   "Cuponatic",
-   "precio",
-   41.9,
-   0,
-   "",
-   "",
-   "¡Mejor precio!",
+   "XFLY ESTUDIO FITNESS",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -211,14 +147,14 @@
    }
   ],
   [
-   "Vive la Adrenalina -Sesión de 6 Minutos Circuito -Euro Karts",
+   "FESTIVAL DE LIMA - Día de la salsa en el Perú 17 de octubre",
    "Cuponatic",
    "precio",
-   24.9,
-   35.0,
+   35.9,
+   48.0,
    "",
-   "",
-   "6770 Vendidos",
+   "2026-10-17",
+   "Tropic Life Sac Producciones",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -227,30 +163,14 @@
    }
   ],
   [
-   "Rejuvenecimiento Facial con Plasma y Células Madre",
+   "Revisión Técnica para Auto ó Camioneta Categoría M1",
    "Cuponatic",
    "precio",
-   89.9,
-   100.0,
+   69.0,
+   130.0,
    "",
    "",
-   "11 Vendidos",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "5 o 7 Curaciones Simples con Resina 3M o Sellantes + Profila",
-   "Cuponatic",
-   "precio",
-   29.9,
-   350.0,
-   "",
-   "",
-   "M&M Odontologos",
+   "REVISIONES TÉCNICAS ABC - ATE",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {

@@ -1,6 +1,6 @@
 {
  "id": "caja_arequipa",
- "leido": "2026-10-12T15:19",
+ "leido": "2026-10-13T13:22",
  "filas": [
   [
    "Fulana",
@@ -11,6 +11,38 @@
    "",
    "",
    "Entretenimiento",
+   "Pagando con tarjeta de débito VISA de Caja Arequipa",
+   "Tarjeta Caja Arequipa",
+   {
+    "conf": "of",
+    "ciudad": "AQP"
+   }
+  ],
+  [
+   "logo-negro-espacio-200",
+   "Tarjeta Caja Arequipa",
+   "porcentaje",
+   20,
+   0,
+   "",
+   "",
+   "Alquiler de espacios corporativos",
+   "Pagando con tarjeta de débito VISA de Caja Arequipa",
+   "Tarjeta Caja Arequipa",
+   {
+    "conf": "of",
+    "ciudad": "AQP"
+   }
+  ],
+  [
+   "logo-negro-espacio-200",
+   "Tarjeta Caja Arequipa",
+   "porcentaje",
+   50,
+   0,
+   "",
+   "",
+   "Alquiler de espacios corporativos",
    "Pagando con tarjeta de débito VISA de Caja Arequipa",
    "Tarjeta Caja Arequipa",
    {
@@ -51,6 +83,22 @@
    }
   ],
   [
+   "Di Mazza",
+   "Tarjeta Caja Arequipa",
+   "porcentaje",
+   20,
+   0,
+   "",
+   "",
+   "Restaurantes",
+   "Pagando con tarjeta de débito VISA de Caja Arequipa",
+   "Tarjeta Caja Arequipa",
+   {
+    "conf": "of",
+    "ciudad": "AQP"
+   }
+  ],
+  [
    "Posho",
    "Tarjeta Caja Arequipa",
    "porcentaje",
@@ -83,22 +131,6 @@
    }
   ],
   [
-   "Di Mazza",
-   "Tarjeta Caja Arequipa",
-   "porcentaje",
-   20,
-   0,
-   "",
-   "",
-   "Restaurantes",
-   "Pagando con tarjeta de débito VISA de Caja Arequipa",
-   "Tarjeta Caja Arequipa",
-   {
-    "conf": "of",
-    "ciudad": "AQP"
-   }
-  ],
-  [
    "Circo Mundo de Dinosaurios",
    "Tarjeta Caja Arequipa",
    "2x1",
@@ -107,38 +139,6 @@
    "",
    "",
    "Entretenimiento",
-   "Pagando con tarjeta de débito VISA de Caja Arequipa",
-   "Tarjeta Caja Arequipa",
-   {
-    "conf": "of",
-    "ciudad": "AQP"
-   }
-  ],
-  [
-   "Lima Gas",
-   "Tarjeta Caja Arequipa",
-   "precio",
-   15.0,
-   0,
-   "",
-   "",
-   "Hogar y servicios",
-   "Pagando con tarjeta de débito VISA de Caja Arequipa",
-   "Tarjeta Caja Arequipa",
-   {
-    "conf": "of",
-    "ciudad": "AQP"
-   }
-  ],
-  [
-   "Brunno Pizzería",
-   "Tarjeta Caja Arequipa",
-   "porcentaje",
-   25,
-   0,
-   "",
-   "",
-   "Restaurantes",
    "Pagando con tarjeta de débito VISA de Caja Arequipa",
    "Tarjeta Caja Arequipa",
    {
