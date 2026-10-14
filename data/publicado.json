@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-13T13:22",
+ "actualizado": "2026-10-14T10:51",
  "filas": [
   [
    "Tambo",
@@ -3701,22 +3701,6 @@
    }
   ],
   [
-   "Fulana",
-   "Tarjeta Caja Arequipa",
-   "porcentaje",
-   20,
-   0,
-   "",
-   "",
-   "Entretenimiento",
-   "Pagando con tarjeta de débito VISA de Caja Arequipa",
-   "Tarjeta Caja Arequipa",
-   {
-    "conf": "of",
-    "ciudad": "AQP"
-   }
-  ],
-  [
    "logo-negro-espacio-200",
    "Tarjeta Caja Arequipa",
    "porcentaje",
@@ -3741,6 +3725,22 @@
    "",
    "",
    "Alquiler de espacios corporativos",
+   "Pagando con tarjeta de débito VISA de Caja Arequipa",
+   "Tarjeta Caja Arequipa",
+   {
+    "conf": "of",
+    "ciudad": "AQP"
+   }
+  ],
+  [
+   "Fulana",
+   "Tarjeta Caja Arequipa",
+   "porcentaje",
+   20,
+   0,
+   "",
+   "",
+   "Entretenimiento",
    "Pagando con tarjeta de débito VISA de Caja Arequipa",
    "Tarjeta Caja Arequipa",
    {
@@ -3781,22 +3781,6 @@
    }
   ],
   [
-   "Di Mazza",
-   "Tarjeta Caja Arequipa",
-   "porcentaje",
-   20,
-   0,
-   "",
-   "",
-   "Restaurantes",
-   "Pagando con tarjeta de débito VISA de Caja Arequipa",
-   "Tarjeta Caja Arequipa",
-   {
-    "conf": "of",
-    "ciudad": "AQP"
-   }
-  ],
-  [
    "Posho",
    "Tarjeta Caja Arequipa",
    "porcentaje",
@@ -3829,6 +3813,22 @@
    }
   ],
   [
+   "Di Mazza",
+   "Tarjeta Caja Arequipa",
+   "porcentaje",
+   20,
+   0,
+   "",
+   "",
+   "Restaurantes",
+   "Pagando con tarjeta de débito VISA de Caja Arequipa",
+   "Tarjeta Caja Arequipa",
+   {
+    "conf": "of",
+    "ciudad": "AQP"
+   }
+  ],
+  [
    "Circo Mundo de Dinosaurios",
    "Tarjeta Caja Arequipa",
    "2x1",
@@ -3845,15 +3845,31 @@
    }
   ],
   [
-   "La Bistecca",
+   "Granja Fundo San Vicente",
    "Cuponatic",
    "precio",
-   11.9,
-   20.0,
+   19.9,
+   54.9,
    "",
    "",
-   "Cineplanet: 2 Entradas + Combo Gigante para 2 Todos los Días",
-   "Patinaje Sobre Hielo en Lima Bajo Cero de Lunes a Viernes -",
+   "Ronda Chozera para 02: 1 Cebiche + Arroz con mariscos y Más",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "BUFFET INTERNACIONAL: Almuerzo ó Cena Bailable",
+   "Cuponatic",
+   "precio",
+   54.9,
+   60.0,
+   "",
+   "",
+   "Buffet Internacional Mandarín",
+   "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
     "conf": "of",
@@ -3868,7 +3884,7 @@
    40.0,
    "",
    "",
-   "2148 Vendidos",
+   "2159 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -3877,14 +3893,62 @@
    }
   ],
   [
-   "Coney Park",
+   "Plasma Facial + Mascarilla de Colágeno",
    "Cuponatic",
    "precio",
-   39.9,
-   60.0,
+   69.0,
+   99.0,
    "",
    "",
-   "Últimas unidades",
+   "Renacer studio",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "El Salto del Fraile",
+   "Cuponatic",
+   "precio",
+   109.9,
+   128.9,
+   "",
+   "",
+   "¡Salto del Fraile! Parrilla Marina para 2 + 2 Copas de Vino.",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "La Bistecca",
+   "Cuponatic",
+   "precio",
+   85.9,
+   103.9,
+   "",
+   "",
+   "LA BISTECCA Almuerzo o Cena Buffet + Bebida",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Rústica Pachacamac: 1 Noche - 2 Adultos + 1 Niño + Desayuno",
+   "Cuponatic",
+   "precio",
+   189.0,
+   250.0,
+   "",
+   "",
+   "69 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -3909,94 +3973,14 @@
    }
   ],
   [
-   "Alquiler Karaoke + Piso LED + Letreros y Más",
+   "Coney Park",
    "Cuponatic",
    "precio",
-   249.0,
-   850.0,
+   39.9,
+   60.0,
    "",
    "",
-   "Cosmos Games",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "3D/2N para 2 Vichayito-Habitación Vista a Piscina + Desayuno",
-   "Cuponatic",
-   "precio",
-   179.0,
-   500.0,
-   "",
-   "",
-   "El Refugio de Vichayito",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Buffet Almuerzo o Cena de Lunes a Viernes en Buffet Mágico",
-   "Cuponatic",
-   "precio",
-   18.9,
-   24.9,
-   "",
-   "",
-   "Buffet Mágico",
-   "Buffet Almuerzo o Cena de Lunes a Viernes en Buffet Mágico",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Entrena 1 Mes en Todas las Sedes con Diversas Clases",
-   "Cuponatic",
-   "precio",
-   69.0,
-   79.9,
-   "",
-   "",
-   "XFLY ESTUDIO FITNESS",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Cinemark",
-   "Cuponatic",
-   "precio",
-   10.9,
-   27.8,
-   "",
-   "",
-   "¡Cinemark! Entrada 2D de Lunes a Domingo",
-   "¡Cinemark! Entrada 2D de Lunes a Domingo",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "FESTIVAL DE LIMA - Día de la salsa en el Perú 17 de octubre",
-   "Cuponatic",
-   "precio",
-   35.9,
-   48.0,
-   "",
-   "2026-10-17",
-   "Tropic Life Sac Producciones",
+   "Últimas unidades",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -4013,6 +3997,38 @@
    "",
    "",
    "REVISIONES TÉCNICAS ABC - ATE",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Vive la Adrenalina -Sesión de 6 Minutos Circuito -Euro Karts",
+   "Cuponatic",
+   "precio",
+   24.9,
+   35.0,
+   "",
+   "",
+   "6779 Vendidos",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Láser CO2 Fraccionado Full Face + Consulta",
+   "Cuponatic",
+   "precio",
+   249.9,
+   1600.0,
+   "",
+   "",
+   "Stetik Laser Surco",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -5480,12 +5496,12 @@
    "Papa Johns",
    "Web/app de la marca",
    "precio",
-   24.9,
+   35.9,
    91.8,
    "",
    "",
    "1 pizza grande clásica mas gaseosa de 1LT con 3 rolls de pepperoni",
-   "Martes de Hawaiana Familiar · Martes de Hawaiana Grande",
+   "Miercoles de Signature Familiar · Miercoles de Signature Grande",
    "Web/app de la marca",
    {
     "conf": "of",
@@ -5610,74 +5626,74 @@
   }
  ],
  "ver": {
-  "Tarjeta Caja Arequipa": "2026-10-13",
-  "Cuponatic": "2026-10-13",
+  "Tarjeta Caja Arequipa": "2026-10-14",
+  "Cuponatic": "2026-10-14",
   "Cuponidad": "2026-10-08",
-  "Web/app de la marca": "2026-10-13"
+  "Web/app de la marca": "2026-10-14"
  },
  "estado": {
   "interbank": {
    "ok": false,
    "filas": 0,
    "leido": "",
-   "intento": "2026-10-13T13:22",
+   "intento": "2026-10-14T10:51",
    "error": "could not convert string to float: '2.50.'"
   },
   "telegram": {
    "ok": true,
    "filas": 2,
-   "leido": "2026-10-13T13:22",
+   "leido": "2026-10-14T10:51",
    "error": ""
   },
   "bbva": {
    "ok": false,
    "filas": 0,
    "leido": "",
-   "intento": "2026-10-13T13:22",
+   "intento": "2026-10-14T10:51",
    "error": "No se pudo descargar https://www.bbva.pe/content/dam/public-web/peru/documents/personas/catalogo-promociones/Catalogo-provincias.pdf: 403 Client Error: Forbidden for url: https://www.bbva.pe/content/dam/public-web/peru/documents/personas/catalogo-promociones/Catalogo-provincias.pdf"
   },
   "caja_arequipa": {
    "ok": true,
    "filas": 9,
-   "leido": "2026-10-13T13:22",
+   "leido": "2026-10-14T10:51",
    "error": ""
   },
   "cuponatic": {
    "ok": true,
-   "filas": 13,
-   "leido": "2026-10-13T13:22",
+   "filas": 14,
+   "leido": "2026-10-14T10:51",
    "error": ""
   },
   "cuponidad": {
    "ok": false,
    "filas": 89,
    "leido": "2026-10-08T12:53",
-   "intento": "2026-10-13T13:22",
+   "intento": "2026-10-14T10:51",
    "error": "bajó de 89 a 27 filas: probablemente cambió la página"
   },
   "papajohns": {
    "ok": true,
    "filas": 4,
-   "leido": "2026-10-13T13:22",
+   "leido": "2026-10-14T10:51",
    "error": ""
   },
   "nutripoint": {
    "ok": true,
    "filas": 2,
-   "leido": "2026-10-13T13:22",
+   "leido": "2026-10-14T10:51",
    "error": ""
   },
   "cencosud": {
    "ok": false,
    "filas": 0,
    "leido": "",
-   "intento": "2026-10-13T13:22",
+   "intento": "2026-10-14T10:51",
    "error": "could not convert string to float: '46.80.'"
   },
   "starperu": {
    "ok": true,
    "filas": 1,
-   "leido": "2026-10-13T13:22",
+   "leido": "2026-10-14T10:51",
    "error": ""
   }
  }
