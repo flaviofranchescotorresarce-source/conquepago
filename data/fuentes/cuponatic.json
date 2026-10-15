@@ -1,16 +1,16 @@
 {
  "id": "cuponatic",
- "leido": "2026-10-14T10:51",
+ "leido": "2026-10-15T10:37",
  "filas": [
   [
    "Granja Fundo San Vicente",
    "Cuponatic",
    "precio",
-   19.9,
+   44.9,
    54.9,
    "",
    "",
-   "Ronda Chozera para 02: 1 Cebiche + Arroz con mariscos y Más",
+   "Full Day en Granja Interactiva Fundo San Vicente",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -19,14 +19,14 @@
    }
   ],
   [
-   "BUFFET INTERNACIONAL: Almuerzo ó Cena Bailable",
+   "Cineplanet",
    "Cuponatic",
    "precio",
-   54.9,
-   60.0,
+   47.9,
+   107.0,
    "",
    "",
-   "Buffet Internacional Mandarín",
+   "Cineplanet: 2 Entradas + Combo Gigante para 2 Todos los Días",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -42,71 +42,7 @@
    40.0,
    "",
    "",
-   "2159 Vendidos",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Plasma Facial + Mascarilla de Colágeno",
-   "Cuponatic",
-   "precio",
-   69.0,
-   99.0,
-   "",
-   "",
-   "Renacer studio",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "El Salto del Fraile",
-   "Cuponatic",
-   "precio",
-   109.9,
-   128.9,
-   "",
-   "",
-   "¡Salto del Fraile! Parrilla Marina para 2 + 2 Copas de Vino.",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "La Bistecca",
-   "Cuponatic",
-   "precio",
-   85.9,
-   103.9,
-   "",
-   "",
-   "LA BISTECCA Almuerzo o Cena Buffet + Bebida",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Rústica Pachacamac: 1 Noche - 2 Adultos + 1 Niño + Desayuno",
-   "Cuponatic",
-   "precio",
-   189.0,
-   250.0,
-   "",
-   "",
-   "69 Vendidos",
+   "2184 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -134,11 +70,11 @@
    "Coney Park",
    "Cuponatic",
    "precio",
-   39.9,
-   60.0,
+   59.9,
+   130.0,
    "",
    "",
-   "Últimas unidades",
+   "2818 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -163,14 +99,30 @@
    }
   ],
   [
-   "Vive la Adrenalina -Sesión de 6 Minutos Circuito -Euro Karts",
+   "Patinaje Sobre Hielo en Lima Bajo Cero de Lunes a Viernes -",
    "Cuponatic",
    "precio",
-   24.9,
-   35.0,
+   16.9,
+   20.0,
    "",
    "",
-   "6779 Vendidos",
+   "LIMA BAJO CERO",
+   "Patinaje Sobre Hielo en Lima Bajo Cero de Lunes a Viernes -",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Almuerzo Buffet en Yate en Altamar + Paseo en La Punta",
+   "Cuponatic",
+   "precio",
+   119.0,
+   149.0,
+   "",
+   "",
+   "Bavaria Yacht",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -179,15 +131,127 @@
    }
   ],
   [
-   "Láser CO2 Fraccionado Full Face + Consulta",
+   "Vive la Adrenalina -Sesión de 6 Minutos Circuito -Euro Karts",
    "Cuponatic",
    "precio",
-   249.9,
-   1600.0,
+   24.9,
+   35.0,
    "",
    "",
-   "Stetik Laser Surco",
+   "6781 Vendidos",
    "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "1 Entrada SUPER TONO NOVENTERO HALLOWEEN 2026!",
+   "Cuponatic",
+   "precio",
+   39.9,
+   64.0,
+   "",
+   "",
+   "Super Tono Noventero",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "BUFFET INTERNACIONAL: Almuerzo ó Cena Bailable",
+   "Cuponatic",
+   "precio",
+   54.9,
+   60.0,
+   "",
+   "",
+   "Buffet Internacional Mandarín",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "TODAS LAS SEDES - Juega 30 o 60 Minutos en JUMP SPOT",
+   "Cuponatic",
+   "precio",
+   19.9,
+   35.0,
+   "",
+   "",
+   "Jump Spot Perú",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "La Bistecca",
+   "Cuponatic",
+   "precio",
+   85.9,
+   103.9,
+   "",
+   "",
+   "LA BISTECCA Almuerzo o Cena Buffet + Bebida",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Coney Park",
+   "Cuponatic",
+   "precio",
+   39.9,
+   60.0,
+   "",
+   "",
+   "Últimas unidades",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "1 Férula de Relajación + 1 Porta Férula + Fluor - Dentu",
+   "Cuponatic",
+   "precio",
+   129.9,
+   250.0,
+   "",
+   "",
+   "1 Vendidos",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Depilación con Cera: Ceja + Bozo + Axila + Cortesía",
+   "Cuponatic",
+   "precio",
+   29.9,
+   60.0,
+   "",
+   "",
+   "Letty Salón & Spa",
+   "Letty Salón & Spa",
    "Cuponatic",
    {
     "conf": "of",

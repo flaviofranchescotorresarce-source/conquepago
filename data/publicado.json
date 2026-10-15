@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-14T10:51",
+ "actualizado": "2026-10-15T10:38",
  "filas": [
   [
    "Tambo",
@@ -3701,6 +3701,22 @@
    }
   ],
   [
+   "Fulana",
+   "Tarjeta Caja Arequipa",
+   "porcentaje",
+   20,
+   0,
+   "",
+   "",
+   "Entretenimiento",
+   "Pagando con tarjeta de débito VISA de Caja Arequipa",
+   "Tarjeta Caja Arequipa",
+   {
+    "conf": "of",
+    "ciudad": "AQP"
+   }
+  ],
+  [
    "logo-negro-espacio-200",
    "Tarjeta Caja Arequipa",
    "porcentaje",
@@ -3725,22 +3741,6 @@
    "",
    "",
    "Alquiler de espacios corporativos",
-   "Pagando con tarjeta de débito VISA de Caja Arequipa",
-   "Tarjeta Caja Arequipa",
-   {
-    "conf": "of",
-    "ciudad": "AQP"
-   }
-  ],
-  [
-   "Fulana",
-   "Tarjeta Caja Arequipa",
-   "porcentaje",
-   20,
-   0,
-   "",
-   "",
-   "Entretenimiento",
    "Pagando con tarjeta de débito VISA de Caja Arequipa",
    "Tarjeta Caja Arequipa",
    {
@@ -3781,6 +3781,22 @@
    }
   ],
   [
+   "Di Mazza",
+   "Tarjeta Caja Arequipa",
+   "porcentaje",
+   20,
+   0,
+   "",
+   "",
+   "Restaurantes",
+   "Pagando con tarjeta de débito VISA de Caja Arequipa",
+   "Tarjeta Caja Arequipa",
+   {
+    "conf": "of",
+    "ciudad": "AQP"
+   }
+  ],
+  [
    "Posho",
    "Tarjeta Caja Arequipa",
    "porcentaje",
@@ -3798,22 +3814,6 @@
   ],
   [
    "Barra 420",
-   "Tarjeta Caja Arequipa",
-   "porcentaje",
-   20,
-   0,
-   "",
-   "",
-   "Restaurantes",
-   "Pagando con tarjeta de débito VISA de Caja Arequipa",
-   "Tarjeta Caja Arequipa",
-   {
-    "conf": "of",
-    "ciudad": "AQP"
-   }
-  ],
-  [
-   "Di Mazza",
    "Tarjeta Caja Arequipa",
    "porcentaje",
    20,
@@ -3848,11 +3848,11 @@
    "Granja Fundo San Vicente",
    "Cuponatic",
    "precio",
-   19.9,
+   44.9,
    54.9,
    "",
    "",
-   "Ronda Chozera para 02: 1 Cebiche + Arroz con mariscos y Más",
+   "Full Day en Granja Interactiva Fundo San Vicente",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -3861,14 +3861,14 @@
    }
   ],
   [
-   "BUFFET INTERNACIONAL: Almuerzo ó Cena Bailable",
+   "Cineplanet",
    "Cuponatic",
    "precio",
-   54.9,
-   60.0,
+   47.9,
+   107.0,
    "",
    "",
-   "Buffet Internacional Mandarín",
+   "Cineplanet: 2 Entradas + Combo Gigante para 2 Todos los Días",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -3884,71 +3884,7 @@
    40.0,
    "",
    "",
-   "2159 Vendidos",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Plasma Facial + Mascarilla de Colágeno",
-   "Cuponatic",
-   "precio",
-   69.0,
-   99.0,
-   "",
-   "",
-   "Renacer studio",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "El Salto del Fraile",
-   "Cuponatic",
-   "precio",
-   109.9,
-   128.9,
-   "",
-   "",
-   "¡Salto del Fraile! Parrilla Marina para 2 + 2 Copas de Vino.",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "La Bistecca",
-   "Cuponatic",
-   "precio",
-   85.9,
-   103.9,
-   "",
-   "",
-   "LA BISTECCA Almuerzo o Cena Buffet + Bebida",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Rústica Pachacamac: 1 Noche - 2 Adultos + 1 Niño + Desayuno",
-   "Cuponatic",
-   "precio",
-   189.0,
-   250.0,
-   "",
-   "",
-   "69 Vendidos",
+   "2184 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -3976,11 +3912,11 @@
    "Coney Park",
    "Cuponatic",
    "precio",
-   39.9,
-   60.0,
+   59.9,
+   130.0,
    "",
    "",
-   "Últimas unidades",
+   "2818 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -4005,14 +3941,30 @@
    }
   ],
   [
-   "Vive la Adrenalina -Sesión de 6 Minutos Circuito -Euro Karts",
+   "Patinaje Sobre Hielo en Lima Bajo Cero de Lunes a Viernes -",
    "Cuponatic",
    "precio",
-   24.9,
-   35.0,
+   16.9,
+   20.0,
    "",
    "",
-   "6779 Vendidos",
+   "LIMA BAJO CERO",
+   "Patinaje Sobre Hielo en Lima Bajo Cero de Lunes a Viernes -",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Almuerzo Buffet en Yate en Altamar + Paseo en La Punta",
+   "Cuponatic",
+   "precio",
+   119.0,
+   149.0,
+   "",
+   "",
+   "Bavaria Yacht",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -4021,15 +3973,127 @@
    }
   ],
   [
-   "Láser CO2 Fraccionado Full Face + Consulta",
+   "Vive la Adrenalina -Sesión de 6 Minutos Circuito -Euro Karts",
    "Cuponatic",
    "precio",
-   249.9,
-   1600.0,
+   24.9,
+   35.0,
    "",
    "",
-   "Stetik Laser Surco",
+   "6781 Vendidos",
    "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "1 Entrada SUPER TONO NOVENTERO HALLOWEEN 2026!",
+   "Cuponatic",
+   "precio",
+   39.9,
+   64.0,
+   "",
+   "",
+   "Super Tono Noventero",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "BUFFET INTERNACIONAL: Almuerzo ó Cena Bailable",
+   "Cuponatic",
+   "precio",
+   54.9,
+   60.0,
+   "",
+   "",
+   "Buffet Internacional Mandarín",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "TODAS LAS SEDES - Juega 30 o 60 Minutos en JUMP SPOT",
+   "Cuponatic",
+   "precio",
+   19.9,
+   35.0,
+   "",
+   "",
+   "Jump Spot Perú",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "La Bistecca",
+   "Cuponatic",
+   "precio",
+   85.9,
+   103.9,
+   "",
+   "",
+   "LA BISTECCA Almuerzo o Cena Buffet + Bebida",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Coney Park",
+   "Cuponatic",
+   "precio",
+   39.9,
+   60.0,
+   "",
+   "",
+   "Últimas unidades",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "1 Férula de Relajación + 1 Porta Férula + Fluor - Dentu",
+   "Cuponatic",
+   "precio",
+   129.9,
+   250.0,
+   "",
+   "",
+   "1 Vendidos",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Depilación con Cera: Ceja + Bozo + Axila + Cortesía",
+   "Cuponatic",
+   "precio",
+   29.9,
+   60.0,
+   "",
+   "",
+   "Letty Salón & Spa",
+   "Letty Salón & Spa",
    "Cuponatic",
    {
     "conf": "of",
@@ -5512,7 +5576,7 @@
    "Papa Johns",
    "Web/app de la marca",
    "precio",
-   79.9,
+   59.9,
    183.6,
    "",
    "",
@@ -5576,7 +5640,7 @@
    "NutriPoint",
    "Promo del local",
    "precio",
-   159.0,
+   14.0,
    659.0,
    "",
    "",
@@ -5605,95 +5669,76 @@
    }
   ]
  ],
- "relampago": [
-  {
-   "f": "2026-10-13",
-   "t": "Tottus",
-   "o": "Audífonos Sudio A1 Negro a",
-   "p": 16.9,
-   "r": 0,
-   "n": "O F E R T A · ❗️ · #tottus · ✔️ · sólo S/ 16.90 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en · @concuponperu · ⚠️ · Válido hasta agota",
-   "u": "https://t.me/concuponperu/19294"
-  },
-  {
-   "f": "2026-10-13",
-   "t": "Falabella",
-   "o": "#falabella",
-   "p": 19.9,
-   "r": 0,
-   "n": "O F E R T A · ❗️ · ✔️ · Bolsa JET ULA a · sólo S/ 19.90 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en · @concuponperu · ⚠️ · Válido has",
-   "u": "https://t.me/concuponperu/19295"
-  }
- ],
+ "relampago": [],
  "ver": {
-  "Tarjeta Caja Arequipa": "2026-10-14",
-  "Cuponatic": "2026-10-14",
+  "Tarjeta Caja Arequipa": "2026-10-15",
+  "Cuponatic": "2026-10-15",
   "Cuponidad": "2026-10-08",
-  "Web/app de la marca": "2026-10-14"
+  "Web/app de la marca": "2026-10-15"
  },
  "estado": {
   "interbank": {
    "ok": false,
    "filas": 0,
    "leido": "",
-   "intento": "2026-10-14T10:51",
+   "intento": "2026-10-15T10:37",
    "error": "could not convert string to float: '2.50.'"
   },
   "telegram": {
    "ok": true,
-   "filas": 2,
-   "leido": "2026-10-14T10:51",
+   "filas": 0,
+   "leido": "2026-10-15T10:37",
    "error": ""
   },
   "bbva": {
    "ok": false,
    "filas": 0,
    "leido": "",
-   "intento": "2026-10-14T10:51",
+   "intento": "2026-10-15T10:37",
    "error": "No se pudo descargar https://www.bbva.pe/content/dam/public-web/peru/documents/personas/catalogo-promociones/Catalogo-provincias.pdf: 403 Client Error: Forbidden for url: https://www.bbva.pe/content/dam/public-web/peru/documents/personas/catalogo-promociones/Catalogo-provincias.pdf"
   },
   "caja_arequipa": {
    "ok": true,
    "filas": 9,
-   "leido": "2026-10-14T10:51",
+   "leido": "2026-10-15T10:37",
    "error": ""
   },
   "cuponatic": {
    "ok": true,
-   "filas": 14,
-   "leido": "2026-10-14T10:51",
+   "filas": 18,
+   "leido": "2026-10-15T10:37",
    "error": ""
   },
   "cuponidad": {
    "ok": false,
    "filas": 89,
    "leido": "2026-10-08T12:53",
-   "intento": "2026-10-14T10:51",
+   "intento": "2026-10-15T10:37",
    "error": "bajó de 89 a 27 filas: probablemente cambió la página"
   },
   "papajohns": {
    "ok": true,
    "filas": 4,
-   "leido": "2026-10-14T10:51",
+   "leido": "2026-10-15T10:37",
    "error": ""
   },
   "nutripoint": {
    "ok": true,
    "filas": 2,
-   "leido": "2026-10-14T10:51",
+   "leido": "2026-10-15T10:37",
    "error": ""
   },
   "cencosud": {
    "ok": false,
    "filas": 0,
    "leido": "",
-   "intento": "2026-10-14T10:51",
+   "intento": "2026-10-15T10:37",
    "error": "could not convert string to float: '46.80.'"
   },
   "starperu": {
    "ok": true,
    "filas": 1,
-   "leido": "2026-10-14T10:51",
+   "leido": "2026-10-15T10:37",
    "error": ""
   }
  }
