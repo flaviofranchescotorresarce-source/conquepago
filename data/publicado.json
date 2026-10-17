@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-16T10:24",
+ "actualizado": "2026-10-17T09:14",
  "filas": [
   [
    "Tambo",
@@ -3781,22 +3781,6 @@
    }
   ],
   [
-   "Di Mazza",
-   "Tarjeta Caja Arequipa",
-   "porcentaje",
-   20,
-   0,
-   "",
-   "",
-   "Restaurantes",
-   "Pagando con tarjeta de débito VISA de Caja Arequipa",
-   "Tarjeta Caja Arequipa",
-   {
-    "conf": "of",
-    "ciudad": "AQP"
-   }
-  ],
-  [
    "Posho",
    "Tarjeta Caja Arequipa",
    "porcentaje",
@@ -3814,6 +3798,22 @@
   ],
   [
    "Barra 420",
+   "Tarjeta Caja Arequipa",
+   "porcentaje",
+   20,
+   0,
+   "",
+   "",
+   "Restaurantes",
+   "Pagando con tarjeta de débito VISA de Caja Arequipa",
+   "Tarjeta Caja Arequipa",
+   {
+    "conf": "of",
+    "ciudad": "AQP"
+   }
+  ],
+  [
+   "Di Mazza",
    "Tarjeta Caja Arequipa",
    "porcentaje",
    20,
@@ -3861,22 +3861,6 @@
    }
   ],
   [
-   "Granja Fundo San Vicente",
-   "Cuponatic",
-   "precio",
-   44.9,
-   59.0,
-   "",
-   "",
-   "Full Day en Granja Interactiva Fundo San Vicente",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
    "Elige cuánto saltar: 30, 45 o 60 min en Supernova",
    "Cuponatic",
    "precio",
@@ -3884,7 +3868,7 @@
    40.0,
    "",
    "",
-   "2205 Vendidos",
+   "2225 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -3909,47 +3893,15 @@
    }
   ],
   [
-   "2 Entradas + Bebidas a Espectáculo Folklore en La Candelaria",
-   "Cuponatic",
-   "precio",
-   49.9,
-   124.0,
-   "",
-   "",
-   "P. Normal",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Ronda Chozera para 02: 1 Cebiche + Arroz con mariscos y Más",
+   "La Bistecca",
    "Cuponatic",
    "precio",
    19.9,
-   85.0,
+   103.9,
    "",
    "",
-   "La Choza Naútica Breña",
+   "2 Entradas + Bebidas a Espectáculo Folklore en La Candelaria",
    "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Patinaje Sobre Hielo en Lima Bajo Cero de Lunes a Viernes -",
-   "Cuponatic",
-   "precio",
-   15.9,
-   20.0,
-   "",
-   "",
-   "LIMA BAJO CERO",
-   "Patinaje Sobre Hielo en Lima Bajo Cero de Lunes a Viernes -",
    "Cuponatic",
    {
     "conf": "of",
@@ -3964,7 +3916,7 @@
    35.0,
    "",
    "",
-   "6791 Vendidos",
+   "6792 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -3989,15 +3941,31 @@
    }
   ],
   [
-   "La Bistecca",
+   "Mr Jump",
    "Cuponatic",
    "precio",
-   85.9,
-   103.9,
+   27.9,
+   55.0,
    "",
    "",
-   "LA BISTECCA Almuerzo o Cena Buffet + Bebida",
+   "Parque Inflable Más Grande de Lima - Entrada General Mr Jump",
    "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Cinemark",
+   "Cuponatic",
+   "precio",
+   10.9,
+   27.8,
+   "",
+   "",
+   "¡Cinemark! Entrada 2D de Lunes a Domingo",
+   "¡Cinemark! Entrada 2D de Lunes a Domingo",
    "Cuponatic",
    {
     "conf": "of",
@@ -4021,15 +3989,15 @@
    }
   ],
   [
-   "Barra Libre de Pastas de Lunes a Domingo - Surco y Barranco",
+   "Coney Park",
    "Cuponatic",
    "precio",
-   36.9,
-   0,
+   39.9,
+   60.0,
    "",
    "",
-   "¡Mejor precio!",
-   "Barra Libre de Pastas de Lunes a Domingo - Surco y Barranco",
+   "Últimas unidades",
+   "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
     "conf": "of",
@@ -4037,30 +4005,14 @@
    }
   ],
   [
-   "Buffet Almuerzo o Cena de Lunes a Viernes en Buffet Mágico",
+   "Artrotheca Exhibición Animales en Jockey Plaza",
    "Cuponatic",
    "precio",
-   18.9,
-   24.9,
+   16.99,
+   80.0,
    "",
    "",
-   "Buffet Mágico",
-   "Buffet Almuerzo o Cena de Lunes a Viernes en Buffet Mágico",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Alquiler Karaoke + Piso LED + Letreros y Más",
-   "Cuponatic",
-   "precio",
-   249.0,
-   850.0,
-   "",
-   "",
-   "Cosmos Games",
+   "35 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -5529,7 +5481,7 @@
    "Web/app de la marca",
    "precio",
    35.9,
-   91.8,
+   83.8,
    "",
    "",
    "1 pizza grande clásica mas gaseosa de 1LT con 3 rolls de pepperoni",
@@ -5544,8 +5496,8 @@
    "Papa Johns",
    "Web/app de la marca",
    "precio",
-   79.9,
-   183.6,
+   49.9,
+   98.7,
    "",
    "",
    "2 pizzas grandes clásicas con 1 pizza grande signature y 1 gaseosa 1L",
@@ -5608,7 +5560,7 @@
    "NutriPoint",
    "Promo del local",
    "precio",
-   14.0,
+   159.0,
    659.0,
    "",
    "",
@@ -5637,76 +5589,149 @@
    }
   ]
  ],
- "relampago": [],
+ "relampago": [
+  {
+   "f": "2026-10-17",
+   "t": "Falabella",
+   "o": "#falabella",
+   "p": 19.9,
+   "r": 0,
+   "n": "O F E R T A · ❗️ · ✔️ · Set x24 Piezas Taper Take Along a · sólo S/ 19.90 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en · @concuponperu",
+   "u": "https://t.me/concuponperu/19296"
+  },
+  {
+   "f": "2026-10-17",
+   "t": "Falabella",
+   "o": "#falabella",
+   "p": 19.9,
+   "r": 0,
+   "n": "O F E R T A · ❗️ · ✔️ · Set x5 Utensilios de Cocina Oster a · sólo S/ 19.90 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en · @concuponpe",
+   "u": "https://t.me/concuponperu/19297"
+  },
+  {
+   "f": "2026-10-17",
+   "t": "Falabella",
+   "o": "#falabella",
+   "p": 59.0,
+   "r": 0,
+   "n": "O F E R T A · ❗️ · ✔️ · Licuadora Electriclife Bj-y79g - 1.5l- 500w a · sólo S/ 59.00 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en · @",
+   "u": "https://t.me/concuponperu/19298"
+  },
+  {
+   "f": "2026-10-17",
+   "t": "Falabella",
+   "o": "#falabella",
+   "p": 9.9,
+   "r": 0,
+   "n": "O F E R T A · ❗️ · ✔️ · Pantufla Baja a · sólo S/ 9.90 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en · @concuponperu · ⚠️ · Válido hast",
+   "u": "https://t.me/concuponperu/19299"
+  },
+  {
+   "f": "2026-10-17",
+   "t": "Falabella",
+   "o": "#falabella",
+   "p": 12.9,
+   "r": 0,
+   "n": "O F E R T A · ❗️ · ✔️ · Enterizo Disfraz Niña Unicornio a · sólo S/ 12.90 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en · @concuponperu",
+   "u": "https://t.me/concuponperu/19300"
+  },
+  {
+   "f": "2026-10-17",
+   "t": "Falabella",
+   "o": "#falabella",
+   "p": 14.97,
+   "r": 0,
+   "n": "O F E R T A · ❗️ · ✔️ · Polera Niño Algodón Yamp a · sólo S/ 14.97 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en · @concuponperu · ⚠️ ·",
+   "u": "https://t.me/concuponperu/19301"
+  },
+  {
+   "f": "2026-10-17",
+   "t": "Falabella",
+   "o": "#falabella",
+   "p": 32.97,
+   "r": 0,
+   "n": "O F E R T A · ❗️ · ✔️ · Polera Niño Spiderman a · sólo S/ 32.97 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en · @concuponperu · ⚠️ · Vá",
+   "u": "https://t.me/concuponperu/19302"
+  },
+  {
+   "f": "2026-10-17",
+   "t": "Falabella",
+   "o": "#falabella",
+   "p": 139.0,
+   "r": 0,
+   "n": "O F E R T A · ❗️ · ✔️ · Parlante Bluetooth JVC XS-KY4115B 30W IPX7 Negro a · sólo S/ 139.00 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto ",
+   "u": "https://t.me/concuponperu/19303"
+  }
+ ],
  "ver": {
-  "Tarjeta Caja Arequipa": "2026-10-16",
-  "Cuponatic": "2026-10-16",
+  "Tarjeta Caja Arequipa": "2026-10-17",
+  "Cuponatic": "2026-10-17",
   "Cuponidad": "2026-10-08",
-  "Web/app de la marca": "2026-10-16"
+  "Web/app de la marca": "2026-10-17"
  },
  "estado": {
   "interbank": {
    "ok": false,
    "filas": 0,
    "leido": "",
-   "intento": "2026-10-16T10:23",
+   "intento": "2026-10-17T09:14",
    "error": "could not convert string to float: '2.50.'"
   },
   "telegram": {
    "ok": true,
-   "filas": 0,
-   "leido": "2026-10-16T10:23",
+   "filas": 8,
+   "leido": "2026-10-17T09:14",
    "error": ""
   },
   "bbva": {
    "ok": false,
    "filas": 0,
    "leido": "",
-   "intento": "2026-10-16T10:23",
+   "intento": "2026-10-17T09:14",
    "error": "No se pudo descargar https://www.bbva.pe/content/dam/public-web/peru/documents/personas/catalogo-promociones/Catalogo-provincias.pdf: 403 Client Error: Forbidden for url: https://www.bbva.pe/content/dam/public-web/peru/documents/personas/catalogo-promociones/Catalogo-provincias.pdf"
   },
   "caja_arequipa": {
    "ok": true,
    "filas": 9,
-   "leido": "2026-10-16T10:23",
+   "leido": "2026-10-17T09:14",
    "error": ""
   },
   "cuponatic": {
    "ok": true,
-   "filas": 16,
-   "leido": "2026-10-16T10:23",
+   "filas": 13,
+   "leido": "2026-10-17T09:14",
    "error": ""
   },
   "cuponidad": {
    "ok": false,
    "filas": 89,
    "leido": "2026-10-08T12:53",
-   "intento": "2026-10-16T10:23",
+   "intento": "2026-10-17T09:14",
    "error": "bajó de 89 a 27 filas: probablemente cambió la página"
   },
   "papajohns": {
    "ok": true,
    "filas": 4,
-   "leido": "2026-10-16T10:23",
+   "leido": "2026-10-17T09:14",
    "error": ""
   },
   "nutripoint": {
    "ok": true,
    "filas": 2,
-   "leido": "2026-10-16T10:23",
+   "leido": "2026-10-17T09:14",
    "error": ""
   },
   "cencosud": {
    "ok": false,
    "filas": 0,
    "leido": "",
-   "intento": "2026-10-16T10:23",
+   "intento": "2026-10-17T09:14",
    "error": "could not convert string to float: '46.80.'"
   },
   "starperu": {
    "ok": true,
    "filas": 1,
-   "leido": "2026-10-16T10:23",
+   "leido": "2026-10-17T09:14",
    "error": ""
   }
  }

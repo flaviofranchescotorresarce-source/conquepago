@@ -1,6 +1,6 @@
 {
  "id": "cuponatic",
- "leido": "2026-10-16T10:23",
+ "leido": "2026-10-17T09:14",
  "filas": [
   [
    "Cineplanet",
@@ -19,22 +19,6 @@
    }
   ],
   [
-   "Granja Fundo San Vicente",
-   "Cuponatic",
-   "precio",
-   44.9,
-   59.0,
-   "",
-   "",
-   "Full Day en Granja Interactiva Fundo San Vicente",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
    "Elige cuánto saltar: 30, 45 o 60 min en Supernova",
    "Cuponatic",
    "precio",
@@ -42,7 +26,7 @@
    40.0,
    "",
    "",
-   "2205 Vendidos",
+   "2225 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -67,47 +51,15 @@
    }
   ],
   [
-   "2 Entradas + Bebidas a Espectáculo Folklore en La Candelaria",
-   "Cuponatic",
-   "precio",
-   49.9,
-   124.0,
-   "",
-   "",
-   "P. Normal",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Ronda Chozera para 02: 1 Cebiche + Arroz con mariscos y Más",
+   "La Bistecca",
    "Cuponatic",
    "precio",
    19.9,
-   85.0,
+   103.9,
    "",
    "",
-   "La Choza Naútica Breña",
+   "2 Entradas + Bebidas a Espectáculo Folklore en La Candelaria",
    "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Patinaje Sobre Hielo en Lima Bajo Cero de Lunes a Viernes -",
-   "Cuponatic",
-   "precio",
-   15.9,
-   20.0,
-   "",
-   "",
-   "LIMA BAJO CERO",
-   "Patinaje Sobre Hielo en Lima Bajo Cero de Lunes a Viernes -",
    "Cuponatic",
    {
     "conf": "of",
@@ -122,7 +74,7 @@
    35.0,
    "",
    "",
-   "6791 Vendidos",
+   "6792 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -147,15 +99,31 @@
    }
   ],
   [
-   "La Bistecca",
+   "Mr Jump",
    "Cuponatic",
    "precio",
-   85.9,
-   103.9,
+   27.9,
+   55.0,
    "",
    "",
-   "LA BISTECCA Almuerzo o Cena Buffet + Bebida",
+   "Parque Inflable Más Grande de Lima - Entrada General Mr Jump",
    "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Cinemark",
+   "Cuponatic",
+   "precio",
+   10.9,
+   27.8,
+   "",
+   "",
+   "¡Cinemark! Entrada 2D de Lunes a Domingo",
+   "¡Cinemark! Entrada 2D de Lunes a Domingo",
    "Cuponatic",
    {
     "conf": "of",
@@ -179,15 +147,15 @@
    }
   ],
   [
-   "Barra Libre de Pastas de Lunes a Domingo - Surco y Barranco",
+   "Coney Park",
    "Cuponatic",
    "precio",
-   36.9,
-   0,
+   39.9,
+   60.0,
    "",
    "",
-   "¡Mejor precio!",
-   "Barra Libre de Pastas de Lunes a Domingo - Surco y Barranco",
+   "Últimas unidades",
+   "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
     "conf": "of",
@@ -195,30 +163,14 @@
    }
   ],
   [
-   "Buffet Almuerzo o Cena de Lunes a Viernes en Buffet Mágico",
+   "Artrotheca Exhibición Animales en Jockey Plaza",
    "Cuponatic",
    "precio",
-   18.9,
-   24.9,
+   16.99,
+   80.0,
    "",
    "",
-   "Buffet Mágico",
-   "Buffet Almuerzo o Cena de Lunes a Viernes en Buffet Mágico",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Alquiler Karaoke + Piso LED + Letreros y Más",
-   "Cuponatic",
-   "precio",
-   249.0,
-   850.0,
-   "",
-   "",
-   "Cosmos Games",
+   "35 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
