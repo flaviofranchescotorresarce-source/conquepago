@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-17T09:14",
+ "actualizado": "2026-10-18T09:38",
  "filas": [
   [
    "Tambo",
@@ -3781,6 +3781,22 @@
    }
   ],
   [
+   "Di Mazza",
+   "Tarjeta Caja Arequipa",
+   "porcentaje",
+   20,
+   0,
+   "",
+   "",
+   "Restaurantes",
+   "Pagando con tarjeta de débito VISA de Caja Arequipa",
+   "Tarjeta Caja Arequipa",
+   {
+    "conf": "of",
+    "ciudad": "AQP"
+   }
+  ],
+  [
    "Posho",
    "Tarjeta Caja Arequipa",
    "porcentaje",
@@ -3798,22 +3814,6 @@
   ],
   [
    "Barra 420",
-   "Tarjeta Caja Arequipa",
-   "porcentaje",
-   20,
-   0,
-   "",
-   "",
-   "Restaurantes",
-   "Pagando con tarjeta de débito VISA de Caja Arequipa",
-   "Tarjeta Caja Arequipa",
-   {
-    "conf": "of",
-    "ciudad": "AQP"
-   }
-  ],
-  [
-   "Di Mazza",
    "Tarjeta Caja Arequipa",
    "porcentaje",
    20,
@@ -3861,14 +3861,14 @@
    }
   ],
   [
-   "Elige cuánto saltar: 30, 45 o 60 min en Supernova",
+   "Vive la Adrenalina -Sesión de 6 Minutos Circuito -Euro Karts",
    "Cuponatic",
    "precio",
-   25.0,
-   40.0,
+   24.9,
+   35.0,
    "",
    "",
-   "2225 Vendidos",
+   "6799 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -3877,14 +3877,14 @@
    }
   ],
   [
-   "INFLABLES + MAQUINAS RECREATIVAS - Todas Sedes - Lun a Dom",
+   "Artrotheca Exhibición Animales en Jockey Plaza",
    "Cuponatic",
    "precio",
-   21.9,
-   26.0,
+   16.99,
+   80.0,
    "",
    "",
-   "Flying Squirrel",
+   "35 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -3909,63 +3909,15 @@
    }
   ],
   [
-   "Vive la Adrenalina -Sesión de 6 Minutos Circuito -Euro Karts",
-   "Cuponatic",
-   "precio",
-   24.9,
-   35.0,
-   "",
-   "",
-   "6792 Vendidos",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Revisión Técnica para Auto ó Camioneta Categoría M1",
-   "Cuponatic",
-   "precio",
-   69.0,
-   130.0,
-   "",
-   "",
-   "REVISIONES TÉCNICAS ABC - ATE",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Mr Jump",
-   "Cuponatic",
-   "precio",
-   27.9,
-   55.0,
-   "",
-   "",
-   "Parque Inflable Más Grande de Lima - Entrada General Mr Jump",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
    "Cinemark",
    "Cuponatic",
    "precio",
    10.9,
-   27.8,
+   20.0,
    "",
    "",
-   "¡Cinemark! Entrada 2D de Lunes a Domingo",
-   "¡Cinemark! Entrada 2D de Lunes a Domingo",
+   "Parque Inflable Más Grande de Lima - Entrada General Mr Jump",
+   "Patinaje Sobre Hielo en Lima Bajo Cero de Lunes a Viernes - · Barra Libre de Pastas de Lunes a Domingo - Surco y Barranco · ¡Cinemark! Entrada 2D de Lunes a Domingo",
    "Cuponatic",
    {
     "conf": "of",
@@ -4005,14 +3957,30 @@
    }
   ],
   [
-   "Artrotheca Exhibición Animales en Jockey Plaza",
+   "Elige cuánto saltar: 30, 45 o 60 min en Supernova",
    "Cuponatic",
    "precio",
-   16.99,
-   80.0,
+   25.0,
+   40.0,
    "",
    "",
-   "35 Vendidos",
+   "2237 Vendidos",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "INFLABLES + MAQUINAS RECREATIVAS - Todas Sedes - Lun a Dom",
+   "Cuponatic",
+   "precio",
+   21.9,
+   26.0,
+   "",
+   "",
+   "Flying Squirrel",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -5560,7 +5528,7 @@
    "NutriPoint",
    "Promo del local",
    "precio",
-   159.0,
+   14.0,
    659.0,
    "",
    "",
@@ -5661,77 +5629,104 @@
    "r": 0,
    "n": "O F E R T A · ❗️ · ✔️ · Parlante Bluetooth JVC XS-KY4115B 30W IPX7 Negro a · sólo S/ 139.00 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto ",
    "u": "https://t.me/concuponperu/19303"
+  },
+  {
+   "f": "2026-10-17",
+   "t": "Mercado Libre",
+   "o": "#mercadolibre",
+   "p": 0,
+   "r": 0,
+   "n": "O F E R T A · ❗️ · ✔️ · Obtén 40% de descuento con el código · CONCUPON40. · Para un mínimo de compra de 79 soles y un descuento máximo de 40 soles. Para tu · PRIMERA COMPRA · . · Más info: · ‼️ · Com",
+   "u": "https://t.me/concuponperu/19304"
+  },
+  {
+   "f": "2026-10-17",
+   "t": "Platanitos",
+   "o": "#platanitos",
+   "p": 139.9,
+   "r": 0,
+   "n": "O F E R T A · ❗️ · ✔️ · 40 soles de descuento en ADIDAS utilizando el código · ADIDASHOT · Más info: · ‼️ · Descuento aplica sobre descuentos. Aplica para compra mínima de S/ 139.90 en ropa, zapatilla",
+   "u": "https://t.me/concuponperu/19305"
+  },
+  {
+   "f": "2026-10-18",
+   "t": "Concupón",
+   "o": "#dermotienda",
+   "p": 224.93,
+   "r": 0,
+   "n": "O F E R T A · ❗️ · ✔️ · Serum Isdinceutics Retinal Intense 50Ml Isdin a · sólo S/ 224.93 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en ",
+   "u": "https://t.me/concuponperu/19306"
   }
  ],
  "ver": {
-  "Tarjeta Caja Arequipa": "2026-10-17",
-  "Cuponatic": "2026-10-17",
+  "Tarjeta Caja Arequipa": "2026-10-18",
+  "Cuponatic": "2026-10-18",
   "Cuponidad": "2026-10-08",
-  "Web/app de la marca": "2026-10-17"
+  "Web/app de la marca": "2026-10-18"
  },
  "estado": {
   "interbank": {
    "ok": false,
    "filas": 0,
    "leido": "",
-   "intento": "2026-10-17T09:14",
+   "intento": "2026-10-18T09:38",
    "error": "could not convert string to float: '2.50.'"
   },
   "telegram": {
    "ok": true,
-   "filas": 8,
-   "leido": "2026-10-17T09:14",
+   "filas": 11,
+   "leido": "2026-10-18T09:38",
    "error": ""
   },
   "bbva": {
    "ok": false,
    "filas": 0,
    "leido": "",
-   "intento": "2026-10-17T09:14",
+   "intento": "2026-10-18T09:38",
    "error": "No se pudo descargar https://www.bbva.pe/content/dam/public-web/peru/documents/personas/catalogo-promociones/Catalogo-provincias.pdf: 403 Client Error: Forbidden for url: https://www.bbva.pe/content/dam/public-web/peru/documents/personas/catalogo-promociones/Catalogo-provincias.pdf"
   },
   "caja_arequipa": {
    "ok": true,
    "filas": 9,
-   "leido": "2026-10-17T09:14",
+   "leido": "2026-10-18T09:38",
    "error": ""
   },
   "cuponatic": {
    "ok": true,
-   "filas": 13,
-   "leido": "2026-10-17T09:14",
+   "filas": 11,
+   "leido": "2026-10-18T09:38",
    "error": ""
   },
   "cuponidad": {
    "ok": false,
    "filas": 89,
    "leido": "2026-10-08T12:53",
-   "intento": "2026-10-17T09:14",
+   "intento": "2026-10-18T09:38",
    "error": "bajó de 89 a 27 filas: probablemente cambió la página"
   },
   "papajohns": {
    "ok": true,
    "filas": 4,
-   "leido": "2026-10-17T09:14",
+   "leido": "2026-10-18T09:38",
    "error": ""
   },
   "nutripoint": {
    "ok": true,
    "filas": 2,
-   "leido": "2026-10-17T09:14",
+   "leido": "2026-10-18T09:38",
    "error": ""
   },
   "cencosud": {
    "ok": false,
    "filas": 0,
    "leido": "",
-   "intento": "2026-10-17T09:14",
+   "intento": "2026-10-18T09:38",
    "error": "could not convert string to float: '46.80.'"
   },
   "starperu": {
    "ok": true,
    "filas": 1,
-   "leido": "2026-10-17T09:14",
+   "leido": "2026-10-18T09:38",
    "error": ""
   }
  }

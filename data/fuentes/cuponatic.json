@@ -1,6 +1,6 @@
 {
  "id": "cuponatic",
- "leido": "2026-10-17T09:14",
+ "leido": "2026-10-18T09:38",
  "filas": [
   [
    "Cineplanet",
@@ -19,14 +19,14 @@
    }
   ],
   [
-   "Elige cuánto saltar: 30, 45 o 60 min en Supernova",
+   "Vive la Adrenalina -Sesión de 6 Minutos Circuito -Euro Karts",
    "Cuponatic",
    "precio",
-   25.0,
-   40.0,
+   24.9,
+   35.0,
    "",
    "",
-   "2225 Vendidos",
+   "6799 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -35,14 +35,14 @@
    }
   ],
   [
-   "INFLABLES + MAQUINAS RECREATIVAS - Todas Sedes - Lun a Dom",
+   "Artrotheca Exhibición Animales en Jockey Plaza",
    "Cuponatic",
    "precio",
-   21.9,
-   26.0,
+   16.99,
+   80.0,
    "",
    "",
-   "Flying Squirrel",
+   "35 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -67,63 +67,15 @@
    }
   ],
   [
-   "Vive la Adrenalina -Sesión de 6 Minutos Circuito -Euro Karts",
-   "Cuponatic",
-   "precio",
-   24.9,
-   35.0,
-   "",
-   "",
-   "6792 Vendidos",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Revisión Técnica para Auto ó Camioneta Categoría M1",
-   "Cuponatic",
-   "precio",
-   69.0,
-   130.0,
-   "",
-   "",
-   "REVISIONES TÉCNICAS ABC - ATE",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Mr Jump",
-   "Cuponatic",
-   "precio",
-   27.9,
-   55.0,
-   "",
-   "",
-   "Parque Inflable Más Grande de Lima - Entrada General Mr Jump",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
    "Cinemark",
    "Cuponatic",
    "precio",
    10.9,
-   27.8,
+   20.0,
    "",
    "",
-   "¡Cinemark! Entrada 2D de Lunes a Domingo",
-   "¡Cinemark! Entrada 2D de Lunes a Domingo",
+   "Parque Inflable Más Grande de Lima - Entrada General Mr Jump",
+   "Patinaje Sobre Hielo en Lima Bajo Cero de Lunes a Viernes - · Barra Libre de Pastas de Lunes a Domingo - Surco y Barranco · ¡Cinemark! Entrada 2D de Lunes a Domingo",
    "Cuponatic",
    {
     "conf": "of",
@@ -163,14 +115,30 @@
    }
   ],
   [
-   "Artrotheca Exhibición Animales en Jockey Plaza",
+   "Elige cuánto saltar: 30, 45 o 60 min en Supernova",
    "Cuponatic",
    "precio",
-   16.99,
-   80.0,
+   25.0,
+   40.0,
    "",
    "",
-   "35 Vendidos",
+   "2237 Vendidos",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "INFLABLES + MAQUINAS RECREATIVAS - Todas Sedes - Lun a Dom",
+   "Cuponatic",
+   "precio",
+   21.9,
+   26.0,
+   "",
+   "",
+   "Flying Squirrel",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
