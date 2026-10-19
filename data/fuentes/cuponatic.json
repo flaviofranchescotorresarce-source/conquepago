@@ -1,6 +1,6 @@
 {
  "id": "cuponatic",
- "leido": "2026-10-18T09:38",
+ "leido": "2026-10-19T12:31",
  "filas": [
   [
    "Cineplanet",
@@ -19,14 +19,14 @@
    }
   ],
   [
-   "Vive la Adrenalina -Sesión de 6 Minutos Circuito -Euro Karts",
+   "La Bistecca",
    "Cuponatic",
    "precio",
-   24.9,
-   35.0,
+   85.9,
+   103.9,
    "",
    "",
-   "6799 Vendidos",
+   "LA BISTECCA Almuerzo o Cena Buffet + Bebida",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -51,14 +51,14 @@
    }
   ],
   [
-   "La Bistecca",
+   "Revisión Técnica para Auto ó Camioneta Categoría M1",
    "Cuponatic",
    "precio",
-   19.9,
-   103.9,
+   69.0,
+   130.0,
    "",
    "",
-   "2 Entradas + Bebidas a Espectáculo Folklore en La Candelaria",
+   "REVISIONES TÉCNICAS ABC - ATE",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -67,15 +67,79 @@
    }
   ],
   [
-   "Cinemark",
+   "¡Escápate! Habitación +Desayuno en Hotel Villa de Sur Cañete",
    "Cuponatic",
    "precio",
-   10.9,
-   20.0,
+   99.9,
+   175.0,
    "",
    "",
-   "Parque Inflable Más Grande de Lima - Entrada General Mr Jump",
-   "Patinaje Sobre Hielo en Lima Bajo Cero de Lunes a Viernes - · Barra Libre de Pastas de Lunes a Domingo - Surco y Barranco · ¡Cinemark! Entrada 2D de Lunes a Domingo",
+   "Hotel Villa del Sur",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Coney Park",
+   "Cuponatic",
+   "precio",
+   59.9,
+   130.0,
+   "",
+   "",
+   "2880 Vendidos",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Experiencia Premium: Limpieza Facial + Masaje Relajante",
+   "Cuponatic",
+   "precio",
+   69.9,
+   300.0,
+   "",
+   "",
+   "3 Vendidos",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Buffet Marino, Oriental y Criollo en La Punta",
+   "Cuponatic",
+   "precio",
+   59.0,
+   64.0,
+   "",
+   "",
+   "175 Vendidos",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Elige cuánto saltar: 30, 45 o 60 min en Supernova",
+   "Cuponatic",
+   "precio",
+   25.0,
+   40.0,
+   "",
+   "",
+   "2251 Vendidos",
+   "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
     "conf": "of",
@@ -99,15 +163,15 @@
    }
   ],
   [
-   "Coney Park",
+   "Cinemark",
    "Cuponatic",
    "precio",
-   39.9,
-   60.0,
+   10.9,
+   27.8,
    "",
    "",
-   "Últimas unidades",
-   "Compra el cupón en Cuponatic",
+   "¡Cinemark! Entrada 2D de Lunes a Domingo",
+   "¡Cinemark! Entrada 2D de Lunes a Domingo",
    "Cuponatic",
    {
     "conf": "of",
@@ -115,14 +179,14 @@
    }
   ],
   [
-   "Elige cuánto saltar: 30, 45 o 60 min en Supernova",
+   "Día de Spa Oriental  en Red Ganesh Spa Miraflores",
    "Cuponatic",
    "precio",
-   25.0,
-   40.0,
+   49.9,
+   300.0,
    "",
    "",
-   "2237 Vendidos",
+   "11 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -139,6 +203,38 @@
    "",
    "",
    "Flying Squirrel",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Cierre de Costillas! en 8 Visitas con Maderoterapia",
+   "Cuponatic",
+   "precio",
+   129.9,
+   350.0,
+   "",
+   "",
+   "REDUTECH TRATAMIENTOS REDUCTORES",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Licencia permanente de Office 2021 Pro Plus-1 Equipo",
+   "Cuponatic",
+   "precio",
+   29.9,
+   37.9,
+   "",
+   "",
+   "COMPU GAMES",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
