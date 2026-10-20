@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-19T12:31",
+ "actualizado": "2026-10-20T10:40",
  "filas": [
   [
    "Tambo",
@@ -3701,22 +3701,6 @@
    }
   ],
   [
-   "Fulana",
-   "Tarjeta Caja Arequipa",
-   "porcentaje",
-   20,
-   0,
-   "",
-   "",
-   "Entretenimiento",
-   "Pagando con tarjeta de débito VISA de Caja Arequipa",
-   "Tarjeta Caja Arequipa",
-   {
-    "conf": "of",
-    "ciudad": "AQP"
-   }
-  ],
-  [
    "logo-negro-espacio-200",
    "Tarjeta Caja Arequipa",
    "porcentaje",
@@ -3749,14 +3733,14 @@
    }
   ],
   [
-   "Alfa",
+   "Fulana",
    "Tarjeta Caja Arequipa",
    "porcentaje",
    20,
    0,
    "",
    "",
-   "Restaurantes",
+   "Entretenimiento",
    "Pagando con tarjeta de débito VISA de Caja Arequipa",
    "Tarjeta Caja Arequipa",
    {
@@ -3781,7 +3765,7 @@
    }
   ],
   [
-   "Di Mazza",
+   "Alfa",
    "Tarjeta Caja Arequipa",
    "porcentaje",
    20,
@@ -3814,6 +3798,22 @@
   ],
   [
    "Barra 420",
+   "Tarjeta Caja Arequipa",
+   "porcentaje",
+   20,
+   0,
+   "",
+   "",
+   "Restaurantes",
+   "Pagando con tarjeta de débito VISA de Caja Arequipa",
+   "Tarjeta Caja Arequipa",
+   {
+    "conf": "of",
+    "ciudad": "AQP"
+   }
+  ],
+  [
+   "Di Mazza",
    "Tarjeta Caja Arequipa",
    "porcentaje",
    20,
@@ -3932,7 +3932,7 @@
    130.0,
    "",
    "",
-   "2880 Vendidos",
+   "2889 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -3980,7 +3980,7 @@
    40.0,
    "",
    "",
-   "2251 Vendidos",
+   "2252 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -4037,7 +4037,7 @@
    }
   ],
   [
-   "INFLABLES + MAQUINAS RECREATIVAS - Todas Sedes - Lun a Dom",
+   "Salta 60, 90, 120 Minutos o Full Day de L - D en 3 Locales",
    "Cuponatic",
    "precio",
    21.9,
@@ -4053,14 +4053,14 @@
    }
   ],
   [
-   "Cierre de Costillas! en 8 Visitas con Maderoterapia",
+   "City Tour Cusco + Transporte + Guía + 04 Ruinas y Más",
    "Cuponatic",
    "precio",
-   129.9,
-   350.0,
+   15.9,
+   0,
    "",
    "",
-   "REDUTECH TRATAMIENTOS REDUCTORES",
+   "JASTHY`N TRAVEL TOURS",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -4069,14 +4069,14 @@
    }
   ],
   [
-   "Licencia permanente de Office 2021 Pro Plus-1 Equipo",
+   "Noche para 2 hasta 9 Personas + Desayuno en Oxapampa",
    "Cuponatic",
    "precio",
-   29.9,
-   37.9,
+   169.0,
+   250.0,
    "",
    "",
-   "COMPU GAMES",
+   "Cabañas El Pinar de Oxapampa",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -5544,12 +5544,12 @@
    "Papa Johns",
    "Web/app de la marca",
    "precio",
-   6.0,
-   55.8,
+   24.9,
+   113.7,
    "",
    "",
-   "1 pizza grande clásica mas gaseosa de 1LT con 3 rolls de pepperoni",
-   "Promo de la web y app de Papa Johns",
+   "1 Familiar Clasica + 1 Familiar Signature/Especialidad + Cheesticks + Pack Salsa + Gaseosa 1.5L",
+   "Martes de Hawaiana Familiar · Martes de Hawaiana Grande",
    "Web/app de la marca",
    {
     "conf": "of",
@@ -5655,84 +5655,84 @@
  ],
  "relampago": [
   {
-   "f": "2026-10-18",
-   "t": "Concupón",
-   "o": "#dermotienda",
-   "p": 224.93,
+   "f": "2026-10-20",
+   "t": "Falabella",
+   "o": "#falabella",
+   "p": 19.9,
    "r": 0,
-   "n": "O F E R T A · ❗️ · ✔️ · Serum Isdinceutics Retinal Intense 50Ml Isdin a · sólo S/ 224.93 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en ",
-   "u": "https://t.me/concuponperu/19306"
+   "n": "O F E R T A · ❗️ · ✔️ · Camisa Hombre Basement a · sólo S/ 19.90 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en · @concuponperu · ⚠️ · V",
+   "u": "https://t.me/concuponperu/19307"
   }
  ],
  "ver": {
-  "Tarjeta Caja Arequipa": "2026-10-19",
-  "Cuponatic": "2026-10-19",
+  "Tarjeta Caja Arequipa": "2026-10-20",
+  "Cuponatic": "2026-10-20",
   "Cuponidad": "2026-10-08",
-  "Web/app de la marca": "2026-10-19"
+  "Web/app de la marca": "2026-10-20"
  },
  "estado": {
   "interbank": {
    "ok": false,
    "filas": 0,
    "leido": "",
-   "intento": "2026-10-19T12:31",
+   "intento": "2026-10-20T10:40",
    "error": "could not convert string to float: '2.50.'"
   },
   "telegram": {
    "ok": true,
    "filas": 1,
-   "leido": "2026-10-19T12:31",
+   "leido": "2026-10-20T10:40",
    "error": ""
   },
   "bbva": {
    "ok": false,
    "filas": 0,
    "leido": "",
-   "intento": "2026-10-19T12:31",
+   "intento": "2026-10-20T10:40",
    "error": "No se pudo descargar https://www.bbva.pe/content/dam/public-web/peru/documents/personas/catalogo-promociones/Catalogo-provincias.pdf: 403 Client Error: Forbidden for url: https://www.bbva.pe/content/dam/public-web/peru/documents/personas/catalogo-promociones/Catalogo-provincias.pdf"
   },
   "caja_arequipa": {
    "ok": true,
    "filas": 9,
-   "leido": "2026-10-19T12:31",
+   "leido": "2026-10-20T10:40",
    "error": ""
   },
   "cuponatic": {
    "ok": true,
    "filas": 17,
-   "leido": "2026-10-19T12:31",
+   "leido": "2026-10-20T10:40",
    "error": ""
   },
   "cuponidad": {
    "ok": false,
    "filas": 89,
    "leido": "2026-10-08T12:53",
-   "intento": "2026-10-19T12:31",
-   "error": "bajó de 89 a 27 filas: probablemente cambió la página"
+   "intento": "2026-10-20T10:40",
+   "error": "bajó de 89 a 35 filas: probablemente cambió la página"
   },
   "papajohns": {
    "ok": true,
    "filas": 4,
-   "leido": "2026-10-19T12:31",
+   "leido": "2026-10-20T10:40",
    "error": ""
   },
   "nutripoint": {
    "ok": true,
    "filas": 2,
-   "leido": "2026-10-19T12:31",
+   "leido": "2026-10-20T10:40",
    "error": ""
   },
   "cencosud": {
    "ok": false,
    "filas": 0,
    "leido": "",
-   "intento": "2026-10-19T12:31",
+   "intento": "2026-10-20T10:40",
    "error": "could not convert string to float: '46.80.'"
   },
   "starperu": {
    "ok": true,
    "filas": 1,
-   "leido": "2026-10-19T12:31",
+   "leido": "2026-10-20T10:40",
    "error": ""
   }
  }
