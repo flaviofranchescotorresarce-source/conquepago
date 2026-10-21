@@ -1,16 +1,16 @@
 {
  "id": "cuponatic",
- "leido": "2026-10-20T10:40",
+ "leido": "2026-10-21T10:58",
  "filas": [
   [
-   "Cineplanet",
+   "Mr Jump",
    "Cuponatic",
    "precio",
-   47.9,
-   107.0,
+   27.9,
+   55.0,
    "",
    "",
-   "Cineplanet: 2 Entradas + Combo Gigante para 2 Todos los Días",
+   "Parque Inflable Más Grande de Lima - Entrada General Mr Jump",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -35,14 +35,14 @@
    }
   ],
   [
-   "Artrotheca Exhibición Animales en Jockey Plaza",
+   "Cineplanet",
    "Cuponatic",
    "precio",
-   16.99,
-   80.0,
+   47.9,
+   107.0,
    "",
    "",
-   "35 Vendidos",
+   "Cineplanet: 2 Entradas + Combo Gigante para 2 Todos los Días",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -67,14 +67,30 @@
    }
   ],
   [
-   "¡Escápate! Habitación +Desayuno en Hotel Villa de Sur Cañete",
+   "Escape Room - El Último Conjuro: 60 Minutos + Fotos y Más",
    "Cuponatic",
    "precio",
-   99.9,
-   175.0,
+   99.0,
+   120.0,
    "",
    "",
-   "Hotel Villa del Sur",
+   "ENCRYPTED",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Halloween- Tour nocturno al Cementerio Presbítero",
+   "Cuponatic",
+   "precio",
+   29.9,
+   0,
+   "",
+   "",
+   "Friends Tour Perú EIRL",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -86,107 +102,11 @@
    "Coney Park",
    "Cuponatic",
    "precio",
-   59.9,
-   130.0,
+   39.9,
+   60.0,
    "",
    "",
-   "2889 Vendidos",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Experiencia Premium: Limpieza Facial + Masaje Relajante",
-   "Cuponatic",
-   "precio",
-   69.9,
-   300.0,
-   "",
-   "",
-   "3 Vendidos",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Buffet Marino, Oriental y Criollo en La Punta",
-   "Cuponatic",
-   "precio",
-   59.0,
-   64.0,
-   "",
-   "",
-   "175 Vendidos",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Elige cuánto saltar: 30, 45 o 60 min en Supernova",
-   "Cuponatic",
-   "precio",
-   25.0,
-   40.0,
-   "",
-   "",
-   "2252 Vendidos",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "TODAS LAS SEDES - Juega 30 o 60 Minutos en JUMP SPOT",
-   "Cuponatic",
-   "precio",
-   19.9,
-   35.0,
-   "",
-   "",
-   "Jump Spot Perú",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Cinemark",
-   "Cuponatic",
-   "precio",
-   10.9,
-   27.8,
-   "",
-   "",
-   "¡Cinemark! Entrada 2D de Lunes a Domingo",
-   "¡Cinemark! Entrada 2D de Lunes a Domingo",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Día de Spa Oriental  en Red Ganesh Spa Miraflores",
-   "Cuponatic",
-   "precio",
-   49.9,
-   300.0,
-   "",
-   "",
-   "11 Vendidos",
+   "Últimas unidades",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -211,14 +131,78 @@
    }
   ],
   [
-   "City Tour Cusco + Transporte + Guía + 04 Ruinas y Más",
+   "¡Super Combos! Pizzas Grandes a Elección - Surquillo",
    "Cuponatic",
    "precio",
-   15.9,
-   0,
+   19.9,
+   42.0,
    "",
    "",
-   "JASTHY`N TRAVEL TOURS",
+   "6 Vendidos",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Cinemark",
+   "Cuponatic",
+   "precio",
+   10.9,
+   27.8,
+   "",
+   "",
+   "¡Cinemark! Entrada 2D de Lunes a Domingo",
+   "¡Cinemark! Entrada 2D de Lunes a Domingo",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Ronda Mixta para 02 - Choza Náutica Breña",
+   "Cuponatic",
+   "precio",
+   39.9,
+   85.0,
+   "",
+   "",
+   "La Choza Naútica Breña",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Coney Park",
+   "Cuponatic",
+   "precio",
+   59.9,
+   130.0,
+   "",
+   "",
+   "2894 Vendidos",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Cierre de Costillas! en 8 Visitas con Maderoterapia",
+   "Cuponatic",
+   "precio",
+   99.9,
+   350.0,
+   "",
+   "",
+   "REDUTECH TRATAMIENTOS REDUCTORES",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {

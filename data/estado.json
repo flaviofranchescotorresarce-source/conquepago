@@ -3,64 +3,65 @@
   "ok": false,
   "filas": 0,
   "leido": "",
-  "intento": "2026-10-20T10:40",
+  "intento": "2026-10-21T10:58",
   "error": "could not convert string to float: '2.50.'"
  },
  "telegram": {
   "ok": true,
   "filas": 1,
-  "leido": "2026-10-20T10:40",
+  "leido": "2026-10-21T10:58",
   "error": ""
  },
  "bbva": {
   "ok": false,
   "filas": 0,
   "leido": "",
-  "intento": "2026-10-20T10:40",
+  "intento": "2026-10-21T10:58",
   "error": "No se pudo descargar https://www.bbva.pe/content/dam/public-web/peru/documents/personas/catalogo-promociones/Catalogo-provincias.pdf: 403 Client Error: Forbidden for url: https://www.bbva.pe/content/dam/public-web/peru/documents/personas/catalogo-promociones/Catalogo-provincias.pdf"
  },
  "caja_arequipa": {
   "ok": true,
   "filas": 9,
-  "leido": "2026-10-20T10:40",
+  "leido": "2026-10-21T10:58",
   "error": ""
  },
  "cuponatic": {
   "ok": true,
-  "filas": 17,
-  "leido": "2026-10-20T10:40",
+  "filas": 16,
+  "leido": "2026-10-21T10:58",
   "error": ""
  },
  "cuponidad": {
   "ok": false,
   "filas": 89,
   "leido": "2026-10-08T12:53",
-  "intento": "2026-10-20T10:40",
-  "error": "bajó de 89 a 35 filas: probablemente cambió la página"
+  "intento": "2026-10-21T10:58",
+  "error": "bajó de 89 a 34 filas: probablemente cambió la página"
  },
  "papajohns": {
-  "ok": true,
+  "ok": false,
   "filas": 4,
   "leido": "2026-10-20T10:40",
-  "error": ""
+  "intento": "2026-10-21T10:58",
+  "error": "No se pudo descargar https://www.papajohns.com.pe/menu/promociones: 503 Server Error: Service Temporarily Unavailable for url: https://www.papajohns.com.pe/menu/promociones"
  },
  "nutripoint": {
   "ok": true,
   "filas": 2,
-  "leido": "2026-10-20T10:40",
+  "leido": "2026-10-21T10:58",
   "error": ""
  },
  "cencosud": {
   "ok": false,
   "filas": 0,
   "leido": "",
-  "intento": "2026-10-20T10:40",
+  "intento": "2026-10-21T10:58",
   "error": "could not convert string to float: '46.80.'"
  },
  "starperu": {
   "ok": true,
   "filas": 1,
-  "leido": "2026-10-20T10:40",
+  "leido": "2026-10-21T10:58",
   "error": ""
  }
 }
