@@ -54,7 +54,7 @@ MESES = {'enero': 1, 'febrero': 2, 'marzo': 3, 'abril': 4, 'mayo': 5, 'junio': 6
 
 
 def num(s):
-    s = s.replace(' ', '')
+    s = s.replace(' ', '').strip('.,')  # «S/ 2.50.» al final de una frase trae el punto pegado
     if ',' in s and '.' in s:
         s = s.replace(',', '') if s.rfind('.') > s.rfind(',') else s.replace('.', '').replace(',', '.')
     elif ',' in s:

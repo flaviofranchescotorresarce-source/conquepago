@@ -20,7 +20,7 @@ def limpiar(filas):
     return salida
 
 
-def revisar(fuente, filas, previo):
+def revisar(fuente, filas, previo, historial):
     n = len(filas)
     if n < fuente['minimo']:
         raise RuntimeError(f'solo {n} filas (mínimo {fuente["minimo"]})')
@@ -28,6 +28,10 @@ def revisar(fuente, filas, previo):
         return
     antes = len(previo['filas']) if previo else sum(
         1 for r in leer_json(DATA / 'base.json')['filas'] if fuente['propias'](r))
+    # Si 3 de las últimas 5 lecturas coinciden, esa es la cantidad normal de la página hoy: así una sola
+    # lectura inflada no deja la fuente congelada para siempre, y una caída de un par de días sigue frenándose.
+    if len(historial) >= 3:
+        antes = sorted(historial)[len(historial) // 2]
     if antes >= 8 and n < antes * 0.5:
         raise RuntimeError(f'bajó de {antes} a {n} filas: probablemente cambió la página')
     if fuente.get('clave'):
@@ -46,17 +50,20 @@ def main(solo):
         ruta = DATA / 'fuentes' / f'{fuente["id"]}.json'
         previo = leer_json(ruta)
         antes = estado.get(fuente['id'], {})
+        historial = antes.get('historial', [])  # cuántas filas trajo cada lectura reciente, aunque se haya rechazado
         try:
             filas = fuente['leer']()
             if not fuente.get('relampago'):
                 filas = limpiar(filas)
-            revisar(fuente, filas, previo)
+            historial = (historial + [len(filas)])[-5:]
+            revisar(fuente, filas, previo, historial)
             guardar_json(ruta, {'id': fuente['id'], 'leido': ahora, 'filas': filas})
-            estado[fuente['id']] = {'ok': True, 'filas': len(filas), 'leido': ahora, 'error': ''}
+            estado[fuente['id']] = {'ok': True, 'filas': len(filas), 'leido': ahora, 'error': '',
+                                    'historial': historial}
             print(f'✔ {fuente["id"]}: {len(filas)} filas')
         except Exception as e:  # una fuente caída no debe tumbar a las demás
             estado[fuente['id']] = {'ok': False, 'filas': antes.get('filas', 0), 'leido': antes.get('leido', ''),
-                                    'intento': ahora, 'error': str(e)[:300]}
+                                    'intento': ahora, 'error': str(e)[:300], 'historial': historial}
             print(f'✘ {fuente["id"]}: {e}')
     guardar_json(DATA / 'estado.json', estado)
 

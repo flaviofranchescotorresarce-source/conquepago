@@ -25,6 +25,7 @@ Cada mañana a las 6:17 (hora de Perú), GitHub Actions lee las páginas oficial
 ## Controles de precisión
 
 - Una fuente se guarda solo si trae su mínimo de filas, no cae a menos de la mitad de lo que tenía y, en Interbank, al menos la mitad de las filas corresponden a locales conocidos.
+- «Lo que tenía» es lo normal de las últimas lecturas: si 3 de las últimas 5 traen una cantidad parecida, esa pasa a ser la normal. Así una lectura rara (de más o de menos) no congela la fuente para siempre.
 - Si una fuente falla, se mantienen sus datos anteriores y el reporte lo dice.
 - Si el catálogo quedaría con menos de 210 promos, no se publica nada y el workflow falla (GitHub te manda un correo).
 
