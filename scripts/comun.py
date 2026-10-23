@@ -206,12 +206,16 @@ REGULAR = re.compile(r'(?:antes|regular|normal|precio\s+de\s+lista|valor)\D{0,15
 STOCK = re.compile(r'stock[^\d]{0,25}(\d[\d .,]*)', re.I)
 VIGENCIA = re.compile(r'v[aá]lid[oa]\s+(?:hasta|del|desde)|vigencia|^\s*(?:del|hasta el)\s+\d|\d{1,2}/\d{1,2}/\d{2,4}', re.I)
 MAXIMO = re.compile(r'm[aá]x(?:imo)?\.?\s*(?:de\s+)?(\d{1,2})', re.I)
+# «por compras desde S/500», «monto mínimo de consumo de S/50»: es el mínimo para acceder, no el precio
+MIN_COMPRA = re.compile(r'(?:compras?|consumos?)\s+(?:desde|mayores\s+(?:a|de)|m[ií]nim[oa]s?\s+de)\s+S/\.?\s*(\d[\d.,]*)|'
+                        r'm[ií]nim[oa]\s+de\s+(?:compra|consumo)\s*(?:de|:)?\s*S/\.?\s*(\d[\d.,]*)', re.I)
 
 
 def a_fila(t, *, local, medio, programa, nota, extras=None, ciudad=''):
     """Convierte una tarjeta leída en una fila del catálogo. Todo número sale literal del texto."""
     texto = t['texto']
-    ps = precios(texto)
+    minimos = [num(a or b) for a, b in MIN_COMPRA.findall(texto)]
+    ps = [p for p in precios(texto) if p not in minimos]
     reg = [num(x) for x in REGULAR.findall(texto)]
     pct = [int(x) for x in PCT.findall(texto)]
     fs = fechas(texto)
@@ -229,6 +233,8 @@ def a_fila(t, *, local, medio, programa, nota, extras=None, ciudad=''):
     dias = dias_validos(texto)
     if dias and 'dias' not in e:
         e['dias'] = dias
+    if minimos and 'min' not in e:
+        e['min'] = minimos[0]
     if re.search(r'2\s*x\s*1', texto, re.I):
         tipo, valor, regular = '2x1', 0, 0
     elif ps and (pct == [] or [p for p in ps if p not in reg]):  # «30% … Precio regular S/92» es un porcentaje
@@ -236,7 +242,7 @@ def a_fila(t, *, local, medio, programa, nota, extras=None, ciudad=''):
         candidatos = [p for p in ps if p != regular] or ps
         valor = min(candidatos)
         tipo = 'precio'
-        if re.search(r'S/\.?\s*[\d.,]+\s*(?:de\s+)?(?:descuento|dscto|dcto|desct)', texto, re.I):
+        if re.search(r'S/\.?\s*[\d.,]+\s*(?:de\s+)?(?:descuento|dscto|dcto|desct)|devolvemos|te devuelve', texto, re.I):
             tipo, regular = 'monto', 0
     elif pct:
         tipo, valor, regular = 'porcentaje', max(pct), 0
