@@ -45,6 +45,18 @@ jobs:
       - name: Reporte
         run: python scripts/reporte.py
 
+      - name: Revisar que Pages publique desde Actions
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          # En modo «Deploy from a branch» GitHub publica también la rama y tapa la página con el README
+          tipo=$(gh api "repos/${{ github.repository }}/pages" -q .build_type)
+          if [ "$tipo" = "legacy" ]; then
+            echo "::warning::Pages está en «Deploy from a branch». Cámbialo a «GitHub Actions» en Settings → Pages."
+            printf '\n### ⚠️ La página puede estar mostrando el README\nSettings → Pages → Source está en «Deploy from a branch». Cámbialo a **GitHub Actions**.\n' >> reporte.md
+          fi
+
       - name: Guardar datos en el repo
         run: |
           git config user.name "github-actions[bot]"
