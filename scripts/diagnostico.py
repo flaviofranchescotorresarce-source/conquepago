@@ -1,11 +1,9 @@
-"""TEMPORAL: prueba los lectores con las páginas reales e imprime el resultado en el log. Se borra antes de mergear."""
-import re
+"""TEMPORAL: corre los lectores con las páginas reales y compara con lo publicado. Se borra antes de mergear."""
 import sys
 
-from bs4 import BeautifulSoup
-
-from comun import bajar, leer_tarjeta, locales_conocidos, tarjetas
-from fuentes import FUENTES, _marca_ibk, _promos_ibk
+from comun import DATA, leer_json, locales_conocidos
+from fuentes import FUENTES
+from refrescar import limpiar, revisar
 
 sys.stdout.reconfigure(line_buffering=True)
 
@@ -15,57 +13,36 @@ def corto(s, n):
     return s if len(s) <= n else s[:n] + '…'
 
 
-def cadena(el):
-    pasos = []
-    for a in [el, *el.parents][:9]:
-        fuertes = [s.get_text(' ', strip=True)[:25] for s in a.find_all('strong', recursive=True)][:3]
-        imgs = [(i.get('src') or '').split('/')[-1][:30] for i in a.find_all('img')][:2]
-        pasos.append(f'{a.name}.{".".join(a.get("class") or [])[:40]} strongs={fuertes} imgs={imgs}')
-    return '\n        '.join(pasos)
-
-
-def interbank():
-    print('\n######## INTERBANK: promos sin marca ########')
-    html = bajar('https://interbank.pe/promociones/descuentos/plinpromos', 'interbank.html')
-    sin = 0
-    for el in tarjetas(html):
-        items = [li for li in el.find_all('li') if re.search(r'S/|%', li.get_text())] or [el]
-        for item in items:
-            if _marca_ibk(item) is None and re.search(r'S/|%', item.get_text()):
-                sin += 1
-                if sin <= 6:
-                    print('---', corto(item.get_text(' ', strip=True), 120))
-                    print('        ' + cadena(item))
-    print('promos sin marca:', sin)
-    print('\n######## INTERBANK: filas del lector nuevo ########')
-    fuente = next(f for f in FUENTES if f['id'] == 'interbank')
-    filas = fuente['leer']()
-    conocidos = locales_conocidos()
-    print('filas:', len(filas), '| locales conocidos:', sum(1 for f in filas if f[0] in conocidos))
-    for f in filas:
-        print(f'{f[0][:24]:24} {f[2][:5]:5} {f[3]:>7} {f[4]:>7} {f[5]:10} {f[6]:10} | {corto(f[7], 80)} | {corto(f[8], 40)}')
-    marcas = [m for m, _ in _promos_ibk(html)]
-    print('segmentos:', len(marcas), '| sin marca:', marcas.count(None))
-
-
-def cencosud():
-    print('\n######## CENCOSUD ########')
-    html = bajar('https://www.tarjetacencosud.pe/promotion/boticas-y-salud/', 'cencosud.html')
-    cards = tarjetas(html)
-    print('tarjetas:', len(cards))
-    for el in cards[:4]:
-        el = BeautifulSoup(str(el), 'html.parser')
-        for t in el.find_all(True):
-            for a in list(t.attrs):
-                if a not in ('class', 'src', 'alt', 'href', 'title') and not a.startswith('data-'):
-                    del t.attrs[a]
-        print('>>>', corto(str(el), 1800))
-    for el in cards[:40]:
-        t = leer_tarjeta(el)
-        print('  -', corto(t['alt'], 35), '|', corto(t['titulo'], 35), '|', corto(t['href'], 60), '|', corto(t['texto'], 120))
+def linea(f):
+    e = {k: v for k, v in (f[10] or {}).items() if k != 'conf'}
+    return f'{f[0][:24]:24} {f[2][:5]:5} {f[3]:>7} {f[4]:>7} {f[5]:10} {f[6]:10} {e} | {corto(f[7], 70)} | {corto(f[8], 35)}'
 
 
 if __name__ == '__main__':
-    interbank()
-    cencosud()
+    conocidos = locales_conocidos()
+    for fuente in FUENTES:
+        if fuente['id'] in ('bbva', 'starperu', 'telegram'):
+            continue
+        print(f'\n######## {fuente["id"]} ########')
+        previo = leer_json(DATA / 'fuentes' / f'{fuente["id"]}.json')
+        filas = []
+        try:
+            filas = limpiar(fuente['leer']())
+            revisar(fuente, filas, previo, [len(filas)])
+            veredicto = 'PASA LOS CONTROLES'
+        except Exception as e:  # noqa: BLE001
+            veredicto = f'NO PASA: {e}'
+        antes = previo['filas'] if previo else []
+        print(f'antes {len(antes)} filas → ahora {len(filas)} | {veredicto}')
+        print('locales conocidos:', sum(1 for f in filas if f[0] in conocidos), '| con días:',
+              sum(1 for f in filas if (f[10] or {}).get('dias')))
+        claves_antes = {(f[0], f[7]): f for f in antes}
+        cambios = [(claves_antes[(f[0], f[7])], f) for f in filas if (f[0], f[7]) in claves_antes
+                   and (claves_antes[(f[0], f[7])][2:7]) != f[2:7]]
+        print('mismas promos con otro tipo/precio/fecha:', len(cambios))
+        for a, b in cambios[:15]:
+            print(f'   {a[0][:20]:20} {a[2:7]} → {b[2:7]} | {corto(b[7], 60)}')
+        limite = 400 if fuente['id'] in ('interbank', 'cencosud') else 25
+        for f in filas[:limite]:
+            print(linea(f))
     print('\nFIN')

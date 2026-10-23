@@ -17,11 +17,20 @@ def nota_de(t, defecto):
     return (' · '.join(dict.fromkeys(partes))[:180]) or defecto
 
 
+ARCHIVO = re.compile(r'\.(?:png|jpe?g|webp|gif|svg)$', re.I)
+
+
 def nombre_local(t, conocidos, fijo=None):
     if fijo:
         return fijo
-    return (casar_local(' '.join([t['alt'], t['titulo'], t['texto']]), conocidos)
-            or t['alt'] or t['titulo'] or t['lineas'][0])[:60]
+    conocido = casar_local(' '.join([t['alt'], t['titulo'], t['texto']]), conocidos)
+    if conocido:
+        return conocido
+    # el alt a veces es el nombre del archivo («LIMAGAS_CAJAGENERAL.png») y el título a veces es el precio
+    alt = '' if ARCHIVO.search(t['alt']) else t['alt']
+    titulo = '' if DISPARADOR.search(t['titulo']) else t['titulo']
+    nombre = (alt or titulo or t['lineas'][0])[:60]
+    return nombre.title() if nombre.isupper() and len(nombre) > 3 else nombre
 
 
 def desde_html(url, debug, *, medio, programa, defecto, local=None, ciudad='', ciudad_si_lima=False, extras=None):
@@ -119,6 +128,8 @@ def interbank_json(html, conocidos):
 
 A_PRECIO = re.compile(r'\ba\s+(?:solo\s+)?S/\.?\s*(\d+(?:[.,]\d{1,2})?)', re.I)
 REGULAR_IBK = re.compile(r'precio\s+regular\s+(?:de\s+)?S/\.?\s*(\d+(?:[.,]\d{1,2})?)', re.I)
+# «Adulto S/55.00 (precio regular S/70.00) y niño S/45.00 (…)»: el primer precio con su regular al lado
+PAR_IBK = re.compile(r'S/\.?\s*(\d+(?:[.,]\d{1,2})?)\s*\(\s*precio\s+regular\s+(?:de\s+)?S/\.?\s*(\d+(?:[.,]\d{1,2})?)', re.I)
 
 
 def _marca_ibk(el):
@@ -127,7 +138,7 @@ def _marca_ibk(el):
         if anc.name in ('body', 'html', 'main'):
             return None
         nombres = set()
-        for s in anc.find_all('strong'):
+        for s in anc.find_all(['strong', 'b', 'h2', 'h3', 'h4', 'h5', 'h6']):
             li = s.find_parent('li')
             if li is not None and (li is anc or any(p is anc for p in li.parents)):
                 continue  # negrita dentro del texto de una promo, no es el nombre
@@ -164,12 +175,13 @@ def _fila_ibk(marca, seg, conocidos):
                nota=' · '.join(frases[1:])[:180] or 'Pagando con QR Plin en el local', ciudad=conocidos.get(local, ''))
     if not f:
         return None
-    m = A_PRECIO.search(cuerpo)
-    if f[2] == 'precio' and m:  # el precio de la promo es el «a S/X»; los «por S/Y» son agregados opcionales
+    par, m = PAR_IBK.search(cuerpo), A_PRECIO.search(cuerpo)
+    if f[2] == 'precio' and (par or m):  # el precio de la promo es el «a S/X»; los «por S/Y» son agregados opcionales
         r = REGULAR_IBK.search(cuerpo)
-        f[3] = num(m.group(1))
-        f[4] = num(r.group(1)) if r and num(r.group(1)) > f[3] else 0
-    f[7] = frases[0][:140] if frases else f[7]
+        f[3] = num(par.group(1) if par else m.group(1))
+        f[4] = num(par.group(2)) if par else (num(r.group(1)) if r else 0)
+        f[4] = f[4] if f[4] > f[3] else 0
+    f[7] = frases[0].rstrip(' >')[:140] if frases else f[7]
     return f
 
 
