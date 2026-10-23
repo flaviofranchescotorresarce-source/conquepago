@@ -78,7 +78,12 @@ def fechas(texto, ref=None):
         except ValueError:
             pass
     patron = r'\b(\d{1,2})\s+de\s+(' + '|'.join(MESES) + r')(?:\s+(?:de|del)\s+(\d{4}))?'
-    for d, m, a in re.findall(patron, texto.lower()):
+    texto = texto.lower()
+    for coincidencia in re.finditer(patron, texto):
+        d, m, a = coincidencia.groups()
+        if not a:  # «del 01 de abril al 31 de mayo del 2026»: el año que sigue en la frase vale para las dos
+            sigue = re.search(r'\bdel?\s+(20\d\d)\b', texto[coincidencia.end():coincidencia.end() + 40])
+            a = sigue.group(1) if sigue else None
         anio = int(a) if a else ref.year
         try:
             f = date(anio, MESES[m], int(d))
