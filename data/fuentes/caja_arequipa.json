@@ -1,23 +1,7 @@
 {
  "id": "caja_arequipa",
- "leido": "2026-10-22T10:54",
+ "leido": "2026-10-23T10:46",
  "filas": [
-  [
-   "Fulana",
-   "Tarjeta Caja Arequipa",
-   "porcentaje",
-   20,
-   0,
-   "",
-   "",
-   "Entretenimiento",
-   "Pagando con tarjeta de débito VISA de Caja Arequipa",
-   "Tarjeta Caja Arequipa",
-   {
-    "conf": "of",
-    "ciudad": "AQP"
-   }
-  ],
   [
    "logo-negro-espacio-200",
    "Tarjeta Caja Arequipa",
@@ -43,6 +27,22 @@
    "",
    "",
    "Alquiler de espacios corporativos",
+   "Pagando con tarjeta de débito VISA de Caja Arequipa",
+   "Tarjeta Caja Arequipa",
+   {
+    "conf": "of",
+    "ciudad": "AQP"
+   }
+  ],
+  [
+   "Fulana",
+   "Tarjeta Caja Arequipa",
+   "porcentaje",
+   20,
+   0,
+   "",
+   "",
+   "Entretenimiento",
    "Pagando con tarjeta de débito VISA de Caja Arequipa",
    "Tarjeta Caja Arequipa",
    {

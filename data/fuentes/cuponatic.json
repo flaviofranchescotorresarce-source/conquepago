@@ -1,16 +1,16 @@
 {
  "id": "cuponatic",
- "leido": "2026-10-22T10:54",
+ "leido": "2026-10-23T10:46",
  "filas": [
   [
-   "Mr Jump",
+   "Coney Park",
    "Cuponatic",
    "precio",
-   27.9,
-   55.0,
+   39.9,
+   60.0,
    "",
    "",
-   "Parque Inflable Más Grande de Lima - Entrada General Mr Jump",
+   "Últimas unidades",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -35,14 +35,14 @@
    }
   ],
   [
-   "Rústica Pachacamac: 1 Noche - 2 Adultos + 1 Niño + Desayuno",
+   "Cineplanet",
    "Cuponatic",
    "precio",
-   189.0,
-   250.0,
+   47.9,
+   107.0,
    "",
    "",
-   "71 Vendidos",
+   "Cineplanet: 2 Entradas + Combo Gigante para 2 Todos los Días",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -67,14 +67,14 @@
    }
   ],
   [
-   "Coney Park",
+   "Mr Jump",
    "Cuponatic",
    "precio",
-   39.9,
-   60.0,
+   27.9,
+   55.0,
    "",
    "",
-   "Últimas unidades",
+   "Parque Inflable Más Grande de Lima - Entrada General Mr Jump",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -170,7 +170,7 @@
    40.0,
    "",
    "",
-   "2255 Vendidos",
+   "2265 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -202,7 +202,7 @@
    130.0,
    "",
    "",
-   "2901 Vendidos",
+   "2905 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -211,14 +211,14 @@
    }
   ],
   [
-   "Cineplanet",
+   "Rústica Pachacamac: 1 Noche - 2 Adultos + 1 Niño + Desayuno",
    "Cuponatic",
    "precio",
-   47.9,
-   107.0,
+   189.0,
+   250.0,
    "",
    "",
-   "Cineplanet: 2 Entradas + Combo Gigante para 2 Todos los Días",
+   "71 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {

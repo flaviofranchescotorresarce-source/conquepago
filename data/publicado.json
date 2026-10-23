@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-22T10:55",
+ "actualizado": "2026-10-23T10:47",
  "filas": [
   [
    "Tambo",
@@ -3701,22 +3701,6 @@
    }
   ],
   [
-   "Fulana",
-   "Tarjeta Caja Arequipa",
-   "porcentaje",
-   20,
-   0,
-   "",
-   "",
-   "Entretenimiento",
-   "Pagando con tarjeta de débito VISA de Caja Arequipa",
-   "Tarjeta Caja Arequipa",
-   {
-    "conf": "of",
-    "ciudad": "AQP"
-   }
-  ],
-  [
    "logo-negro-espacio-200",
    "Tarjeta Caja Arequipa",
    "porcentaje",
@@ -3741,6 +3725,22 @@
    "",
    "",
    "Alquiler de espacios corporativos",
+   "Pagando con tarjeta de débito VISA de Caja Arequipa",
+   "Tarjeta Caja Arequipa",
+   {
+    "conf": "of",
+    "ciudad": "AQP"
+   }
+  ],
+  [
+   "Fulana",
+   "Tarjeta Caja Arequipa",
+   "porcentaje",
+   20,
+   0,
+   "",
+   "",
+   "Entretenimiento",
    "Pagando con tarjeta de débito VISA de Caja Arequipa",
    "Tarjeta Caja Arequipa",
    {
@@ -3845,14 +3845,14 @@
    }
   ],
   [
-   "Mr Jump",
+   "Coney Park",
    "Cuponatic",
    "precio",
-   27.9,
-   55.0,
+   39.9,
+   60.0,
    "",
    "",
-   "Parque Inflable Más Grande de Lima - Entrada General Mr Jump",
+   "Últimas unidades",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -3877,14 +3877,14 @@
    }
   ],
   [
-   "Rústica Pachacamac: 1 Noche - 2 Adultos + 1 Niño + Desayuno",
+   "Cineplanet",
    "Cuponatic",
    "precio",
-   189.0,
-   250.0,
+   47.9,
+   107.0,
    "",
    "",
-   "71 Vendidos",
+   "Cineplanet: 2 Entradas + Combo Gigante para 2 Todos los Días",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -3909,14 +3909,14 @@
    }
   ],
   [
-   "Coney Park",
+   "Mr Jump",
    "Cuponatic",
    "precio",
-   39.9,
-   60.0,
+   27.9,
+   55.0,
    "",
    "",
-   "Últimas unidades",
+   "Parque Inflable Más Grande de Lima - Entrada General Mr Jump",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -4012,7 +4012,7 @@
    40.0,
    "",
    "",
-   "2255 Vendidos",
+   "2265 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -4044,7 +4044,7 @@
    130.0,
    "",
    "",
-   "2901 Vendidos",
+   "2905 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -4053,14 +4053,14 @@
    }
   ],
   [
-   "Cineplanet",
+   "Rústica Pachacamac: 1 Noche - 2 Adultos + 1 Niño + Desayuno",
    "Cuponatic",
    "precio",
-   47.9,
-   107.0,
+   189.0,
+   250.0,
    "",
    "",
-   "Cineplanet: 2 Entradas + Combo Gigante para 2 Todos los Días",
+   "71 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -5564,8 +5564,8 @@
    91.8,
    "",
    "",
-   "1 pizza grande clásica mas gaseosa de 1LT con 3 rolls de pepperoni",
-   "Miercoles de Signature Familiar · Miercoles de Signature Grande",
+   "1 Familiar Clasica + 1 Familiar Signature/Especialidad + Cheesticks + Pack Salsa + Gaseosa 1.5L",
+   "Promo de la web y app de Papa Johns",
    "Web/app de la marca",
    {
     "conf": "of",
@@ -5576,7 +5576,7 @@
    "Papa Johns",
    "Web/app de la marca",
    "precio",
-   59.9,
+   69.9,
    183.6,
    "",
    "",
@@ -5671,94 +5671,85 @@
  ],
  "relampago": [
   {
-   "f": "2026-10-21",
-   "t": "Falabella",
-   "o": "#falabella",
-   "p": 9.9,
+   "f": "2026-10-23",
+   "t": "Mercado Libre",
+   "o": "#mercadolibre",
+   "p": 0,
    "r": 0,
-   "n": "O F E R T A · ❗️ · ✔️ · Casaca Acolchada Niña Redwood a · sólo S/ 9.90 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en · @concuponperu · ",
-   "u": "https://t.me/concuponperu/19308"
-  },
-  {
-   "f": "2026-10-21",
-   "t": "Falabella",
-   "o": "#falabella",
-   "p": 19.9,
-   "r": 0,
-   "n": "O F E R T A · ❗️ · ✔️ · Tomatodo Cámara 800ml Kuromi a · sólo S/ 19.90 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en · @concuponperu · ",
-   "u": "https://t.me/concuponperu/19309"
+   "n": "O F E R T A · ❗️ · ✔️ · Obtén 40% de descuento con el código · CONCUPON40. · Para un mínimo de compra de 79 soles y un descuento máximo de 40 soles. Para tu · PRIMERA COMPRA · . · Más info: · ‼️ · Com",
+   "u": "https://t.me/concuponperu/19310"
   }
  ],
  "ver": {
-  "Tarjeta Caja Arequipa": "2026-10-22",
-  "Cuponatic": "2026-10-22",
+  "Tarjeta Caja Arequipa": "2026-10-23",
+  "Cuponatic": "2026-10-23",
   "Cuponidad": "2026-10-08",
-  "Web/app de la marca": "2026-10-22"
+  "Web/app de la marca": "2026-10-23"
  },
  "estado": {
   "interbank": {
    "ok": false,
    "filas": 0,
    "leido": "",
-   "intento": "2026-10-22T10:54",
+   "intento": "2026-10-23T10:46",
    "error": "could not convert string to float: '2.50.'"
   },
   "telegram": {
    "ok": true,
-   "filas": 2,
-   "leido": "2026-10-22T10:54",
+   "filas": 1,
+   "leido": "2026-10-23T10:46",
    "error": ""
   },
   "bbva": {
    "ok": false,
    "filas": 0,
    "leido": "",
-   "intento": "2026-10-22T10:54",
+   "intento": "2026-10-23T10:46",
    "error": "No se pudo descargar https://www.bbva.pe/content/dam/public-web/peru/documents/personas/catalogo-promociones/Catalogo-provincias.pdf: 403 Client Error: Forbidden for url: https://www.bbva.pe/content/dam/public-web/peru/documents/personas/catalogo-promociones/Catalogo-provincias.pdf"
   },
   "caja_arequipa": {
    "ok": true,
    "filas": 9,
-   "leido": "2026-10-22T10:54",
+   "leido": "2026-10-23T10:46",
    "error": ""
   },
   "cuponatic": {
    "ok": true,
    "filas": 18,
-   "leido": "2026-10-22T10:54",
+   "leido": "2026-10-23T10:46",
    "error": ""
   },
   "cuponidad": {
    "ok": false,
    "filas": 89,
    "leido": "2026-10-08T12:53",
-   "intento": "2026-10-22T10:54",
-   "error": "bajó de 89 a 31 filas: probablemente cambió la página"
+   "intento": "2026-10-23T10:46",
+   "error": "bajó de 89 a 35 filas: probablemente cambió la página"
   },
   "papajohns": {
    "ok": true,
    "filas": 4,
-   "leido": "2026-10-22T10:54",
+   "leido": "2026-10-23T10:46",
    "error": ""
   },
   "nutripoint": {
    "ok": true,
    "filas": 2,
-   "leido": "2026-10-22T10:54",
+   "leido": "2026-10-23T10:46",
    "error": ""
   },
   "cencosud": {
    "ok": false,
    "filas": 0,
    "leido": "",
-   "intento": "2026-10-22T10:54",
+   "intento": "2026-10-23T10:46",
    "error": "could not convert string to float: '46.80.'"
   },
   "starperu": {
    "ok": false,
    "filas": 1,
    "leido": "2026-10-21T10:58",
-   "intento": "2026-10-22T10:54",
+   "intento": "2026-10-23T10:46",
    "error": "No se pudo descargar https://www.starperu.com/es/promociones/marca/diners_club: 403 Client Error: Forbidden for url: https://www.starperu.com/es/promociones/marca/diners_club"
   }
  }
