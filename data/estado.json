@@ -1,67 +1,91 @@
 {
  "interbank": {
-  "ok": false,
-  "filas": 0,
-  "leido": "",
-  "intento": "2026-10-23T10:46",
-  "error": "could not convert string to float: '2.50.'"
+  "ok": true,
+  "filas": 219,
+  "leido": "2026-10-23T12:35",
+  "error": "",
+  "historial": [
+   219
+  ]
  },
  "telegram": {
   "ok": true,
   "filas": 1,
-  "leido": "2026-10-23T10:46",
-  "error": ""
+  "leido": "2026-10-23T12:35",
+  "error": "",
+  "historial": [
+   1
+  ]
  },
  "bbva": {
   "ok": false,
   "filas": 0,
   "leido": "",
-  "intento": "2026-10-23T10:46",
-  "error": "No se pudo descargar https://www.bbva.pe/content/dam/public-web/peru/documents/personas/catalogo-promociones/Catalogo-provincias.pdf: 403 Client Error: Forbidden for url: https://www.bbva.pe/content/dam/public-web/peru/documents/personas/catalogo-promociones/Catalogo-provincias.pdf"
+  "intento": "2026-10-23T12:35",
+  "error": "No se pudo descargar https://www.bbva.pe/content/dam/public-web/peru/documents/personas/catalogo-promociones/Catalogo-provincias.pdf: 403 Client Error: Forbidden for url: https://www.bbva.pe/content/dam/public-web/peru/documents/personas/catalogo-promociones/Catalogo-provincias.pdf",
+  "historial": []
  },
  "caja_arequipa": {
   "ok": true,
   "filas": 9,
-  "leido": "2026-10-23T10:46",
-  "error": ""
+  "leido": "2026-10-23T12:35",
+  "error": "",
+  "historial": [
+   9
+  ]
  },
  "cuponatic": {
   "ok": true,
   "filas": 18,
-  "leido": "2026-10-23T10:46",
-  "error": ""
+  "leido": "2026-10-23T12:35",
+  "error": "",
+  "historial": [
+   18
+  ]
  },
  "cuponidad": {
   "ok": false,
   "filas": 89,
   "leido": "2026-10-08T12:53",
-  "intento": "2026-10-23T10:46",
-  "error": "bajó de 89 a 35 filas: probablemente cambió la página"
+  "intento": "2026-10-23T12:35",
+  "error": "bajó de 89 a 36 filas: probablemente cambió la página",
+  "historial": [
+   36
+  ]
  },
  "papajohns": {
   "ok": true,
   "filas": 4,
-  "leido": "2026-10-23T10:46",
-  "error": ""
+  "leido": "2026-10-23T12:35",
+  "error": "",
+  "historial": [
+   4
+  ]
  },
  "nutripoint": {
   "ok": true,
   "filas": 2,
-  "leido": "2026-10-23T10:46",
-  "error": ""
+  "leido": "2026-10-23T12:35",
+  "error": "",
+  "historial": [
+   2
+  ]
  },
  "cencosud": {
-  "ok": false,
-  "filas": 0,
-  "leido": "",
-  "intento": "2026-10-23T10:46",
-  "error": "could not convert string to float: '46.80.'"
+  "ok": true,
+  "filas": 109,
+  "leido": "2026-10-23T12:35",
+  "error": "",
+  "historial": [
+   109
+  ]
  },
  "starperu": {
   "ok": false,
   "filas": 1,
   "leido": "2026-10-21T10:58",
-  "intento": "2026-10-23T10:46",
-  "error": "No se pudo descargar https://www.starperu.com/es/promociones/marca/diners_club: 403 Client Error: Forbidden for url: https://www.starperu.com/es/promociones/marca/diners_club"
+  "intento": "2026-10-23T12:35",
+  "error": "No se pudo descargar https://www.starperu.com/es/promociones/marca/diners_club: 403 Client Error: Forbidden for url: https://www.starperu.com/es/promociones/marca/diners_club",
+  "historial": []
  }
 }

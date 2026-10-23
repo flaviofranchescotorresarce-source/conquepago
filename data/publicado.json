@@ -1,1210 +1,6 @@
 {
- "actualizado": "2026-10-23T12:32",
+ "actualizado": "2026-10-23T12:35",
  "filas": [
-  [
-   "Tambo",
-   "Plin Interbank",
-   "precio",
-   9.9,
-   19.5,
-   "2026-07-01",
-   "2026-07-31",
-   "3 empanadas + gaseosa 1 L",
-   "Martes de Antojo · solo en tienda",
-   "Plin Interbank",
-   {
-    "conf": "of",
-    "dias": [
-     2
-    ]
-   }
-  ],
-  [
-   "Tambo",
-   "Plin Interbank",
-   "precio",
-   10.9,
-   13.9,
-   "2026-07-01",
-   "2026-07-31",
-   "2 energizantes Red Bull 250 ml",
-   "Máx. 2 por transacción",
-   "Plin Interbank",
-   {
-    "conf": "of",
-    "max": 2
-   }
-  ],
-  [
-   "Tambo",
-   "Plin Interbank",
-   "precio",
-   23.9,
-   38,
-   "2026-06-11",
-   "2026-07-31",
-   "Pilsen 8 pack lata 355 ml",
-   "Máx. 2 por transacción · venta de alcohol sujeta a horario",
-   "Plin Interbank",
-   {
-    "conf": "of",
-    "max": 2
-   }
-  ],
-  [
-   "KFC",
-   "Plin Interbank",
-   "precio",
-   7.9,
-   25.9,
-   "2026-07-01",
-   "2026-07-31",
-   "2 piezas + papa + gaseosa",
-   "Jueves Bombazo · no aplica en aeropuerto · máx. 2 al día",
-   "Plin Interbank",
-   {
-    "conf": "of",
-    "dias": [
-     4
-    ],
-    "max": 2
-   }
-  ],
-  [
-   "KFC",
-   "Plin Interbank",
-   "precio",
-   12.9,
-   18.7,
-   "2026-07-01",
-   "2026-09-30",
-   "1 Krunchy BBQ + complemento + gaseosa",
-   "Stock de campaña 500 unidades",
-   "Plin Interbank",
-   {
-    "conf": "of",
-    "stock": 500
-   }
-  ],
-  [
-   "KFC",
-   "Plin Interbank",
-   "precio",
-   16.9,
-   26.4,
-   "2026-07-01",
-   "2026-09-30",
-   "2 piezas + 2 hot wings + papa regular",
-   "Stock de campaña 500 unidades",
-   "Plin Interbank",
-   {
-    "conf": "of",
-    "stock": 500
-   }
-  ],
-  [
-   "KFC",
-   "Plin Interbank",
-   "precio",
-   29.9,
-   41.6,
-   "2026-07-01",
-   "2026-09-30",
-   "4 piezas + papa familiar",
-   "Stock de campaña 500 unidades",
-   "Plin Interbank",
-   {
-    "conf": "of",
-    "stock": 500
-   }
-  ],
-  [
-   "KFC",
-   "Plin Interbank",
-   "precio",
-   39.9,
-   59.8,
-   "2026-07-01",
-   "2026-09-30",
-   "4 piezas + 4 nuggets + 2 papas + 2 gaseosas",
-   "Stock 500 · máx. 2 al día",
-   "Plin Interbank",
-   {
-    "conf": "of",
-    "stock": 500,
-    "max": 2
-   }
-  ],
-  [
-   "Papa Johns",
-   "Plin Interbank",
-   "precio",
-   8.9,
-   24.9,
-   "2026-07-01",
-   "2026-09-30",
-   "Pizza mediana hawaiana",
-   "Stock 3000 · máx. 1 por orden",
-   "Plin Interbank",
-   {
-    "conf": "of",
-    "stock": 3000,
-    "max": 1
-   }
-  ],
-  [
-   "Papa Johns",
-   "Plin Interbank",
-   "precio",
-   13.9,
-   27.9,
-   "2026-07-01",
-   "2026-09-30",
-   "Pizza grande clásica (americana o pepperoni)",
-   "Stock de campaña 3000 unidades",
-   "Plin Interbank",
-   {
-    "conf": "of",
-    "stock": 3000
-   }
-  ],
-  [
-   "Papa Johns",
-   "Plin Interbank",
-   "precio",
-   15.9,
-   24.4,
-   "2026-07-01",
-   "2026-09-30",
-   "Papa Box: pizza personal + 3 rolls jamón + 3 rolls pepperoni + vaso 10 oz",
-   "Máx. 2 por persona al día",
-   "Plin Interbank",
-   {
-    "conf": "of",
-    "max": 2
-   }
-  ],
-  [
-   "Bembos",
-   "Plin Interbank",
-   "precio",
-   12.9,
-   18.9,
-   "2026-07-01",
-   "2026-09-30",
-   "Royal regular + papa regular + gaseosa",
-   "No aplica en el local de Asia · stock 3000",
-   "Plin Interbank",
-   {
-    "conf": "of",
-    "stock": 3000
-   }
-  ],
-  [
-   "Bembos",
-   "Plin Interbank",
-   "precio",
-   16.9,
-   30.7,
-   "2026-07-01",
-   "2026-09-30",
-   "Cheese regular + papa regular + 4 nuggets",
-   "No válido por Rappi ni PedidosYa",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Bembos",
-   "Plin Interbank",
-   "precio",
-   18.9,
-   44.6,
-   "2026-07-01",
-   "2026-09-30",
-   "Dúo: Cheese + Queso Tocino + 2 papas",
-   "Sí aplica en el delivery propio de Bembos · máx. 2 al día",
-   "Plin Interbank",
-   {
-    "conf": "of",
-    "canal": "A",
-    "max": 2
-   }
-  ],
-  [
-   "Popeyes",
-   "Plin Interbank",
-   "precio",
-   14.9,
-   21.8,
-   "2026-07-01",
-   "2026-09-30",
-   "2 piezas + papa regular",
-   "Sujeto a stock del local",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Pizza Hut",
-   "Plin Interbank",
-   "precio",
-   7,
-   15.8,
-   "2026-07-01",
-   "2026-09-30",
-   "Pizza personal (americana, pepperoni o hawaiana) + gaseosa",
-   "Stock 500 · no aplica en aeropuerto",
-   "Plin Interbank",
-   {
-    "conf": "of",
-    "stock": 500
-   }
-  ],
-  [
-   "Pizza Hut",
-   "Plin Interbank",
-   "precio",
-   35.9,
-   57.9,
-   "2026-07-01",
-   "2026-09-30",
-   "Pizza grande + 6 palitos siciliana + 3 gaseosas",
-   "Stock de campaña 500 unidades",
-   "Plin Interbank",
-   {
-    "conf": "of",
-    "stock": 500
-   }
-  ],
-  [
-   "Pizza Hut",
-   "Plin Interbank",
-   "precio",
-   39.9,
-   77.4,
-   "2026-07-01",
-   "2026-09-30",
-   "3 pizzas medianas (americana o pepperoni) + 3 gaseosas",
-   "Stock de campaña 500 unidades",
-   "Plin Interbank",
-   {
-    "conf": "of",
-    "stock": 500
-   }
-  ],
-  [
-   "Burger King",
-   "Plin Interbank",
-   "precio",
-   15.9,
-   20.8,
-   "2026-07-01",
-   "2026-09-30",
-   "Power Crunch Jr. + papa Jr.",
-   "Salón y llevar",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Burger King",
-   "Plin Interbank",
-   "precio",
-   22.9,
-   43.8,
-   "2026-07-01",
-   "2026-09-30",
-   "2 Whopper Jr. + 2 papas Jr. + 2 gaseosas",
-   "Stock de campaña 500 unidades",
-   "Plin Interbank",
-   {
-    "conf": "of",
-    "stock": 500
-   }
-  ],
-  [
-   "Burger King",
-   "Plin Interbank",
-   "precio",
-   27.9,
-   49.4,
-   "2026-07-01",
-   "2026-09-30",
-   "Whopper Jr. + King de pollo + 2 papas Jr. + 2 gaseosas",
-   "Stock de campaña 500 unidades",
-   "Plin Interbank",
-   {
-    "conf": "of",
-    "stock": 500
-   }
-  ],
-  [
-   "Norky’s",
-   "Plin Interbank",
-   "precio",
-   16.9,
-   23.9,
-   "2026-07-01",
-   "2026-07-31",
-   "1/4 pollo + papas",
-   "Stock 10 000 · máx. 2 por usuario",
-   "Plin Interbank",
-   {
-    "conf": "of",
-    "stock": 10000,
-    "max": 2
-   }
-  ],
-  [
-   "Norky’s",
-   "Plin Interbank",
-   "precio",
-   32.9,
-   42.9,
-   "2026-07-01",
-   "2026-07-31",
-   "1/2 pollo + papas",
-   "Stock 10 000 · máx. 2 por usuario",
-   "Plin Interbank",
-   {
-    "conf": "of",
-    "stock": 10000,
-    "max": 2
-   }
-  ],
-  [
-   "Norky’s",
-   "Plin Interbank",
-   "precio",
-   62.9,
-   72.9,
-   "2026-07-01",
-   "2026-07-31",
-   "1 pollo + papas",
-   "Stock 10 000 · máx. 2 por usuario",
-   "Plin Interbank",
-   {
-    "conf": "of",
-    "stock": 10000,
-    "max": 2
-   }
-  ],
-  [
-   "China Wok",
-   "Plin Interbank",
-   "precio",
-   10.9,
-   18.8,
-   "2026-07-01",
-   "2026-09-30",
-   "1 Encájate + gaseosa Jr. + wantán",
-   "Stock 500 · máx. 2 por usuario",
-   "Plin Interbank",
-   {
-    "conf": "of",
-    "stock": 500,
-    "max": 2
-   }
-  ],
-  [
-   "China Wok",
-   "Plin Interbank",
-   "precio",
-   15.9,
-   28.8,
-   "2026-07-01",
-   "2026-09-30",
-   "1 A lo pobre chijaukay + gaseosa Jr.",
-   "Salón y llevar",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "China Wok",
-   "Plin Interbank",
-   "precio",
-   19.9,
-   38.6,
-   "2026-07-01",
-   "2026-09-30",
-   "Tallarín taypa + arroz chaufa + 2 gaseosas",
-   "Salón y llevar",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Roky’s",
-   "Plin Interbank",
-   "precio",
-   57.9,
-   63.9,
-   "2026-06-01",
-   "2026-08-31",
-   "1/2 pollo + papas + ensalada + gaseosa + 2 tortas",
-   "Salón y llevar",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Roky’s",
-   "Plin Interbank",
-   "precio",
-   64.9,
-   73.8,
-   "2026-05-01",
-   "2026-08-31",
-   "1 pollo + papas + arroz oriental familiar",
-   "Salón y llevar",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Roky’s",
-   "Plin Interbank",
-   "precio",
-   79.9,
-   86.9,
-   "2026-06-01",
-   "2026-08-31",
-   "1 pollo + papas familiares + ensalada + limonada 2 L",
-   "Salón y llevar",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Don Belisario",
-   "Plin Interbank",
-   "precio",
-   14.9,
-   34.9,
-   "2026-07-01",
-   "2026-09-30",
-   "1/4 pollo ejecutivo + papas + ensalada + salsas",
-   "Solo lunes a viernes · solo salón · máx. 2 por cliente",
-   "Plin Interbank",
-   {
-    "conf": "of",
-    "dias": [
-     1,
-     2,
-     3,
-     4,
-     5
-    ],
-    "max": 2
-   }
-  ],
-  [
-   "Don Belisario",
-   "Plin Interbank",
-   "precio",
-   15.9,
-   31.8,
-   "2026-07-01",
-   "2026-09-30",
-   "1/4 pollo + papas + gaseosa 16 oz + salsas",
-   "Solo lunes a viernes · solo salón",
-   "Plin Interbank",
-   {
-    "conf": "of",
-    "dias": [
-     1,
-     2,
-     3,
-     4,
-     5
-    ]
-   }
-  ],
-  [
-   "Don Belisario",
-   "Plin Interbank",
-   "precio",
-   49.9,
-   79.9,
-   "2026-07-01",
-   "2026-09-30",
-   "1 pollo + papas familiares + salsas",
-   "Todos los días · salón y llevar",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Don Belisario",
-   "Plin Interbank",
-   "precio",
-   59.9,
-   89.9,
-   "2026-07-01",
-   "2026-09-30",
-   "1 pollo + papas familiares + 4 gaseosas + salsas",
-   "Lunes a viernes · la ensalada cuesta S/9.90 extra",
-   "Plin Interbank",
-   {
-    "conf": "of",
-    "dias": [
-     1,
-     2,
-     3,
-     4,
-     5
-    ]
-   }
-  ],
-  [
-   "Subway",
-   "Plin Interbank",
-   "precio",
-   7.9,
-   17.9,
-   "2026-07-01",
-   "2026-07-31",
-   "Sub de pavo y jamón 15 cm",
-   "Salón y llevar",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Subway",
-   "Plin Interbank",
-   "precio",
-   17.9,
-   22.4,
-   "2026-07-01",
-   "2026-07-31",
-   "Sub de lechón 15 cm + chicha 12 oz",
-   "Salón y llevar",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "TGI Fridays",
-   "Plin Interbank",
-   "porcentaje",
-   25,
-   0,
-   "2026-07-01",
-   "2026-07-31",
-   "Platos a la carta",
-   "Sin consumo mínimo · confirma exclusiones por local",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "TGI Fridays",
-   "Plin Interbank",
-   "precio",
-   10.9,
-   24,
-   "2026-07-01",
-   "2026-07-31",
-   "Cookies and Cream Madness single",
-   "Stock de campaña 500 unidades",
-   "Plin Interbank",
-   {
-    "conf": "of",
-    "stock": 500
-   }
-  ],
-  [
-   "TGI Fridays",
-   "Plin Interbank",
-   "precio",
-   23.9,
-   37,
-   "2026-07-01",
-   "2026-07-31",
-   "Crispy Chicken Tacos",
-   "Salón y llevar",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Chili’s",
-   "Plin Interbank",
-   "precio",
-   23,
-   37,
-   "2026-07-01",
-   "2026-09-30",
-   "3 crispy chicken crispers + papas",
-   "Salón y llevar",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Chili’s",
-   "Plin Interbank",
-   "precio",
-   27,
-   45,
-   "2026-07-01",
-   "2026-09-30",
-   "Old Timer Cheese + gaseosa",
-   "Salón y llevar",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Chili’s",
-   "Plin Interbank",
-   "precio",
-   28,
-   42,
-   "2026-07-01",
-   "2026-09-30",
-   "12 boneless wings",
-   "Salón y llevar",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Chili’s",
-   "Plin Interbank",
-   "precio",
-   29,
-   47,
-   "2026-07-01",
-   "2026-09-30",
-   "Chicken Club Tacos + gaseosa",
-   "Salón y llevar",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Madam Tusan",
-   "Plin Interbank",
-   "precio",
-   29,
-   44,
-   "2026-07-01",
-   "2026-09-30",
-   "Aero Tipakay + gaseosa personal",
-   "Salón y llevar",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Madam Tusan",
-   "Plin Interbank",
-   "precio",
-   32,
-   46,
-   "2026-07-01",
-   "2026-09-30",
-   "Aero chijaukay o tipakay + 2 wantanes + limonada de hierba luisa",
-   "Salón y llevar",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Madam Tusan",
-   "Plin Interbank",
-   "precio",
-   69,
-   97,
-   "2026-07-01",
-   "2026-09-30",
-   "Chaufa de pollo + tallarín + 4 wantanes + 2 gaseosas",
-   "Salón y llevar",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Cinnabon",
-   "Plin Interbank",
-   "precio",
-   19.9,
-   28,
-   "2026-07-01",
-   "2026-07-31",
-   "Pack 12 BonBites",
-   "Stock de campaña 500 unidades",
-   "Plin Interbank",
-   {
-    "conf": "of",
-    "stock": 500
-   }
-  ],
-  [
-   "Cinnabon",
-   "Plin Interbank",
-   "precio",
-   36,
-   48,
-   "2026-01-01",
-   "2026-07-30",
-   "Cinnapack de 6 rollos",
-   "Salón y llevar",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Dunkin",
-   "Plin Interbank",
-   "precio",
-   9.9,
-   16.5,
-   "2026-07-01",
-   "2026-09-30",
-   "3 donuts clásicas",
-   "Solo tiendas de Lima · máx. 2 al día · bebida por S/8.90 extra",
-   "Plin Interbank",
-   {
-    "conf": "of",
-    "ciudad": "Lima",
-    "max": 2
-   }
-  ],
-  [
-   "Dunkin",
-   "Plin Interbank",
-   "precio",
-   14.9,
-   23.9,
-   "2026-07-01",
-   "2026-09-30",
-   "2 donuts + iced latte 12 oz",
-   "Lima, Arequipa, Trujillo, Chiclayo y Huancayo · máx. 1 al día",
-   "Plin Interbank",
-   {
-    "conf": "of",
-    "max": 1
-   }
-  ],
-  [
-   "Beso Francés",
-   "Plin Interbank",
-   "precio",
-   17,
-   20,
-   "2026-07-01",
-   "2026-07-31",
-   "Crepe de manjar con fresas + chocolate KitKat",
-   "Salón y llevar",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Beso Francés",
-   "Plin Interbank",
-   "precio",
-   19,
-   27,
-   "2026-07-01",
-   "2026-07-31",
-   "Crepe de Nutella con fresas + brownie + helado",
-   "Salón y llevar",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Pinkberry",
-   "Plin Interbank",
-   "precio",
-   10.9,
-   13.9,
-   "2026-07-01",
-   "2026-09-30",
-   "Pinkberry small + toppings",
-   "El sabor de temporada suele costar S/1 más",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Pinkberry",
-   "Plin Interbank",
-   "precio",
-   12.5,
-   14.5,
-   "2026-07-01",
-   "2026-09-30",
-   "Popping Soda (sabores a elección)",
-   "Salón y llevar",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Pinkberry",
-   "Plin Interbank",
-   "precio",
-   21.9,
-   27.8,
-   "2026-07-01",
-   "2026-09-30",
-   "2 Pinkberry small + toppings",
-   "Salón y llevar",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Mis Costillitas",
-   "Plin Interbank",
-   "precio",
-   79.9,
-   99.7,
-   "2026-07-01",
-   "2026-12-31",
-   "2 costillas Jr. + 2 papas + 2 ensaladas de col + limonada",
-   "Salón y llevar",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Otto Grill",
-   "Plin Interbank",
-   "precio",
-   18.9,
-   22.9,
-   "2026-07-01",
-   "2026-12-31",
-   "Filete de pierna especial",
-   "Salón y llevar",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "La Feria Valle Sagrado",
-   "Plin Interbank",
-   "precio",
-   55,
-   70,
-   "2026-07-01",
-   "2026-12-30",
-   "Buffet adulto",
-   "Solo Valle Sagrado, Cusco",
-   "Plin Interbank",
-   {
-    "conf": "of",
-    "ciudad": "Cusco"
-   }
-  ],
-  [
-   "La Feria Valle Sagrado",
-   "Plin Interbank",
-   "precio",
-   45,
-   60,
-   "2026-07-01",
-   "2026-12-30",
-   "Buffet niño",
-   "Solo Valle Sagrado, Cusco",
-   "Plin Interbank",
-   {
-    "conf": "of",
-    "ciudad": "Cusco"
-   }
-  ],
-  [
-   "Granja Azul",
-   "Plin Interbank",
-   "porcentaje",
-   20,
-   0,
-   "2026-07-01",
-   "2026-12-31",
-   "Toda la carta",
-   "Sin consumo mínimo",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Manta",
-   "Plin Interbank",
-   "porcentaje",
-   20,
-   0,
-   "2026-07-01",
-   "2026-12-30",
-   "Toda la carta",
-   "Sin consumo mínimo",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Gran Carbón",
-   "Plin Interbank",
-   "porcentaje",
-   20,
-   0,
-   "2026-07-01",
-   "2026-12-30",
-   "Platos de la carta",
-   "Sin consumo mínimo",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Uchu Peruvian Steakhouse",
-   "Plin Interbank",
-   "porcentaje",
-   20,
-   0,
-   "2026-07-01",
-   "2026-12-30",
-   "Carnes y platos especiales",
-   "Sin consumo mínimo",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "SAMI’S Burgers",
-   "Plin Interbank",
-   "porcentaje",
-   20,
-   0,
-   "2026-07-01",
-   "2026-12-30",
-   "Toda la carta",
-   "Sin consumo mínimo",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Suyu Peruvian Restaurant",
-   "Plin Interbank",
-   "porcentaje",
-   20,
-   0,
-   "2026-07-01",
-   "2026-12-30",
-   "Comidas y bebidas de la carta",
-   "Sin consumo mínimo",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "El Cordón y La Rosa",
-   "Plin Interbank",
-   "porcentaje",
-   20,
-   0,
-   "2026-07-01",
-   "2026-12-30",
-   "Sección de platos criollos",
-   "Sin consumo mínimo",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Épico Bar",
-   "Plin Interbank",
-   "porcentaje",
-   20,
-   0,
-   "2026-07-01",
-   "2026-12-30",
-   "Toda la carta",
-   "Sin consumo mínimo",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Mr. Sushi",
-   "Plin Interbank",
-   "porcentaje",
-   20,
-   0,
-   "2026-07-01",
-   "2026-12-30",
-   "Toda la carta",
-   "Solo locales de Cusco",
-   "Plin Interbank",
-   {
-    "conf": "of",
-    "ciudad": "Cusco"
-   }
-  ],
-  [
-   "La Bocca",
-   "Plin Interbank",
-   "porcentaje",
-   15,
-   0,
-   "2026-07-01",
-   "2026-12-30",
-   "Toda la carta",
-   "Sin consumo mínimo",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "La Boutique de las Carnes",
-   "Plin Interbank",
-   "porcentaje",
-   15,
-   0,
-   "2026-07-01",
-   "2026-12-30",
-   "Platos principales",
-   "Sin consumo mínimo",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Marakos Grill",
-   "Plin Interbank",
-   "porcentaje",
-   15,
-   0,
-   "2026-07-01",
-   "2026-12-30",
-   "Platos especiales de la carta",
-   "Sin consumo mínimo",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Tomasa Pollo & Grill",
-   "Plin Interbank",
-   "porcentaje",
-   15,
-   0,
-   "2026-07-01",
-   "2026-12-30",
-   "Platos de la carta",
-   "Sin consumo mínimo",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "La Nevera Fit",
-   "Plin Interbank",
-   "porcentaje",
-   15,
-   0,
-   "2026-07-01",
-   "2026-12-31",
-   "Toda la carta",
-   "Sin consumo mínimo",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Anyli Café Bar",
-   "Plin Interbank",
-   "porcentaje",
-   15,
-   0,
-   "2026-07-01",
-   "2026-12-30",
-   "Platos a la carta",
-   "Sin consumo mínimo",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "La Barra del Chino",
-   "Plin Interbank",
-   "porcentaje",
-   10,
-   0,
-   "2026-07-01",
-   "2026-12-30",
-   "Toda la carta",
-   "Sin consumo mínimo",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Bottega Capuccino",
-   "Plin Interbank",
-   "porcentaje",
-   10,
-   0,
-   "2026-07-01",
-   "2026-12-30",
-   "Café y repostería",
-   "Sin consumo mínimo",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
   [
    "Rappi",
    "Tarjeta Interbank",
@@ -2136,24 +932,6 @@
   ],
   [
    "Boticas y Salud",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   30,
-   0,
-   "2026-07-01",
-   "2026-07-31",
-   "30 % en productos de farmacia",
-   "Desde S/50 · tope S/20 · máx. 1 descuento por tarjetahabiente en toda la campaña · fondo S/6000 · no aplica a oncológicos, VIH ni diabetes · no vale en Pharmax ni Paruro · pídelo en caja",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of",
-    "min": 50,
-    "tope": 20,
-    "max": 1
-   }
-  ],
-  [
-   "Boticas y Salud",
    "Tarjeta Santander",
    "porcentaje",
    40,
@@ -2346,321 +1124,6 @@
    {
     "conf": "rep",
     "cat": "Proteínas y creatina"
-   }
-  ],
-  [
-   "Bohoo",
-   "Plin Interbank",
-   "porcentaje",
-   40,
-   0,
-   "2026-07-01",
-   "2026-12-31",
-   "40 % en toda la joyería",
-   "Sin consumo mínimo",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "New Athletic",
-   "Plin Interbank",
-   "porcentaje",
-   35,
-   0,
-   "2026-07-01",
-   "2026-12-31",
-   "Hasta 35 % en productos seleccionados",
-   "El % varía por producto · sin consumo mínimo",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Big Head",
-   "Plin Interbank",
-   "porcentaje",
-   30,
-   0,
-   "2026-07-01",
-   "2026-12-31",
-   "30 % en prendas, lentes y accesorios",
-   "Sin consumo mínimo",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Oakley",
-   "Plin Interbank",
-   "porcentaje",
-   30,
-   0,
-   "2026-07-01",
-   "2026-12-31",
-   "30 % en prendas, lentes y accesorios",
-   "Sin consumo mínimo",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Volcom",
-   "Plin Interbank",
-   "porcentaje",
-   30,
-   0,
-   "2026-07-01",
-   "2026-12-31",
-   "30 % en prendas, lentes y accesorios",
-   "Sin consumo mínimo",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Kelly’s Shoes",
-   "Plin Interbank",
-   "porcentaje",
-   20,
-   0,
-   "2026-07-01",
-   "2026-12-31",
-   "20 % en toda la línea de calzado",
-   "Sin consumo mínimo",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "MBO",
-   "Plin Interbank",
-   "porcentaje",
-   20,
-   0,
-   "2026-07-01",
-   "2026-12-31",
-   "20 % adicional en la colección vigente",
-   "Se suma al descuento que ya tenga la prenda",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Bimba y Lola",
-   "Plin Interbank",
-   "porcentaje",
-   10,
-   0,
-   "2026-07-01",
-   "2026-12-31",
-   "10 % en textil y calzado",
-   "Sin consumo mínimo",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Creditex Factory",
-   "Plin Interbank",
-   "porcentaje",
-   10,
-   0,
-   "2026-07-01",
-   "2026-12-31",
-   "10 % adicional en tienda",
-   "Se suma al precio de outlet",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Tous",
-   "Plin Interbank",
-   "porcentaje",
-   10,
-   0,
-   "2026-07-01",
-   "2026-12-31",
-   "10 % en bolsos y carteras",
-   "Sin consumo mínimo",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Norman & Taylor",
-   "Plin Interbank",
-   "porcentaje",
-   20,
-   0,
-   "2026-01-01",
-   "2026-06-30",
-   "20 % adicional en la colección vigente",
-   "Campaña del primer semestre — revisa si volvió",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Toque X",
-   "Plin Interbank",
-   "porcentaje",
-   50,
-   0,
-   "2026-07-01",
-   "2026-12-31",
-   "50 % en Garra Rufa fish spa (terapia de pies)",
-   "Sin consumo mínimo",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Multident",
-   "Plin Interbank",
-   "porcentaje",
-   50,
-   0,
-   "2026-07-01",
-   "2026-12-31",
-   "50 % en blanqueamiento dental y profilaxis",
-   "Sin consumo mínimo",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Toque X",
-   "Plin Interbank",
-   "porcentaje",
-   25,
-   0,
-   "2026-07-01",
-   "2026-12-31",
-   "25 % en tratamientos faciales y corporales",
-   "Sin consumo mínimo",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Montalvo",
-   "Plin Interbank",
-   "porcentaje",
-   20,
-   0,
-   "2026-07-01",
-   "2026-12-31",
-   "20 % en peluquería y spa",
-   "Sin consumo mínimo",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Barber X",
-   "Plin Interbank",
-   "porcentaje",
-   15,
-   0,
-   "2026-07-01",
-   "2026-12-31",
-   "15 % en servicios de barbería",
-   "Sin consumo mínimo",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Barber X",
-   "Plin Interbank",
-   "porcentaje",
-   5,
-   0,
-   "2026-07-01",
-   "2026-12-31",
-   "5 % en la línea de productos",
-   "Sin consumo mínimo",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Soho.color",
-   "Plin Interbank",
-   "precio",
-   108,
-   135,
-   "2026-05-01",
-   "2026-07-31",
-   "Cepillado + planchado + manicure + depilación",
-   "Paquete de belleza · reserva antes",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Soho.color",
-   "Plin Interbank",
-   "precio",
-   208,
-   260,
-   "2026-05-01",
-   "2026-07-31",
-   "Manicure en gel + tratamiento botox japonés",
-   "Reserva antes",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Soho.color",
-   "Plin Interbank",
-   "precio",
-   232,
-   290,
-   "2026-05-01",
-   "2026-07-31",
-   "Corte + ritual Moroccanoil (tratamiento intensivo)",
-   "Reserva antes",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Soho.color",
-   "Plin Interbank",
-   "precio",
-   336,
-   419,
-   "2026-05-01",
-   "2026-07-31",
-   "Laceado de cacao + Redken Acidic",
-   "Reserva antes",
-   "Plin Interbank",
-   {
-    "conf": "of"
    }
   ],
   [
@@ -2947,213 +1410,6 @@
    {
     "conf": "rep",
     "canal": "APP"
-   }
-  ],
-  [
-   "La B Restaurante y Pastelería",
-   "Plin Interbank",
-   "porcentaje",
-   20,
-   0,
-   "2026-07-01",
-   "2026-12-30",
-   "20 % en toda la carta de restaurante y pastelería",
-   "Sin consumo mínimo",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Tinta",
-   "Plin Interbank",
-   "porcentaje",
-   20,
-   0,
-   "2026-07-01",
-   "2026-12-30",
-   "20 % en toda la carta",
-   "Sin consumo mínimo",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Renusa",
-   "Plin Interbank",
-   "porcentaje",
-   10,
-   0,
-   "2026-06-01",
-   "2026-07-31",
-   "10 % en todo Renusa",
-   "Sin consumo mínimo",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "KenDo Sushi Lounge",
-   "Plin Interbank",
-   "precio",
-   9.9,
-   12.9,
-   "2026-01-01",
-   "2026-06-30",
-   "Combo Interbank 2: 6 makis",
-   "Campaña del primer semestre — revisa si volvió",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "KenDo Sushi Lounge",
-   "Plin Interbank",
-   "precio",
-   39.9,
-   54.9,
-   "2026-01-01",
-   "2026-06-30",
-   "Combo Interbank 1: 24 cortes variados",
-   "Campaña del primer semestre — revisa si volvió",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Tokuyo",
-   "Plin Interbank",
-   "porcentaje",
-   25,
-   0,
-   "2026-01-01",
-   "2026-06-30",
-   "25 % en toda la carta",
-   "Campaña del primer semestre — revisa si volvió",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Panorama Garden Inn",
-   "Plin Interbank",
-   "porcentaje",
-   20,
-   0,
-   "2026-01-01",
-   "2026-06-30",
-   "20 % en alojamiento",
-   "Campaña del primer semestre — revisa si volvió",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Taxi 365",
-   "Plin Interbank",
-   "porcentaje",
-   40,
-   0,
-   "2026-07-01",
-   "2026-12-30",
-   "40 % en traslados desde y hacia el aeropuerto Jorge Chávez",
-   "Sin consumo mínimo · el mejor % de la lista de servicios",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Oltursa",
-   "Plin Interbank",
-   "porcentaje",
-   10,
-   0,
-   "2026-07-01",
-   "2026-12-30",
-   "10 % en pasajes a cualquier destino",
-   "Presencial u online",
-   "Plin Interbank",
-   {
-    "conf": "of",
-    "canal": "A"
-   }
-  ],
-  [
-   "Movil Bus",
-   "Plin Interbank",
-   "porcentaje",
-   20,
-   0,
-   "2026-01-01",
-   "2026-06-30",
-   "Hasta 20 % en pasajes nacionales y 15 % en envíos",
-   "Campaña del primer semestre — revisa si volvió",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Repsol",
-   "Plin Interbank",
-   "variable",
-   0,
-   0,
-   "2026-07-01",
-   "2026-07-31",
-   "S/2.50 de descuento por galón, Premium o Regular",
-   "Solo domingos · paga con QR Plin, no aplica autoservicio · en un tanque de 10 galones son S/25",
-   "Plin Interbank",
-   {
-    "conf": "of",
-    "dias": [
-     0
-    ]
-   }
-  ],
-  [
-   "Repsol",
-   "Plin Interbank",
-   "variable",
-   0,
-   0,
-   "2026-07-01",
-   "2026-07-31",
-   "S/2.00 de descuento por galón, Premium o Regular",
-   "Lunes a sábado · paga con QR Plin, no aplica autoservicio",
-   "Plin Interbank",
-   {
-    "conf": "of",
-    "dias": [
-     1,
-     2,
-     3,
-     4,
-     5,
-     6
-    ]
-   }
-  ],
-  [
-   "Ava",
-   "Plin Interbank",
-   "variable",
-   0,
-   0,
-   "2026-06-01",
-   "2026-08-31",
-   "S/2.50 por galón Premium · S/2.00 Regular · S/1.50 Diesel",
-   "Todos los días · paga con QR Plin en el grifo",
-   "Plin Interbank",
-   {
-    "conf": "of"
    }
   ],
   [
@@ -3701,6 +1957,3332 @@
    }
   ],
   [
+   "Cuenta Simple 100% Digital",
+   "Plin Interbank",
+   "porcentaje",
+   0,
+   0,
+   "",
+   "",
+   "Cuenta Simple 100% Digital",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Martes de Antojo Plin! ¡Exclusivo con Plin de Interbank! To",
+   "Plin Interbank",
+   "precio",
+   9.9,
+   20.8,
+   "",
+   "",
+   "¡Martes de Antojo Plin! ¡Exclusivo con Plin de Interbank! Todos los martes de octubre del 2026: 2 Sándwiches Especiales (Parrillera, Queso c",
+   "¡Martes de Antojo Plin! ¡Exclusivo con Plin de Interbank! Todos los martes de octubre del 2026: 2 Sándwiches Especiales (Parrillera, Queso con Tocino, Megacrocante o Doble con Ques",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin de Interbank! Del 01 al 31 de octubre de",
+   "Plin Interbank",
+   "precio",
+   9.9,
+   17.2,
+   "",
+   "2026-10-31",
+   "¡Exclusivo con Plin de Interbank! Del 01 al 31 de octubre del 2026: 2 Smirnoff Ice lata de 350/355 ml a S/9.90 (precio regular S/17.20). Vig",
+   "¡Exclusivo con Plin de Interbank! Del 01 al 31 de octubre del 2026: 2 Smirnoff Ice lata de 350/355 ml a S/9.90 (precio regular S/17.20). Vigente hasta agotar stock. Válido con el c",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin de Interbank! Del 01 al 31 de octubre de",
+   "Plin Interbank",
+   "precio",
+   4.9,
+   9.98,
+   "",
+   "2026-10-31",
+   "¡Exclusivo con Plin de Interbank! Del 01 al 31 de octubre del 2026: 2 Turrones San José de 125 g a S/4.90 (precio regular S/9.98). Vigente h",
+   "¡Exclusivo con Plin de Interbank! Del 01 al 31 de octubre del 2026: 2 Turrones San José de 125 g a S/4.90 (precio regular S/9.98). Vigente hasta agotar stock. Válido con el código:",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre al 04 de",
+   "Plin Interbank",
+   "precio",
+   1.0,
+   2.5,
+   "2026-10-01",
+   "2026-11-04",
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre al 04 de noviembre del 2026: 1 Papas o Chifles Inka Chips de 30 g/33 g a S/1.00 (precio ",
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre al 04 de noviembre del 2026: 1 Papas o Chifles Inka Chips de 30 g/33 g a S/1.00 (precio regular S/2.50). Vigente hasta agotar st",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre al 04 de",
+   "Plin Interbank",
+   "precio",
+   26.9,
+   38.9,
+   "2026-10-01",
+   "2026-11-04",
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre al 04 de noviembre del 2026: Cerveza Pilsen 8 Pack lata de 355 ml a S/26.90 (precio regu",
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre al 04 de noviembre del 2026: Cerveza Pilsen 8 Pack lata de 355 ml a S/26.90 (precio regular S/38.90). Vigente hasta agotar stock",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre al 04 de",
+   "Plin Interbank",
+   "precio",
+   9.9,
+   11.97,
+   "2026-10-01",
+   "2026-11-04",
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre al 04 de noviembre del 2026: 3 Empanadas Clásicas a S/9.90 (precio regular S/11.97). Vig",
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre al 04 de noviembre del 2026: 3 Empanadas Clásicas a S/9.90 (precio regular S/11.97). Vigente hasta agotar stock.",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin de Interbank! Del 01 al 31 de octubre de",
+   "Plin Interbank",
+   "precio",
+   7.9,
+   10.0,
+   "",
+   "2026-10-31",
+   "¡Exclusivo con Plin de Interbank! Del 01 al 31 de octubre del 2026: 1 Turrón San José Exportación de 250 g + 1 Café del Día de 8 oz a S/7.90",
+   "¡Exclusivo con Plin de Interbank! Del 01 al 31 de octubre del 2026: 1 Turrón San José Exportación de 250 g + 1 Café del Día de 8 oz a S/7.90 (precio regular S/10.00). Vigente hasta",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre al 04 de",
+   "Plin Interbank",
+   "precio",
+   9.99,
+   11.98,
+   "2026-10-01",
+   "2026-11-04",
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre al 04 de noviembre del 2026: 2 Cuchareables Nestlé a S/9.99 (precio regular S/11.98). Vi",
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre al 04 de noviembre del 2026: 2 Cuchareables Nestlé a S/9.99 (precio regular S/11.98). Vigente hasta agotar stock.",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Jueves de Bombazo! ¡Exclusivo con Plin de Interbank! Todos ",
+   "Plin Interbank",
+   "precio",
+   21.8,
+   0,
+   "",
+   "",
+   "¡Jueves de Bombazo! ¡Exclusivo con Plin de Interbank! Todos los jueves de octubre del 2026: 1 Hamburguesa Cheese Regular + 1 Papa Regular a ",
+   "¡Jueves de Bombazo! ¡Exclusivo con Plin de Interbank! Todos los jueves de octubre del 2026: 1 Hamburguesa Cheese Regular + 1 Papa Regular a S/5.90 (precio regular S/21.80). Vigente",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre al 31 de",
+   "Plin Interbank",
+   "precio",
+   44.6,
+   0,
+   "2026-10-01",
+   "2026-12-31",
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre al 31 de diciembre del 2026: 1 Cheese Regular + 1 Queso Tocino Regular + 2 Papas Regular",
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre al 31 de diciembre del 2026: 1 Cheese Regular + 1 Queso Tocino Regular + 2 Papas Regulares a S/18.90 (precio regular S/44.60). V",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre al 31 de",
+   "Plin Interbank",
+   "precio",
+   12.9,
+   27.7,
+   "2026-10-01",
+   "2026-12-31",
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre al 31 de diciembre del 2026: 1 Royal Regular + 1 Papa Regular + 1 Gaseosa a S/12.90 (pre",
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre al 31 de diciembre del 2026: 1 Royal Regular + 1 Papa Regular + 1 Gaseosa a S/12.90 (precio regular S/27.70). Vigente hasta agot",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre al 31 de",
+   "Plin Interbank",
+   "precio",
+   16.9,
+   30.7,
+   "2026-10-01",
+   "2026-12-31",
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre al 31 de diciembre del 2026: 1 Cheese Regular + 1 Papa Regular + 4 Nuggets a S/16.90 (pr",
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre al 31 de diciembre del 2026: 1 Cheese Regular + 1 Papa Regular + 4 Nuggets a S/16.90 (precio regular S/30.70). Vigente hasta ago",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Repsol",
+   "Plin Interbank",
+   "monto",
+   2.0,
+   0,
+   "",
+   "",
+   "¡Exclusivo con Plin de Interbank! De lunes a sábado durante octubre del 2026: S/2.00 de descuento por cada galón de Gasolina Regular y Premi",
+   "¡Exclusivo con Plin de Interbank! Todos los domingos de octubre del 2026: S/2.50 de descuento por cada galón de Gasolina Regular y Premium. Vigente hasta agotar stock. · ¡Exclusivo",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Ava",
+   "Plin Interbank",
+   "monto",
+   2.0,
+   0,
+   "2026-09-01",
+   "2026-12-31",
+   "¡Exclusivo con Plin de Interbank! Del 01 de septiembre al 31 de diciembre del 2026: S/2.00 de descuento por cada galón de Gasolina Regular. ",
+   "¡Exclusivo con Plin de Interbank! Del 01 de septiembre al 31 de diciembre del 2026: S/2.00 de descuento por cada galón de Gasolina Regular. Vigente hasta agotar stock. · ¡Exclusivo",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre del 2026",
+   "Plin Interbank",
+   "precio",
+   18.7,
+   0,
+   "2026-10-01",
+   "2027-01-31",
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre del 2026 al 31 de enero del 2027: 1 Krunchy BBQ + 1 Complemento Regular + 1 Gaseosa Regu",
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre del 2026 al 31 de enero del 2027: 1 Krunchy BBQ + 1 Complemento Regular + 1 Gaseosa Regular a S/12.90 (precio regular S/18.70). ",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin de Interbank! Del 01 al 31 de octubre de",
+   "Plin Interbank",
+   "precio",
+   26.4,
+   0,
+   "",
+   "2026-10-31",
+   "¡Exclusivo con Plin de Interbank! Del 01 al 31 de octubre del 2026: 2 Piezas de Pollo + 2 Hot Wings + 1 Papa Regular a S/13.90 (precio regul",
+   "¡Exclusivo con Plin de Interbank! Del 01 al 31 de octubre del 2026: 2 Piezas de Pollo + 2 Hot Wings + 1 Papa Regular a S/13.90 (precio regular S/26.40). Vigente hasta agotar stock.",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre del 2026",
+   "Plin Interbank",
+   "precio",
+   29.9,
+   41.6,
+   "2026-10-01",
+   "2027-01-31",
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre del 2026 al 31 de enero del 2027: 4 Piezas de Pollo + 1 Papa Familiar a S/29.90 (precio ",
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre del 2026 al 31 de enero del 2027: 4 Piezas de Pollo + 1 Papa Familiar a S/29.90 (precio regular S/41.60). Vigente hasta agotar s",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre del 2026",
+   "Plin Interbank",
+   "precio",
+   59.8,
+   0,
+   "2026-10-01",
+   "2027-01-31",
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre del 2026 al 31 de enero del 2027: 4 Piezas de Pollo + 4 Nuggets + 2 Papas Regulares + 2 ",
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre del 2026 al 31 de enero del 2027: 4 Piezas de Pollo + 4 Nuggets + 2 Papas Regulares + 2 Gaseosas Regulares a S/39.90 (precio reg",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre al 31 de",
+   "Plin Interbank",
+   "precio",
+   14.9,
+   27.9,
+   "2026-10-01",
+   "2026-12-31",
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre al 31 de diciembre del 2026: 1 Pizza Grande Americana o Pepperoni a S/14.90 (precio regu",
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre al 31 de diciembre del 2026: 1 Pizza Grande Americana o Pepperoni a S/14.90 (precio regular S/27.90). Vigente hasta agotar stock",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre al 31 de",
+   "Plin Interbank",
+   "precio",
+   15.9,
+   24.4,
+   "2026-10-01",
+   "2026-12-31",
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre al 31 de diciembre del 2026: 1 Pizza Personal Americana o Pepperoni + 6 Rolls de Peppero",
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre al 31 de diciembre del 2026: 1 Pizza Personal Americana o Pepperoni + 6 Rolls de Pepperoni + 1 Vaso de Gaseosa de 10 oz a S/15.9",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre al 31 de",
+   "Plin Interbank",
+   "precio",
+   11.9,
+   24.9,
+   "2026-10-01",
+   "2026-12-31",
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre al 31 de diciembre del 2026: 1 Pizza Mediana Hawaiana a S/11.90 (precio regular S/24.90)",
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre al 31 de diciembre del 2026: 1 Pizza Mediana Hawaiana a S/11.90 (precio regular S/24.90). Vigente hasta agotar stock.",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Dunkin",
+   "Plin Interbank",
+   "precio",
+   8.9,
+   16.5,
+   "2026-10-01",
+   "2026-12-31",
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre al 31 de diciembre del 2026: 3 Donuts Clásicas a S/9.90 (precio regular S/16.50), con op",
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre al 31 de diciembre del 2026: 3 Donuts Clásicas a S/9.90 (precio regular S/16.50), con opción de agregar 1 Refresher Pitahaya por",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre al 31 de",
+   "Plin Interbank",
+   "precio",
+   10.9,
+   18.8,
+   "2026-10-01",
+   "2026-12-31",
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre al 31 de diciembre del 2026: 1 Encájate + 1 Gaseosa Junior + 1 Wantán a S/10.90 (precio ",
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre al 31 de diciembre del 2026: 1 Encájate + 1 Gaseosa Junior + 1 Wantán a S/10.90 (precio regular S/18.80). Vigente hasta agotar s",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre al 31 de",
+   "Plin Interbank",
+   "precio",
+   15.9,
+   28.8,
+   "2026-10-01",
+   "2026-12-31",
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre al 31 de diciembre del 2026: 1 A lo Pobre Chijaukay + 1 Gaseosa Junior a S/15.90 (precio",
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre al 31 de diciembre del 2026: 1 A lo Pobre Chijaukay + 1 Gaseosa Junior a S/15.90 (precio regular S/28.80). Vigente hasta agotar ",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin de Interbank! Los martes 06, 13, 20 y 27",
+   "Plin Interbank",
+   "precio",
+   15.9,
+   39.6,
+   "",
+   "2026-10-27",
+   "¡Exclusivo con Plin de Interbank! Los martes 06, 13, 20 y 27 de octubre del 2026: 1 Combinado Taypa + 1 Arroz Chaufa de Pollo + 2 Gaseosas J",
+   "¡Exclusivo con Plin de Interbank! Los martes 06, 13, 20 y 27 de octubre del 2026: 1 Combinado Taypa + 1 Arroz Chaufa de Pollo + 2 Gaseosas Junior a S/15.90 (precio regular S/39.60)",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre al 31 de",
+   "Plin Interbank",
+   "precio",
+   19.9,
+   38.6,
+   "2026-10-01",
+   "2026-12-31",
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre al 31 de diciembre del 2026: 1 Tallarín Taypa + 1 Arroz Chaufa + 2 Gaseosas Junior a S/1",
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre al 31 de diciembre del 2026: 1 Tallarín Taypa + 1 Arroz Chaufa + 2 Gaseosas Junior a S/19.90 (precio regular S/38.60). Vigente h",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Repshop",
+   "Plin Interbank",
+   "precio",
+   10.9,
+   16.8,
+   "",
+   "2026-10-31",
+   "¡Exclusivo con Plin de Interbank! Del 01 al 31 de octubre del 2026: 1 Turrón Doña Pepa de 500 g + 1 Inca Kola de 1 L a S/10.90 (precio regul",
+   "¡Exclusivo con Plin de Interbank! Del 01 al 31 de octubre del 2026: 1 Turrón Doña Pepa de 500 g + 1 Inca Kola de 1 L a S/10.90 (precio regular S/16.80). Vigente hasta agotar stock.",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Wanta",
+   "Plin Interbank",
+   "precio",
+   19.9,
+   32.7,
+   "2026-09-07",
+   "2027-01-31",
+   "¡Exclusivo con Plin de Interbank! Del 07 de septiembre de 2026 al 31 de enero de 2027: 1 Combinado con fondo a elección (Chijaukay o Tipakay",
+   "¡Exclusivo con Plin de Interbank! Del 07 de septiembre de 2026 al 31 de enero de 2027: 1 Combinado Chijaukay + 1 Sopa Wantan Jr. + 1 Bebida de 12 oz a S/23.90 (precio regular S/32.",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Pinkberry",
+   "Plin Interbank",
+   "precio",
+   10.9,
+   13.9,
+   "2026-10-01",
+   "2027-01-31",
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre del 2026 al 31 de enero del 2027: 1 Pinkberry Small con Toppings a S/10.90 (precio regul",
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre del 2026 al 31 de enero del 2027: 1 Pinkberry Small con Toppings a S/10.90 (precio regular S/13.90). Vigente hasta agotar stock.",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre al 31 de",
+   "Plin Interbank",
+   "precio",
+   15.9,
+   31.8,
+   "2026-10-01",
+   "2026-12-31",
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre al 31 de diciembre del 2026: 1/4 de Pollo + Papas + 1 Vaso de Gaseosa + Salsas a S/15.90",
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre al 31 de diciembre del 2026: 1/4 de Pollo + Papas + 1 Vaso de Gaseosa + Salsas a S/15.90 (precio regular S/31.80). Válido solo d",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre al 31 de",
+   "Plin Interbank",
+   "precio",
+   49.9,
+   89.9,
+   "2026-10-01",
+   "2026-12-31",
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre al 31 de diciembre del 2026: 1 Pollo + Papas Fritas Familiares + Salsas a S/49.90 (preci",
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre al 31 de diciembre del 2026: 1 Pollo + Papas Fritas Familiares + Salsas a S/49.90 (precio regular S/89.90). Vigente hasta agotar",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre al 31 de",
+   "Plin Interbank",
+   "precio",
+   9.9,
+   89.9,
+   "2026-10-01",
+   "2026-12-31",
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre al 31 de diciembre del 2026: 1 Pollo a la Brasa + Papas Fritas Familiares + 4 Vasos de G",
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre al 31 de diciembre del 2026: 1 Pollo a la Brasa + Papas Fritas Familiares + 4 Vasos de Gaseosa + Salsas a S/59.90 (precio regula",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin de Interbank! Del 01 al 05 de octubre de",
+   "Plin Interbank",
+   "precio",
+   23.4,
+   0,
+   "",
+   "2026-10-05",
+   "¡Exclusivo con Plin de Interbank! Del 01 al 05 de octubre del 2026: 2 Piezas de Pollo + 1 Papa Cajún Regular a S/12.90 (precio regular S/23.",
+   "¡Exclusivo con Plin de Interbank! Del 01 al 05 de octubre del 2026: 2 Piezas de Pollo + 1 Papa Cajún Regular a S/12.90 (precio regular S/23.40). Vigente hasta agotar stock.",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre al 31 de",
+   "Plin Interbank",
+   "precio",
+   21.8,
+   0,
+   "2026-10-01",
+   "2026-12-31",
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre al 31 de diciembre del 2026: 2 Piezas de Pollo + 1 Papa Regular a S/14.90 (precio regula",
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre al 31 de diciembre del 2026: 2 Piezas de Pollo + 1 Papa Regular a S/14.90 (precio regular S/21.80). Vigente hasta agotar stock.",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin de Interbank! Los miércoles 07, 14, 21 y",
+   "Plin Interbank",
+   "precio",
+   29.9,
+   60.5,
+   "",
+   "2026-10-28",
+   "¡Exclusivo con Plin de Interbank! Los miércoles 07, 14, 21 y 28 de octubre del 2026: 6 Piezas de Pollo + 1 Papa Cajún Familiar + 3 Gaseosas ",
+   "¡Exclusivo con Plin de Interbank! Los miércoles 07, 14, 21 y 28 de octubre del 2026: 6 Piezas de Pollo + 1 Papa Cajún Familiar + 3 Gaseosas Junior a S/29.90 (precio regular S/60.50",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre al 31 de",
+   "Plin Interbank",
+   "precio",
+   4.0,
+   29.9,
+   "2026-10-01",
+   "2026-12-31",
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre al 31 de diciembre del 2026: 4 Piezas de Pollo + 2 Papas Regulares a S/29.90 (precio reg",
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre al 31 de diciembre del 2026: 4 Piezas de Pollo + 2 Papas Regulares a S/29.90 (precio regular S/47.90), con opción de agregar 2 G",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Subway",
+   "Plin Interbank",
+   "precio",
+   5.9,
+   17.9,
+   "2026-09-01",
+   "2026-11-30",
+   "¡Exclusivo con Plin de Interbank! Del 01 de septiembre al 30 de noviembre del 2026: 1 Sub Lechón de 15 cm + Bebida a S/16.90 (precio regular",
+   "¡Exclusivo con Plin de Interbank! Del 01 de septiembre al 30 de noviembre del 2026: 1 Ají de Pollo de 15 cm a S/5.90 (precio regular S/17.90). Vigente hasta agotar stock. · ¡Exclus",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre del 2026",
+   "Plin Interbank",
+   "precio",
+   15.8,
+   0,
+   "2026-10-01",
+   "2027-01-31",
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre del 2026 al 31 de enero del 2027: 1 Pizza Personal (Americana, Pepperoni o Hawaiana) + 1",
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre del 2026 al 31 de enero del 2027: 1 Pizza Personal (Americana, Pepperoni o Hawaiana) + 1 Gaseosa Regular a S/10.50 (precio regul",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre del 2026",
+   "Plin Interbank",
+   "precio",
+   77.4,
+   0,
+   "2026-10-01",
+   "2027-01-31",
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre del 2026 al 31 de enero del 2027: 3 Pizzas Medianas (Americana o Pepperoni) + 3 Gaseosas",
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre del 2026 al 31 de enero del 2027: 3 Pizzas Medianas (Americana o Pepperoni) + 3 Gaseosas Regulares a S/39.90 (precio regular S/7",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre del 2026",
+   "Plin Interbank",
+   "precio",
+   57.9,
+   0,
+   "2026-10-01",
+   "2027-01-31",
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre del 2026 al 31 de enero del 2027: 1 Pizza Grande (Americana o Pepperoni) + 6 Palitos a l",
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre del 2026 al 31 de enero del 2027: 1 Pizza Grande (Americana o Pepperoni) + 6 Palitos a la Siciliana + 3 Gaseosas Regulares a S/3",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Exclusivo con Plin de Interbank! Del 01 de octubre al 30 de ",
+   "Plin Interbank",
+   "precio",
+   16.9,
+   23.9,
+   "2026-10-01",
+   "2026-11-30",
+   "Exclusivo con Plin de Interbank! Del 01 de octubre al 30 de noviembre del 2026: 1/4 de Pollo + Papas Fritas a S/16.90 (precio regular S/23.9",
+   "Exclusivo con Plin de Interbank! Del 01 de octubre al 30 de noviembre del 2026: 1/4 de Pollo + Papas Fritas a S/16.90 (precio regular S/23.90). Vigente hasta agotar stock.",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre al 30 de",
+   "Plin Interbank",
+   "precio",
+   32.9,
+   42.9,
+   "2026-10-01",
+   "2026-11-30",
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre al 30 de noviembre del 2026: 1/2 Pollo + Papas Fritas a S/32.90 (precio regular S/42.90)",
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre al 30 de noviembre del 2026: 1/2 Pollo + Papas Fritas a S/32.90 (precio regular S/42.90). Vigente hasta agotar stock.",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre al 30 de",
+   "Plin Interbank",
+   "precio",
+   62.9,
+   72.9,
+   "2026-10-01",
+   "2026-11-30",
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre al 30 de noviembre del 2026: 1 Pollo + Papas Fritas a S/62.90 (precio regular S/72.90). ",
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre al 30 de noviembre del 2026: 1 Pollo + Papas Fritas a S/62.90 (precio regular S/72.90). Vigente hasta agotar stock.",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre del 2026",
+   "Plin Interbank",
+   "precio",
+   21.8,
+   0,
+   "2026-10-01",
+   "2027-01-31",
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre del 2026 al 31 de enero del 2027: 1 Power Crunch Jr. + 1 Papa Regular a S/15.90 (precio ",
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre del 2026 al 31 de enero del 2027: 1 Power Crunch Jr. + 1 Papa Regular a S/15.90 (precio regular S/21.80). Vigente hasta agotar s",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre del 2026",
+   "Plin Interbank",
+   "precio",
+   49.4,
+   0,
+   "2026-10-01",
+   "2027-01-31",
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre del 2026 al 31 de enero del 2027: 1 Whopper Jr. + 1 King de Pollo + 2 Papas Regulares + ",
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre del 2026 al 31 de enero del 2027: 1 Whopper Jr. + 1 King de Pollo + 2 Papas Regulares + 2 Gaseosas Regulares a S/27.90 (precio r",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre del 2026",
+   "Plin Interbank",
+   "precio",
+   27.9,
+   47.4,
+   "2026-10-01",
+   "2027-01-31",
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre del 2026 al 31 de enero del 2027: 2 Whopper Jr. + 2 Papas Jr. + 2 Gaseosas de 12 oz a S/",
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre del 2026 al 31 de enero del 2027: 2 Whopper Jr. + 2 Papas Jr. + 2 Gaseosas de 12 oz a S/27.90 (precio regular S/47.40). Vigente ",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Fridays",
+   "Plin Interbank",
+   "porcentaje",
+   25,
+   0,
+   "2026-07-01",
+   "2026-12-31",
+   "¡Exclusivo con Plin de Interbank! Del 01 de julio de 31 de diciembre del 2026: 25% de descuento en platos a la carta. Vigente hasta agotar s",
+   "¡Exclusivo con Plin de Interbank! Del 01 de julio de 31 de diciembre del 2026: 25% de descuento en platos a la carta. Vigente hasta agotar stock.",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre del 2026",
+   "Plin Interbank",
+   "precio",
+   28.0,
+   42.0,
+   "2026-10-01",
+   "2027-01-31",
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre del 2026 al 31 de enero del 2027: 12 unidades de Boneless Wings a S/28.00 (precio regula",
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre del 2026 al 31 de enero del 2027: 12 unidades de Boneless Wings a S/28.00 (precio regular S/42.00). Vigente hasta agotar stock.",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre del 2026",
+   "Plin Interbank",
+   "precio",
+   28.0,
+   41.0,
+   "2026-10-01",
+   "2027-01-31",
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre del 2026 al 31 de enero del 2027: 1 Old Timer Cheese + 1 Gaseosa Personal a S/28.00 (pre",
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre del 2026 al 31 de enero del 2027: 1 Old Timer Cheese + 1 Gaseosa Personal a S/28.00 (precio regular S/41.00). Vigente hasta agot",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre del 2026",
+   "Plin Interbank",
+   "precio",
+   29.0,
+   48.0,
+   "2026-10-01",
+   "2027-01-31",
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre del 2026 al 31 de enero del 2027: 1 Chicken Fried Chicken + 1 Gaseosa Personal a S/29.00",
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre del 2026 al 31 de enero del 2027: 1 Chicken Fried Chicken + 1 Gaseosa Personal a S/29.00 (precio regular S/48.00). Vigente hasta",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre del 2026",
+   "Plin Interbank",
+   "precio",
+   30.0,
+   43.0,
+   "2026-10-01",
+   "2027-01-31",
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre del 2026 al 31 de enero del 2027: 1 Big Smasher + 1 Gaseosa a elección a S/30.00 (precio",
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre del 2026 al 31 de enero del 2027: 1 Big Smasher + 1 Gaseosa a elección a S/30.00 (precio regular S/43.00). Vigente hasta agotar ",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre al 30 de",
+   "Plin Interbank",
+   "precio",
+   29.0,
+   44.0,
+   "2026-10-01",
+   "2026-11-30",
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre al 30 de noviembre del 2026: 1 Aero Tipakay + 1 Gaseosa Personal a S/29.00 (precio regul",
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre al 30 de noviembre del 2026: 1 Aero Tipakay + 1 Gaseosa Personal a S/29.00 (precio regular S/44.00). Vigente hasta agotar stock.",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre del 2026",
+   "Plin Interbank",
+   "precio",
+   32.0,
+   46.0,
+   "2026-10-01",
+   "2027-01-31",
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre del 2026 al 31 de enero del 2027: 1 Aero Chijaukay o Tipakay + 2 Wantanes Clásicos + 1 L",
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre del 2026 al 31 de enero del 2027: 1 Aero Chijaukay o Tipakay + 2 Wantanes Clásicos + 1 Limonada de Hierba Luisa a S/32.00 (preci",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre del 2026",
+   "Plin Interbank",
+   "precio",
+   69.0,
+   97.0,
+   "2026-10-01",
+   "2027-01-31",
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre del 2026 al 31 de enero del 2027: 1 Chaufa de Pollo + 1 Tallarín de Pollo en Trozos + 4 ",
+   "¡Exclusivo con Plin de Interbank! Del 01 de octubre del 2026 al 31 de enero del 2027: 1 Chaufa de Pollo + 1 Tallarín de Pollo en Trozos + 4 Wantanes Clásicos + 2 Gaseosas Personale",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Montalvo",
+   "Plin Interbank",
+   "porcentaje",
+   20,
+   0,
+   "2026-07-01",
+   "2026-12-31",
+   "¡Exclusivo con Plin de Interbank! Del 1 de julio al 31 de diciembre del 2026: 20% de descuento en peluquería y spa.",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Anyli Café Bar",
+   "Plin Interbank",
+   "porcentaje",
+   15,
+   0,
+   "2026-07-01",
+   "2026-12-30",
+   "¡Exclusivo con Plin de Interbank! Del 1 de julio al 30 de diciembre del 2026: 15% descuento en platos a la carta.",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Bottega Capuccino",
+   "Plin Interbank",
+   "porcentaje",
+   10,
+   0,
+   "2026-07-01",
+   "2026-12-30",
+   "¡Exclusivo con Plin Interbank! Del 1 de julio al 30 de diciembre del 2026: 10% de descuento en toda la carta.",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "El Cordón y La Rosa",
+   "Plin Interbank",
+   "porcentaje",
+   20,
+   0,
+   "2026-07-01",
+   "2026-12-30",
+   "El Cordon Y La Rosa Restaurante",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Épico Bar",
+   "Plin Interbank",
+   "porcentaje",
+   20,
+   0,
+   "2026-07-01",
+   "2026-12-30",
+   "¡Exclusivo con Plin Interbank! Del 1 de julio al 30 de diciembre del 2026: 20% de descuento en toda la carta.",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Gran Carbón",
+   "Plin Interbank",
+   "porcentaje",
+   20,
+   0,
+   "2026-07-01",
+   "2026-12-30",
+   "¡Exclusivo con Plin Interbank! Del 1 de julio al 30 de diciembre del 2026: 20% de descuento en platos a la carta.",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "La B Restaurante y Pastelería",
+   "Plin Interbank",
+   "porcentaje",
+   20,
+   0,
+   "2026-07-01",
+   "2026-12-30",
+   "¡Exclusivo con Plin de Interbank! Del 1 de julio al 30 de diciembre del 2026: 20% de descuento en toda la carta en La B Restaurante.",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "La Barra del Chino",
+   "Plin Interbank",
+   "porcentaje",
+   10,
+   0,
+   "2026-07-01",
+   "2026-12-30",
+   "¡Exclusivo con Plin de Interbank! Del 1 de julio al 30 de diciembre del 2026: 10% de descuento en toda la carta.",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "La Bocca",
+   "Plin Interbank",
+   "porcentaje",
+   15,
+   0,
+   "2026-07-01",
+   "2026-12-30",
+   "¡Exclusivo con Plin de Interbank! Del 1 de julio al 30 de diciembre del 2026: 15% de descuento en toda la carta.",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "La Boutique de las Carnes",
+   "Plin Interbank",
+   "porcentaje",
+   15,
+   0,
+   "2026-07-01",
+   "2026-12-30",
+   "¡Exclusivo con Plin de Interbank! Del 1 de julio al 30 de diciembre del 2026: 15% de descuento en la carta de comidas.",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "La Feria Valle Sagrado",
+   "Plin Interbank",
+   "precio",
+   45.0,
+   70.0,
+   "2026-07-01",
+   "2026-12-30",
+   "¡Exclusivo con Plin de Interbank! Del 1 de julio al 30 de diciembre del 2026: Buffet Interbank: Adulto S/55.00 (precio regular S/70.00) y ni",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Beso Francés",
+   "Plin Interbank",
+   "precio",
+   17.0,
+   20.0,
+   "",
+   "2026-07-31",
+   "¡Exclusivo con Plin de Interbank! Del 01 al 31 de julio del 2026: 1 Crepe de Nutella + Fresas + Brownie + Helado Clásico de Vainilla a S/19.",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Manta",
+   "Plin Interbank",
+   "porcentaje",
+   20,
+   0,
+   "2026-07-01",
+   "2026-12-30",
+   "¡Exclusivo con Plin Interbank! Del 1 de julio al 30 de diciembre del 2026: 20% de descuento en toda la carta.",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Marakos Grill",
+   "Plin Interbank",
+   "porcentaje",
+   15,
+   0,
+   "2026-07-01",
+   "2026-12-30",
+   "¡Exclusivo con Plin de Interbank! Del 1 de julio al 30 de diciembre del 2026: 15% de descuento en platos a la carta.",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Mr. Sushi",
+   "Plin Interbank",
+   "porcentaje",
+   20,
+   0,
+   "2026-07-01",
+   "2026-12-30",
+   "¡Exclusivo con Plin Interbank! Del 1 de julio al 30 de diciembre del 2026: 20% de descuento en toda la carta. Válido para Cusco.",
+   "¡Exclusivo con Plin Interbank! Del 1 de julio al 30 de diciembre del 2026: 20% de descuento en toda la carta. Válido para Cusco.",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "SAMI’S Burgers",
+   "Plin Interbank",
+   "porcentaje",
+   20,
+   0,
+   "2026-07-01",
+   "2026-12-30",
+   "SAMI’S Burgers, Wings & Fries",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Suyu Peruvian Restaurant",
+   "Plin Interbank",
+   "porcentaje",
+   20,
+   0,
+   "2026-07-01",
+   "2026-12-30",
+   "¡Exclusivo con Plin de Interbank! Del 1 de julio al 30 de diciembre del 2026: 20% de descuento en toda la carta de comidas y bebidas.",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Tinta",
+   "Plin Interbank",
+   "porcentaje",
+   20,
+   0,
+   "2026-07-01",
+   "2026-12-30",
+   "¡Exclusivo con Plin Interbank! Del 1 de julio al 30 de diciembre del 2026: 20% de descuento en toda la carta.",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Tomasa Pollo & Grill",
+   "Plin Interbank",
+   "porcentaje",
+   15,
+   0,
+   "2026-07-01",
+   "2026-12-30",
+   "¡Exclusivo con Plin Interbank! Del 1 de julio al 30 de diciembre del 2026: 15% de descuento en toda la carta.",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Uchu Peruvian Steakhouse",
+   "Plin Interbank",
+   "porcentaje",
+   20,
+   0,
+   "2026-07-01",
+   "2026-12-30",
+   "¡Exclusivo con Plin Interbank! Del 1 de julio al 30 de diciembre del 2026: 20% de descuento en la carta.",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Barber X",
+   "Plin Interbank",
+   "porcentaje",
+   15,
+   0,
+   "2026-07-01",
+   "2026-12-30",
+   "¡Exclusivo con Plin Interbank! Del 1 de julio al 30 de diciembre del 2026: 15% de descuento en todos los servicios.",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Oltursa",
+   "Plin Interbank",
+   "porcentaje",
+   10,
+   0,
+   "2026-07-01",
+   "2026-12-30",
+   "¡Exclusivo con Plin Interbank! Del 1 de julio al 30 de diciembre del 2026: 10% de descuento en la compra de pasajes a cualquier destino.",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Taxi 365",
+   "Plin Interbank",
+   "porcentaje",
+   40,
+   0,
+   "2026-07-01",
+   "2026-12-30",
+   "¡Exclusivo con Plin Interbank! Del 1 de julio al 30 de diciembre del 2026: 40% de descuento para traslados desde y hacia el Nuevo Aeropuerto",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Toque X",
+   "Plin Interbank",
+   "porcentaje",
+   50,
+   0,
+   "2026-07-01",
+   "2026-12-30",
+   "¡Exclusivo con Plin Interbank! Del 1 de julio al 30 de diciembre del 2026: 50% de descuento en Garra Rufa Fish Spa.",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Big Head",
+   "Plin Interbank",
+   "porcentaje",
+   30,
+   0,
+   "2026-07-01",
+   "2026-12-30",
+   "¡Exclusivo con Plin Interbank! Del 1 de julio al 30 de diciembre del 2026: 30% de descuento en prendas de vestir, lentes y accesorios.",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Bimba y Lola",
+   "Plin Interbank",
+   "porcentaje",
+   10,
+   0,
+   "2026-07-01",
+   "2026-12-30",
+   "¡Exclusivo con Plin Interbank! Del 1 de julio al 30 de diciembre del 2026: 10% de descuento en textil y calzado.",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Bohoo",
+   "Plin Interbank",
+   "porcentaje",
+   40,
+   0,
+   "2026-07-01",
+   "2026-12-30",
+   "¡Exclusivo con Plin Interbank! Del 1 de julio al 30 de diciembre del 2026: 40% de descuento en tus joyas favoritas.",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Creditex Factory",
+   "Plin Interbank",
+   "porcentaje",
+   10,
+   0,
+   "2026-07-01",
+   "2026-12-30",
+   "¡Exclusivo con Plin Interbank! Del 1 de julio al 30 de diciembre del 2026: 10% de descuento adicional en tienda.",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Kelly’s Shoes",
+   "Plin Interbank",
+   "porcentaje",
+   20,
+   0,
+   "2026-07-01",
+   "2026-12-30",
+   "¡Exclusivo con Plin Interbank! Del 1 de julio al 30 de diciembre del 2026: 20% de descuento en todo calzado.",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "MBO",
+   "Plin Interbank",
+   "porcentaje",
+   20,
+   0,
+   "2026-07-01",
+   "2026-12-30",
+   "¡Exclusivo con Plin Interbank! Del 1 de julio al 30 de diciembre del 2026: 20% de descuento adicional en colección vigente.",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Multident",
+   "Plin Interbank",
+   "porcentaje",
+   50,
+   0,
+   "2026-07-01",
+   "2026-12-30",
+   "Multident",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "New Athletic",
+   "Plin Interbank",
+   "porcentaje",
+   35,
+   0,
+   "2026-07-01",
+   "2026-12-30",
+   "¡Exclusivo con Plin Interbank! Del 1 de julio al 30 de diciembre del 2026: Hasta 35% de descuento en productos seleccionados.",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Norman & Taylor",
+   "Plin Interbank",
+   "porcentaje",
+   20,
+   0,
+   "2026-06-30",
+   "2027-01-01",
+   "¡Exclusivo con Plin Interbank! Del 1 de enero al 30 de junio del 2026: 20% de descuento adicional en colección vigente.",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Oakley",
+   "Plin Interbank",
+   "porcentaje",
+   30,
+   0,
+   "2026-07-01",
+   "2026-12-30",
+   "¡Exclusivo con Plin Interbank! Del 1 de julio al 30 de diciembre del 2026: 30% de descuento en prendas de vestir, lentes y accesorios.",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Tous",
+   "Plin Interbank",
+   "porcentaje",
+   10,
+   0,
+   "2026-07-01",
+   "2026-12-30",
+   "¡Exclusivo con Plin Interbank! Del 1 de julio al 30 de diciembre del 2026: 10% en bolsos.",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Volcom",
+   "Plin Interbank",
+   "porcentaje",
+   30,
+   0,
+   "2026-07-01",
+   "2026-12-30",
+   "¡Exclusivo con Plin Interbank! Del 1 de julio al 30 de diciembre del 2026: 30% de descuento en prendas de vestir, lentes y accesorios.",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Mis Costillitas",
+   "Plin Interbank",
+   "precio",
+   79.9,
+   99.7,
+   "2026-07-01",
+   "2026-12-30",
+   "¡Exclusivo con Plin Interbank! Del 1 de julio al 30 de diciembre del 2026: Promoción de 02 costillas Jr. + 02 papas fritas + 02 ensaladas de",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "La Nevera Fit",
+   "Plin Interbank",
+   "porcentaje",
+   15,
+   0,
+   "2026-07-01",
+   "2026-12-30",
+   "¡Exclusivo con Plin Interbank! Del 1 de julio al 30 de diciembre del 2026: 15% de descuento en toda la carta.",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Otto Grill",
+   "Plin Interbank",
+   "precio",
+   18.9,
+   22.9,
+   "2026-07-01",
+   "2026-12-30",
+   "¡Exclusivo con Plin Interbank! Del 1 de julio al 30 de diciembre del 2026: Filete de pierna a la carta a S/18.90 (precio regular S/22.90).",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Granja Azul",
+   "Plin Interbank",
+   "porcentaje",
+   20,
+   0,
+   "2026-07-01",
+   "2026-12-31",
+   "¡Exclusivo con Plin de Interbank! Del 1 de julio al 31 de diciembre del 2026: 20% de descuento en la carta.",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin de Interbank! Del 01 de mayo al 31 de ju",
+   "Plin Interbank",
+   "precio",
+   108.0,
+   135.0,
+   "2026-05-01",
+   "2026-07-31",
+   "¡Exclusivo con Plin de Interbank! Del 01 de mayo al 31 de julio del 2026: Cepillado + Planchado + Manicure en Color + Depilación de Ceja y B",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Exclusivo con Plin de Interbank! Del 01 de mayo al 31 de jul",
+   "Plin Interbank",
+   "precio",
+   208.0,
+   260.0,
+   "2026-05-01",
+   "2026-07-31",
+   "Exclusivo con Plin de Interbank! Del 01 de mayo al 31 de julio del 2026: Manicure en Color Gel + Botox Japonés a S/208.00 (precio regular S/",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Exclusivo con Plin de Interbank! Del 01 de mayo al 31 de jul",
+   "Plin Interbank",
+   "precio",
+   232.0,
+   290.0,
+   "2026-05-01",
+   "2026-07-31",
+   "Exclusivo con Plin de Interbank! Del 01 de mayo al 31 de julio del 2026: Corte Elaborado + Ritual de Moroccanoil Intensivo a S/232.00 (preci",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Exclusivo con Plin de Interbank! Del 01 de mayo al 31 de jul",
+   "Plin Interbank",
+   "precio",
+   336.0,
+   419.0,
+   "2026-05-01",
+   "2026-07-31",
+   "Exclusivo con Plin de Interbank! Del 01 de mayo al 31 de julio del 2026: Laceado Cacao + Tratamiento Acidic Concentrate (REDKEN) a S/336.00 ",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin de Interbank! De viernes a domingo, del ",
+   "Plin Interbank",
+   "precio",
+   13.9,
+   21.98,
+   "",
+   "2026-10-31",
+   "¡Exclusivo con Plin de Interbank! De viernes a domingo, del 01 al 31 de octubre del 2026: 2 Four Loko lata de 473 ml, sabores varios, a S/13",
+   "¡Exclusivo con Plin de Interbank! De viernes a domingo, del 01 al 31 de octubre del 2026: 2 Four Loko lata de 473 ml, sabores varios, a S/13.90 (precio regular S/21.98). Vigente ha",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Pizza Hut",
+   "Plin Interbank",
+   "precio",
+   15.8,
+   0,
+   "2026-05-01",
+   "2026-06-30",
+   "¡Exclusivo con Plin Interbank! Del 01 de mayo al 30 de junio del 2026: 1 Pizza personal (americana, pepperoni o hawaiana) + 1 Gaseosa regula",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin Interbank! Del 01 de abril al 30 de juni",
+   "Plin Interbank",
+   "precio",
+   20.9,
+   27.9,
+   "2026-06-30",
+   "2027-04-01",
+   "¡Exclusivo con Plin Interbank! Del 01 de abril al 30 de junio del 2026: 1 Pizza Grande Clásica (Americana o Pepperoni) a S/20.90 (precio reg",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin Interbank! Del 01 de julio del 2025 al 3",
+   "Plin Interbank",
+   "porcentaje",
+   25,
+   0,
+   "2025-07-01",
+   "2026-07-31",
+   "¡Exclusivo con Plin Interbank! Del 01 de julio del 2025 al 31 de julio del 2026: 25% dcto. en consumo a la carta utilizando el código IBKPJ2",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin Interbank! Del 01 de abril al 30 de juni",
+   "Plin Interbank",
+   "precio",
+   15.9,
+   24.4,
+   "2026-06-30",
+   "2027-04-01",
+   "¡Exclusivo con Plin Interbank! Del 01 de abril al 30 de junio del 2026: 1 papabox (1 pizza personal clásica + 3 rolls de jamón + 3 rolls (de",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin Interbank! Del 01 de abril al 30 de juni",
+   "Plin Interbank",
+   "precio",
+   13.9,
+   27.9,
+   "2026-06-30",
+   "2027-04-01",
+   "¡Exclusivo con Plin Interbank! Del 01 de abril al 30 de junio del 2026: 1 Pizza Grande Clásica (Americana o Pepperoni) a S/13.90 (precio reg",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin de Interbank! Del 01 de abril al 30 de j",
+   "Plin Interbank",
+   "precio",
+   18.7,
+   0,
+   "2026-06-30",
+   "2027-04-01",
+   "¡Exclusivo con Plin de Interbank! Del 01 de abril al 30 de junio del 2026: 1 Krunchy BBQ + 1 complemento regular + 1 gaseosa regular a S/12.",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin de Interbank! Del 01 de abril al 30 de j",
+   "Plin Interbank",
+   "precio",
+   26.4,
+   0,
+   "2026-06-30",
+   "2027-04-01",
+   "¡Exclusivo con Plin de Interbank! Del 01 de abril al 30 de junio del 2026: 2 Piezas de pollo + 2 Hotwings + 1 Papa regular a S/16.90 (precio",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin de Interbank! Del 01 de abril al 30 de j",
+   "Plin Interbank",
+   "precio",
+   29.9,
+   41.6,
+   "2026-06-30",
+   "2027-04-01",
+   "¡Exclusivo con Plin de Interbank! Del 01 de abril al 30 de junio del 2026: 4 Piezas de pollo + 1 Papa familiar a S/29.90 (precio regular S/4",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin de Interbank! Del 01 de abril al 30 de j",
+   "Plin Interbank",
+   "precio",
+   59.8,
+   0,
+   "2026-06-30",
+   "2027-04-01",
+   "¡Exclusivo con Plin de Interbank! Del 01 de abril al 30 de junio del 2026: 4 Piezas de pollo + 4 Nuggets + 2 Papas regulares + 2 Gaseosas re",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin Interbank! Del 01 de abril al 31 de mayo",
+   "Plin Interbank",
+   "precio",
+   14.9,
+   23.9,
+   "2026-05-31",
+   "2027-04-01",
+   "¡Exclusivo con Plin Interbank! Del 01 de abril al 31 de mayo del 2026: 1/4 de Pollo + papas a S/14.90 (precio regular S/23.90)",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin Interbank! Del 01 de abril al 31 de mayo",
+   "Plin Interbank",
+   "precio",
+   29.9,
+   42.9,
+   "2026-05-31",
+   "2027-04-01",
+   "¡Exclusivo con Plin Interbank! Del 01 de abril al 31 de mayo del 2026: 1/2 Pollo + papas a S/29.90 (precio regular S/42.90)",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin Interbank! Del 01 de abril al 31 de mayo",
+   "Plin Interbank",
+   "precio",
+   54.9,
+   72.9,
+   "2026-05-31",
+   "2027-04-01",
+   "¡Exclusivo con Plin Interbank! Del 01 de abril al 31 de mayo del 2026: 1 Pollo + papas a S/54.90 (precio regular S/72.90)",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Roky’s",
+   "Plin Interbank",
+   "precio",
+   64.9,
+   73.8,
+   "",
+   "2026-05-31",
+   "¡Exclusivo con Plin Interbank! Del 01 al 31 de mayo del 2026: 1 Pollo + papas + arroz oriental familiar a S/64.90 (precio regular S/73.80)",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Bombazo Plin Interbank! Todos los jueves de mayo del 2026: ",
+   "Plin Interbank",
+   "precio",
+   19.8,
+   0,
+   "",
+   "",
+   "¡Bombazo Plin Interbank! Todos los jueves de mayo del 2026: 1 hamburguesa clásica + 1 papa regular a S/7.90 (precio regular S/19.80)",
+   "¡Bombazo Plin Interbank! Todos los jueves de mayo del 2026: 1 hamburguesa clásica + 1 papa regular a S/7.90 (precio regular S/19.80)",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin Interbank! Del 01 de abril al 30 de juni",
+   "Plin Interbank",
+   "precio",
+   27.7,
+   0,
+   "2026-06-30",
+   "2027-04-01",
+   "¡Exclusivo con Plin Interbank! Del 01 de abril al 30 de junio del 2026: 1 Royal regular + papa regular + gaseosa a S/18.90 (precio regular S",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin Interbank! Del 01 de julio del 2025 al 3",
+   "Plin Interbank",
+   "porcentaje",
+   25,
+   0,
+   "2025-07-01",
+   "2026-07-31",
+   "¡Exclusivo con Plin Interbank! Del 01 de julio del 2025 al 31 de julio del 2026: 25% dcto. en consumo a la carta utilizando el código IBKBB2",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin Interbank! Del 01 de abril al 30 de juni",
+   "Plin Interbank",
+   "precio",
+   14.9,
+   30.7,
+   "2026-06-30",
+   "2027-04-01",
+   "¡Exclusivo con Plin Interbank! Del 01 de abril al 30 de junio del 2026: 1 Cheese regular + 1 papa regular + 4 nuggets a S/14.90 (precio regu",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin Interbank! Del 01 de abril al 30 de juni",
+   "Plin Interbank",
+   "precio",
+   44.6,
+   0,
+   "2026-06-30",
+   "2027-04-01",
+   "¡Exclusivo con Plin Interbank! Del 01 de abril al 30 de junio del 2026: PLIN DUO: 1 Cheese regular + 1 Queso tocino regular + 2 Papa regular",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin Interbank! De lunes a viernes del 01 de ",
+   "Plin Interbank",
+   "precio",
+   15.9,
+   31.8,
+   "2026-06-30",
+   "2027-04-01",
+   "¡Exclusivo con Plin Interbank! De lunes a viernes del 01 de abril al 30 de junio del 2026: 1/4 de pollo + papas + vaso de gaseosa + salsas a",
+   "¡Exclusivo con Plin Interbank! De lunes a viernes del 01 de abril al 30 de junio del 2026: 1/4 de pollo + papas + vaso de gaseosa + salsas a S/15.90 (precio regular S/31.80)",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin Interbank! De lunes a viernes del 01 de ",
+   "Plin Interbank",
+   "precio",
+   59.9,
+   89.9,
+   "2026-06-30",
+   "2027-04-01",
+   "¡Exclusivo con Plin Interbank! De lunes a viernes del 01 de abril al 30 de junio del 2026: 1 pollo a la brasa + papas fritas familiares + 4 ",
+   "¡Exclusivo con Plin Interbank! De lunes a viernes del 01 de abril al 30 de junio del 2026: 1 pollo a la brasa + papas fritas familiares + 4 vasos de gaseosa + salsas a S/59.90 (+9.",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin Interbank! Del 01 de julio del 2025 al 3",
+   "Plin Interbank",
+   "porcentaje",
+   25,
+   0,
+   "2025-07-01",
+   "2026-07-31",
+   "¡Exclusivo con Plin Interbank! Del 01 de julio del 2025 al 31 de julio del 2026: 25% dcto. en consumo a la carta utilizando el código IBKDB2",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Popeyes",
+   "Plin Interbank",
+   "precio",
+   21.8,
+   0,
+   "2025-07-01",
+   "2027-04-01",
+   "¡Exclusivo con Plin Interbank! Del 01 de julio del 2025 al 31 de julio del 2026: 25% dcto. en consumo a la carta utilizando el código IBKPP2",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Cinnabon",
+   "Plin Interbank",
+   "precio",
+   19.9,
+   28.0,
+   "2026-05-31",
+   "2027-04-01",
+   "¡Exclusivo con Plin Interbank! Del 01 de abril al 31 de mayo del 2026: Pack 12 Bonbites a S/19.90 (precio regular S/28.00)",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin Interbank! Del 01 al 28 de febrero del 2",
+   "Plin Interbank",
+   "precio",
+   10.9,
+   24.9,
+   "",
+   "2026-02-28",
+   "¡Exclusivo con Plin Interbank! Del 01 al 28 de febrero del 2026: 1 Mostrazo chicharrón + 1 gaseosa jr a S/10.90 (precio regular S/24.90)",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin Interbank! Del 01 de julio del 2025 al 3",
+   "Plin Interbank",
+   "porcentaje",
+   25,
+   0,
+   "2025-07-01",
+   "2026-07-31",
+   "¡Exclusivo con Plin Interbank! Del 01 de julio del 2025 al 31 de julio del 2026: 25% dcto. en consumo a la carta utilizando el código IBKCW2",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin Interbank! Del 01 de febrero al 31 de ma",
+   "Plin Interbank",
+   "precio",
+   13.9,
+   28.8,
+   "2026-03-31",
+   "2027-02-01",
+   "¡Exclusivo con Plin Interbank! Del 01 de febrero al 31 de marzo del 2026: 1 a lo pobre chijaukay + 1 gaseosa a S/ 13.90 (precio regular S/28",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin Interbank! Del 01 de febrero al 31 de ma",
+   "Plin Interbank",
+   "precio",
+   19.9,
+   38.6,
+   "2026-03-31",
+   "2027-02-01",
+   "¡Exclusivo con Plin Interbank! Del 01 de febrero al 31 de marzo del 2026: 1 tallarin taypa + 1 arroz chaufa + 2 gaseosas a S/ 19.90 (precio ",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin de Interbank! Del 01 de abril al 30 de j",
+   "Plin Interbank",
+   "precio",
+   29.9,
+   43.0,
+   "2026-06-30",
+   "2027-04-01",
+   "¡Exclusivo con Plin de Interbank! Del 01 de abril al 30 de junio del 2026: 1 Honey Crispy Chicken Sandwich + 1 gaseosa personal a S/ 29.90 (",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin de Interbank! Del 01 de abril al 30 de j",
+   "Plin Interbank",
+   "precio",
+   28.0,
+   42.0,
+   "2026-06-30",
+   "2027-04-01",
+   "¡Exclusivo con Plin de Interbank! Del 01 de abril al 30 de junio del 2026: 12 unidades boneless wings a S/28.00 (precio regular S/42.00)",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin de Interbank! Del 01 de abril al 30 de j",
+   "Plin Interbank",
+   "precio",
+   25.0,
+   37.0,
+   "2026-06-30",
+   "2027-04-01",
+   "¡Exclusivo con Plin de Interbank! Del 01 de abril al 30 de junio del 2026: 3 piezas crispy chicken crispers + 1 porción de papas + 1 colesla",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin de Interbank! Del 01 de abril al 30 de j",
+   "Plin Interbank",
+   "precio",
+   29.0,
+   47.0,
+   "2026-06-30",
+   "2027-04-01",
+   "¡Exclusivo con Plin de Interbank! Del 01 de abril al 30 de junio del 2026: 1 Chicken Club Tacos + 1 Gaseosa personal a S/29.00 (precio regul",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin de Interbank! Del 01 de mayo al 30 de ju",
+   "Plin Interbank",
+   "precio",
+   23.9,
+   47.8,
+   "2026-05-01",
+   "2026-06-30",
+   "¡Exclusivo con Plin de Interbank! Del 01 de mayo al 30 de junio del 2026: 1 Whopper Jr. + 1 King de pollo + 2 Papas Jr. + 2 Gaseosas Jr. a S",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin de Interbank! Del 01 de mayo al 30 de ju",
+   "Plin Interbank",
+   "precio",
+   12.9,
+   19.4,
+   "2026-05-01",
+   "2026-06-30",
+   "¡Exclusivo con Plin de Interbank! Del 01 de mayo al 30 de junio del 2026: 1 Power Crunch Jr. + 1 Papa Jr. a S/12.90 (precio regular S/19.40)",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin de Interbank! Del 01 de abril al 30 de j",
+   "Plin Interbank",
+   "precio",
+   22.9,
+   43.8,
+   "2026-06-30",
+   "2027-04-01",
+   "¡Exclusivo con Plin de Interbank! Del 01 de abril al 30 de junio del 2026: 2 Whopper Jr. + 2 Papa Jr. + 2 Gaseosas 12oz a S/22.90 (precio re",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Pinkberry",
+   "Plin Interbank",
+   "precio",
+   5.9,
+   13.9,
+   "",
+   "2026-04-23",
+   "¡Exclusivo con Plin de Interbank! Los jueves 02, 09, 16 y 23 de abril del 2026: 1 Pinkberry small a S/5.90 (precio regular S/13.90)",
+   "¡Exclusivo con Plin de Interbank! Los jueves 02, 09, 16 y 23 de abril del 2026: 1 Pinkberry small a S/5.90 (precio regular S/13.90)",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Pinkberry",
+   "Plin Interbank",
+   "precio",
+   10.9,
+   13.9,
+   "",
+   "2026-04-30",
+   "¡Exclusivo con Plin de Interbank! Del 01 al 30 de abril del 2026: 1 Pinkberry small a S/10.90 (precio regular S/13.90)",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Pinkberry",
+   "Plin Interbank",
+   "precio",
+   21.9,
+   27.8,
+   "2026-06-30",
+   "2027-04-01",
+   "¡Exclusivo con Plin de Interbank! Del 01 de abril al 30 de junio del 2026: 2 Pinkberry small con toppings a S/21.90 (precio regular S/27.80)",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin de Interbank! Del 01 de abril al 30 de j",
+   "Plin Interbank",
+   "precio",
+   29.0,
+   44.0,
+   "2026-06-30",
+   "2027-04-01",
+   "¡Exclusivo con Plin de Interbank! Del 01 de abril al 30 de junio del 2026: Aero tipakay + gaseosa personal a S/29.00 (precio regular S/44.00",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin de Interbank! Del 01 de abril al 30 de j",
+   "Plin Interbank",
+   "precio",
+   69.0,
+   80.0,
+   "2026-06-30",
+   "2027-04-01",
+   "¡Exclusivo con Plin de Interbank! Del 01 de abril al 30 de junio del 2026 4 wantanes clásicos + 1 chaufa de pollo + 1 chancho con piña a S/6",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin de Interbank! Del 01 de abril al 30 de j",
+   "Plin Interbank",
+   "precio",
+   69.0,
+   97.0,
+   "2026-06-30",
+   "2027-04-01",
+   "¡Exclusivo con Plin de Interbank! Del 01 de abril al 30 de junio del 2026: 1 Chaufa de pollo + 1 tallarín de pollo en trozos + 4 wantanes cl",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin de Interbank! Del 01 de abril al 30 de j",
+   "Plin Interbank",
+   "precio",
+   32.0,
+   46.0,
+   "2026-06-30",
+   "2027-04-01",
+   "¡Exclusivo con Plin de Interbank! Del 01 de abril al 30 de junio del 2026: 1 aero chijaukay o tipakay + 2 wantanes clásicos + 1 limonada de ",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin de Interbank! de lunes a viernes del 01 ",
+   "Plin Interbank",
+   "precio",
+   15.9,
+   31.0,
+   "2026-05-01",
+   "2026-06-30",
+   "¡Exclusivo con Plin de Interbank! de lunes a viernes del 01 de mayo al 30 de junio del 2026: 1 Raspberry Pisco Shaker a S/15.90 (precio regu",
+   "¡Exclusivo con Plin de Interbank! de lunes a viernes del 01 de mayo al 30 de junio del 2026: 1 Raspberry Pisco Shaker a S/15.90 (precio regular S/31.00)",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin de Interbank! del 01 de mayo al 30 de ju",
+   "Plin Interbank",
+   "precio",
+   29.9,
+   37.0,
+   "2026-05-01",
+   "2026-06-30",
+   "¡Exclusivo con Plin de Interbank! del 01 de mayo al 30 de junio del 2026: 1 Fridays Cheeseburger a S/29.90 (precio regular S/37.00)",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin de Interbank! del 01 de mayo al 30 de ju",
+   "Plin Interbank",
+   "precio",
+   10.9,
+   24.0,
+   "2026-05-01",
+   "2026-06-30",
+   "¡Exclusivo con Plin de Interbank! del 01 de mayo al 30 de junio del 2026: 1 Cookies and Cream Madness Single a S/10.90 (precio regular S/24.",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin de Interbank! del 01 de mayo al 30 de ju",
+   "Plin Interbank",
+   "precio",
+   49.9,
+   79.9,
+   "2026-05-01",
+   "2026-06-30",
+   "¡Exclusivo con Plin de Interbank! del 01 de mayo al 30 de junio del 2026: Fridays Cheeseburger + Chicken fingers + papas fritas y honey must",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin de Interbank! del 01 de mayo al 30 de ju",
+   "Plin Interbank",
+   "precio",
+   23.9,
+   37.0,
+   "2026-05-01",
+   "2026-06-30",
+   "¡Exclusivo con Plin de Interbank! del 01 de mayo al 30 de junio del 2026: Crispy Chicken Tacos con papas fritas a S/23.90 (precio regular S/",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin de Interbank! del 01 de mayo al 30 de ju",
+   "Plin Interbank",
+   "porcentaje",
+   25,
+   0,
+   "2026-05-01",
+   "2026-06-30",
+   "¡Exclusivo con Plin de Interbank! del 01 de mayo al 30 de junio del 2026: 25% de descuento en plato a la carta",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Little Caesars",
+   "Plin Interbank",
+   "precio",
+   6.9,
+   19.9,
+   "2026-05-31",
+   "2027-04-01",
+   "¡Exclusivo con Plin Interbank! Del 01 de abril al 31 de mayo del 2026: 1 pizza familiar pepperoni a S/15.90 (precio regular S/19.90) > ¡Excl",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Anyli Café Bar",
+   "Plin Interbank",
+   "porcentaje",
+   15,
+   0,
+   "2026-06-30",
+   "2027-01-01",
+   "¡Exclusivo con Plin Interbank! Del 1 de enero al 30 de junio del 2026: 15% descuento en platos a la carta",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Bottega Capuccino",
+   "Plin Interbank",
+   "porcentaje",
+   10,
+   0,
+   "2026-06-30",
+   "2027-01-01",
+   "¡Exclusivo con Plin Interbank! Del 1 de enero al 30 de junio del 2026: 10% de descuento en toda la carta",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "El Cordón y La Rosa",
+   "Plin Interbank",
+   "porcentaje",
+   15,
+   0,
+   "2026-06-30",
+   "2027-01-01",
+   "El Cordon Y La Rosa Restaurante",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Épico Bar",
+   "Plin Interbank",
+   "porcentaje",
+   20,
+   0,
+   "2026-06-30",
+   "2027-01-01",
+   "¡Exclusivo con Plin Interbank! Del 1 de enero al 30 de junio del 2026: 20% de descuento en toda la carta",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Gran Carbón",
+   "Plin Interbank",
+   "porcentaje",
+   20,
+   0,
+   "2026-06-30",
+   "2027-01-01",
+   "¡Exclusivo con Plin Interbank! Del 1 de enero al 30 de junio del 2026: 20% de descuento en platos a la carta.",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "KenDo Sushi Lounge",
+   "Plin Interbank",
+   "precio",
+   9.9,
+   54.9,
+   "2026-06-30",
+   "2027-01-01",
+   "¡Exclusivo con Plin Interbank! Del 1 de enero al 30 de junio del 2026: Combo Interbank 1: 24 cortes x S/ 39.90 (acevichado, furai, salmón sp",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "La B Restaurante y Pastelería",
+   "Plin Interbank",
+   "porcentaje",
+   20,
+   0,
+   "2026-06-30",
+   "2027-01-01",
+   "¡Exclusivo con Plin Interbank! Del 1 de enero al 30 de junio del 2026: 20% de descuento en toda la carta en La B Restaurante",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "La Barra del Chino",
+   "Plin Interbank",
+   "porcentaje",
+   10,
+   0,
+   "2026-06-30",
+   "2027-01-01",
+   "¡Exclusivo con Plin Interbank! Del 1 de enero al 30 de junio del 2026: 10% de descuento en toda la carta",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "La Bocca",
+   "Plin Interbank",
+   "porcentaje",
+   15,
+   0,
+   "2026-06-30",
+   "2027-01-01",
+   "¡Exclusivo con Plin Interbank! Del 1 de enero al 30 de junio del 2026: 15% de descuento en toda la carta",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "La Boutique de las Carnes",
+   "Plin Interbank",
+   "porcentaje",
+   15,
+   0,
+   "2026-06-30",
+   "2027-01-01",
+   "¡Exclusivo con Plin Interbank! Del 1 de enero al 30 de junio del 2026: 15% de descuento en la carta de comidas",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "La Feria Valle Sagrado",
+   "Plin Interbank",
+   "precio",
+   45.0,
+   55.0,
+   "2026-06-30",
+   "2027-01-01",
+   "¡Exclusivo con Plin Interbank! Del 1 de enero al 30 de junio del 2026: Buffet Interbank: Adulto S/55.00 y niño S/45.00",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Manta",
+   "Plin Interbank",
+   "porcentaje",
+   20,
+   0,
+   "2026-06-30",
+   "2027-01-01",
+   "¡Exclusivo con Plin Interbank! Del 1 de enero al 30 de junio del 2026: 20% de descuento en toda la carta",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Marakos Grill",
+   "Plin Interbank",
+   "porcentaje",
+   15,
+   0,
+   "2026-06-30",
+   "2027-01-01",
+   "¡Exclusivo con Plin Interbank! Del 1 de enero al 30 de junio del 2026: 15% de descuento en platos a la carta",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin Interbank! Del 1 de enero al 30 de junio",
+   "Plin Interbank",
+   "precio",
+   14.9,
+   21.9,
+   "2026-06-30",
+   "2027-01-01",
+   "¡Exclusivo con Plin Interbank! Del 1 de enero al 30 de junio del 2026: 10 Rolls sabor Baby + 1 salsa a elegir + 1 ohashi a S/ 14.90. (precio",
+   "¡Exclusivo con Plin Interbank! Del 1 de enero al 30 de junio del 2026: 10 Rolls sabor Baby + 1 salsa a elegir + 1 ohashi a S/ 14.90. (precio regular S/21.90). Válido para Arequipa",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin Interbank! Del 1 de enero al 30 de junio",
+   "Plin Interbank",
+   "porcentaje",
+   15,
+   0,
+   "2026-06-30",
+   "2027-01-01",
+   "¡Exclusivo con Plin Interbank! Del 1 de enero al 30 de junio del 2026: 15% de descuento en platos a la carta. Válido para Arequipa",
+   "¡Exclusivo con Plin Interbank! Del 1 de enero al 30 de junio del 2026: 15% de descuento en platos a la carta. Válido para Arequipa",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "¡Exclusivo con Plin Interbank! Del 1 de enero al 30 de junio",
+   "Plin Interbank",
+   "porcentaje",
+   20,
+   0,
+   "2026-06-30",
+   "2027-01-01",
+   "¡Exclusivo con Plin Interbank! Del 1 de enero al 30 de junio del 2026:  20% de descuento en toda la carta. Válido para Cusco",
+   "¡Exclusivo con Plin Interbank! Del 1 de enero al 30 de junio del 2026:  20% de descuento en toda la carta. Válido para Cusco",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Panorama Garden Inn",
+   "Plin Interbank",
+   "porcentaje",
+   20,
+   0,
+   "2026-06-30",
+   "2027-01-01",
+   "¡Exclusivo con Plin Interbank! Del 1 de enero al 30 de junio del 2026: 20% de descuento en alojamiento",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Suyu Peruvian Restaurant",
+   "Plin Interbank",
+   "porcentaje",
+   15,
+   0,
+   "2026-06-30",
+   "2027-01-01",
+   "¡Exclusivo con Plin Interbank! Del 1 de enero al 30 de junio del 2026: 15% de descuento en toda la carta de comidas y bebidas",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Tokuyo",
+   "Plin Interbank",
+   "porcentaje",
+   25,
+   0,
+   "2026-06-30",
+   "2027-01-01",
+   "¡Exclusivo con Plin Interbank! Del 1 de enero al 30 de junio del 2026: 25% de descuento en toda la carta",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Tomasa Pollo & Grill",
+   "Plin Interbank",
+   "porcentaje",
+   10,
+   0,
+   "2026-06-30",
+   "2027-01-01",
+   "¡Exclusivo con Plin Interbank! Del 1 de enero al 30 de junio del 2026: 10% de descuento en toda la carta",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Uchu Peruvian Steakhouse",
+   "Plin Interbank",
+   "porcentaje",
+   20,
+   0,
+   "2026-06-30",
+   "2027-01-01",
+   "¡Exclusivo con Plin Interbank! Del 1 de enero al 30 de junio del 2026: 20% de descuento en la carta",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Barber X",
+   "Plin Interbank",
+   "porcentaje",
+   15,
+   0,
+   "2026-06-30",
+   "2027-01-01",
+   "¡Exclusivo con Plin Interbank! Del 1 de enero al 30 de junio del 2026: 15% de descuento en todos los servicios",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Montalvo",
+   "Plin Interbank",
+   "porcentaje",
+   20,
+   0,
+   "2026-06-30",
+   "2027-01-01",
+   "¡Exclusivo con Plin Interbank! Del 1 de enero al 30 de junio del 2026: 20% de descuento en peluquería y spa",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Movil Bus",
+   "Plin Interbank",
+   "porcentaje",
+   20,
+   0,
+   "2026-06-30",
+   "2027-01-01",
+   "¡Exclusivo con Plin Interbank! Del 1 de enero al 30 de junio del 2026: Hasta 20% de descuento en pasajes a nivel nacional",
+   "Pagando con QR Plin en el local",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Tambo",
+   "Plin Interbank",
+   "precio",
+   4.9,
+   9.98,
+   "2026-10-01",
+   "2026-10-31",
+   "Promoción 1: Promoción Incluye 2 SANDWICHES ESPECIALES (PARRILLERA/QUESO CON TOCINO/DOBLE CON QUESO/MEGACROCANTE)+2 GASEOSAS INCA KOLA/COCA ",
+   "Promoción 1: Promoción Incluye 2 SANDWICHES ESPECIALES (PARRILLERA/QUESO CON TOCINO/DOBLE CON QUESO/MEGACROCANTE)+2 GASEOSAS INCA KOLA/COCA COLA 300ML A S/9.90 los días Martes dura",
+   "Plin Interbank",
+   {
+    "conf": "of",
+    "stock": 25000,
+    "max": 2
+   }
+  ],
+  [
+   "OXXO",
+   "Plin Interbank",
+   "precio",
+   1.0,
+   2.5,
+   "2026-10-01",
+   "2026-11-04",
+   "Promoción 1: Promoción con Plin Interbank: Válida de lunes a domingo del 01 de octubre al 04 de noviembre de 2026 o hasta agotar el stock de",
+   "Promoción 1: Promoción con Plin Interbank: Válida de lunes a domingo del 01 de octubre al 04 de noviembre de 2026 o hasta agotar el stock de 10000 promociones, lo que ocurra primer",
+   "Plin Interbank",
+   {
+    "conf": "of",
+    "stock": 10000,
+    "max": 2
+   }
+  ],
+  [
+   "OXXO",
+   "Plin Interbank",
+   "precio",
+   26.9,
+   38.9,
+   "2026-10-01",
+   "2026-11-04",
+   "Promoción 2: Promoción con Plin Interbank: Válida de lunes a domingo del 01 de octubre al 04 de noviembre de 2026 o hasta agotar el stock de",
+   "Promoción 2: Promoción con Plin Interbank: Válida de lunes a domingo del 01 de octubre al 04 de noviembre de 2026 o hasta agotar el stock de 5000 promociones, lo que ocurra primero",
+   "Plin Interbank",
+   {
+    "conf": "of",
+    "stock": 5000,
+    "max": 2
+   }
+  ],
+  [
+   "OXXO",
+   "Plin Interbank",
+   "precio",
+   9.9,
+   11.97,
+   "2026-10-01",
+   "2026-11-04",
+   "Promoción 3: Promoción con Plin Interbank: Válida de lunes a domingo del 01 de octubre al 04 de noviembre de 2026 o hasta agotar el stock de",
+   "Promoción 3: Promoción con Plin Interbank: Válida de lunes a domingo del 01 de octubre al 04 de noviembre de 2026 o hasta agotar el stock de 5000 promociones, lo que ocurra primero",
+   "Plin Interbank",
+   {
+    "conf": "of",
+    "stock": 5000,
+    "max": 2
+   }
+  ],
+  [
+   "OXXO",
+   "Plin Interbank",
+   "precio",
+   7.9,
+   10.0,
+   "",
+   "2026-10-31",
+   "Promoción 4: Promoción con Plin Interbank: Válida de lunes a domingo del 01 al 31 de octubre de 2026 o hasta agotar el stock de 5000 promoci",
+   "Promoción 4: Promoción con Plin Interbank: Válida de lunes a domingo del 01 al 31 de octubre de 2026 o hasta agotar el stock de 5000 promociones, lo que ocurra primero. La promoció",
+   "Plin Interbank",
+   {
+    "conf": "of",
+    "stock": 5000,
+    "max": 2
+   }
+  ],
+  [
+   "OXXO",
+   "Plin Interbank",
+   "precio",
+   9.0,
+   11.98,
+   "2026-10-01",
+   "2026-11-04",
+   "Promoción 5: Promoción con Plin Interbank: Válida de lunes a domingo del 01 de octubre al 04 de noviembre de 2026 o hasta agotar el stock de",
+   "Promoción 5: Promoción con Plin Interbank: Válida de lunes a domingo del 01 de octubre al 04 de noviembre de 2026 o hasta agotar el stock de 5000 promociones, lo que ocurra primero",
+   "Plin Interbank",
+   {
+    "conf": "of",
+    "stock": 5000,
+    "max": 2
+   }
+  ],
+  [
+   "PedidosYa",
+   "Plin Interbank",
+   "precio",
+   12.9,
+   0,
+   "2026-10-01",
+   "2026-12-31",
+   "Promoción 1: Promoción válida los jueves 1, 8, 15, 22 y 29 de octubre de 2026. La promoción incluye 1 Hamburguesa Cheese Regular + Papa Regu",
+   "Promoción 1: Promoción válida los jueves 1, 8, 15, 22 y 29 de octubre de 2026. La promoción incluye 1 Hamburguesa Cheese Regular + Papa Regular a S/ 5.90, precio regular S/ 21.80. ",
+   "Plin Interbank",
+   {
+    "conf": "of",
+    "stock": 8000,
+    "max": 2
+   }
+  ],
+  [
+   "Repsol",
+   "Plin Interbank",
+   "monto",
+   2.0,
+   0,
+   "2026-09-01",
+   "2026-12-31",
+   "Promoción 1: Promoción válida del 01 de setiembre al 31 de diciembre de 2026 o hasta agotar stock promocional; lo que ocurra primero. S/2.50",
+   "Promoción 1: Promoción válida del 01 de setiembre al 31 de diciembre de 2026 o hasta agotar stock promocional; lo que ocurra primero. S/2.50 de descuento por cada galón de Gasolina",
+   "Plin Interbank",
+   {
+    "conf": "of",
+    "max": 1
+   }
+  ],
+  [
+   "Papa Johns",
+   "Plin Interbank",
+   "precio",
+   11.9,
+   27.9,
+   "2026-10-01",
+   "2026-12-31",
+   "Promoción 1: Promoción 1 pizza grande americana o pepperoni con Plin Interbank: Válida del 01 de octubre al 31 de diciembre de 2026 o hasta ",
+   "Promoción 1: Promoción 1 pizza grande americana o pepperoni con Plin Interbank: Válida del 01 de octubre al 31 de diciembre de 2026 o hasta agotar el stock, lo que ocurra primero. ",
+   "Plin Interbank",
+   {
+    "conf": "of",
+    "stock": 1000,
+    "max": 1
+   }
+  ],
+  [
+   "Dunkin",
+   "Plin Interbank",
+   "precio",
+   8.9,
+   16.5,
+   "2026-10-01",
+   "2026-12-31",
+   "Promoción 1: Promoción 3 donuts CLASICAS con Plin Interbank: Válida del 01 de octubre al 31 de diciembre de 2026 o hasta agotar el stock, lo",
+   "Promoción 1: Promoción 3 donuts CLASICAS con Plin Interbank: Válida del 01 de octubre al 31 de diciembre de 2026 o hasta agotar el stock, lo que ocurra primero. La promoción consis",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "PedidosYa",
+   "Plin Interbank",
+   "precio",
+   10.9,
+   18.8,
+   "2026-10-01",
+   "2026-12-31",
+   "Promoción 3: Promoción válida los martes 6, 13, 20 y 27 de octubre de 2026 o hasta agotar stock promocional; lo que ocurra primero. 1 Combin",
+   "Promoción 1: Promoción válida del 01 de octubre al 31 de diciembre de 2026 o hasta agotar stock promocional; lo que ocurra primero. 1 encajate + 1 gaseosa jr + 1 wantán a S/10.90 (",
+   "Plin Interbank",
+   {
+    "conf": "of",
+    "stock": 4500,
+    "max": 1
+   }
+  ],
+  [
+   "Pinkberry",
+   "Plin Interbank",
+   "precio",
+   1.0,
+   13.9,
+   "2026-10-01",
+   "2027-10-31",
+   "Promoción 1: Promoción válida del 01 de octubre de 2026 al 31 de enero de 2027 o hasta agotar stock promocional; lo que ocurra primero. 1 Pi",
+   "Promoción 1: Promoción válida del 01 de octubre de 2026 al 31 de enero de 2027 o hasta agotar stock promocional; lo que ocurra primero. 1 Pinkberry Small con Toppings a S/10.90 (pr",
+   "Plin Interbank",
+   {
+    "conf": "of",
+    "stock": 500,
+    "max": 1
+   }
+  ],
+  [
+   "Don Belisario",
+   "Plin Interbank",
+   "precio",
+   5.0,
+   31.8,
+   "2026-10-01",
+   "2026-12-31",
+   "Promoción 1: Promoción 1/4 de pollo + papas + vaso de gaseosa + salsas con Plin Interbank: Válida del 01 de octubre al 31 de diciembre de 20",
+   "Promoción 1: Promoción 1/4 de pollo + papas + vaso de gaseosa + salsas con Plin Interbank: Válida del 01 de octubre al 31 de diciembre de 2026 o hasta agotar el stock, lo que ocurr",
+   "Plin Interbank",
+   {
+    "conf": "of",
+    "stock": 1000,
+    "max": 1
+   }
+  ],
+  [
+   "PedidosYa",
+   "Plin Interbank",
+   "precio",
+   4.0,
+   12.9,
+   "2026-09-01",
+   "2026-12-31",
+   "Subway:",
+   "Promoción 1: Promoción válida 1 al 5 de octubre de 2026 o hasta agotar stock promocional; lo que ocurra primero. 2 piezas + papa cajún regular a S/12.90 (precio regular S/23.40). P",
+   "Plin Interbank",
+   {
+    "conf": "of",
+    "stock": 1000,
+    "max": 1
+   }
+  ],
+  [
+   "Pizza Hut",
+   "Plin Interbank",
+   "precio",
+   15.8,
+   0,
+   "2026-10-01",
+   "2027-01-31",
+   "Norkys:",
+   "Promoción 1: Promoción válida del 01 de octubre de 2026 al 31 de enero de 2027 o hasta agotar stock promocional; lo que ocurra primero. 1 Pizza personal (Americana, Pepperoni o Haw",
+   "Plin Interbank",
+   {
+    "conf": "of",
+    "stock": 500,
+    "max": 1
+   }
+  ],
+  [
+   "Burger King",
+   "Plin Interbank",
+   "precio",
+   21.8,
+   0,
+   "2026-07-01",
+   "2027-01-31",
+   "Fridays:",
+   "Promoción 1: Promoción válida del 01 de octubre de 2026 al 31 de enero de 2027 o hasta agotar stock promocional; lo que ocurra primero. Power Crunch Jr. + 1 papa regular a S/15.90 ",
+   "Plin Interbank",
+   {
+    "conf": "of",
+    "stock": 500,
+    "max": 1
+   }
+  ],
+  [
+   "Chili’s",
+   "Plin Interbank",
+   "precio",
+   28.0,
+   42.0,
+   "2026-10-01",
+   "2027-01-31",
+   "Promoción 1: Promoción válida del 01 de octubre de 2026 al 31 de enero de 2027 o hasta agotar stock promocional; lo que ocurra primero. 12 u",
+   "Promoción 1: Promoción válida del 01 de octubre de 2026 al 31 de enero de 2027 o hasta agotar stock promocional; lo que ocurra primero. 12 unidades boneless wings a S/28.00 (precio",
+   "Plin Interbank",
+   {
+    "conf": "of",
+    "stock": 500,
+    "max": 1
+   }
+  ],
+  [
+   "Madam Tusan",
+   "Plin Interbank",
+   "precio",
+   29.0,
+   44.0,
+   "2026-10-01",
+   "2027-01-31",
+   "Madam Tusan:",
+   "Promoción 1: Promoción válida del 01 de octubre al 30 de noviembre de 2026 o hasta agotar stock promocional; lo que ocurra primero. 1 Aero Tipakay + 1 gaseosa personal a S/29.00 (p",
+   "Plin Interbank",
+   {
+    "conf": "of",
+    "stock": 500,
+    "max": 1
+   }
+  ],
+  [
+   "Promoción 1: Valido para salón y recojo en tienda. La promoc",
+   "Plin Interbank",
+   "precio",
+   100.0,
+   0,
+   "",
+   "",
+   "Promoción 1: Valido para salón y recojo en tienda. La promoción aplica en el siguiente horario: lunes a domingo de 8:00 am a 5:00 pm. Monto ",
+   "Promoción 1: Valido para salón y recojo en tienda. La promoción aplica en el siguiente horario: lunes a domingo de 8:00 am a 5:00 pm. Monto mínimo de consumo S/100. Teléfono del lo",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Promoción 1:  Válido para delivery, recojo en tienda y consu",
+   "Plin Interbank",
+   "precio",
+   5.0,
+   50.0,
+   "",
+   "",
+   "Promoción 1:  Válido para delivery, recojo en tienda y consumo en salón. Aplica a partir de S/50 de consumo. Horario de atención en el salón",
+   "Promoción 1:  Válido para delivery, recojo en tienda y consumo en salón. Aplica a partir de S/50 de consumo. Horario de atención en el salón de lunes a domingo de 8:00 am a 10:00pm",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Promoción 1: Válido para consumo en salón. El descuento apli",
+   "Plin Interbank",
+   "precio",
+   75.0,
+   0,
+   "",
+   "",
+   "Promoción 1: Válido para consumo en salón. El descuento aplica sólo en la sede Los Maestros. La promoción aplica de lunes a sábado de 8:00 a",
+   "Promoción 1: Válido para consumo en salón. El descuento aplica sólo en la sede Los Maestros. La promoción aplica de lunes a sábado de 8:00 am a 11:00 pm. Monto mínimo de consumo S/",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Promoción 1: La promoción aplica en salón. La promoción apli",
+   "Plin Interbank",
+   "precio",
+   50.0,
+   0,
+   "",
+   "",
+   "Promoción 1: La promoción aplica en salón. La promoción aplica sólo los días jueves y viernes de 9:00 pm a 3:00 am, los meses de julio, agos",
+   "Promoción 1: La promoción aplica en salón. La promoción aplica sólo los días jueves y viernes de 9:00 pm a 3:00 am, los meses de julio, agosto y setiembre. La promoción aplica sólo",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Promoción válida del 1 de enero al 30 de junio del 2026. Vál",
+   "Plin Interbank",
+   "precio",
+   100.0,
+   0,
+   "2026-06-30",
+   "2027-01-01",
+   "No aplica con otras promociones y/o descuentos. No aplica sábados y domingos. No válido para ningún tipo de bebidas. Descuento máximo S/100.",
+   "Promoción válida del 1 de enero al 30 de junio del 2026. Válido sólo para consumo en salón. Horario de atención de lunes a viernes de 12:00 pm a 8:00 pm. Al momento de solicitar la",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Promoción 1:  Válido para salón, recojo en tienda y delivery",
+   "Plin Interbank",
+   "precio",
+   50.0,
+   0,
+   "",
+   "",
+   "Promoción 2: Válido para salón, recojo en tienda y delivery. La promoción aplica en salón y recojo en tienda sólo de lunes a jueves de 1:00 ",
+   "Promoción 1:  Válido para salón, recojo en tienda y delivery. La promoción aplica en salón y recojo en tienda. Horario de atención de lunes a domingos de 10:30 am a 9:00 pm.  Whats",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Promoción 1: Válido para salón, recojo en tienda y delivery.",
+   "Plin Interbank",
+   "precio",
+   5.0,
+   50.0,
+   "",
+   "",
+   "Promoción 1: Válido para salón, recojo en tienda y delivery. Monto mínimo de consumo de S/50. Horario de atención en el salón de lunes a dom",
+   "Promoción 1: Válido para salón, recojo en tienda y delivery. Monto mínimo de consumo de S/50. Horario de atención en el salón de lunes a domingo de 10:00 am a 5:00pm. Válido sólo e",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "La Bocca",
+   "Plin Interbank",
+   "precio",
+   5.0,
+   50.0,
+   "",
+   "",
+   "Promoción 1: Válido para delivery, consumo en salón y recojo en tienda. Aplica el 10% de descuento en la carta de día y el 15% de descuento ",
+   "Promoción 1: Válido para delivery, consumo en salón y recojo en tienda. Aplica el 10% de descuento en la carta de día y el 15% de descuento en la carta de noche. Horario de atenció",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Promoción 1: Válido en salón, recojo en tienda y delivery. E",
+   "Plin Interbank",
+   "precio",
+   50.0,
+   0,
+   "",
+   "",
+   "Promoción 1: Válido en salón, recojo en tienda y delivery. El horario de atención es de lunes a domingo de 6:00 pm a 12:00 am. Consumo mínim",
+   "Promoción 1: Válido en salón, recojo en tienda y delivery. El horario de atención es de lunes a domingo de 6:00 pm a 12:00 am. Consumo mínimo de S/50. Central de pedidos: 972247316",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Promoción 1: Valido para consumo en salón. La promoción para",
+   "Plin Interbank",
+   "precio",
+   45.0,
+   70.0,
+   "",
+   "",
+   "Promoción 1: Valido para consumo en salón. La promoción para clientes Interbank es de S/55.00 adultos y S/45.00 niños (6 a 11 años) . Precio",
+   "Promoción 1: Valido para consumo en salón. La promoción para clientes Interbank es de S/55.00 adultos y S/45.00 niños (6 a 11 años) . Precio regular: Adultos S/70.00 y niños S/60.0",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Promoción 1:  Válido solo para consumo en salón. Horario de ",
+   "Plin Interbank",
+   "precio",
+   50.0,
+   0,
+   "",
+   "",
+   "Promoción 1:  Válido solo para consumo en salón. Horario de atención de lunes a sábados de 12:00 pm a 10:00 pm y domingos de 1:00 pm a 9:00 ",
+   "Promoción 1:  Válido solo para consumo en salón. Horario de atención de lunes a sábados de 12:00 pm a 10:00 pm y domingos de 1:00 pm a 9:00 pm . Válido una vez por usuario y por vi",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Promoción 1: Valido para consumo en salón y recojo en tienda",
+   "Plin Interbank",
+   "precio",
+   50.0,
+   0,
+   "",
+   "",
+   "Promoción 1: Valido para consumo en salón y recojo en tienda. Horarios de atención de lunes a domingo 1:00 p.m. – 10:00 p.m. Teléfono para r",
+   "Promoción 1: Valido para consumo en salón y recojo en tienda. Horarios de atención de lunes a domingo 1:00 p.m. – 10:00 p.m. Teléfono para reservas +51 934 500 474. Al momento de s",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Tomasa Pollo & Grill",
+   "Plin Interbank",
+   "precio",
+   100.0,
+   0,
+   "",
+   "",
+   "Promoción 1: Válido para consumo en salón y recojo en tienda. Horario de atención de lunes a domingo de 12:00 pm a 3:00 pm y de 6:00 pm a 11",
+   "Promoción 1: Válido para consumo en salón y recojo en tienda. Horario de atención de lunes a domingo de 12:00 pm a 3:00 pm y de 6:00 pm a 11:00 pm. Central telefónica de pedidos 07",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Uchu Peruvian Steakhouse",
+   "Plin Interbank",
+   "precio",
+   50.0,
+   0,
+   "",
+   "",
+   "Promoción 1:  Valido para consumo en salón y recojo en tienda. Horarios de atención de lunes a domingo 12:30 p.m. – 10:00 p.m. Teléfono para",
+   "Promoción 1:  Valido para consumo en salón y recojo en tienda. Horarios de atención de lunes a domingo 12:30 p.m. – 10:00 p.m. Teléfono para reservas +51 984 524 149. Al momento de",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Taxi 365",
+   "Plin Interbank",
+   "porcentaje",
+   40,
+   0,
+   "2026-07-01",
+   "2026-12-31",
+   "Taxi 365",
+   "Promoción 1: Promoción válida y vigente desde el 01/07/2026 al 31/12/2026 o hasta agotar stock.  Válido hasta agotar stock de 1000 cupones. Válida únicamente pagando anticipadament",
+   "Plin Interbank",
+   {
+    "conf": "of",
+    "stock": 1000
+   }
+  ],
+  [
+   "Big Head",
+   "Plin Interbank",
+   "porcentaje",
+   30,
+   0,
+   "2026-07-01",
+   "2026-12-31",
+   "Big Head",
+   "Promoción 1: Descuento del 30% en prendas de vestir, lentes y accesorios. Válido para compras en tiendas físicas. Al momento de solicitar la promoción, el cliente deberá indicar qu",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Bohoo",
+   "Plin Interbank",
+   "porcentaje",
+   40,
+   0,
+   "2026-07-01",
+   "2026-12-31",
+   "Bohoo",
+   "Promoción 1:   40% de descuento en las colecciones Bohoo Golden, Silver, Artisan, Timeless, Style. Promoción válida para web https://bohooaccesorios.com/ y todas las tiendas física",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Creditex Factory",
+   "Plin Interbank",
+   "precio",
+   100.0,
+   0,
+   "2026-07-01",
+   "2026-12-31",
+   "Creditex Factory",
+   "Promoción 1:  10% dcto. adicional. Válido para compras en tienda física y online con el cupón IBK10. Válido para un descuento máximo de S/100. Indispensable presentar DNI físico pa",
+   "Plin Interbank",
+   {
+    "conf": "of",
+    "stock": 1
+   }
+  ],
+  [
+   "Kelly’s Shoes",
+   "Plin Interbank",
+   "precio",
+   50.0,
+   0,
+   "2026-07-01",
+   "2026-12-31",
+   "Kelly´s shoes",
+   "Promoción 1: Beneficio del 20% de descuento en todo calzado. Válido únicamente en tiendas físicas. Aplica para pagos con tarjetas Interbank, Plin QR Interbank, Apple Pay, Garmin Pa",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "MBO",
+   "Plin Interbank",
+   "precio",
+   150.0,
+   0,
+   "2026-07-01",
+   "2026-12-31",
+   "MBO",
+   "Promoción 1: 20% dcto. Adicional en prendas de temporada vigente. Válido para compras en tienda física y online con el cupón IBK20. Válido para un descuento máximo de S/150.  Indis",
+   "Plin Interbank",
+   {
+    "conf": "of",
+    "stock": 1
+   }
+  ],
+  [
+   "Multident",
+   "Plin Interbank",
+   "porcentaje",
+   50,
+   0,
+   "",
+   "",
+   "Promoción 1: Descuento del 50% de descuento en blanqueamiento dental y profilaxis. Válido para todas las sedes Multident a nivel nacional. I",
+   "Promoción 1: Descuento del 50% de descuento en blanqueamiento dental y profilaxis. Válido para todas las sedes Multident a nivel nacional. Incluye evaluación especializada sin cost",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "New Athletic",
+   "Plin Interbank",
+   "porcentaje",
+   35,
+   0,
+   "2026-07-01",
+   "2026-12-31",
+   "New Athletic",
+   "Promoción 1: Hasta el 35% de descuento en modelos seleccionados. Promoción válida para web https://www.newathletic.pe/ y todas las tiendas físicas retail. Para acceder al descuento",
+   "Plin Interbank",
+   {
+    "conf": "of",
+    "stock": 1
+   }
+  ],
+  [
+   "Norman & Taylor",
+   "Plin Interbank",
+   "precio",
+   150.0,
+   0,
+   "2026-07-01",
+   "2026-12-31",
+   "Norman & Taylor",
+   "Promoción 1: 20% dcto. adicional. Válido para compras en tienda física Norman & Taylor. Válido para un descuento máximo de S/150. Indispensable presentar DNI físico para acceder a ",
+   "Plin Interbank",
+   {
+    "conf": "of",
+    "stock": 1
+   }
+  ],
+  [
+   "Oakley",
+   "Plin Interbank",
+   "porcentaje",
+   30,
+   0,
+   "2026-07-01",
+   "2026-12-31",
+   "Oakley",
+   "Promoción 1: Descuento del 30% en prendas de vestir, lentes y accesorios. Válido para compras en tiendas físicas. Al momento de solicitar la promoción, el cliente deberá indicar qu",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Volcom",
+   "Plin Interbank",
+   "porcentaje",
+   30,
+   0,
+   "",
+   "",
+   "Promoción 1: Descuento del 30% en prendas de vestir, lentes y accesorios. Válido para compras en tiendas físicas. Al momento de solicitar la",
+   "Promoción 1: Descuento del 30% en prendas de vestir, lentes y accesorios. Válido para compras en tiendas físicas. Al momento de solicitar la promoción, el cliente deberá indicar qu",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Mis Costillitas",
+   "Plin Interbank",
+   "precio",
+   79.9,
+   0,
+   "",
+   "",
+   "Promoción 1: La promoción incluye 02 costillas JR + 02 papas fritas + 02 ensaladas de col + jarra de limonada a S/79.90. Válido solo para co",
+   "Promoción 1: La promoción incluye 02 costillas JR + 02 papas fritas + 02 ensaladas de col + jarra de limonada a S/79.90. Válido solo para consumo en salón. Aplica 1 promoción por m",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "La Nevera Fit",
+   "Plin Interbank",
+   "precio",
+   18.9,
+   22.9,
+   "",
+   "",
+   "Otto Grill",
+   "Promoción 1: Promoción válida solo para consumo en salón. El descuento se aplica al precio de lista. Monto mínimo de consumo S/30.00. Aplica un descuento por mesa. Válido de lunes ",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Granja Azul",
+   "Plin Interbank",
+   "precio",
+   70.0,
+   0,
+   "",
+   "",
+   "Promoción 1: Válido sólo para salón. Válido de lunes a domingo en Granja Azul Grill San Isidro,  El Polo  y de martes a domingo en Granja Az",
+   "Promoción 1: Válido sólo para salón. Válido de lunes a domingo en Granja Azul Grill San Isidro,  El Polo  y de martes a domingo en Granja Azul Santa Clara. Aplica un descuento por ",
+   "Plin Interbank",
+   {
+    "conf": "of",
+    "max": 10
+   }
+  ],
+  [
+   "Marakos Grill",
+   "Plin Interbank",
+   "precio",
+   0.5,
+   35.8,
+   "2026-06-01",
+   "2026-07-31",
+   "Beso Frances:",
+   ": Promoción válida del 01 al 30 de junio de 2026 o hasta agotar stock promocional; lo que ocurra primero. 02 bebidas alcohólicas seleccionadas: Mojito Frutos Rojos, Mojito de Marac",
+   "Plin Interbank",
+   {
+    "conf": "of",
+    "stock": 1000,
+    "max": 1
+   }
+  ],
+  [
    "logo-negro-espacio-200",
    "Tarjeta Caja Arequipa",
    "porcentaje",
@@ -3749,22 +5331,6 @@
    }
   ],
   [
-   "Alfa",
-   "Tarjeta Caja Arequipa",
-   "porcentaje",
-   20,
-   0,
-   "",
-   "",
-   "Restaurantes",
-   "Pagando con tarjeta de débito VISA de Caja Arequipa",
-   "Tarjeta Caja Arequipa",
-   {
-    "conf": "of",
-    "ciudad": "AQP"
-   }
-  ],
-  [
    "Patria",
    "Tarjeta Caja Arequipa",
    "porcentaje",
@@ -3781,7 +5347,7 @@
    }
   ],
   [
-   "Di Mazza",
+   "Alfa",
    "Tarjeta Caja Arequipa",
    "porcentaje",
    20,
@@ -3814,6 +5380,22 @@
   ],
   [
    "Barra 420",
+   "Tarjeta Caja Arequipa",
+   "porcentaje",
+   20,
+   0,
+   "",
+   "",
+   "Restaurantes",
+   "Pagando con tarjeta de débito VISA de Caja Arequipa",
+   "Tarjeta Caja Arequipa",
+   {
+    "conf": "of",
+    "ciudad": "AQP"
+   }
+  ],
+  [
+   "Di Mazza",
    "Tarjeta Caja Arequipa",
    "porcentaje",
    20,
@@ -3893,14 +5475,14 @@
    }
   ],
   [
-   "Revisión Técnica para Auto ó Camioneta Categoría M1",
+   "Juegos + Piscina – Rancho Aventura Park – CIENEGUILLA",
    "Cuponatic",
    "precio",
-   69.0,
-   130.0,
+   41.9,
+   0,
    "",
    "",
-   "REVISIONES TÉCNICAS ABC - ATE",
+   "¡Mejor precio!",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -3925,14 +5507,14 @@
    }
   ],
   [
-   "BUFFET INTERNACIONAL: Almuerzo ó Cena Bailable",
+   "Vive la Adrenalina -Sesión de 6 Minutos Circuito -Euro Karts",
    "Cuponatic",
    "precio",
-   54.9,
-   60.0,
+   24.9,
+   35.0,
    "",
    "",
-   "Buffet Internacional Mandarín",
+   "6803 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -3941,14 +5523,14 @@
    }
   ],
   [
-   "¡Renuevate! Día de SPA para 02 - THERAPY SPA",
+   "Revisión Técnica para Auto ó Camioneta Categoría M1",
    "Cuponatic",
    "precio",
-   99.0,
-   189.0,
+   69.0,
+   130.0,
    "",
    "",
-   "336 Vendidos",
+   "REVISIONES TÉCNICAS ABC - ATE",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -3989,15 +5571,15 @@
    }
   ],
   [
-   "2D/1N Para 2 Personas y Más en Hotel Villa Jazmin - Ica",
+   "Patinaje Sobre Hielo en Lima Bajo Cero de Lunes a Domingo",
    "Cuponatic",
    "precio",
-   219.9,
-   375.0,
+   39.9,
+   45.0,
    "",
    "",
-   "Últimas unidades",
-   "Compra el cupón en Cuponatic",
+   "LIMA BAJO CERO",
+   "Patinaje Sobre Hielo en Lima Bajo Cero de Lunes a Domingo",
    "Cuponatic",
    {
     "conf": "of",
@@ -4021,15 +5603,15 @@
    }
   ],
   [
-   "Juegos + Piscina – Rancho Aventura Park – CIENEGUILLA",
+   "Cinemark",
    "Cuponatic",
    "precio",
-   41.9,
-   0,
+   10.9,
+   27.8,
    "",
    "",
-   "¡Mejor precio!",
-   "Compra el cupón en Cuponatic",
+   "¡Cinemark! Entrada 2D de Lunes a Domingo",
+   "¡Cinemark! Entrada 2D de Lunes a Domingo",
    "Cuponatic",
    {
     "conf": "of",
@@ -4053,14 +5635,14 @@
    }
   ],
   [
-   "Rústica Pachacamac: 1 Noche - 2 Adultos + 1 Niño + Desayuno",
+   "Granja Fundo San Vicente",
    "Cuponatic",
    "precio",
-   189.0,
-   250.0,
+   44.9,
+   59.0,
    "",
    "",
-   "71 Vendidos",
+   "Full Day en Granja Interactiva Fundo San Vicente",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -5577,7 +7159,7 @@
    "Web/app de la marca",
    "precio",
    69.9,
-   183.6,
+   167.7,
    "",
    "",
    "2 pizzas grandes clásicas con 1 pizza grande signature y 1 gaseosa 1L",
@@ -5653,6 +7235,1641 @@
    }
   ],
   [
+   "caja-1-786-x-420-.jpg",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   20,
+   0,
+   "",
+   "",
+   "En vinos, espumantes, licores y destilados",
+   "Sábados y Domingos",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "caja-3-786-x-420.jpg",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   15,
+   0,
+   "",
+   "",
+   "En golosinas, galletas y chocolates Halloween",
+   "De lunes a miércoles",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Metro",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   10,
+   0,
+   "",
+   "",
+   "En abarrotes comprando en metro.pe",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "LIMAGAS_CAJAGENERAL.png",
+   "Tarjeta Cencosud",
+   "precio",
+   10.0,
+   0,
+   "",
+   "",
+   "En el balón de 10kg. Válido en Call Center, Whatsapp y App. Código: CENCO10.",
+   "En el balón de 10kg. Válido en Call Center, Whatsapp y App. Código: CENCO10.",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "MAKOTO_CAJAGENERAL.png",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   20,
+   0,
+   "",
+   "",
+   "En la carta. Válido de lunes a domingo.",
+   "En la carta. Válido de lunes a domingo.",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "TOYSMASTER_CAJAGENERAL.png",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   15,
+   0,
+   "",
+   "",
+   "En la tienda física y web. Código: CENCOSUD.",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "KILO_CAJAGENERAL.png",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   20,
+   0,
+   "",
+   "",
+   "En la carta. Válido de lunes a domingo.",
+   "En la carta. Válido de lunes a domingo.",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "CINEPOLIS_CAJAGENERAL.png",
+   "Tarjeta Cencosud",
+   "precio",
+   10.0,
+   0,
+   "",
+   "",
+   "En entrada 2D y XE. Solo para películas sin restricción. Válido de lunes a jueves.",
+   "En entrada 2D y XE. Solo para películas sin restricción. Válido de lunes a jueves.",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "RUTINACAFE1_CAJAGENERAL.png",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   20,
+   0,
+   "",
+   "",
+   "En la carta. Válido de lunes a domingo.",
+   "En la carta. Válido de lunes a domingo.",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "KION_CAJAGENERAL.png",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   20,
+   0,
+   "",
+   "",
+   "En la carta. Válido de lunes a domingo.",
+   "En la carta. Válido de lunes a domingo.",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "TERMINALPESQUERO_CAJAGENERAL.png",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   20,
+   0,
+   "",
+   "",
+   "En la carta. Válido de lunes a domingo.",
+   "En la carta. Válido de lunes a domingo.",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "RUSTICA_CAJAGENERAL.png",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   20,
+   0,
+   "",
+   "",
+   "En la carta de pollos y peruanitos.",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Metro",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   90,
+   0,
+   "",
+   "",
+   "Por compras de 12 a 36 cuotas.",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Happyland",
+   "Tarjeta Cencosud",
+   "precio",
+   60.0,
+   0,
+   "",
+   "",
+   "Válido en todos los parques Happyland a nivel nacional.",
+   "Válido en todos los parques Happyland a nivel nacional.",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Metro",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   10,
+   0,
+   "",
+   "",
+   "Metro Almácen",
+   "Domingo 10% de dscto adicional",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Metro",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   10,
+   0,
+   "",
+   "",
+   "En alimentos para mascotas",
+   "Sábado 10% de dscto adicional",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Metro",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   10,
+   0,
+   "",
+   "",
+   "En aguas y gaseosas",
+   "Viernes 10% de dscto adicional",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Metro",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   5,
+   0,
+   "",
+   "",
+   "Metro Almácen",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Metro",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   5,
+   0,
+   "",
+   "",
+   "No válido para leches maternizadas",
+   "Miércoles 5% de dscto adicional en leches · No válido para leches maternizadas",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Metro",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   10,
+   0,
+   "",
+   "",
+   "En abarrotes de nuestras marcas propias",
+   "Martes 10% de dscto adicional",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Metro",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   10,
+   0,
+   "",
+   "",
+   "En aceites comestibles",
+   "Lunes 10% de dscto adicional",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "BALIQ1_CAJAGENERAL.png",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   10,
+   0,
+   "",
+   "",
+   "En joyas de oro 18K.",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "HUSHPUPPIES_CAJAGENERAL.png",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   20,
+   0,
+   "",
+   "",
+   "En tiendas físicas y página web. Código: CENCOSUD20.",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Bohoo",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   40,
+   0,
+   "",
+   "",
+   "En las colecciones Bohoo Golden, Silver, Timeless y Style. Código: CENCOSUD40.",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "LAVACALOCA_CAJAGENERAL.png",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   20,
+   0,
+   "",
+   "",
+   "La Vaca Loca",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Little Caesars",
+   "Tarjeta Cencosud",
+   "precio",
+   39.9,
+   46.8,
+   "",
+   "",
+   "2 pizzas familiares",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Little Caesars",
+   "Tarjeta Cencosud",
+   "precio",
+   11.9,
+   17.9,
+   "",
+   "",
+   "1 Crazy Cheese Bread Bacon o Queso + Gaseosa de 355 ml + 1 Salsa Buffalo Ranch con Tarjeta Cencosud. Precio regular S/17.90",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "PIKALO_CAJAGENERAL.png",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   20,
+   0,
+   "",
+   "",
+   "En la carta.",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "LAPICCOLINA_CAJAGENERAL.png",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   45,
+   0,
+   "",
+   "",
+   "En platos de la carta principal. Válido de lunes a domingo.",
+   "En platos de la carta principal. Válido de lunes a domingo.",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "MIKAELA_CAJAGENERAL.png",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   20,
+   0,
+   "",
+   "",
+   "En tiendas físicas y página web. Código: CENCOSUD10.",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "SANDMONSTRUOS_CAJAGENERAL.png",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   20,
+   0,
+   "",
+   "",
+   "En sánguches tradicionales, marinos y hamburguesas.",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Caja-Web-BigBox.jpg",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   10,
+   0,
+   "",
+   "",
+   "En experiencias Big Box",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "RASSON_CAJAGAGENERAL.png",
+   "Tarjeta Cencosud",
+   "precio",
+   92.0,
+   0,
+   "",
+   "",
+   "Rasson",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "PedidosYa",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   15,
+   0,
+   "",
+   "",
+   "Todos los lunes en supermercados",
+   "Todos los lunes en supermercados",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Metro",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   90,
+   0,
+   "",
+   "",
+   "En Electro. Válido tambien en Metro Almacén, no válido en Metro.pe y app Metro. Aplica para compras de 12 a 36 cuotas en Electro y Tecnologí",
+   "En Electro. Válido tambien en Metro Almacén, no válido en Metro.pe y app Metro. Aplica para compras de 12 a 36 cuotas en Electro y Tecnología.",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "NOMADA1_CAJAGENERAL.png",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   50,
+   0,
+   "",
+   "",
+   "En la carta. Válido de lunes a sábado.",
+   "En la carta. Válido de lunes a sábado.",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Cajas-web-WONG-BISTRÓ_786x420.png",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   25,
+   0,
+   "",
+   "",
+   "En Wong Bistró pagando con Tarjeta Cencosud",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "SOPRENDELIMA_CAJAGENERAL.png",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   20,
+   0,
+   "",
+   "",
+   "En flores y detalles. Válido en la web con el código: CENCOSL20.",
+   "En flores y detalles. Válido en la web con el código: CENCOSL20.",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "REPUBLICACAFE_CAJAGENERAL.png",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   50,
+   0,
+   "",
+   "",
+   "En la carta. Válido de lunes a domingo.",
+   "En la carta. Válido de lunes a domingo.",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "PERFUMERIASUNID_CAJAGENERAL.png",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   25,
+   0,
+   "",
+   "",
+   "En categorías de tratamiento, maquillaje, fragancias  y/o marcas seleccionadas.",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Wanta1-Caja-web-786x420-1.png",
+   "Tarjeta Cencosud",
+   "precio",
+   19.9,
+   0,
+   "",
+   "",
+   "Combo personal: 1 Mostro (Casero o Apanado)",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Wanta-Caja-web-Para-2-786x420-1.png",
+   "Tarjeta Cencosud",
+   "precio",
+   38.9,
+   0,
+   "",
+   "",
+   "Combo para dos: 2 Mostro (Casero o Apanado)",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Cajas-Web-MARTES-TE-DEVOLVEMOS-100_13-al-31-Enero_786-x-420.",
+   "Tarjeta Cencosud",
+   "precio",
+   100.0,
+   500.0,
+   "",
+   "",
+   "Te devolvemos",
+   "Todos los martes por compras desde S/500 en Wong con Tarjeta Cencosud.",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "REDBUS_CAJAGENERAL.png",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   10,
+   0,
+   "",
+   "",
+   "En la compra de pasajes. Código: REDCENCOSUD.",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "MT2_CAJAGENERAL-pizza-grande-8-cortes.png",
+   "Tarjeta Cencosud",
+   "precio",
+   29.9,
+   44.9,
+   "",
+   "",
+   "Mamma Tomato",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "EMBARCADERO41_GENERAL.png",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   20,
+   0,
+   "",
+   "",
+   "En platos a la carta.",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "DONDEWALTER-CAJAGENERAL.png",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   15,
+   0,
+   "",
+   "",
+   "En la carta de platos, bebidas y postres.",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "LAMORA_CAJAGENERAL-1.png",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   50,
+   0,
+   "",
+   "",
+   "En la carta. Válido de lunes a domingo.",
+   "En la carta. Válido de lunes a domingo.",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "KFC",
+   "Tarjeta Cencosud",
+   "precio",
+   12.9,
+   0,
+   "",
+   "",
+   "2 Piezas de pollo + 2 Nuggets + 1 Papa regular + 1 Ensalada o puré regular",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "PedidosYa",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   15,
+   0,
+   "",
+   "",
+   "Todos los jueves en restaurantes",
+   "Todos los jueves en restaurantes",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Caja-web-PRIMAX-786x420-1.png",
+   "Tarjeta Cencosud",
+   "precio",
+   1.5,
+   0,
+   "",
+   "",
+   "Por galón I Regístrate en la web:",
+   "Primax · https://convenios.primax.com",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Cajas-web-WONG-DE_01-al-31-Dic_786x420_Viernes.png",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   10,
+   0,
+   "",
+   "",
+   "En salchichas y chorizos con tu Tarjeta Cencosud",
+   "Viernes",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Cajas-Web-DESPLEGABLE-Wong_786x420_Jueves.png",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   20,
+   0,
+   "",
+   "",
+   "En cortes de carnes de res con tu Tarjeta Cencosud",
+   "Jueves",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Otto Grill",
+   "Tarjeta Cencosud",
+   "precio",
+   21.9,
+   26.9,
+   "",
+   "",
+   "Pechuga especial a la carta. Precio regular: S/ 26.90.",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "MT1_CAJAGENERAL-15.png",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   15,
+   0,
+   "",
+   "",
+   "Mamma Tomato",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "KFC",
+   "Tarjeta Cencosud",
+   "precio",
+   32.9,
+   0,
+   "",
+   "",
+   "4 piezas de pollo +2 hot wings + 2 papas regulares + 2 gaseosas 12 oz",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Subway",
+   "Tarjeta Cencosud",
+   "precio",
+   20.9,
+   26.4,
+   "",
+   "",
+   "Combo Sub Pollo BBQ 15cm a S/20.90.",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Subway",
+   "Tarjeta Cencosud",
+   "precio",
+   20.9,
+   26.4,
+   "",
+   "",
+   "Combo Sub Pollo Teriyaki 15cm a S/20.90.",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "SHIMAYA-CAJA-GENERAL.jpg",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   20,
+   0,
+   "",
+   "",
+   "Shimaya Ramen",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Pizza Hut",
+   "Tarjeta Cencosud",
+   "precio",
+   10.9,
+   0,
+   "",
+   "",
+   "1 pizza mediana (americana o pepperoni) + 1 gaseosa regular.",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Pizza Hut",
+   "Tarjeta Cencosud",
+   "precio",
+   39.9,
+   0,
+   "",
+   "",
+   "2 pizzas medianas + 2 gaseosas regulares + 6 alitas BBQ o Hut",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Mis Costillitas",
+   "Tarjeta Cencosud",
+   "precio",
+   79.9,
+   99.7,
+   "",
+   "",
+   "2 costillas JR + 2 papas fritas + 2 ensaladas de col + 1 lt de limonada a S/79.90",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "FAUNA_CAJAGENERAL.png",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   50,
+   0,
+   "",
+   "",
+   "En toda la carta. Válido de lunes a domingo.",
+   "En toda la carta. Válido de lunes a domingo.",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "SHINUA_CAJAGENERAL.png",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   50,
+   0,
+   "",
+   "",
+   "En toda la carta. Válido de lunes a domingo.",
+   "En toda la carta. Válido de lunes a domingo.",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Mr. Sushi",
+   "Tarjeta Cencosud",
+   "precio",
+   99.9,
+   123.7,
+   "",
+   "",
+   "Tabla para 2 (40 cortes) + 12 alitas a S/99.90.",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Mr. Sushi",
+   "Tarjeta Cencosud",
+   "precio",
+   28.9,
+   36.0,
+   "",
+   "",
+   "1 pokebowl + 1 gaseosa (300 ml) a S/28.90.",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Mr. Sushi",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   20,
+   0,
+   "",
+   "",
+   "En tablas de makis.",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Mr. Sushi",
+   "Tarjeta Cencosud",
+   "precio",
+   55.9,
+   75.0,
+   "",
+   "",
+   "2 makis (20 cortes) + 5 gyozas + 2 gaseosas a S/55.90.",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Granja Azul",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   50,
+   0,
+   "",
+   "",
+   "En la carta. Válido de lunes a domingo.",
+   "En la carta. Válido de lunes a domingo.",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Villa Chicken",
+   "Tarjeta Cencosud",
+   "precio",
+   93.9,
+   122.6,
+   "",
+   "",
+   "1 pollo + papas fritas + 1 palito de anticucho + rolls a la leña 3 und + jarra de bebida natural a S/93.90.",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Villa Chicken",
+   "Tarjeta Cencosud",
+   "precio",
+   24.9,
+   28.0,
+   "",
+   "",
+   "1/4 pollo a la leña + papas fritas regulares + 1 vaso de chicha a S/24.90",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "BACOVACA_CAJAGENERAL.png",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   50,
+   0,
+   "",
+   "",
+   "En la carta. Válido de lunes a domingo.",
+   "En la carta. Válido de lunes a domingo.",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Caja-web-La-Curacao-786x420-1.png",
+   "Tarjeta Cencosud",
+   "precio",
+   799.0,
+   0,
+   "",
+   "",
+   "cuotas sin intereses",
+   "En tiendas físicas y la web. Válido para compras desde S/799.",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Caja-web-EFE-786X420.png",
+   "Tarjeta Cencosud",
+   "precio",
+   799.0,
+   0,
+   "",
+   "",
+   "Cuotas Sin Intereses",
+   "En tiendas físicas y la web. Válido para compras desde S/799.",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Caja-web-CARSE-Y-EL-GALLO-MAS-GALLO-786x420-1.png",
+   "Tarjeta Cencosud",
+   "precio",
+   799.0,
+   0,
+   "",
+   "",
+   "Carsa, El Gallo más Gallo y Marcimex",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "JUMPSPOT1_CAJAGENERAL.png",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   25,
+   0,
+   "",
+   "",
+   "En pulseras de 30 y 60 minutos. Válido en Jump Spot y Kids.",
+   "En pulseras de 30 y 60 minutos. Válido en Jump Spot y Kids.",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Coney Park",
+   "Tarjeta Cencosud",
+   "precio",
+   50.0,
+   0,
+   "",
+   "",
+   "Paga",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "CAJA-WEB_DETALLE_RallyKart.webp",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   50,
+   0,
+   "",
+   "",
+   "En carreras de karts.",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "DIVERTICENTER-GENERAL.webp",
+   "Tarjeta Cencosud",
+   "precio",
+   60.0,
+   0,
+   "",
+   "",
+   "Diverticenter",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "ROSATEL_CAJAGENERAL.png",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   20,
+   0,
+   "",
+   "",
+   "En cajas de rosas.",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "FBOOM1_CAJAGENERAL-25.png",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   25,
+   0,
+   "",
+   "",
+   "En toda la web. Código: BLOOM25CENCO.",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "EFPERF_CAJAGENERAL.png",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   15,
+   0,
+   "",
+   "",
+   "En todos los perfumes.",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "I-RUN_CAJAGENERAL.png",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   25,
+   0,
+   "",
+   "",
+   "En productos seleccionados.",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "BUBBA1_CAJAGENERAL.png",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   20,
+   0,
+   "",
+   "",
+   "En tiendas físicas.",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "BATA1_CAJAGENERAL-PE-PF3FAQHA.png",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   20,
+   0,
+   "",
+   "",
+   "En la página web. Código: CENCO20.",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "VICTORIA_CAJAGENERAL.png",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   10,
+   0,
+   "",
+   "",
+   "En todas las tiendas físicas.",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Caja-web-Mercado-Libre-786x420-1.png",
+   "Tarjeta Cencosud",
+   "precio",
+   499.0,
+   0,
+   "",
+   "",
+   "Mercado Libre",
+   "Todos los Martes por compras desde S/499",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "BATH-BODY_CAJAGENERAL.png",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   15,
+   0,
+   "",
+   "",
+   "En todas las tiendas físicas.",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "New Athletic",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   30,
+   0,
+   "",
+   "",
+   "En todo calzado.",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "TRIATHLON1_CAJAGENERAL.png",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   20,
+   0,
+   "",
+   "",
+   "En la tienda online. Código: BTSCENCOSUD.",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Campana-Siempre-mas-Efe-y-Curacao-caja-web-786x420-1.webp",
+   "Tarjeta Cencosud",
+   "precio",
+   799.0,
+   0,
+   "",
+   "",
+   "La Curacao y Tienda Efe",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Topitop",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   20,
+   0,
+   "",
+   "",
+   "desct. Adicional.",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "IMPLANTES-CAJAGENERAL.png",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   50,
+   0,
+   "",
+   "",
+   "En implantes dentales.",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "CURACION-CAJAGENERAL.png",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   20,
+   0,
+   "",
+   "",
+   "En curaciones dentales",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Soho.color",
+   "Tarjeta Cencosud",
+   "precio",
+   180.0,
+   230.0,
+   "",
+   "",
+   "Botox Orgánico Premium + manicure + pedicure a S/180.00. Precio regular S/230.00.",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Soho.color",
+   "Tarjeta Cencosud",
+   "precio",
+   92.0,
+   115.0,
+   "",
+   "",
+   "Manicure básica + corte en capas + cepillado mujer. Precio regular S/115",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Montalvo",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   20,
+   0,
+   "",
+   "",
+   "Montalvo Salón & Spa",
+   "Montalvo Salón & Spa",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Montalvo",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   20,
+   0,
+   "",
+   "",
+   "En peluquería y spa.",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Boticas y Salud",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   30,
+   0,
+   "",
+   "",
+   "En la web.",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Boticas y Salud",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   30,
+   0,
+   "",
+   "",
+   "En las tiendas físicas y call center.",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "CRUZDELSUR_Viajes_DETALLE.webp",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   15,
+   0,
+   "",
+   "",
+   "En pasajes nacionales.",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "HLD2_CAJAGENERAL-20.png",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   20,
+   0,
+   "",
+   "",
+   "En la tarifa rack de alojamiento, viernes y sábado. Incluye desayuno buffet.",
+   "En la tarifa rack de alojamiento, viernes y sábado. Incluye desayuno buffet.",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "HLD1_CAJAGENERAL-25.png",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   25,
+   0,
+   "",
+   "",
+   "En la tarifa rack de alojamiento, de domingo a jueves. incluye desayuno buffet.",
+   "En la tarifa rack de alojamiento, de domingo a jueves. incluye desayuno buffet.",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Despegar",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   15,
+   0,
+   "",
+   "",
+   "Todos los Lunes por compras desde $499.",
+   "Todos los Lunes por compras desde $499.",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Juntoz-CYBER-FEST-Caja-web-786x420-1.png",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   15,
+   0,
+   "",
+   "",
+   "Jueves de Juntoz en compras online. Nombre del cupón: DIACENCO",
+   "Jueves de Juntoz en compras online. Nombre del cupón: DIACENCO",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "La-Curacao-CYBER-FEST-Caja-web-786x420-1.png",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   15,
+   0,
+   "",
+   "",
+   "Viernes de La Curacao en compras online. Nombre del cupón: DIACENCO",
+   "Viernes de La Curacao en compras online. Nombre del cupón: DIACENCO",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Efe-CYBER-FEST-Caja-web-786x420-1.png",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   15,
+   0,
+   "",
+   "",
+   "Miércoles de EFE en compras online. Nombre del cupón: CENCO120",
+   "Miércoles de EFE en compras online. Nombre del cupón: CENCO120",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "PROBELA_CAJAGENERAL.png",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   25,
+   0,
+   "",
+   "",
+   "En marcas seleccionadas. Válido en tiendas físicas y web.",
+   "En marcas seleccionadas. Válido en tiendas físicas y web.",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "CABIFY-JUNIO-CAJA-GENERAL-scaled.jpg",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   40,
+   0,
+   "",
+   "",
+   "OFF en Cabify todos los dias l Código: CENCO1026",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
    "Star Perú",
    "Diners Club",
    "porcentaje",
@@ -5681,76 +8898,102 @@
   }
  ],
  "ver": {
+  "Plin Interbank": "2026-10-23",
   "Tarjeta Caja Arequipa": "2026-10-23",
   "Cuponatic": "2026-10-23",
   "Cuponidad": "2026-10-08",
-  "Web/app de la marca": "2026-10-23"
+  "Web/app de la marca": "2026-10-23",
+  "Tarjeta Cencosud": "2026-10-23"
  },
  "estado": {
   "interbank": {
-   "ok": false,
-   "filas": 0,
-   "leido": "",
-   "intento": "2026-10-23T10:46",
-   "error": "could not convert string to float: '2.50.'"
+   "ok": true,
+   "filas": 219,
+   "leido": "2026-10-23T12:35",
+   "error": "",
+   "historial": [
+    219
+   ]
   },
   "telegram": {
    "ok": true,
    "filas": 1,
-   "leido": "2026-10-23T10:46",
-   "error": ""
+   "leido": "2026-10-23T12:35",
+   "error": "",
+   "historial": [
+    1
+   ]
   },
   "bbva": {
    "ok": false,
    "filas": 0,
    "leido": "",
-   "intento": "2026-10-23T10:46",
-   "error": "No se pudo descargar https://www.bbva.pe/content/dam/public-web/peru/documents/personas/catalogo-promociones/Catalogo-provincias.pdf: 403 Client Error: Forbidden for url: https://www.bbva.pe/content/dam/public-web/peru/documents/personas/catalogo-promociones/Catalogo-provincias.pdf"
+   "intento": "2026-10-23T12:35",
+   "error": "No se pudo descargar https://www.bbva.pe/content/dam/public-web/peru/documents/personas/catalogo-promociones/Catalogo-provincias.pdf: 403 Client Error: Forbidden for url: https://www.bbva.pe/content/dam/public-web/peru/documents/personas/catalogo-promociones/Catalogo-provincias.pdf",
+   "historial": []
   },
   "caja_arequipa": {
    "ok": true,
    "filas": 9,
-   "leido": "2026-10-23T10:46",
-   "error": ""
+   "leido": "2026-10-23T12:35",
+   "error": "",
+   "historial": [
+    9
+   ]
   },
   "cuponatic": {
    "ok": true,
    "filas": 18,
-   "leido": "2026-10-23T10:46",
-   "error": ""
+   "leido": "2026-10-23T12:35",
+   "error": "",
+   "historial": [
+    18
+   ]
   },
   "cuponidad": {
    "ok": false,
    "filas": 89,
    "leido": "2026-10-08T12:53",
-   "intento": "2026-10-23T10:46",
-   "error": "bajó de 89 a 35 filas: probablemente cambió la página"
+   "intento": "2026-10-23T12:35",
+   "error": "bajó de 89 a 36 filas: probablemente cambió la página",
+   "historial": [
+    36
+   ]
   },
   "papajohns": {
    "ok": true,
    "filas": 4,
-   "leido": "2026-10-23T10:46",
-   "error": ""
+   "leido": "2026-10-23T12:35",
+   "error": "",
+   "historial": [
+    4
+   ]
   },
   "nutripoint": {
    "ok": true,
    "filas": 2,
-   "leido": "2026-10-23T10:46",
-   "error": ""
+   "leido": "2026-10-23T12:35",
+   "error": "",
+   "historial": [
+    2
+   ]
   },
   "cencosud": {
-   "ok": false,
-   "filas": 0,
-   "leido": "",
-   "intento": "2026-10-23T10:46",
-   "error": "could not convert string to float: '46.80.'"
+   "ok": true,
+   "filas": 109,
+   "leido": "2026-10-23T12:35",
+   "error": "",
+   "historial": [
+    109
+   ]
   },
   "starperu": {
    "ok": false,
    "filas": 1,
    "leido": "2026-10-21T10:58",
-   "intento": "2026-10-23T10:46",
-   "error": "No se pudo descargar https://www.starperu.com/es/promociones/marca/diners_club: 403 Client Error: Forbidden for url: https://www.starperu.com/es/promociones/marca/diners_club"
+   "intento": "2026-10-23T12:35",
+   "error": "No se pudo descargar https://www.starperu.com/es/promociones/marca/diners_club: 403 Client Error: Forbidden for url: https://www.starperu.com/es/promociones/marca/diners_club",
+   "historial": []
   }
  }
 }
