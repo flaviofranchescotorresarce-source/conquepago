@@ -4,7 +4,7 @@ name: Diagnóstico (temporal)
 on:
   push:
     branches: [claude/inspiring-lovelace-w52u9k]
-    paths: ['scripts/diagnostico.py', '.github/workflows/diagnostico.yml']
+    paths: ['scripts/**', '.github/workflows/diagnostico.yml']
 
 permissions:
   contents: read
