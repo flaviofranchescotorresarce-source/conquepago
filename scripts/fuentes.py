@@ -128,6 +128,8 @@ def interbank_json(html, conocidos):
 
 A_PRECIO = re.compile(r'\ba\s+(?:solo\s+)?S/\.?\s*(\d+(?:[.,]\d{1,2})?)', re.I)
 REGULAR_IBK = re.compile(r'precio\s+regular\s+(?:de\s+)?S/\.?\s*(\d+(?:[.,]\d{1,2})?)', re.I)
+# los párrafos legales («Promoción … / La promoción consiste en …») repiten las promos y mezclan marcas
+LEGAL_IBK = re.compile(r'\s*(?:la\s+)?promoci[oó]n\b|\s*t[eé]rminos', re.I)
 # «Adulto S/55.00 (precio regular S/70.00) y niño S/45.00 (…)»: el primer precio con su regular al lado
 PAR_IBK = re.compile(r'S/\.?\s*(\d+(?:[.,]\d{1,2})?)\s*\(\s*precio\s+regular\s+(?:de\s+)?S/\.?\s*(\d+(?:[.,]\d{1,2})?)', re.I)
 
@@ -159,7 +161,7 @@ def _promos_ibk(html):
         for item in items:
             texto = ' '.join(item.get_text(' ', strip=True).split())
             for seg in re.split(r'(?=¡?\s*Exclusivo con Plin)', texto, flags=re.I):
-                if DISPARADOR.search(seg):
+                if DISPARADOR.search(seg) and not LEGAL_IBK.match(seg):
                     yield _marca_ibk(item), seg.strip()
 
 
