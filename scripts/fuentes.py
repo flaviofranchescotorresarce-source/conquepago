@@ -5,8 +5,8 @@ from datetime import datetime, timedelta
 
 from bs4 import BeautifulSoup
 
-from comun import (DEBUG, DATA, LIMA, a_fila, bajar, casar_local, fechas, hoy_lima, leer_json, leer_tarjeta,
-                   locales_conocidos, norm, precios, tarjetas)
+from comun import (DEBUG, DATA, DISPARADOR, LIMA, a_fila, bajar, casar_local, fechas, hoy_lima, leer_json,
+                   leer_tarjeta, locales_conocidos, norm, num, precios, tarjetas)
 
 RESTRICCION = re.compile(r'no aplica|no v[aá]lid|solo |s[oó]lo |v[aá]lid|m[aá]x|stock|excepto|delivery|sal[oó]n|llevar|'
                          r'lunes|martes|mi[eé]rcoles|jueves|viernes|s[aá]bado|domingo|horario|hasta agotar', re.I)
@@ -17,11 +17,20 @@ def nota_de(t, defecto):
     return (' · '.join(dict.fromkeys(partes))[:180]) or defecto
 
 
+ARCHIVO = re.compile(r'\.(?:png|jpe?g|webp|gif|svg)$', re.I)
+
+
 def nombre_local(t, conocidos, fijo=None):
     if fijo:
         return fijo
-    return (casar_local(' '.join([t['alt'], t['titulo'], t['texto']]), conocidos)
-            or t['alt'] or t['titulo'] or t['lineas'][0])[:60]
+    conocido = casar_local(' '.join([t['alt'], t['titulo'], t['texto']]), conocidos)
+    if conocido:
+        return conocido
+    # el alt a veces es el nombre del archivo («LIMAGAS_CAJAGENERAL.png») y el título a veces es el precio
+    alt = '' if ARCHIVO.search(t['alt']) else t['alt']
+    titulo = '' if DISPARADOR.search(t['titulo']) else t['titulo']
+    nombre = (alt or titulo or t['lineas'][0])[:60]
+    return nombre.title() if nombre.isupper() and len(nombre) > 3 else nombre
 
 
 def desde_html(url, debug, *, medio, programa, defecto, local=None, ciudad='', ciudad_si_lima=False, extras=None):
@@ -117,6 +126,67 @@ def interbank_json(html, conocidos):
     return filas
 
 
+A_PRECIO = re.compile(r'\ba\s+(?:solo\s+)?S/\.?\s*(\d+(?:[.,]\d{1,2})?)', re.I)
+REGULAR_IBK = re.compile(r'precio\s+regular\s+(?:de\s+)?S/\.?\s*(\d+(?:[.,]\d{1,2})?)', re.I)
+# los párrafos legales («Promoción … / La promoción consiste en …») repiten las promos y mezclan marcas
+LEGAL_IBK = re.compile(r'\s*(?:la\s+)?promoci[oó]n\b|\s*t[eé]rminos', re.I)
+# «Adulto S/55.00 (precio regular S/70.00) y niño S/45.00 (…)»: el primer precio con su regular al lado
+PAR_IBK = re.compile(r'S/\.?\s*(\d+(?:[.,]\d{1,2})?)\s*\(\s*precio\s+regular\s+(?:de\s+)?S/\.?\s*(\d+(?:[.,]\d{1,2})?)', re.I)
+
+
+def _marca_ibk(el):
+    """Cada marca es un bloque logo + <strong>nombre</strong> + lista de promos: se sube hasta ese bloque."""
+    for anc in [el, *el.parents]:
+        if anc.name in ('body', 'html', 'main'):
+            return None
+        nombres = set()
+        for s in anc.find_all(['strong', 'b', 'h2', 'h3', 'h4', 'h5', 'h6']):
+            li = s.find_parent('li')
+            if li is not None and (li is anc or any(p is anc for p in li.parents)):
+                continue  # negrita dentro del texto de una promo, no es el nombre
+            n = s.get_text(' ', strip=True).rstrip(':')
+            if n and len(n) <= 60 and not DISPARADOR.search(n):
+                nombres.add(n)
+        if len(nombres) == 1:
+            return nombres.pop()
+        if nombres:  # ya se subió a un contenedor con varias marcas
+            return None
+    return None
+
+
+def _promos_ibk(html):
+    """(marca, texto) de cada promo. Cada <li> es una promo; si un texto trae varias pegadas, se separan."""
+    for el in tarjetas(html):
+        items = [li for li in el.find_all('li') if DISPARADOR.search(li.get_text(' ', strip=True))] or [el]
+        for item in items:
+            texto = ' '.join(item.get_text(' ', strip=True).split())
+            for seg in re.split(r'(?=¡?\s*Exclusivo con Plin)', texto, flags=re.I):
+                if DISPARADOR.search(seg) and not LEGAL_IBK.match(seg):
+                    yield _marca_ibk(item), seg.strip()
+
+
+def _fila_ibk(marca, seg, conocidos):
+    local = (casar_local(marca, conocidos) or marca) if marca else casar_local(seg, conocidos)
+    if not local:
+        return None
+    # «¡Exclusivo con Plin…! Del 01 al 31 de octubre del 2026: 3 Donuts a S/9.90 (precio regular S/16.50). Vigente…»
+    cuerpo = seg.split(': ', 1)[1] if ': ' in seg[:160] else seg
+    frases = [f.strip() for f in re.split(r'(?<=[.!])\s+(?=[A-ZÁÉÍÓÚ¡])', cuerpo) if f.strip()]
+    t = {'lineas': [seg], 'texto': seg, 'alt': '', 'titulo': '', 'href': ''}
+    f = a_fila(t, local=local, medio='Plin Interbank', programa='Plin Interbank',
+               nota=' · '.join(frases[1:])[:180] or 'Pagando con QR Plin en el local', ciudad=conocidos.get(local, ''))
+    if not f:
+        return None
+    par, m = PAR_IBK.search(cuerpo), A_PRECIO.search(cuerpo)
+    if f[2] == 'precio' and (par or m):  # el precio de la promo es el «a S/X»; los «por S/Y» son agregados opcionales
+        r = REGULAR_IBK.search(cuerpo)
+        f[3] = num(par.group(1) if par else m.group(1))
+        f[4] = num(par.group(2)) if par else (num(r.group(1)) if r else 0)
+        f[4] = f[4] if f[4] > f[3] else 0
+    f[7] = frases[0].rstrip(' >')[:140] if frases else f[7]
+    return f
+
+
 def leer_interbank():
     url = 'https://interbank.pe/promociones/descuentos/plinpromos'
     html = bajar(url, 'interbank.html')
@@ -124,14 +194,7 @@ def leer_interbank():
     filas = interbank_json(html, conocidos)
     if len(filas) >= 20:
         return filas
-    filas = []
-    for el in tarjetas(html):
-        t = leer_tarjeta(el)
-        f = a_fila(t, local=nombre_local(t, conocidos), medio='Plin Interbank', programa='Plin Interbank',
-                   nota=nota_de(t, 'Pagando con QR Plin en el local'), ciudad=conocidos.get(nombre_local(t, conocidos), ''))
-        if f:
-            filas.append(f)
-    return filas
+    return [f for marca, seg in _promos_ibk(html) if (f := _fila_ibk(marca, seg, conocidos))]
 
 
 # ── BBVA: PDF de provincias, sección Arequipa. La marca sale del logo (tabla de hashes) o del combo ──

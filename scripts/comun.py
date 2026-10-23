@@ -48,7 +48,7 @@ def bajar(url, nombre_debug, binario=False, intentos=3):
 
 # ── números y fechas ──
 PRECIO = re.compile(r'S/\.?\s*(\d{1,3}(?:[.,\s]\d{3})*(?:[.,]\d{1,2})?|\d+(?:[.,]\d{1,2})?)', re.I)
-PCT = re.compile(r'(\d{1,2})\s*%')
+PCT = re.compile(r'(?<![\d.,])(\d{1,2})\s*%')  # «TEA 34.90%» no es un 90 %
 MESES = {'enero': 1, 'febrero': 2, 'marzo': 3, 'abril': 4, 'mayo': 5, 'junio': 6, 'julio': 7, 'agosto': 8,
          'septiembre': 9, 'setiembre': 9, 'octubre': 10, 'noviembre': 11, 'diciembre': 12}
 
@@ -78,7 +78,12 @@ def fechas(texto, ref=None):
         except ValueError:
             pass
     patron = r'\b(\d{1,2})\s+de\s+(' + '|'.join(MESES) + r')(?:\s+(?:de|del)\s+(\d{4}))?'
-    for d, m, a in re.findall(patron, texto.lower()):
+    texto = texto.lower()
+    for coincidencia in re.finditer(patron, texto):
+        d, m, a = coincidencia.groups()
+        if not a:  # «del 01 de abril al 31 de mayo del 2026»: el año que sigue en la frase vale para las dos
+            sigue = re.search(r'\bdel?\s+(20\d\d)\b', texto[coincidencia.end():coincidencia.end() + 40])
+            a = sigue.group(1) if sigue else None
         anio = int(a) if a else ref.year
         try:
             f = date(anio, MESES[m], int(d))
@@ -87,7 +92,37 @@ def fechas(texto, ref=None):
         if not a and f < ref - timedelta(days=180):
             f = date(anio + 1, MESES[m], int(d))
         out.append(f)
+    if not out:  # «todos los jueves de octubre del 2026», «durante octubre del 2026»: vale hasta fin de ese mes
+        m = re.search(r'\b(?:los\s+\w+\s+de|durante|en)\s+(' + '|'.join(MESES) + r')\s+(?:de|del)\s+(20\d\d)\b', texto)
+        if m:
+            siguiente = date(int(m.group(2)) + MESES[m.group(1)] // 12, MESES[m.group(1)] % 12 + 1, 1)
+            out.append(siguiente - timedelta(days=1))
     return sorted(set(out))
+
+
+DIA = r'(lunes|martes|mi[eé]rcoles|jueves|viernes|s[aá]bados?|domingos?)'
+NUM_DIA = {'domingo': 0, 'lunes': 1, 'martes': 2, 'miercoles': 3, 'jueves': 4, 'viernes': 5, 'sabado': 6}
+
+
+def _num_dia(d):
+    d = unicodedata.normalize('NFKD', d).encode('ascii', 'ignore').decode()
+    return NUM_DIA[d[:-1] if d in ('sabados', 'domingos') else d]
+
+
+def dias_validos(texto):
+    """Días en que vale la promo (0 = domingo; [] = todos): «de lunes a viernes», «los jueves», «sábados y domingos»."""
+    t = texto.lower()
+    m = re.search(r'\b' + DIA + r'\s+al?\s+' + DIA + r'\b', t)
+    if m:
+        a, b = _num_dia(m.group(1)), _num_dia(m.group(2))
+        dias = {(a + i) % 7 for i in range((b - a) % 7 + 1)}
+    else:
+        dias = set()
+        # «lunes 5 al domingo 11» son fechas, no días; «Sábado 10% de dscto» sí es un día
+        for m in re.finditer(r'\b' + DIA + r'\b(?!\s+\d{1,2}\b(?!\s*%))', t):
+            if not re.search(r'\bno\b|excepto|salvo', t[max(0, m.start() - 25):m.start()]):
+                dias.add(_num_dia(m.group(1)))
+    return sorted(dias) if len(dias) < 7 else []
 
 
 def norm(s):
@@ -171,12 +206,16 @@ REGULAR = re.compile(r'(?:antes|regular|normal|precio\s+de\s+lista|valor)\D{0,15
 STOCK = re.compile(r'stock[^\d]{0,25}(\d[\d .,]*)', re.I)
 VIGENCIA = re.compile(r'v[aá]lid[oa]\s+(?:hasta|del|desde)|vigencia|^\s*(?:del|hasta el)\s+\d|\d{1,2}/\d{1,2}/\d{2,4}', re.I)
 MAXIMO = re.compile(r'm[aá]x(?:imo)?\.?\s*(?:de\s+)?(\d{1,2})', re.I)
+# «por compras desde S/500», «monto mínimo de consumo de S/50»: es el mínimo para acceder, no el precio
+MIN_COMPRA = re.compile(r'(?:compras?|consumos?)\s+(?:desde|mayores\s+(?:a|de)|m[ií]nim[oa]s?\s+de)\s+S/\.?\s*(\d[\d.,]*)|'
+                        r'm[ií]nim[oa]\s+de\s+(?:compra|consumo)\s*(?:de|:)?\s*S/\.?\s*(\d[\d.,]*)', re.I)
 
 
 def a_fila(t, *, local, medio, programa, nota, extras=None, ciudad=''):
     """Convierte una tarjeta leída en una fila del catálogo. Todo número sale literal del texto."""
     texto = t['texto']
-    ps = precios(texto)
+    minimos = [num(a or b) for a, b in MIN_COMPRA.findall(texto)]
+    ps = [p for p in precios(texto) if p not in minimos]
     reg = [num(x) for x in REGULAR.findall(texto)]
     pct = [int(x) for x in PCT.findall(texto)]
     fs = fechas(texto)
@@ -191,14 +230,19 @@ def a_fila(t, *, local, medio, programa, nota, extras=None, ciudad=''):
     m = MAXIMO.search(texto)
     if m:
         e['max'] = int(m.group(1))
+    dias = dias_validos(texto)
+    if dias and 'dias' not in e:
+        e['dias'] = dias
+    if minimos and 'min' not in e:
+        e['min'] = minimos[0]
     if re.search(r'2\s*x\s*1', texto, re.I):
         tipo, valor, regular = '2x1', 0, 0
-    elif ps:
+    elif ps and (pct == [] or [p for p in ps if p not in reg]):  # «30% … Precio regular S/92» es un porcentaje
         regular = reg[0] if reg else (max(ps) if len(ps) > 1 and max(ps) > min(ps) else 0)
         candidatos = [p for p in ps if p != regular] or ps
         valor = min(candidatos)
         tipo = 'precio'
-        if re.search(r'S/\.?\s*[\d.,]+\s*(?:de\s+)?(?:descuento|dscto|dcto)', texto, re.I):
+        if re.search(r'S/\.?\s*[\d.,]+\s*(?:de\s+)?(?:descuento|dscto|dcto|desct)|devolvemos|te devuelve', texto, re.I):
             tipo, regular = 'monto', 0
     elif pct:
         tipo, valor, regular = 'porcentaje', max(pct), 0
