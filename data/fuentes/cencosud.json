@@ -1,9 +1,9 @@
 {
  "id": "cencosud",
- "leido": "2026-10-23T12:35",
+ "leido": "2026-10-23T13:27",
  "filas": [
   [
-   "caja-1-786-x-420-.jpg",
+   "Wong",
    "Tarjeta Cencosud",
    "porcentaje",
    20,
@@ -14,11 +14,15 @@
    "Sábados y Domingos",
    "Tarjeta Cencosud",
    {
-    "conf": "of"
+    "conf": "of",
+    "dias": [
+     0,
+     6
+    ]
    }
   ],
   [
-   "caja-3-786-x-420.jpg",
+   "Wong",
    "Tarjeta Cencosud",
    "porcentaje",
    15,
@@ -29,7 +33,12 @@
    "De lunes a miércoles",
    "Tarjeta Cencosud",
    {
-    "conf": "of"
+    "conf": "of",
+    "dias": [
+     1,
+     2,
+     3
+    ]
    }
   ],
   [
@@ -48,9 +57,9 @@
    }
   ],
   [
-   "LIMAGAS_CAJAGENERAL.png",
+   "Limagas",
    "Tarjeta Cencosud",
-   "precio",
+   "monto",
    10.0,
    0,
    "",
@@ -63,7 +72,7 @@
    }
   ],
   [
-   "MAKOTO_CAJAGENERAL.png",
+   "Makoto",
    "Tarjeta Cencosud",
    "porcentaje",
    20,
@@ -78,7 +87,7 @@
    }
   ],
   [
-   "TOYSMASTER_CAJAGENERAL.png",
+   "Toy Master",
    "Tarjeta Cencosud",
    "porcentaje",
    15,
@@ -93,7 +102,7 @@
    }
   ],
   [
-   "KILO_CAJAGENERAL.png",
+   "Kilo",
    "Tarjeta Cencosud",
    "porcentaje",
    20,
@@ -108,7 +117,7 @@
    }
   ],
   [
-   "CINEPOLIS_CAJAGENERAL.png",
+   "Cinépolis",
    "Tarjeta Cencosud",
    "precio",
    10.0,
@@ -119,11 +128,17 @@
    "En entrada 2D y XE. Solo para películas sin restricción. Válido de lunes a jueves.",
    "Tarjeta Cencosud",
    {
-    "conf": "of"
+    "conf": "of",
+    "dias": [
+     1,
+     2,
+     3,
+     4
+    ]
    }
   ],
   [
-   "RUTINACAFE1_CAJAGENERAL.png",
+   "Rutina Café",
    "Tarjeta Cencosud",
    "porcentaje",
    20,
@@ -138,7 +153,7 @@
    }
   ],
   [
-   "KION_CAJAGENERAL.png",
+   "Kion Peruvian Chinese",
    "Tarjeta Cencosud",
    "porcentaje",
    20,
@@ -153,7 +168,7 @@
    }
   ],
   [
-   "TERMINALPESQUERO_CAJAGENERAL.png",
+   "Terminal Pesquero",
    "Tarjeta Cencosud",
    "porcentaje",
    20,
@@ -168,7 +183,7 @@
    }
   ],
   [
-   "RUSTICA_CAJAGENERAL.png",
+   "Rustica",
    "Tarjeta Cencosud",
    "porcentaje",
    20,
@@ -176,21 +191,6 @@
    "",
    "",
    "En la carta de pollos y peruanitos.",
-   "Pide el descuento en caja con tu Tarjeta Cencosud",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Metro",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   90,
-   0,
-   "",
-   "",
-   "Por compras de 12 a 36 cuotas.",
    "Pide el descuento en caja con tu Tarjeta Cencosud",
    "Tarjeta Cencosud",
    {
@@ -224,7 +224,10 @@
    "Domingo 10% de dscto adicional",
    "Tarjeta Cencosud",
    {
-    "conf": "of"
+    "conf": "of",
+    "dias": [
+     0
+    ]
    }
   ],
   [
@@ -239,7 +242,10 @@
    "Sábado 10% de dscto adicional",
    "Tarjeta Cencosud",
    {
-    "conf": "of"
+    "conf": "of",
+    "dias": [
+     6
+    ]
    }
   ],
   [
@@ -254,7 +260,10 @@
    "Viernes 10% de dscto adicional",
    "Tarjeta Cencosud",
    {
-    "conf": "of"
+    "conf": "of",
+    "dias": [
+     5
+    ]
    }
   ],
   [
@@ -284,7 +293,10 @@
    "Miércoles 5% de dscto adicional en leches · No válido para leches maternizadas",
    "Tarjeta Cencosud",
    {
-    "conf": "of"
+    "conf": "of",
+    "dias": [
+     3
+    ]
    }
   ],
   [
@@ -299,7 +311,10 @@
    "Martes 10% de dscto adicional",
    "Tarjeta Cencosud",
    {
-    "conf": "of"
+    "conf": "of",
+    "dias": [
+     2
+    ]
    }
   ],
   [
@@ -314,11 +329,14 @@
    "Lunes 10% de dscto adicional",
    "Tarjeta Cencosud",
    {
-    "conf": "of"
+    "conf": "of",
+    "dias": [
+     1
+    ]
    }
   ],
   [
-   "BALIQ1_CAJAGENERAL.png",
+   "Baliq",
    "Tarjeta Cencosud",
    "porcentaje",
    10,
@@ -333,7 +351,7 @@
    }
   ],
   [
-   "HUSHPUPPIES_CAJAGENERAL.png",
+   "Hush Puppies",
    "Tarjeta Cencosud",
    "porcentaje",
    20,
@@ -363,14 +381,14 @@
    }
   ],
   [
-   "LAVACALOCA_CAJAGENERAL.png",
+   "La Vaca Loca",
    "Tarjeta Cencosud",
    "porcentaje",
    20,
    0,
    "",
    "",
-   "La Vaca Loca",
+   "En la carta.",
    "Pide el descuento en caja con tu Tarjeta Cencosud",
    "Tarjeta Cencosud",
    {
@@ -408,7 +426,7 @@
    }
   ],
   [
-   "PIKALO_CAJAGENERAL.png",
+   "Pikalo",
    "Tarjeta Cencosud",
    "porcentaje",
    20,
@@ -423,7 +441,7 @@
    }
   ],
   [
-   "LAPICCOLINA_CAJAGENERAL.png",
+   "La Piccolina",
    "Tarjeta Cencosud",
    "porcentaje",
    45,
@@ -438,7 +456,7 @@
    }
   ],
   [
-   "MIKAELA_CAJAGENERAL.png",
+   "Mikaela",
    "Tarjeta Cencosud",
    "porcentaje",
    20,
@@ -453,7 +471,7 @@
    }
   ],
   [
-   "SANDMONSTRUOS_CAJAGENERAL.png",
+   "Sándwiches Monstruos",
    "Tarjeta Cencosud",
    "porcentaje",
    20,
@@ -468,7 +486,7 @@
    }
   ],
   [
-   "Caja-Web-BigBox.jpg",
+   "BigBox",
    "Tarjeta Cencosud",
    "porcentaje",
    10,
@@ -483,14 +501,14 @@
    }
   ],
   [
-   "RASSON_CAJAGAGENERAL.png",
+   "Rasson",
    "Tarjeta Cencosud",
-   "precio",
-   92.0,
+   "porcentaje",
+   30,
    0,
    "",
    "",
-   "Rasson",
+   "30% de descuento en pollo + papas + ensalada.",
    "Pide el descuento en caja con tu Tarjeta Cencosud",
    "Tarjeta Cencosud",
    {
@@ -509,26 +527,14 @@
    "Todos los lunes en supermercados",
    "Tarjeta Cencosud",
    {
-    "conf": "of"
+    "conf": "of",
+    "dias": [
+     1
+    ]
    }
   ],
   [
-   "Metro",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   90,
-   0,
-   "",
-   "",
-   "En Electro. Válido tambien en Metro Almacén, no válido en Metro.pe y app Metro. Aplica para compras de 12 a 36 cuotas en Electro y Tecnologí",
-   "En Electro. Válido tambien en Metro Almacén, no válido en Metro.pe y app Metro. Aplica para compras de 12 a 36 cuotas en Electro y Tecnología.",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "NOMADA1_CAJAGENERAL.png",
+   "Nómada",
    "Tarjeta Cencosud",
    "porcentaje",
    50,
@@ -539,11 +545,19 @@
    "En la carta. Válido de lunes a sábado.",
    "Tarjeta Cencosud",
    {
-    "conf": "of"
+    "conf": "of",
+    "dias": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6
+    ]
    }
   ],
   [
-   "Cajas-web-WONG-BISTRÓ_786x420.png",
+   "Wong",
    "Tarjeta Cencosud",
    "porcentaje",
    25,
@@ -558,7 +572,7 @@
    }
   ],
   [
-   "SOPRENDELIMA_CAJAGENERAL.png",
+   "Sorprende Lima",
    "Tarjeta Cencosud",
    "porcentaje",
    20,
@@ -573,7 +587,7 @@
    }
   ],
   [
-   "REPUBLICACAFE_CAJAGENERAL.png",
+   "República Café",
    "Tarjeta Cencosud",
    "porcentaje",
    50,
@@ -588,7 +602,7 @@
    }
   ],
   [
-   "PERFUMERIASUNID_CAJAGENERAL.png",
+   "Perfumerías Unidas",
    "Tarjeta Cencosud",
    "porcentaje",
    25,
@@ -603,7 +617,7 @@
    }
   ],
   [
-   "Wanta1-Caja-web-786x420-1.png",
+   "Wanta",
    "Tarjeta Cencosud",
    "precio",
    19.9,
@@ -618,7 +632,7 @@
    }
   ],
   [
-   "Wanta-Caja-web-Para-2-786x420-1.png",
+   "Wanta",
    "Tarjeta Cencosud",
    "precio",
    38.9,
@@ -633,22 +647,26 @@
    }
   ],
   [
-   "Cajas-Web-MARTES-TE-DEVOLVEMOS-100_13-al-31-Enero_786-x-420.",
+   "Wong",
    "Tarjeta Cencosud",
-   "precio",
+   "monto",
    100.0,
-   500.0,
+   0,
    "",
    "",
    "Te devolvemos",
    "Todos los martes por compras desde S/500 en Wong con Tarjeta Cencosud.",
    "Tarjeta Cencosud",
    {
-    "conf": "of"
+    "conf": "of",
+    "dias": [
+     2
+    ],
+    "min": 500.0
    }
   ],
   [
-   "REDBUS_CAJAGENERAL.png",
+   "redBus",
    "Tarjeta Cencosud",
    "porcentaje",
    10,
@@ -663,14 +681,14 @@
    }
   ],
   [
-   "MT2_CAJAGENERAL-pizza-grande-8-cortes.png",
+   "Mamma Tomato",
    "Tarjeta Cencosud",
    "precio",
    29.9,
    44.9,
    "",
    "",
-   "Mamma Tomato",
+   "1 Pizza grande de 8 slices, sabor American Di Roma o Diavola Peperoni a S/29.90",
    "Pide el descuento en caja con tu Tarjeta Cencosud",
    "Tarjeta Cencosud",
    {
@@ -678,7 +696,7 @@
    }
   ],
   [
-   "EMBARCADERO41_GENERAL.png",
+   "Embarcadero 41",
    "Tarjeta Cencosud",
    "porcentaje",
    20,
@@ -693,7 +711,7 @@
    }
   ],
   [
-   "DONDEWALTER-CAJAGENERAL.png",
+   "Donde Walter",
    "Tarjeta Cencosud",
    "porcentaje",
    15,
@@ -708,7 +726,7 @@
    }
   ],
   [
-   "LAMORA_CAJAGENERAL-1.png",
+   "La Mora",
    "Tarjeta Cencosud",
    "porcentaje",
    50,
@@ -749,13 +767,16 @@
    "Todos los jueves en restaurantes",
    "Tarjeta Cencosud",
    {
-    "conf": "of"
+    "conf": "of",
+    "dias": [
+     4
+    ]
    }
   ],
   [
-   "Caja-web-PRIMAX-786x420-1.png",
+   "Primax",
    "Tarjeta Cencosud",
-   "precio",
+   "monto",
    1.5,
    0,
    "",
@@ -768,7 +789,7 @@
    }
   ],
   [
-   "Cajas-web-WONG-DE_01-al-31-Dic_786x420_Viernes.png",
+   "Wong",
    "Tarjeta Cencosud",
    "porcentaje",
    10,
@@ -779,11 +800,14 @@
    "Viernes",
    "Tarjeta Cencosud",
    {
-    "conf": "of"
+    "conf": "of",
+    "dias": [
+     5
+    ]
    }
   ],
   [
-   "Cajas-Web-DESPLEGABLE-Wong_786x420_Jueves.png",
+   "Wong",
    "Tarjeta Cencosud",
    "porcentaje",
    20,
@@ -794,7 +818,10 @@
    "Jueves",
    "Tarjeta Cencosud",
    {
-    "conf": "of"
+    "conf": "of",
+    "dias": [
+     4
+    ]
    }
   ],
   [
@@ -813,14 +840,14 @@
    }
   ],
   [
-   "MT1_CAJAGENERAL-15.png",
+   "Mamma Tomato",
    "Tarjeta Cencosud",
    "porcentaje",
    15,
    0,
    "",
    "",
-   "Mamma Tomato",
+   "En la carta.",
    "Pide el descuento en caja con tu Tarjeta Cencosud",
    "Tarjeta Cencosud",
    {
@@ -873,14 +900,14 @@
    }
   ],
   [
-   "SHIMAYA-CAJA-GENERAL.jpg",
+   "Shimaya Ramen",
    "Tarjeta Cencosud",
    "porcentaje",
    20,
    0,
    "",
    "",
-   "Shimaya Ramen",
+   "En la carta.",
    "Pide el descuento en caja con tu Tarjeta Cencosud",
    "Tarjeta Cencosud",
    {
@@ -933,7 +960,7 @@
    }
   ],
   [
-   "FAUNA_CAJAGENERAL.png",
+   "Fauna",
    "Tarjeta Cencosud",
    "porcentaje",
    50,
@@ -948,7 +975,7 @@
    }
   ],
   [
-   "SHINUA_CAJAGENERAL.png",
+   "Shi-Nuá",
    "Tarjeta Cencosud",
    "porcentaje",
    50,
@@ -1068,7 +1095,7 @@
    }
   ],
   [
-   "BACOVACA_CAJAGENERAL.png",
+   "Baco & Vaca",
    "Tarjeta Cencosud",
    "porcentaje",
    50,
@@ -1083,52 +1110,7 @@
    }
   ],
   [
-   "Caja-web-La-Curacao-786x420-1.png",
-   "Tarjeta Cencosud",
-   "precio",
-   799.0,
-   0,
-   "",
-   "",
-   "cuotas sin intereses",
-   "En tiendas físicas y la web. Válido para compras desde S/799.",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Caja-web-EFE-786X420.png",
-   "Tarjeta Cencosud",
-   "precio",
-   799.0,
-   0,
-   "",
-   "",
-   "Cuotas Sin Intereses",
-   "En tiendas físicas y la web. Válido para compras desde S/799.",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Caja-web-CARSE-Y-EL-GALLO-MAS-GALLO-786x420-1.png",
-   "Tarjeta Cencosud",
-   "precio",
-   799.0,
-   0,
-   "",
-   "",
-   "Carsa, El Gallo más Gallo y Marcimex",
-   "Pide el descuento en caja con tu Tarjeta Cencosud",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "JUMPSPOT1_CAJAGENERAL.png",
+   "Jump Spot",
    "Tarjeta Cencosud",
    "porcentaje",
    25,
@@ -1158,7 +1140,7 @@
    }
   ],
   [
-   "CAJA-WEB_DETALLE_RallyKart.webp",
+   "Rally Kart",
    "Tarjeta Cencosud",
    "porcentaje",
    50,
@@ -1173,14 +1155,14 @@
    }
   ],
   [
-   "DIVERTICENTER-GENERAL.webp",
+   "Diverticenter",
    "Tarjeta Cencosud",
    "precio",
    60.0,
    0,
    "",
    "",
-   "Diverticenter",
+   "Recarga",
    "Pide el descuento en caja con tu Tarjeta Cencosud",
    "Tarjeta Cencosud",
    {
@@ -1188,7 +1170,7 @@
    }
   ],
   [
-   "ROSATEL_CAJAGENERAL.png",
+   "Rosatel",
    "Tarjeta Cencosud",
    "porcentaje",
    20,
@@ -1203,7 +1185,7 @@
    }
   ],
   [
-   "FBOOM1_CAJAGENERAL-25.png",
+   "Florería Bloom",
    "Tarjeta Cencosud",
    "porcentaje",
    25,
@@ -1218,7 +1200,7 @@
    }
   ],
   [
-   "EFPERF_CAJAGENERAL.png",
+   "EF Perfumes",
    "Tarjeta Cencosud",
    "porcentaje",
    15,
@@ -1233,7 +1215,7 @@
    }
   ],
   [
-   "I-RUN_CAJAGENERAL.png",
+   "I Run",
    "Tarjeta Cencosud",
    "porcentaje",
    25,
@@ -1248,7 +1230,7 @@
    }
   ],
   [
-   "BUBBA1_CAJAGENERAL.png",
+   "Bubba",
    "Tarjeta Cencosud",
    "porcentaje",
    20,
@@ -1263,7 +1245,7 @@
    }
   ],
   [
-   "BATA1_CAJAGENERAL-PE-PF3FAQHA.png",
+   "Bata",
    "Tarjeta Cencosud",
    "porcentaje",
    20,
@@ -1278,7 +1260,7 @@
    }
   ],
   [
-   "VICTORIA_CAJAGENERAL.png",
+   "Victoria's Secret",
    "Tarjeta Cencosud",
    "porcentaje",
    10,
@@ -1293,22 +1275,26 @@
    }
   ],
   [
-   "Caja-web-Mercado-Libre-786x420-1.png",
+   "Mercado Libre",
    "Tarjeta Cencosud",
-   "precio",
-   499.0,
+   "porcentaje",
+   15,
    0,
    "",
    "",
-   "Mercado Libre",
+   "desct.",
    "Todos los Martes por compras desde S/499",
    "Tarjeta Cencosud",
    {
-    "conf": "of"
+    "conf": "of",
+    "dias": [
+     2
+    ],
+    "min": 499.0
    }
   ],
   [
-   "BATH-BODY_CAJAGENERAL.png",
+   "Bath & Body Works",
    "Tarjeta Cencosud",
    "porcentaje",
    15,
@@ -1338,7 +1324,7 @@
    }
   ],
   [
-   "TRIATHLON1_CAJAGENERAL.png",
+   "Triathlon Sport",
    "Tarjeta Cencosud",
    "porcentaje",
    20,
@@ -1346,21 +1332,6 @@
    "",
    "",
    "En la tienda online. Código: BTSCENCOSUD.",
-   "Pide el descuento en caja con tu Tarjeta Cencosud",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Campana-Siempre-mas-Efe-y-Curacao-caja-web-786x420-1.webp",
-   "Tarjeta Cencosud",
-   "precio",
-   799.0,
-   0,
-   "",
-   "",
-   "La Curacao y Tienda Efe",
    "Pide el descuento en caja con tu Tarjeta Cencosud",
    "Tarjeta Cencosud",
    {
@@ -1383,7 +1354,7 @@
    }
   ],
   [
-   "IMPLANTES-CAJAGENERAL.png",
+   "Virtual Dent",
    "Tarjeta Cencosud",
    "porcentaje",
    50,
@@ -1398,7 +1369,7 @@
    }
   ],
   [
-   "CURACION-CAJAGENERAL.png",
+   "Virtual Dent",
    "Tarjeta Cencosud",
    "porcentaje",
    20,
@@ -1503,7 +1474,7 @@
    }
   ],
   [
-   "CRUZDELSUR_Viajes_DETALLE.webp",
+   "Cruz del Sur",
    "Tarjeta Cencosud",
    "porcentaje",
    15,
@@ -1518,7 +1489,7 @@
    }
   ],
   [
-   "HLD2_CAJAGENERAL-20.png",
+   "Hotel Las Dunas",
    "Tarjeta Cencosud",
    "porcentaje",
    20,
@@ -1529,11 +1500,15 @@
    "En la tarifa rack de alojamiento, viernes y sábado. Incluye desayuno buffet.",
    "Tarjeta Cencosud",
    {
-    "conf": "of"
+    "conf": "of",
+    "dias": [
+     5,
+     6
+    ]
    }
   ],
   [
-   "HLD1_CAJAGENERAL-25.png",
+   "Hotel Las Dunas",
    "Tarjeta Cencosud",
    "porcentaje",
    25,
@@ -1544,7 +1519,14 @@
    "En la tarifa rack de alojamiento, de domingo a jueves. incluye desayuno buffet.",
    "Tarjeta Cencosud",
    {
-    "conf": "of"
+    "conf": "of",
+    "dias": [
+     0,
+     1,
+     2,
+     3,
+     4
+    ]
    }
   ],
   [
@@ -1559,11 +1541,14 @@
    "Todos los Lunes por compras desde $499.",
    "Tarjeta Cencosud",
    {
-    "conf": "of"
+    "conf": "of",
+    "dias": [
+     1
+    ]
    }
   ],
   [
-   "Juntoz-CYBER-FEST-Caja-web-786x420-1.png",
+   "Juntoz",
    "Tarjeta Cencosud",
    "porcentaje",
    15,
@@ -1574,11 +1559,14 @@
    "Jueves de Juntoz en compras online. Nombre del cupón: DIACENCO",
    "Tarjeta Cencosud",
    {
-    "conf": "of"
+    "conf": "of",
+    "dias": [
+     4
+    ]
    }
   ],
   [
-   "La-Curacao-CYBER-FEST-Caja-web-786x420-1.png",
+   "Curacao",
    "Tarjeta Cencosud",
    "porcentaje",
    15,
@@ -1589,11 +1577,14 @@
    "Viernes de La Curacao en compras online. Nombre del cupón: DIACENCO",
    "Tarjeta Cencosud",
    {
-    "conf": "of"
+    "conf": "of",
+    "dias": [
+     5
+    ]
    }
   ],
   [
-   "Efe-CYBER-FEST-Caja-web-786x420-1.png",
+   "EFE",
    "Tarjeta Cencosud",
    "porcentaje",
    15,
@@ -1604,11 +1595,14 @@
    "Miércoles de EFE en compras online. Nombre del cupón: CENCO120",
    "Tarjeta Cencosud",
    {
-    "conf": "of"
+    "conf": "of",
+    "dias": [
+     3
+    ]
    }
   ],
   [
-   "PROBELA_CAJAGENERAL.png",
+   "Probela",
    "Tarjeta Cencosud",
    "porcentaje",
    25,
@@ -1623,7 +1617,7 @@
    }
   ],
   [
-   "CABIFY-JUNIO-CAJA-GENERAL-scaled.jpg",
+   "Cabify",
    "Tarjeta Cencosud",
    "porcentaje",
    40,
