@@ -28,11 +28,11 @@ def revisar(fuente, filas, previo, historial):
         return
     antes = len(previo['filas']) if previo else sum(
         1 for r in leer_json(DATA / 'base.json')['filas'] if fuente['propias'](r))
-    # Si 3 de las últimas 5 lecturas coinciden, esa es la cantidad normal de la página hoy: así una sola
-    # lectura inflada no deja la fuente congelada para siempre, y una caída de un par de días sigue frenándose.
-    if len(historial) >= 3:
-        antes = sorted(historial)[len(historial) // 2]
-    if antes >= 8 and n < antes * 0.5:
+    # Si esta lectura y al menos otras 2 de las últimas 5 se parecen (difieren menos de 30 %), la página de verdad
+    # trae esa cantidad ahora: así una lectura inflada no congela la fuente para siempre, pero lecturas que no
+    # coinciden entre sí (5, 10, 20…) siguen frenándose.
+    parecidas = [m for m in historial if min(m, n) >= max(m, n) * 0.7]
+    if antes >= 8 and n < antes * 0.5 and len(parecidas) < 3:
         raise RuntimeError(f'bajó de {antes} a {n} filas: probablemente cambió la página')
     if fuente.get('clave'):
         conocidos = locales_conocidos()
