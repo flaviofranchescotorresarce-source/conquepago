@@ -1,16 +1,16 @@
 {
  "id": "cuponatic",
- "leido": "2026-10-23T13:27",
+ "leido": "2026-10-24T09:36",
  "filas": [
   [
-   "Coney Park",
+   "Cineplanet",
    "Cuponatic",
    "precio",
-   39.9,
-   60.0,
+   47.9,
+   107.0,
    "",
    "",
-   "Últimas unidades",
+   "Cineplanet: 2 Entradas + Combo Gigante para 2 Todos los Días",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -35,22 +35,6 @@
    }
   ],
   [
-   "Cineplanet",
-   "Cuponatic",
-   "precio",
-   47.9,
-   107.0,
-   "",
-   "",
-   "Cineplanet: 2 Entradas + Combo Gigante para 2 Todos los Días",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
    "Juegos + Piscina – Rancho Aventura Park – CIENEGUILLA",
    "Cuponatic",
    "precio",
@@ -67,46 +51,46 @@
    }
   ],
   [
-   "Mr Jump",
+   "Coney Park",
    "Cuponatic",
    "precio",
-   27.9,
-   55.0,
-   "",
-   "",
-   "Parque Inflable Más Grande de Lima - Entrada General Mr Jump",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Vive la Adrenalina -Sesión de 6 Minutos Circuito -Euro Karts",
-   "Cuponatic",
-   "precio",
-   24.9,
-   35.0,
-   "",
-   "",
-   "6803 Vendidos",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Revisión Técnica para Auto ó Camioneta Categoría M1",
-   "Cuponatic",
-   "precio",
-   69.0,
+   59.9,
    130.0,
    "",
    "",
-   "REVISIONES TÉCNICAS ABC - ATE",
+   "2916 Vendidos",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Buffet Marino, Oriental y Criollo de Lunes a Domingo",
+   "Cuponatic",
+   "precio",
+   59.0,
+   0,
+   "",
+   "",
+   "Divino Mar Chorrillos",
+   "Buffet Marino, Oriental y Criollo de Lunes a Domingo",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "1 Entrada SUPER TONO NOVENTERO HALLOWEEN 2026!",
+   "Cuponatic",
+   "precio",
+   39.9,
+   64.0,
+   "",
+   "",
+   "Super Tono Noventero",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -147,15 +131,15 @@
    }
   ],
   [
-   "Patinaje Sobre Hielo en Lima Bajo Cero de Lunes a Domingo",
+   "Halloween Bestial 2026 con Barra libre en Miraflores",
    "Cuponatic",
    "precio",
-   39.9,
-   45.0,
+   79.9,
+   120.0,
    "",
    "",
-   "LIMA BAJO CERO",
-   "Patinaje Sobre Hielo en Lima Bajo Cero de Lunes a Domingo",
+   "Round Trip",
+   "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
     "conf": "of",
@@ -163,14 +147,14 @@
    }
   ],
   [
-   "Elige cuánto saltar: 30, 45 o 60 min en Supernova",
+   "Mr Jump",
    "Cuponatic",
    "precio",
-   25.0,
-   40.0,
+   27.9,
+   55.0,
    "",
    "",
-   "2265 Vendidos",
+   "Parque Inflable Más Grande de Lima - Entrada General Mr Jump",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -195,15 +179,15 @@
    }
   ],
   [
-   "Coney Park",
+   "Patinaje Sobre Hielo en Lima Bajo Cero de Lunes a Domingo",
    "Cuponatic",
    "precio",
-   59.9,
-   130.0,
+   39.9,
+   45.0,
    "",
    "",
-   "2906 Vendidos",
-   "Compra el cupón en Cuponatic",
+   "LIMA BAJO CERO",
+   "Patinaje Sobre Hielo en Lima Bajo Cero de Lunes a Domingo",
    "Cuponatic",
    {
     "conf": "of",
@@ -227,14 +211,14 @@
    }
   ],
   [
-   "City Tour Cusco + Transporte + Guía + 04 Ruinas y Más",
+   "Coney Park",
    "Cuponatic",
    "precio",
-   15.9,
-   0,
+   39.9,
+   60.0,
    "",
    "",
-   "JASTHY`N TRAVEL TOURS",
+   "Últimas unidades",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -243,14 +227,30 @@
    }
   ],
   [
-   "Noche para 2 hasta 9 Personas + Desayuno en Oxapampa",
+   "Revisión Técnica para Auto ó Camioneta Categoría M1",
    "Cuponatic",
    "precio",
-   169.0,
-   250.0,
+   69.0,
+   130.0,
    "",
    "",
-   "Cabañas El Pinar de Oxapampa",
+   "REVISIONES TÉCNICAS ABC - ATE",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Vive la Adrenalina -Sesión de 6 Minutos Circuito -Euro Karts",
+   "Cuponatic",
+   "precio",
+   24.9,
+   35.0,
+   "",
+   "",
+   "6805 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
