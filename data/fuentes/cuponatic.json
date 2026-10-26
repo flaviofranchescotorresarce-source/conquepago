@@ -1,16 +1,16 @@
 {
  "id": "cuponatic",
- "leido": "2026-10-25T09:57",
+ "leido": "2026-10-26T12:25",
  "filas": [
   [
-   "Granja Fundo San Vicente",
+   "Halloween Bestial 2026 con Barra libre en Miraflores",
    "Cuponatic",
    "precio",
-   44.9,
-   59.0,
+   79.9,
+   120.0,
    "",
    "",
-   "Full Day en Granja Interactiva Fundo San Vicente",
+   "Round Trip",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -35,54 +35,6 @@
    }
   ],
   [
-   "Full Day de Lun a Vier - Niño o Adulto + Vale en La Fogata",
-   "Cuponatic",
-   "precio",
-   19.9,
-   0,
-   "",
-   "",
-   "CLUB RESORT LA FOGATA",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Buffet Marino, Oriental y Criollo de Lunes a Domingo",
-   "Cuponatic",
-   "precio",
-   59.0,
-   0,
-   "",
-   "",
-   "Divino Mar Chorrillos",
-   "Buffet Marino, Oriental y Criollo de Lunes a Domingo",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "TODAS LAS SEDES - Juega 30 o 60 Minutos en JUMP SPOT",
-   "Cuponatic",
-   "precio",
-   19.9,
-   35.0,
-   "",
-   "",
-   "Jump Spot Perú",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
    "La Bistecca",
    "Cuponatic",
    "precio",
@@ -99,14 +51,62 @@
    }
   ],
   [
-   "Halloween Bestial 2026 con Barra libre en Miraflores",
+   "Revisión Técnica para Auto ó Camioneta Categoría M1",
    "Cuponatic",
    "precio",
-   79.9,
+   69.0,
+   130.0,
+   "",
+   "",
+   "REVISIONES TÉCNICAS ABC - ATE",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Full Day de Lun a Vier - Niño o Adulto + Vale en La Fogata",
+   "Cuponatic",
+   "precio",
+   19.9,
+   0,
+   "",
+   "",
+   "CLUB RESORT LA FOGATA",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "2 Entradas + Bebidas a Espectáculo Folklore en La Candelaria",
+   "Cuponatic",
+   "precio",
+   69.9,
+   124.0,
+   "",
+   "",
+   "1783 Vendidos",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "¡SPA DE LUJO! 60 minutos de Masaje + Aceites",
+   "Cuponatic",
+   "precio",
+   89.9,
    120.0,
    "",
    "",
-   "Round Trip",
+   "Q Spa Wellness",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -122,7 +122,7 @@
    130.0,
    "",
    "",
-   "2929 Vendidos",
+   "2942 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -147,14 +147,14 @@
    }
   ],
   [
-   "Juegos + Piscina – Rancho Aventura Park – CIENEGUILLA",
+   "Ronda Chozera para 02: 1 Cebiche + Arroz con mariscos y Más",
    "Cuponatic",
    "precio",
-   41.9,
-   0,
+   27.9,
+   85.0,
    "",
    "",
-   "¡Mejor precio!",
+   "La Choza Naútica Breña",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -211,14 +211,14 @@
    }
   ],
   [
-   "Revisión Técnica para Auto ó Camioneta Categoría M1",
+   "Sesión de Fotos Navideña Individual o Familiar",
    "Cuponatic",
    "precio",
-   69.0,
-   130.0,
+   29.9,
+   120.0,
    "",
    "",
-   "REVISIONES TÉCNICAS ABC - ATE",
+   "Happy Kids Miraflores",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -227,11 +227,11 @@
    }
   ],
   [
-   "Coney Park",
+   "¡Órale! Banquete Mexicano + Bebidas para 02 en El Mexicano",
    "Cuponatic",
    "precio",
-   39.9,
-   60.0,
+   64.9,
+   85.0,
    "",
    "",
    "Últimas unidades",
@@ -243,15 +243,15 @@
    }
   ],
   [
-   "Patinaje Sobre Hielo en Lima Bajo Cero de Lunes a Domingo",
+   "Limpieza Facial Profunda con Extracción en Blunt Spa",
    "Cuponatic",
    "precio",
-   39.9,
-   45.0,
+   49.0,
+   119.0,
    "",
    "",
-   "LIMA BAJO CERO",
-   "Patinaje Sobre Hielo en Lima Bajo Cero de Lunes a Domingo",
+   "35 Vendidos",
+   "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
     "conf": "of",
