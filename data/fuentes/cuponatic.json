@@ -1,12 +1,28 @@
 {
  "id": "cuponatic",
- "leido": "2026-10-26T12:25",
+ "leido": "2026-10-27T11:43",
  "filas": [
+  [
+   "Cineplanet",
+   "Cuponatic",
+   "precio",
+   47.9,
+   107.0,
+   "",
+   "",
+   "Cineplanet: 2 Entradas + Combo Gigante para 2 Todos los Días",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
   [
    "Halloween Bestial 2026 con Barra libre en Miraflores",
    "Cuponatic",
    "precio",
-   79.9,
+   69.9,
    120.0,
    "",
    "",
@@ -19,14 +35,14 @@
    }
   ],
   [
-   "Cineplanet",
+   "Elige cuánto saltar: 30, 45 o 60 min en Supernova",
    "Cuponatic",
    "precio",
-   47.9,
-   107.0,
+   25.0,
+   40.0,
    "",
    "",
-   "Cineplanet: 2 Entradas + Combo Gigante para 2 Todos los Días",
+   "2265 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -51,78 +67,30 @@
    }
   ],
   [
-   "Revisión Técnica para Auto ó Camioneta Categoría M1",
-   "Cuponatic",
-   "precio",
-   69.0,
-   130.0,
-   "",
-   "",
-   "REVISIONES TÉCNICAS ABC - ATE",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Full Day de Lun a Vier - Niño o Adulto + Vale en La Fogata",
-   "Cuponatic",
-   "precio",
-   19.9,
-   0,
-   "",
-   "",
-   "CLUB RESORT LA FOGATA",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "2 Entradas + Bebidas a Espectáculo Folklore en La Candelaria",
-   "Cuponatic",
-   "precio",
-   69.9,
-   124.0,
-   "",
-   "",
-   "1783 Vendidos",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "¡SPA DE LUJO! 60 minutos de Masaje + Aceites",
-   "Cuponatic",
-   "precio",
-   89.9,
-   120.0,
-   "",
-   "",
-   "Q Spa Wellness",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
    "Coney Park",
    "Cuponatic",
    "precio",
-   59.9,
-   130.0,
+   19.9,
+   300.0,
    "",
    "",
-   "2942 Vendidos",
+   "Ronda Chozera para 02: 1 Cebiche + Arroz con mariscos y Más",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Rodizio",
+   "Cuponatic",
+   "precio",
+   89.9,
+   94.9,
+   "",
+   "",
+   "Buffet de Carnes ILIMITADAS + Salad Bar - RODIZIO",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -147,38 +115,6 @@
    }
   ],
   [
-   "Ronda Chozera para 02: 1 Cebiche + Arroz con mariscos y Más",
-   "Cuponatic",
-   "precio",
-   27.9,
-   85.0,
-   "",
-   "",
-   "La Choza Naútica Breña",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Mr Jump",
-   "Cuponatic",
-   "precio",
-   27.9,
-   55.0,
-   "",
-   "",
-   "Parque Inflable Más Grande de Lima - Entrada General Mr Jump",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
    "Cinemark",
    "Cuponatic",
    "precio",
@@ -195,43 +131,11 @@
    }
   ],
   [
-   "Vive la Adrenalina -Sesión de 6 Minutos Circuito -Euro Karts",
+   "¡Revisión Técnica para Auto Particular!  Sede Callao",
    "Cuponatic",
    "precio",
-   24.9,
-   35.0,
-   "",
-   "",
-   "6805 Vendidos",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Sesión de Fotos Navideña Individual o Familiar",
-   "Cuponatic",
-   "precio",
-   29.9,
-   120.0,
-   "",
-   "",
-   "Happy Kids Miraflores",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "¡Órale! Banquete Mexicano + Bebidas para 02 en El Mexicano",
-   "Cuponatic",
-   "precio",
-   64.9,
-   85.0,
+   49.99,
+   70.0,
    "",
    "",
    "Últimas unidades",
@@ -243,14 +147,62 @@
    }
   ],
   [
-   "Limpieza Facial Profunda con Extracción en Blunt Spa",
+   "Isushi",
    "Cuponatic",
    "precio",
-   49.0,
-   119.0,
+   54.9,
+   66.0,
    "",
    "",
-   "35 Vendidos",
+   "Barra de Libre de  Makis+ Alitas Isushi Sushi Bar",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "TODAS LAS SEDES - Juega 30 o 60 Minutos en JUMP SPOT",
+   "Cuponatic",
+   "precio",
+   19.9,
+   35.0,
+   "",
+   "",
+   "Jump Spot Perú",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "20 o 30 Cortes de A MAKIS + Vaso Gaseosa  A MAR CEVICHERIA",
+   "Cuponatic",
+   "precio",
+   19.9,
+   80.0,
+   "",
+   "",
+   "A La Mar Cevicheria",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Undercoating + Lavado de Chasis Opción para Auto o Camioneta",
+   "Cuponatic",
+   "precio",
+   69.0,
+   199.0,
+   "",
+   "",
+   "JYE MECANICA SAN BORJA",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {

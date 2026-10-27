@@ -1,6 +1,6 @@
 {
  "id": "cencosud",
- "leido": "2026-10-26T12:25",
+ "leido": "2026-10-27T11:43",
  "filas": [
   [
    "Wong",
@@ -1526,24 +1526,6 @@
      2,
      3,
      4
-    ]
-   }
-  ],
-  [
-   "Despegar",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   15,
-   0,
-   "",
-   "",
-   "Todos los Lunes por compras desde $499.",
-   "Todos los Lunes por compras desde $499.",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of",
-    "dias": [
-     1
     ]
    }
   ],
