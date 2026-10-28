@@ -1,70 +1,7 @@
 {
  "id": "telegram",
- "leido": "2026-10-27T11:43",
+ "leido": "2026-10-28T12:11",
  "filas": [
-  {
-   "f": "2026-10-26",
-   "t": "Tambo",
-   "o": "Promoción disponible en TIENDA",
-   "p": 0,
-   "r": 0,
-   "n": "O F E R T A · ❗️ · #tambo · ✔️ · Más info: · ‼️ · No requiere cupón, solo en base al stock de cada local. Máximo 3 promos por cliente · 🌐 · Locales, web y app TAMBO · 🔥 · Visto en · @concuponperu · ⚠️",
-   "u": "https://t.me/concuponperu/19311"
-  },
-  {
-   "f": "2026-10-26",
-   "t": "Bembos",
-   "o": "2 hamburguesas regulares de cualquier sabor a S/ 19.90",
-   "p": 19.9,
-   "r": 0,
-   "n": "O F E R T A · ❗️ · #bembos · ✔️ · Más info: · ‼️ · No requiere cupón, solo en base al stock de cada local. Puedss escoger: clásica, cheese, royal, churrita, a lo pobre, hawaiana, tumbay, mexicana, par",
-   "u": "https://t.me/concuponperu/19312"
-  },
-  {
-   "f": "2026-10-26",
-   "t": "Rappi",
-   "o": "2x1 en aceite 900ml PRIMOR",
-   "p": 0,
-   "r": 0,
-   "n": "O F E R T A · ❗️ · #rappi · ✔️ · ‼️ · Stock depende de cada tienda.  Comenta donde encuentras stock · 🌐 · TURBO desde RAPPI · 🔥 · Visto en · @concuponperu · ⚠️ · Válido hasta agotar stock",
-   "u": "https://t.me/concuponperu/19313"
-  },
-  {
-   "f": "2026-10-26",
-   "t": "Ripley",
-   "o": "Hasta 80% de descuento en productos seleccionados",
-   "p": 0,
-   "r": 0,
-   "n": "O F E R T A · ❗️ · #ripley · ✔️ · ‼️ · Stock depende de cada tienda. · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en · @concuponperu · ⚠️ · Válido hasta agotar stock",
-   "u": "https://t.me/concuponperu/19314"
-  },
-  {
-   "f": "2026-10-26",
-   "t": "Sodimac",
-   "o": "Mueble de Baño Ginebra Blanco + Espejo a",
-   "p": 129.9,
-   "r": 0,
-   "n": "O F E R T A · ❗️ · #sodimac · ✔️ · sólo S/ 129.90 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en · @concuponperu · ⚠️ · Válido hasta ago",
-   "u": "https://t.me/concuponperu/19315"
-  },
-  {
-   "f": "2026-10-26",
-   "t": "Falabella",
-   "o": "#falabella",
-   "p": 19.9,
-   "r": 0,
-   "n": "O F E R T A · ❗️ · ✔️ · Camisa Manga Larga Hombre Basement BASEMENT a · sólo S/ 19.90 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en · @",
-   "u": "https://t.me/concuponperu/19316"
-  },
-  {
-   "f": "2026-10-26",
-   "t": "Falabella",
-   "o": "#falabella",
-   "p": 9.9,
-   "r": 0,
-   "n": "O F E R T A · ❗️ · ✔️ · Lámpara Vietnam 45cm a · sólo S/ 9.90 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en · @concuponperu · ⚠️ · Váli",
-   "u": "https://t.me/concuponperu/19317"
-  },
   {
    "f": "2026-10-27",
    "t": "Falabella",
@@ -73,6 +10,42 @@
    "r": 0,
    "n": "O F E R T A · ❗️ · ✔️ · Hasta 80% de descuento en productos seleccionados · ‼️ · Stock depende de cada tienda. · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en · @concuponperu · ⚠️ · Válido hasta agotar sto",
    "u": "https://t.me/concuponperu/19318"
+  },
+  {
+   "f": "2026-10-28",
+   "t": "Falabella",
+   "o": "#falabella",
+   "p": 19.9,
+   "r": 0,
+   "n": "O F E R T A · ❗️ · ✔️ · Cortina De Baño Infantil Star a · sólo S/ 19.90 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en · @concuponperu ·",
+   "u": "https://t.me/concuponperu/19319"
+  },
+  {
+   "f": "2026-10-28",
+   "t": "Falabella",
+   "o": "#falabella",
+   "p": 24.9,
+   "r": 0,
+   "n": "O F E R T A · ❗️ · ✔️ · Manta Carlo a · sólo S/ 24.90 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en · @concuponperu · ⚠️ · Válido hasta",
+   "u": "https://t.me/concuponperu/19320"
+  },
+  {
+   "f": "2026-10-28",
+   "t": "Falabella",
+   "o": "#falabella",
+   "p": 0,
+   "r": 0,
+   "n": "O F E R T A · ❗️ · ✔️ · Hasta 70% de descuento en productos seleccionados · ‼️ · Stock depende de cada tienda. · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en · @concuponperu · ⚠️ · Válido hasta agotar sto",
+   "u": "https://t.me/concuponperu/19321"
+  },
+  {
+   "f": "2026-10-28",
+   "t": "Falabella",
+   "o": "#falabella",
+   "p": 29.9,
+   "r": 0,
+   "n": "O F E R T A · ❗️ · ✔️ · Casaca Deportiva Hombre Fratta a · sólo S/ 29.90 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en · @concuponperu ",
+   "u": "https://t.me/concuponperu/19322"
   }
  ]
 }
