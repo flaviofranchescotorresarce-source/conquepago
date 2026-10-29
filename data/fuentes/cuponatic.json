@@ -1,23 +1,7 @@
 {
  "id": "cuponatic",
- "leido": "2026-10-28T12:11",
+ "leido": "2026-10-29T12:27",
  "filas": [
-  [
-   "Elige cuánto saltar: 30, 45 o 60 min en Supernova",
-   "Cuponatic",
-   "precio",
-   25.0,
-   40.0,
-   "",
-   "",
-   "2269 Vendidos",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
   [
    "Cineplanet",
    "Cuponatic",
@@ -51,14 +35,14 @@
    }
   ],
   [
-   "2 Entradas + Bebidas a Espectáculo Folklore en La Candelaria",
+   "Elige cuánto saltar: 30, 45 o 60 min en Supernova",
    "Cuponatic",
    "precio",
-   49.9,
-   124.0,
+   25.0,
+   40.0,
    "",
    "",
-   "P. Normal",
+   "2269 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -67,53 +51,30 @@
    }
   ],
   [
-   "Ronda Chozera para 02: 1 Cebiche + Arroz con mariscos y Más",
+   "Revisión Técnica para Auto ó Camioneta Categoría M1",
    "Cuponatic",
    "precio",
-   19.9,
-   85.0,
-   "",
-   "",
-   "La Choza Naútica Breña",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Patinaje Sobre Hielo en Lima Bajo Cero de Lunes a Viernes -",
-   "Cuponatic",
-   "precio",
-   15.9,
-   20.0,
-   "",
-   "",
-   "LIMA BAJO CERO",
-   "Patinaje Sobre Hielo en Lima Bajo Cero de Lunes a Viernes -",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima",
-    "dias": [
-     1,
-     2,
-     3,
-     4,
-     5
-    ]
-   }
-  ],
-  [
-   "Coney Park",
-   "Cuponatic",
-   "precio",
-   59.9,
+   69.0,
    130.0,
    "",
    "",
-   "2950 Vendidos",
+   "REVISIONES TÉCNICAS ABC - ATE",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "1 Entrada SUPER TONO NOVENTERO HALLOWEEN 2026!",
+   "Cuponatic",
+   "precio",
+   39.9,
+   64.0,
+   "",
+   "",
+   "Super Tono Noventero",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -138,14 +99,78 @@
    }
   ],
   [
-   "TODAS LAS SEDES - Juega 30 o 60 Minutos en JUMP SPOT",
+   "Rodizio",
    "Cuponatic",
    "precio",
-   19.9,
-   35.0,
+   89.9,
+   94.9,
    "",
    "",
-   "Jump Spot Perú",
+   "Buffet de Carnes ILIMITADAS + Salad Bar - RODIZIO",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Coney Park",
+   "Cuponatic",
+   "precio",
+   59.9,
+   130.0,
+   "",
+   "",
+   "2954 Vendidos",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "BUFFET INTERNACIONAL: Almuerzo ó Cena Bailable",
+   "Cuponatic",
+   "precio",
+   54.9,
+   60.0,
+   "",
+   "",
+   "Buffet Internacional Mandarín",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Sweet Spa Para 1 o 2 - 1 Hora Masaje Cuerpo Completo y Más",
+   "Cuponatic",
+   "precio",
+   89.9,
+   180.0,
+   "",
+   "",
+   "Revive Massage Perú",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Granja Fundo San Vicente",
+   "Cuponatic",
+   "precio",
+   44.9,
+   59.0,
+   "",
+   "",
+   "Full Day en Granja Interactiva Fundo San Vicente",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -170,14 +195,14 @@
    }
   ],
   [
-   "Entrada para Obra Teatral “HOGAR DULCE HOGAR”| Octubre",
+   "Mr Jump",
    "Cuponatic",
    "precio",
-   29.9,
-   45.9,
+   27.9,
+   55.0,
    "",
    "",
-   "Mever Producciones",
+   "Parque Inflable Más Grande de Lima - Entrada General Mr Jump",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -186,14 +211,30 @@
    }
   ],
   [
-   "¡Volvió! “Mujer que No Jode, es Hombre” en Barranco",
+   "Spa para 1 o 2 + Sauna a Vapor o Hidromasaje",
+   "Cuponatic",
+   "precio",
+   159.0,
+   300.0,
+   "",
+   "",
+   "Q Spa Wellness",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Licencia permanente de Office 2021 Pro Plus-1 Equipo",
    "Cuponatic",
    "precio",
    19.9,
-   60.0,
+   37.9,
    "",
    "",
-   "Milagros Porturas",
+   "COMPU GAMES",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
