@@ -1,31 +1,28 @@
 {
  "id": "papajohns",
- "leido": "2026-10-29T12:27",
+ "leido": "2026-10-30T12:02",
  "filas": [
   [
    "Papa Johns",
    "Web/app de la marca",
    "precio",
    35.9,
-   91.8,
+   83.8,
    "",
    "",
    "1 pizza grande clásica mas gaseosa de 1LT con 3 rolls de pepperoni",
-   "Miercoles de Signature Familiar",
+   "Promo de la web y app de Papa Johns",
    "Web/app de la marca",
    {
     "conf": "of",
-    "canal": "A",
-    "dias": [
-     3
-    ]
+    "canal": "A"
    }
   ],
   [
    "Papa Johns",
    "Web/app de la marca",
    "precio",
-   59.9,
+   79.9,
    183.6,
    "",
    "",

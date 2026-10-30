@@ -1,23 +1,7 @@
 {
  "id": "cuponatic",
- "leido": "2026-10-29T12:27",
+ "leido": "2026-10-30T12:02",
  "filas": [
-  [
-   "Cineplanet",
-   "Cuponatic",
-   "precio",
-   47.9,
-   107.0,
-   "",
-   "",
-   "Cineplanet: 2 Entradas + Combo Gigante para 2 Todos los Días",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
   [
    "La Bistecca",
    "Cuponatic",
@@ -35,14 +19,14 @@
    }
   ],
   [
-   "Elige cuánto saltar: 30, 45 o 60 min en Supernova",
+   "1 Entrada ZONA GENERAL| SUPER TONO NOVENTERO HALLOWEEN 2026",
    "Cuponatic",
    "precio",
-   25.0,
-   40.0,
+   29.9,
+   64.0,
    "",
    "",
-   "2269 Vendidos",
+   "Super Tono Noventero",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -67,14 +51,30 @@
    }
   ],
   [
-   "1 Entrada SUPER TONO NOVENTERO HALLOWEEN 2026!",
+   "Cineplanet",
    "Cuponatic",
    "precio",
-   39.9,
-   64.0,
+   47.9,
+   107.0,
    "",
    "",
-   "Super Tono Noventero",
+   "Cineplanet: 2 Entradas + Combo Gigante para 2 Todos los Días",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Elige cuánto saltar: 30, 45 o 60 min en Supernova",
+   "Cuponatic",
+   "precio",
+   25.0,
+   40.0,
+   "",
+   "",
+   "2272 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -122,7 +122,7 @@
    130.0,
    "",
    "",
-   "2954 Vendidos",
+   "2964 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -227,14 +227,14 @@
    }
   ],
   [
-   "Licencia permanente de Office 2021 Pro Plus-1 Equipo",
+   "Limpieza Facial Profunda con Extracción en Blunt Spa",
    "Cuponatic",
    "precio",
-   19.9,
-   37.9,
+   49.0,
+   119.0,
    "",
    "",
-   "COMPU GAMES",
+   "35 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
