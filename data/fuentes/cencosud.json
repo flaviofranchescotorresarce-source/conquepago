@@ -1,6 +1,6 @@
 {
  "id": "cencosud",
- "leido": "2026-10-30T12:02",
+ "leido": "2026-10-31T11:08",
  "filas": [
   [
    "Wong",
@@ -625,21 +625,6 @@
    "",
    "",
    "Combo personal: 1 Mostro (Casero o Apanado)",
-   "Pide el descuento en caja con tu Tarjeta Cencosud",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Wanta",
-   "Tarjeta Cencosud",
-   "precio",
-   38.9,
-   0,
-   "",
-   "",
-   "Combo para dos: 2 Mostro (Casero o Apanado)",
    "Pide el descuento en caja con tu Tarjeta Cencosud",
    "Tarjeta Cencosud",
    {
