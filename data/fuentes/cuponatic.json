@@ -1,7 +1,23 @@
 {
  "id": "cuponatic",
- "leido": "2026-10-31T11:08",
+ "leido": "2026-11-01T12:09",
  "filas": [
+  [
+   "Mr Jump",
+   "Cuponatic",
+   "precio",
+   27.9,
+   55.0,
+   "",
+   "",
+   "Parque Inflable Más Grande de Lima - Entrada General Mr Jump",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
   [
    "Cineplanet",
    "Cuponatic",
@@ -11,22 +27,6 @@
    "",
    "",
    "Cineplanet: 2 Entradas + Combo Gigante para 2 Todos los Días",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Coney Park",
-   "Cuponatic",
-   "precio",
-   59.9,
-   130.0,
-   "",
-   "",
-   "2970 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -51,14 +51,14 @@
    }
   ],
   [
-   "Salta 60, 90, 120 Minutos o Full Day de L - D en 3 Locales",
+   "Coney Park",
    "Cuponatic",
    "precio",
-   21.9,
-   26.0,
+   59.9,
+   130.0,
    "",
    "",
-   "Flying Squirrel",
+   "2996 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -67,15 +67,15 @@
    }
   ],
   [
-   "1 Entrada ZONA GENERAL| SUPER TONO NOVENTERO HALLOWEEN 2026",
+   "Patinaje Sobre Hielo en Lima Bajo Cero de Lunes a Domingo",
    "Cuponatic",
    "precio",
-   29.9,
-   64.0,
+   39.9,
+   45.0,
    "",
    "",
-   "Super Tono Noventero",
-   "Compra el cupón en Cuponatic",
+   "LIMA BAJO CERO",
+   "Patinaje Sobre Hielo en Lima Bajo Cero de Lunes a Domingo",
    "Cuponatic",
    {
     "conf": "of",
@@ -90,7 +90,7 @@
    40.0,
    "",
    "",
-   "2280 Vendidos",
+   "2298 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -115,14 +115,14 @@
    }
   ],
   [
-   "Mr Jump",
+   "Salta 60, 90, 120 Minutos o Full Day de L - D en 3 Locales",
    "Cuponatic",
    "precio",
-   27.9,
-   55.0,
+   21.9,
+   26.0,
    "",
    "",
-   "Parque Inflable Más Grande de Lima - Entrada General Mr Jump",
+   "Flying Squirrel",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -131,15 +131,15 @@
    }
   ],
   [
-   "Patinaje Sobre Hielo en Lima Bajo Cero de Lunes a Domingo",
+   "Vive la Adrenalina -Sesión de 6 Minutos Circuito -Euro Karts",
    "Cuponatic",
    "precio",
-   39.9,
-   45.0,
+   24.9,
+   35.0,
    "",
    "",
-   "LIMA BAJO CERO",
-   "Patinaje Sobre Hielo en Lima Bajo Cero de Lunes a Domingo",
+   "6807 Vendidos",
+   "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
     "conf": "of",
@@ -211,14 +211,14 @@
    }
   ],
   [
-   "Juegos + Piscina – Rancho Aventura Park – CIENEGUILLA",
+   "Circuito de Karting para Niños o Adultos Boulevard Asia",
    "Cuponatic",
    "precio",
-   41.9,
+   39.9,
    0,
    "",
    "",
-   "¡Mejor precio!",
+   "RF Karting Asia",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {

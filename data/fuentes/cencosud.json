@@ -1,61 +1,7 @@
 {
  "id": "cencosud",
- "leido": "2026-10-31T11:08",
+ "leido": "2026-11-01T12:09",
  "filas": [
-  [
-   "Wong",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   20,
-   0,
-   "",
-   "",
-   "En vinos, espumantes, licores y destilados",
-   "Sábados y Domingos",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of",
-    "dias": [
-     0,
-     6
-    ]
-   }
-  ],
-  [
-   "Wong",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   15,
-   0,
-   "",
-   "",
-   "En golosinas, galletas y chocolates Halloween",
-   "De lunes a miércoles",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of",
-    "dias": [
-     1,
-     2,
-     3
-    ]
-   }
-  ],
-  [
-   "Metro",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   10,
-   0,
-   "",
-   "",
-   "En abarrotes comprando en metro.pe",
-   "Pide el descuento en caja con tu Tarjeta Cencosud",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of"
-   }
-  ],
   [
    "Limagas",
    "Tarjeta Cencosud",
@@ -213,144 +159,6 @@
    }
   ],
   [
-   "Metro",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   10,
-   0,
-   "",
-   "",
-   "Metro Almácen",
-   "Domingo 10% de dscto adicional",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of",
-    "dias": [
-     0
-    ]
-   }
-  ],
-  [
-   "Metro",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   10,
-   0,
-   "",
-   "",
-   "En alimentos para mascotas",
-   "Sábado 10% de dscto adicional",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of",
-    "dias": [
-     6
-    ]
-   }
-  ],
-  [
-   "Metro",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   10,
-   0,
-   "",
-   "",
-   "En aguas y gaseosas",
-   "Viernes 10% de dscto adicional",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of",
-    "dias": [
-     5
-    ]
-   }
-  ],
-  [
-   "Metro",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   5,
-   0,
-   "",
-   "",
-   "Metro Almácen",
-   "Pide el descuento en caja con tu Tarjeta Cencosud",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Metro",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   5,
-   0,
-   "",
-   "",
-   "No válido para leches maternizadas",
-   "Miércoles 5% de dscto adicional en leches · No válido para leches maternizadas",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of",
-    "dias": [
-     3
-    ]
-   }
-  ],
-  [
-   "Metro",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   10,
-   0,
-   "",
-   "",
-   "En abarrotes de nuestras marcas propias",
-   "Martes 10% de dscto adicional",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of",
-    "dias": [
-     2
-    ]
-   }
-  ],
-  [
-   "Metro",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   10,
-   0,
-   "",
-   "",
-   "En aceites comestibles",
-   "Lunes 10% de dscto adicional",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of",
-    "dias": [
-     1
-    ]
-   }
-  ],
-  [
-   "Baliq",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   10,
-   0,
-   "",
-   "",
-   "En joyas de oro 18K.",
-   "Pide el descuento en caja con tu Tarjeta Cencosud",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of"
-   }
-  ],
-  [
    "Hush Puppies",
    "Tarjeta Cencosud",
    "porcentaje",
@@ -374,21 +182,6 @@
    "",
    "",
    "En las colecciones Bohoo Golden, Silver, Timeless y Style. Código: CENCOSUD40.",
-   "Pide el descuento en caja con tu Tarjeta Cencosud",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "La Vaca Loca",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   20,
-   0,
-   "",
-   "",
-   "En la carta.",
    "Pide el descuento en caja con tu Tarjeta Cencosud",
    "Tarjeta Cencosud",
    {
@@ -420,36 +213,6 @@
    "",
    "1 Crazy Cheese Bread Bacon o Queso + Gaseosa de 355 ml + 1 Salsa Buffalo Ranch con Tarjeta Cencosud. Precio regular S/17.90",
    "Pide el descuento en caja con tu Tarjeta Cencosud",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Pikalo",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   20,
-   0,
-   "",
-   "",
-   "En la carta.",
-   "Pide el descuento en caja con tu Tarjeta Cencosud",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "La Piccolina",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   45,
-   0,
-   "",
-   "",
-   "En platos de la carta principal. Válido de lunes a domingo.",
-   "En platos de la carta principal. Válido de lunes a domingo.",
    "Tarjeta Cencosud",
    {
     "conf": "of"
@@ -516,62 +279,6 @@
    }
   ],
   [
-   "PedidosYa",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   15,
-   0,
-   "",
-   "",
-   "Todos los lunes en supermercados",
-   "Todos los lunes en supermercados",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of",
-    "dias": [
-     1
-    ]
-   }
-  ],
-  [
-   "Nómada",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   50,
-   0,
-   "",
-   "",
-   "En la carta. Válido de lunes a sábado.",
-   "En la carta. Válido de lunes a sábado.",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of",
-    "dias": [
-     1,
-     2,
-     3,
-     4,
-     5,
-     6
-    ]
-   }
-  ],
-  [
-   "Wong",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   25,
-   0,
-   "",
-   "",
-   "En Wong Bistró pagando con Tarjeta Cencosud",
-   "Pide el descuento en caja con tu Tarjeta Cencosud",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of"
-   }
-  ],
-  [
    "Sorprende Lima",
    "Tarjeta Cencosud",
    "porcentaje",
@@ -581,21 +288,6 @@
    "",
    "En flores y detalles. Válido en la web con el código: CENCOSL20.",
    "En flores y detalles. Válido en la web con el código: CENCOSL20.",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "República Café",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   50,
-   0,
-   "",
-   "",
-   "En la carta. Válido de lunes a domingo.",
-   "En la carta. Válido de lunes a domingo.",
    "Tarjeta Cencosud",
    {
     "conf": "of"
@@ -614,40 +306,6 @@
    "Tarjeta Cencosud",
    {
     "conf": "of"
-   }
-  ],
-  [
-   "Wanta",
-   "Tarjeta Cencosud",
-   "precio",
-   19.9,
-   0,
-   "",
-   "",
-   "Combo personal: 1 Mostro (Casero o Apanado)",
-   "Pide el descuento en caja con tu Tarjeta Cencosud",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Wong",
-   "Tarjeta Cencosud",
-   "monto",
-   100.0,
-   0,
-   "",
-   "",
-   "Te devolvemos",
-   "Todos los martes por compras desde S/500 en Wong con Tarjeta Cencosud.",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of",
-    "dias": [
-     2
-    ],
-    "min": 500.0
    }
   ],
   [
@@ -711,105 +369,6 @@
    }
   ],
   [
-   "La Mora",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   50,
-   0,
-   "",
-   "",
-   "En la carta. Válido de lunes a domingo.",
-   "En la carta. Válido de lunes a domingo.",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "KFC",
-   "Tarjeta Cencosud",
-   "precio",
-   12.9,
-   0,
-   "",
-   "",
-   "2 Piezas de pollo + 2 Nuggets + 1 Papa regular + 1 Ensalada o puré regular",
-   "Pide el descuento en caja con tu Tarjeta Cencosud",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "PedidosYa",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   15,
-   0,
-   "",
-   "",
-   "Todos los jueves en restaurantes",
-   "Todos los jueves en restaurantes",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of",
-    "dias": [
-     4
-    ]
-   }
-  ],
-  [
-   "Primax",
-   "Tarjeta Cencosud",
-   "monto",
-   1.5,
-   0,
-   "",
-   "",
-   "Por galón I Regístrate en la web:",
-   "Primax · https://convenios.primax.com",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Wong",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   10,
-   0,
-   "",
-   "",
-   "En salchichas y chorizos con tu Tarjeta Cencosud",
-   "Viernes",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of",
-    "dias": [
-     5
-    ]
-   }
-  ],
-  [
-   "Wong",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   20,
-   0,
-   "",
-   "",
-   "En cortes de carnes de res con tu Tarjeta Cencosud",
-   "Jueves",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of",
-    "dias": [
-     4
-    ]
-   }
-  ],
-  [
    "Otto Grill",
    "Tarjeta Cencosud",
    "precio",
@@ -833,21 +392,6 @@
    "",
    "",
    "En la carta.",
-   "Pide el descuento en caja con tu Tarjeta Cencosud",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "KFC",
-   "Tarjeta Cencosud",
-   "precio",
-   32.9,
-   0,
-   "",
-   "",
-   "4 piezas de pollo +2 hot wings + 2 papas regulares + 2 gaseosas 12 oz",
    "Pide el descuento en caja con tu Tarjeta Cencosud",
    "Tarjeta Cencosud",
    {
@@ -900,36 +444,6 @@
    }
   ],
   [
-   "Pizza Hut",
-   "Tarjeta Cencosud",
-   "precio",
-   10.9,
-   0,
-   "",
-   "",
-   "1 pizza mediana (americana o pepperoni) + 1 gaseosa regular.",
-   "Pide el descuento en caja con tu Tarjeta Cencosud",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Pizza Hut",
-   "Tarjeta Cencosud",
-   "precio",
-   39.9,
-   0,
-   "",
-   "",
-   "2 pizzas medianas + 2 gaseosas regulares + 6 alitas BBQ o Hut",
-   "Pide el descuento en caja con tu Tarjeta Cencosud",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of"
-   }
-  ],
-  [
    "Mis Costillitas",
    "Tarjeta Cencosud",
    "precio",
@@ -939,36 +453,6 @@
    "",
    "2 costillas JR + 2 papas fritas + 2 ensaladas de col + 1 lt de limonada a S/79.90",
    "Pide el descuento en caja con tu Tarjeta Cencosud",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Fauna",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   50,
-   0,
-   "",
-   "",
-   "En toda la carta. Válido de lunes a domingo.",
-   "En toda la carta. Válido de lunes a domingo.",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Shi-Nuá",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   50,
-   0,
-   "",
-   "",
-   "En toda la carta. Válido de lunes a domingo.",
-   "En toda la carta. Válido de lunes a domingo.",
    "Tarjeta Cencosud",
    {
     "conf": "of"
@@ -1035,21 +519,6 @@
    }
   ],
   [
-   "Granja Azul",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   50,
-   0,
-   "",
-   "",
-   "En la carta. Válido de lunes a domingo.",
-   "En la carta. Válido de lunes a domingo.",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of"
-   }
-  ],
-  [
    "Villa Chicken",
    "Tarjeta Cencosud",
    "precio",
@@ -1074,21 +543,6 @@
    "",
    "1/4 pollo a la leña + papas fritas regulares + 1 vaso de chicha a S/24.90",
    "Pide el descuento en caja con tu Tarjeta Cencosud",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Baco & Vaca",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   50,
-   0,
-   "",
-   "",
-   "En la carta. Válido de lunes a domingo.",
-   "En la carta. Válido de lunes a domingo.",
    "Tarjeta Cencosud",
    {
     "conf": "of"
@@ -1125,21 +579,6 @@
    }
   ],
   [
-   "Rally Kart",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   50,
-   0,
-   "",
-   "",
-   "En carreras de karts.",
-   "Pide el descuento en caja con tu Tarjeta Cencosud",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of"
-   }
-  ],
-  [
    "Diverticenter",
    "Tarjeta Cencosud",
    "precio",
@@ -1148,51 +587,6 @@
    "",
    "",
    "Recarga",
-   "Pide el descuento en caja con tu Tarjeta Cencosud",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Rosatel",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   20,
-   0,
-   "",
-   "",
-   "En cajas de rosas.",
-   "Pide el descuento en caja con tu Tarjeta Cencosud",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Florería Bloom",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   25,
-   0,
-   "",
-   "",
-   "En toda la web. Código: BLOOM25CENCO.",
-   "Pide el descuento en caja con tu Tarjeta Cencosud",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "EF Perfumes",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   15,
-   0,
-   "",
-   "",
-   "En todos los perfumes.",
    "Pide el descuento en caja con tu Tarjeta Cencosud",
    "Tarjeta Cencosud",
    {
@@ -1260,25 +654,6 @@
    }
   ],
   [
-   "Mercado Libre",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   15,
-   0,
-   "",
-   "",
-   "desct.",
-   "Todos los Martes por compras desde S/499",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of",
-    "dias": [
-     2
-    ],
-    "min": 499.0
-   }
-  ],
-  [
    "Bath & Body Works",
    "Tarjeta Cencosud",
    "porcentaje",
@@ -1294,21 +669,6 @@
    }
   ],
   [
-   "New Athletic",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   30,
-   0,
-   "",
-   "",
-   "En todo calzado.",
-   "Pide el descuento en caja con tu Tarjeta Cencosud",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of"
-   }
-  ],
-  [
    "Triathlon Sport",
    "Tarjeta Cencosud",
    "porcentaje",
@@ -1317,51 +677,6 @@
    "",
    "",
    "En la tienda online. Código: BTSCENCOSUD.",
-   "Pide el descuento en caja con tu Tarjeta Cencosud",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Topitop",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   20,
-   0,
-   "",
-   "",
-   "desct. Adicional.",
-   "Pide el descuento en caja con tu Tarjeta Cencosud",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Virtual Dent",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   50,
-   0,
-   "",
-   "",
-   "En implantes dentales.",
-   "Pide el descuento en caja con tu Tarjeta Cencosud",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Virtual Dent",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   20,
-   0,
-   "",
-   "",
-   "En curaciones dentales",
    "Pide el descuento en caja con tu Tarjeta Cencosud",
    "Tarjeta Cencosud",
    {
@@ -1429,36 +744,6 @@
    }
   ],
   [
-   "Boticas y Salud",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   30,
-   0,
-   "",
-   "",
-   "En la web.",
-   "Pide el descuento en caja con tu Tarjeta Cencosud",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Boticas y Salud",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   30,
-   0,
-   "",
-   "",
-   "En las tiendas físicas y call center.",
-   "Pide el descuento en caja con tu Tarjeta Cencosud",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of"
-   }
-  ],
-  [
    "Cruz del Sur",
    "Tarjeta Cencosud",
    "porcentaje",
@@ -1515,60 +800,6 @@
    }
   ],
   [
-   "Juntoz",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   15,
-   0,
-   "",
-   "",
-   "Jueves de Juntoz en compras online. Nombre del cupón: DIACENCO",
-   "Jueves de Juntoz en compras online. Nombre del cupón: DIACENCO",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of",
-    "dias": [
-     4
-    ]
-   }
-  ],
-  [
-   "Curacao",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   15,
-   0,
-   "",
-   "",
-   "Viernes de La Curacao en compras online. Nombre del cupón: DIACENCO",
-   "Viernes de La Curacao en compras online. Nombre del cupón: DIACENCO",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of",
-    "dias": [
-     5
-    ]
-   }
-  ],
-  [
-   "EFE",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   15,
-   0,
-   "",
-   "",
-   "Miércoles de EFE en compras online. Nombre del cupón: CENCO120",
-   "Miércoles de EFE en compras online. Nombre del cupón: CENCO120",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of",
-    "dias": [
-     3
-    ]
-   }
-  ],
-  [
    "Probela",
    "Tarjeta Cencosud",
    "porcentaje",
@@ -1578,21 +809,6 @@
    "",
    "En marcas seleccionadas. Válido en tiendas físicas y web.",
    "En marcas seleccionadas. Válido en tiendas físicas y web.",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Cabify",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   40,
-   0,
-   "",
-   "",
-   "OFF en Cabify todos los dias l Código: CENCO1026",
-   "Pide el descuento en caja con tu Tarjeta Cencosud",
    "Tarjeta Cencosud",
    {
     "conf": "of"

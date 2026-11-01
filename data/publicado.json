@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-31T11:09",
+ "actualizado": "2026-11-01T12:09",
  "filas": [
   [
    "Rappi",
@@ -5276,14 +5276,14 @@
    }
   ],
   [
-   "Cineplanet",
+   "Mr Jump",
    "Cuponatic",
    "precio",
-   47.9,
-   107.0,
+   27.9,
+   55.0,
    "",
    "",
-   "Cineplanet: 2 Entradas + Combo Gigante para 2 Todos los Días",
+   "Parque Inflable Más Grande de Lima - Entrada General Mr Jump",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -5292,14 +5292,14 @@
    }
   ],
   [
-   "Coney Park",
+   "Cineplanet",
    "Cuponatic",
    "precio",
-   59.9,
-   130.0,
+   47.9,
+   107.0,
    "",
    "",
-   "2970 Vendidos",
+   "Cineplanet: 2 Entradas + Combo Gigante para 2 Todos los Días",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -5324,14 +5324,14 @@
    }
   ],
   [
-   "Salta 60, 90, 120 Minutos o Full Day de L - D en 3 Locales",
+   "Coney Park",
    "Cuponatic",
    "precio",
-   21.9,
-   26.0,
+   59.9,
+   130.0,
    "",
    "",
-   "Flying Squirrel",
+   "2996 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -5340,15 +5340,15 @@
    }
   ],
   [
-   "1 Entrada ZONA GENERAL| SUPER TONO NOVENTERO HALLOWEEN 2026",
+   "Patinaje Sobre Hielo en Lima Bajo Cero de Lunes a Domingo",
    "Cuponatic",
    "precio",
-   29.9,
-   64.0,
+   39.9,
+   45.0,
    "",
    "",
-   "Super Tono Noventero",
-   "Compra el cupón en Cuponatic",
+   "LIMA BAJO CERO",
+   "Patinaje Sobre Hielo en Lima Bajo Cero de Lunes a Domingo",
    "Cuponatic",
    {
     "conf": "of",
@@ -5363,7 +5363,7 @@
    40.0,
    "",
    "",
-   "2280 Vendidos",
+   "2298 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -5388,14 +5388,14 @@
    }
   ],
   [
-   "Mr Jump",
+   "Salta 60, 90, 120 Minutos o Full Day de L - D en 3 Locales",
    "Cuponatic",
    "precio",
-   27.9,
-   55.0,
+   21.9,
+   26.0,
    "",
    "",
-   "Parque Inflable Más Grande de Lima - Entrada General Mr Jump",
+   "Flying Squirrel",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -5404,15 +5404,15 @@
    }
   ],
   [
-   "Patinaje Sobre Hielo en Lima Bajo Cero de Lunes a Domingo",
+   "Vive la Adrenalina -Sesión de 6 Minutos Circuito -Euro Karts",
    "Cuponatic",
    "precio",
-   39.9,
-   45.0,
+   24.9,
+   35.0,
    "",
    "",
-   "LIMA BAJO CERO",
-   "Patinaje Sobre Hielo en Lima Bajo Cero de Lunes a Domingo",
+   "6807 Vendidos",
+   "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
     "conf": "of",
@@ -5484,14 +5484,14 @@
    }
   ],
   [
-   "Juegos + Piscina – Rancho Aventura Park – CIENEGUILLA",
+   "Circuito de Karting para Niños o Adultos Boulevard Asia",
    "Cuponatic",
    "precio",
-   41.9,
+   39.9,
    0,
    "",
    "",
-   "¡Mejor precio!",
+   "RF Karting Asia",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -5548,86 +5548,6 @@
    }
   ],
   [
-   "Cineplanet",
-   "Cuponidad",
-   "precio",
-   47.9,
-   104.0,
-   "",
-   "",
-   "Cineplanet: 2 Entradas 2D + 2 Bebidas Grandes + Pop corn gigante. Lunes a Domingo",
-   "Cineplanet: 2 Entradas 2D + 2 Bebidas Grandes + Pop corn gigante. Lunes a Domingo · Cineplanet: S/ 47.90 por 2 entradas 2D + Pop corn gigante  + 2 bebidas grandes. Válido a nivel n",
-   "Cuponidad",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Rally Kart: 10, 16 ó 30 vueltas en sus locales de Jockey Pla",
-   "Cuponidad",
-   "precio",
-   14.9,
-   50.0,
-   "",
-   "",
-   "Rally Kart: 10, 16 ó 30 vueltas en sus locales de Jockey Plaza, Open Plaza La Marina,   Bellavista, Mall Plaza Comas",
-   "Compra el cupón en Cuponidad",
-   "Cuponidad",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Festival del Terror 2026: Granja Villa el 30, 31 de Octubre ",
-   "Cuponidad",
-   "precio",
-   75.9,
-   80.0,
-   "2026-10-31",
-   "2026-11-01",
-   "Festival del Terror 2026: Granja Villa el 30, 31 de Octubre y 1 de Noviembre",
-   "Compra el cupón en Cuponidad",
-   "Cuponidad",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Vacilandia Park: Full Day para niños, adultos o pack familia",
-   "Cuponidad",
-   "precio",
-   19.9,
-   35.0,
-   "",
-   "",
-   "Vacilandia Park: Full Day para niños, adultos o pack familiar, incluye alimentación.",
-   "Compra el cupón en Cuponidad",
-   "Cuponidad",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "La Carlota y su Circo Halloween del  29 de Octubre hasta  01",
-   "Cuponidad",
-   "precio",
-   14.9,
-   20.0,
-   "2026-10-29",
-   "2026-11-01",
-   "La Carlota y su Circo Halloween del  29 de Octubre hasta  01 de Noviembre en Parque Sinchi Roca - Comas",
-   "Compra el cupón en Cuponidad",
-   "Cuponidad",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
    "La Bistecca",
    "Cuponidad",
    "precio",
@@ -5636,22 +5556,6 @@
    "",
    "",
    "Buffet Almuerzo o Cena + Postres + Bebida. Aplica en sus 5 locales. Incluye Jockey Plaza",
-   "Compra el cupón en Cuponidad",
-   "Cuponidad",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Flying Squirrel:  Full Day, 60 o 120 minutos según elijas en",
-   "Cuponidad",
-   "precio",
-   21.9,
-   70.0,
-   "",
-   "",
-   "Flying Squirrel:  Full Day, 60 o 120 minutos según elijas en sus 3 locales",
    "Compra el cupón en Cuponidad",
    "Cuponidad",
    {
@@ -5676,6 +5580,102 @@
    }
   ],
   [
+   "La Carlota y su Circo Halloween del  29 de Octubre hasta  01",
+   "Cuponidad",
+   "precio",
+   14.9,
+   20.0,
+   "2026-10-29",
+   "2026-11-01",
+   "La Carlota y su Circo Halloween del  29 de Octubre hasta  01 de Noviembre en Parque Sinchi Roca - Comas",
+   "Compra el cupón en Cuponidad",
+   "Cuponidad",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Vacilandia Park: Full Day para niños, adultos o pack familia",
+   "Cuponidad",
+   "precio",
+   19.9,
+   35.0,
+   "",
+   "",
+   "Vacilandia Park: Full Day para niños, adultos o pack familiar, incluye alimentación.",
+   "Compra el cupón en Cuponidad",
+   "Cuponidad",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Sesión de 6 minutos en el Circuito Explanada Olguín Jockey P",
+   "Cuponidad",
+   "precio",
+   24.9,
+   35.0,
+   "",
+   "",
+   "Sesión de 6 minutos en el Circuito Explanada Olguín Jockey Plaza.",
+   "S/ 24.90 por  Sesión en Circuito - Vive la Adrenalina al Máximo en Circuito Explanada Olguín con Euro Karts. Válido de Lunes a Domingo",
+   "Cuponidad",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Mr. Joy : Juega por 150 minutos (2:30 hrs). Válido en sus 3 ",
+   "Cuponidad",
+   "precio",
+   30.9,
+   50.0,
+   "",
+   "",
+   "Mr. Joy : Juega por 150 minutos (2:30 hrs). Válido en sus 3 locales. Lunes a Domingo.",
+   "Mr. Joy : Juega por 150 minutos (2:30 hrs). Válido en sus 3 locales. Lunes a Domingo. · Disfruta  2:30 horas de diversión en MR JOY por solo S/ 30.90 Válido en Real Plaza Puruchuco",
+   "Cuponidad",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Cineplanet",
+   "Cuponidad",
+   "precio",
+   47.9,
+   104.0,
+   "",
+   "",
+   "Cineplanet: 2 Entradas 2D + 2 Bebidas Grandes + Pop corn gigante. Lunes a Domingo",
+   "Cineplanet: 2 Entradas 2D + 2 Bebidas Grandes + Pop corn gigante. Lunes a Domingo · Cineplanet: S/ 47.90 por 2 entradas 2D + Pop corn gigante  + 2 bebidas grandes. Válido a nivel n",
+   "Cuponidad",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Flying Squirrel:  Full Day, 60 o 120 minutos según elijas en",
+   "Cuponidad",
+   "precio",
+   21.9,
+   70.0,
+   "",
+   "",
+   "Flying Squirrel:  Full Day, 60 o 120 minutos según elijas en sus 3 locales",
+   "Compra el cupón en Cuponidad",
+   "Cuponidad",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
    "Cineplanet",
    "Cuponidad",
    "precio",
@@ -5684,7 +5684,7 @@
    "",
    "",
    "breña, cercado de lima, comas, independencia, jesus maria, la molina, la victoria, lince, los olivos, miraflores, san borja, san isidro, san",
-   "Cineplanet: 2 Entradas 2D + 2 Bebidas Grandes + Pop corn gigante. Lunes a Domingo · Cinemark: Entrada 2D - opción a combo (Validación ONLINE o mostrando tu celular) · Cinemark: 2 E",
+   "Cinemark: Entrada 2D - opción a combo (Validación ONLINE o mostrando tu celular) · Cinemark: 2 Entradas + 2 gaseosas + cancha grande o mediana según elijas (validación ONLINE o fís",
    "Cuponidad",
    {
     "conf": "of",
@@ -5695,12 +5695,12 @@
    "Rancho Aventura Park: Pulsera para juegos . Pachacamac",
    "Cuponidad",
    "precio",
-   9.9,
+   15.0,
    70.9,
    "",
    "",
-   "Vacilandia Park: Full Day para niños, adultos o pack familiar, incluye alimentación.",
-   "Full Day para niño o adulto. Lunes a domingo en Huachipa - Ate",
+   "La Fogata de Cieneguilla: Full Day de lunes a domingo para niño o adulto + vale de consumo",
+   "La Fogata de Cieneguilla: Full Day de lunes a domingo para niño o adulto + vale de consumo",
    "Cuponidad",
    {
     "conf": "of",
@@ -5708,27 +5708,11 @@
    }
   ],
   [
-   "Hallowine: Entrada + Cata de Vinos + Show Halloween  31 de O",
-   "Cuponidad",
-   "precio",
-   21.9,
-   99.0,
-   "2026-10-15",
-   "2026-11-01",
-   "Tour Nocturno Halloween Fortaleza Real Felipe 2026 con opción a movilidad (Ida y Vuelta) el 30 y 31 de Octubre",
-   "Compra el cupón en Cuponidad",
-   "Cuponidad",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "PLAYIN VR: Simuladores de Realidad Virtual en Jockey Plaza y",
+   "JUMP SPOT KIDS: Full Diversión por 30 o 60 minutos Jockey Pl",
    "Cuponidad",
    "precio",
    12.9,
-   69.9,
+   35.9,
    "",
    "",
    "JUMP SPOT KIDS: Full Diversión por 30 o 60 minutos Jockey Plaza, Mall Plaza Comas, Mall Plaza Arequipa",
@@ -5740,7 +5724,7 @@
    }
   ],
   [
-   "Jump Spot: Accede por 30 o 60 minutos de Full Diversión  en ",
+   "Flying Squirrel:  Full Day, 60 o 120 minutos según elijas en",
    "Cuponidad",
    "precio",
    19.9,
@@ -5756,11 +5740,11 @@
    }
   ],
   [
-   "Sesión de 6 minutos en el Circuito Explanada Olguín Jockey P",
+   "RF Karting La Victoria: Sesiones para niños o adultos según ",
    "Cuponidad",
    "precio",
    14.9,
-   39.9,
+   24.9,
    "",
    "",
    "Rally Kart: 10, 16 ó 30 vueltas en sus locales de Jockey Plaza, Open Plaza La Marina,   Bellavista, Mall Plaza Comas",
@@ -5775,12 +5759,12 @@
    "La Bistecca",
    "Cuponidad",
    "precio",
-   37.9,
+   26.9,
    85.9,
    "",
    "",
-   "Buffet Almuerzo o Cena + Postres + Bebida. Aplica en sus 5 locales. Incluye Jockey Plaza",
-   "Buffet Almuerzo Criollo en 4 Sedes de Lunes a Domingo",
+   "Barra Libre Comida Mexicana, Pizzas, Makis, Hamburguesas + bebida ilimitada. 4 restaurantes",
+   "Buffet Almuerzo: Entradas + Ensaladas + Fondos + Postres de Lunes a Domingo",
    "Cuponidad",
    {
     "conf": "of",
@@ -5788,7 +5772,7 @@
    }
   ],
   [
-   "Oshi",
+   "Dragon Rolls",
    "Cuponidad",
    "precio",
    29.9,
@@ -5804,14 +5788,14 @@
    }
   ],
   [
-   "Halloween:  Las Guardianas Kpop.  31 de Octubre. C.C. Parque",
+   "Michael Jackson Sinfónica 360:  01 y 14 de Noviembre . Cúpul",
    "Cuponidad",
    "precio",
-   24.9,
+   14.9,
    39.9,
-   "2026-10-31",
+   "2026-11-08",
    "2026-11-15",
-   "El Adivino - Una Comedia Terrorífica. 30 y 31 de Octubre, 6, 7, 13 y 14 de Noviemre en Capital Restobar Barranco",
+   "El Soldadito de Plomo: El 01, 07, 08 de Noviembre en el teatro Jazz Zone - Miraflores",
    "Compra el cupón en Cuponidad",
    "Cuponidad",
    {
@@ -5823,11 +5807,11 @@
    "Mr. Sushi",
    "Cuponidad",
    "precio",
-   39.9,
+   85.9,
    0,
    "",
    "",
-   "Para 2:  30 makis + 2 gaseosas. Sabores a elección (consumo o recojo)",
+   "50 makis a elección + 12 alitas . Consumo en el local o recojo.",
    "Compra el cupón en Cuponidad",
    "Cuponidad",
    {
@@ -5855,11 +5839,11 @@
    "Mr. Sushi",
    "Cuponidad",
    "precio",
-   85.9,
+   39.9,
    0,
    "",
    "",
-   "50 makis a elección + 12 alitas . Consumo en el local o recojo.",
+   "Para 2:  30 makis + 2 gaseosas. Sabores a elección (consumo o recojo)",
    "Compra el cupón en Cuponidad",
    "Cuponidad",
    {
@@ -5868,11 +5852,11 @@
    }
   ],
   [
-   "Examen medico para brevete LOS OLIVOS para AUTO",
+   "Examen médico de brevete COMAS para AUTO o MOTO",
    "Cuponidad",
    "precio",
-   99.9,
-   149.0,
+   89.9,
+   120.0,
    "",
    "",
    "Examen Médico para Brevete de Auto o Moto: Licencia nuevo, revalidar, recategorizar",
@@ -5884,15 +5868,15 @@
    }
   ],
   [
-   "Villa Chicken",
+   "Excelencia Pollos",
    "Cuponidad",
    "precio",
    16.9,
-   80.9,
+   83.9,
    "",
    "",
    "cercado de lima, independencia, jesus maria, la molina, lince, los olivos, magdalena del mar, miraflores, pueblo libre, san borja, san juan ",
-   "POLLO A LA LEÑA: 1 pollo + papas fritas + 1 lt. de bebida para CONSUMO EN SALON · 1 Pollo a la brasa + papas fritas + ensalada + gaseosa para CONSUMO o  RECOJO.  Lunes a Domingo · ",
+   "POLLO A LA LEÑA: 1 pollo + papas fritas + 1 lt. de bebida para CONSUMO EN SALON",
    "Cuponidad",
    {
     "conf": "of",
@@ -5907,7 +5891,7 @@
    129.0,
    "",
    "",
-   "Parilla para 2: Churrasco, Chuleta, Pollo a la leña, Mollejas, Anticucho, Chorizo, Botella de vino y más",
+   "Parrilla para 2: Parrilla marina para 2 personas + 2 copas de vino blanco, frente al mar",
    "Compra el cupón en Cuponidad",
    "Cuponidad",
    {
@@ -5916,15 +5900,15 @@
    }
   ],
   [
-   "Undercoating + lavado de chasis para auto o camioneta de 2 o",
+   "Carwash Callao: Lavado de salón Vip para auto o camioneta",
    "Cuponidad",
    "precio",
-   29.0,
-   128.0,
+   99.9,
+   0,
    "",
    "",
-   "Lavado Deluxe para auto o camioneta de 2 filas de asientos en Gabriel Carwash de Cercado",
-   "Carwash Callao: Lavado de salón Vip para auto o camioneta · Lavado básico para autos y camionetas de 2 o 3 filas. Válido en 4 locales",
+   "Ver más detalles",
+   "Carwash Callao: Lavado de salón Vip para auto o camioneta",
    "Cuponidad",
    {
     "conf": "of",
@@ -5932,7 +5916,87 @@
    }
   ],
   [
-   "Suite o Suite temática + hidromasaje + espumante o vino + de",
+   "Servicio de Undercoating La Perla: Para auto o camioneta de ",
+   "Cuponidad",
+   "precio",
+   99.9,
+   0,
+   "",
+   "",
+   "Servicio de Undercoating La Perla: Para auto o camioneta de hasta 3 filas",
+   "Compra el cupón en Cuponidad",
+   "Cuponidad",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Lavado VIP pata auto o camioneta + Lavado de motor + Encerad",
+   "Cuponidad",
+   "precio",
+   39.9,
+   0,
+   "",
+   "",
+   "Lavado VIP pata auto o camioneta + Lavado de motor + Encerado",
+   "Compra el cupón en Cuponidad",
+   "Cuponidad",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Carwash Callao: Lavado de salón Vip para auto o camioneta",
+   "Cuponidad",
+   "precio",
+   59.9,
+   0,
+   "",
+   "",
+   "Ver más detalles",
+   "Carwash Callao: Lavado de salón Vip para auto o camioneta",
+   "Cuponidad",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Pulido de faros para auto o camioneta",
+   "Cuponidad",
+   "precio",
+   59.9,
+   0,
+   "",
+   "",
+   "los negocios carwash",
+   "Compra el cupón en Cuponidad",
+   "Cuponidad",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Lavado de salón profesional: Lavado de asientos, techo, carr",
+   "Cuponidad",
+   "precio",
+   149.0,
+   0,
+   "",
+   "",
+   "Lavado de salón profesional: Lavado de asientos, techo, carrocería y más",
+   "Lavado de salón profesional: Lavado de asientos, techo, carrocería y más",
+   "Cuponidad",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Noche romántica para dos en habitación matrimonial + desayun",
    "Cuponidad",
    "precio",
    16.9,
@@ -5948,15 +6012,47 @@
    }
   ],
   [
-   "Lipoescultura sin cirugía en 6 visitas, incluye: hidrolipocl",
+   "3 sesiones de tratamiento para reducir papada y cachetes.",
+   "Cuponidad",
+   "precio",
+   19.9,
+   0,
+   "",
+   "",
+   "Ver más detalles",
+   "Compra el cupón en Cuponidad",
+   "Cuponidad",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Limpieza facial profunda + peeling punta de diamante y más",
    "Cuponidad",
    "precio",
    14.9,
-   299.9,
+   0,
+   "",
+   "",
+   "Ver más detalles",
+   "Compra el cupón en Cuponidad",
+   "Cuponidad",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Lipoescultura sin cirugía en 6 visitas, incluye: hidrolipocl",
+   "Cuponidad",
+   "precio",
+   89.0,
+   0,
    "",
    "",
    "Lipoescultura sin cirugía en 6 visitas, incluye: hidrolipoclasia, ultracavitación y más.",
-   "bonet´s salon spa",
+   "Compra el cupón en Cuponidad",
    "Cuponidad",
    {
     "conf": "of",
@@ -6057,60 +6153,6 @@
    {
     "conf": "of",
     "canal": "A"
-   }
-  ],
-  [
-   "Wong",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   20,
-   0,
-   "",
-   "",
-   "En vinos, espumantes, licores y destilados",
-   "Sábados y Domingos",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of",
-    "dias": [
-     0,
-     6
-    ]
-   }
-  ],
-  [
-   "Wong",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   15,
-   0,
-   "",
-   "",
-   "En golosinas, galletas y chocolates Halloween",
-   "De lunes a miércoles",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of",
-    "dias": [
-     1,
-     2,
-     3
-    ]
-   }
-  ],
-  [
-   "Metro",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   10,
-   0,
-   "",
-   "",
-   "En abarrotes comprando en metro.pe",
-   "Pide el descuento en caja con tu Tarjeta Cencosud",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of"
    }
   ],
   [
@@ -6270,144 +6312,6 @@
    }
   ],
   [
-   "Metro",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   10,
-   0,
-   "",
-   "",
-   "Metro Almácen",
-   "Domingo 10% de dscto adicional",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of",
-    "dias": [
-     0
-    ]
-   }
-  ],
-  [
-   "Metro",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   10,
-   0,
-   "",
-   "",
-   "En alimentos para mascotas",
-   "Sábado 10% de dscto adicional",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of",
-    "dias": [
-     6
-    ]
-   }
-  ],
-  [
-   "Metro",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   10,
-   0,
-   "",
-   "",
-   "En aguas y gaseosas",
-   "Viernes 10% de dscto adicional",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of",
-    "dias": [
-     5
-    ]
-   }
-  ],
-  [
-   "Metro",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   5,
-   0,
-   "",
-   "",
-   "Metro Almácen",
-   "Pide el descuento en caja con tu Tarjeta Cencosud",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Metro",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   5,
-   0,
-   "",
-   "",
-   "No válido para leches maternizadas",
-   "Miércoles 5% de dscto adicional en leches · No válido para leches maternizadas",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of",
-    "dias": [
-     3
-    ]
-   }
-  ],
-  [
-   "Metro",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   10,
-   0,
-   "",
-   "",
-   "En abarrotes de nuestras marcas propias",
-   "Martes 10% de dscto adicional",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of",
-    "dias": [
-     2
-    ]
-   }
-  ],
-  [
-   "Metro",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   10,
-   0,
-   "",
-   "",
-   "En aceites comestibles",
-   "Lunes 10% de dscto adicional",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of",
-    "dias": [
-     1
-    ]
-   }
-  ],
-  [
-   "Baliq",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   10,
-   0,
-   "",
-   "",
-   "En joyas de oro 18K.",
-   "Pide el descuento en caja con tu Tarjeta Cencosud",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of"
-   }
-  ],
-  [
    "Hush Puppies",
    "Tarjeta Cencosud",
    "porcentaje",
@@ -6431,21 +6335,6 @@
    "",
    "",
    "En las colecciones Bohoo Golden, Silver, Timeless y Style. Código: CENCOSUD40.",
-   "Pide el descuento en caja con tu Tarjeta Cencosud",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "La Vaca Loca",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   20,
-   0,
-   "",
-   "",
-   "En la carta.",
    "Pide el descuento en caja con tu Tarjeta Cencosud",
    "Tarjeta Cencosud",
    {
@@ -6477,36 +6366,6 @@
    "",
    "1 Crazy Cheese Bread Bacon o Queso + Gaseosa de 355 ml + 1 Salsa Buffalo Ranch con Tarjeta Cencosud. Precio regular S/17.90",
    "Pide el descuento en caja con tu Tarjeta Cencosud",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Pikalo",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   20,
-   0,
-   "",
-   "",
-   "En la carta.",
-   "Pide el descuento en caja con tu Tarjeta Cencosud",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "La Piccolina",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   45,
-   0,
-   "",
-   "",
-   "En platos de la carta principal. Válido de lunes a domingo.",
-   "En platos de la carta principal. Válido de lunes a domingo.",
    "Tarjeta Cencosud",
    {
     "conf": "of"
@@ -6573,62 +6432,6 @@
    }
   ],
   [
-   "PedidosYa",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   15,
-   0,
-   "",
-   "",
-   "Todos los lunes en supermercados",
-   "Todos los lunes en supermercados",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of",
-    "dias": [
-     1
-    ]
-   }
-  ],
-  [
-   "Nómada",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   50,
-   0,
-   "",
-   "",
-   "En la carta. Válido de lunes a sábado.",
-   "En la carta. Válido de lunes a sábado.",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of",
-    "dias": [
-     1,
-     2,
-     3,
-     4,
-     5,
-     6
-    ]
-   }
-  ],
-  [
-   "Wong",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   25,
-   0,
-   "",
-   "",
-   "En Wong Bistró pagando con Tarjeta Cencosud",
-   "Pide el descuento en caja con tu Tarjeta Cencosud",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of"
-   }
-  ],
-  [
    "Sorprende Lima",
    "Tarjeta Cencosud",
    "porcentaje",
@@ -6638,21 +6441,6 @@
    "",
    "En flores y detalles. Válido en la web con el código: CENCOSL20.",
    "En flores y detalles. Válido en la web con el código: CENCOSL20.",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "República Café",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   50,
-   0,
-   "",
-   "",
-   "En la carta. Válido de lunes a domingo.",
-   "En la carta. Válido de lunes a domingo.",
    "Tarjeta Cencosud",
    {
     "conf": "of"
@@ -6671,40 +6459,6 @@
    "Tarjeta Cencosud",
    {
     "conf": "of"
-   }
-  ],
-  [
-   "Wanta",
-   "Tarjeta Cencosud",
-   "precio",
-   19.9,
-   0,
-   "",
-   "",
-   "Combo personal: 1 Mostro (Casero o Apanado)",
-   "Pide el descuento en caja con tu Tarjeta Cencosud",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Wong",
-   "Tarjeta Cencosud",
-   "monto",
-   100.0,
-   0,
-   "",
-   "",
-   "Te devolvemos",
-   "Todos los martes por compras desde S/500 en Wong con Tarjeta Cencosud.",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of",
-    "dias": [
-     2
-    ],
-    "min": 500.0
    }
   ],
   [
@@ -6768,105 +6522,6 @@
    }
   ],
   [
-   "La Mora",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   50,
-   0,
-   "",
-   "",
-   "En la carta. Válido de lunes a domingo.",
-   "En la carta. Válido de lunes a domingo.",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "KFC",
-   "Tarjeta Cencosud",
-   "precio",
-   12.9,
-   0,
-   "",
-   "",
-   "2 Piezas de pollo + 2 Nuggets + 1 Papa regular + 1 Ensalada o puré regular",
-   "Pide el descuento en caja con tu Tarjeta Cencosud",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "PedidosYa",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   15,
-   0,
-   "",
-   "",
-   "Todos los jueves en restaurantes",
-   "Todos los jueves en restaurantes",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of",
-    "dias": [
-     4
-    ]
-   }
-  ],
-  [
-   "Primax",
-   "Tarjeta Cencosud",
-   "monto",
-   1.5,
-   0,
-   "",
-   "",
-   "Por galón I Regístrate en la web:",
-   "Primax · https://convenios.primax.com",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Wong",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   10,
-   0,
-   "",
-   "",
-   "En salchichas y chorizos con tu Tarjeta Cencosud",
-   "Viernes",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of",
-    "dias": [
-     5
-    ]
-   }
-  ],
-  [
-   "Wong",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   20,
-   0,
-   "",
-   "",
-   "En cortes de carnes de res con tu Tarjeta Cencosud",
-   "Jueves",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of",
-    "dias": [
-     4
-    ]
-   }
-  ],
-  [
    "Otto Grill",
    "Tarjeta Cencosud",
    "precio",
@@ -6890,21 +6545,6 @@
    "",
    "",
    "En la carta.",
-   "Pide el descuento en caja con tu Tarjeta Cencosud",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "KFC",
-   "Tarjeta Cencosud",
-   "precio",
-   32.9,
-   0,
-   "",
-   "",
-   "4 piezas de pollo +2 hot wings + 2 papas regulares + 2 gaseosas 12 oz",
    "Pide el descuento en caja con tu Tarjeta Cencosud",
    "Tarjeta Cencosud",
    {
@@ -6957,36 +6597,6 @@
    }
   ],
   [
-   "Pizza Hut",
-   "Tarjeta Cencosud",
-   "precio",
-   10.9,
-   0,
-   "",
-   "",
-   "1 pizza mediana (americana o pepperoni) + 1 gaseosa regular.",
-   "Pide el descuento en caja con tu Tarjeta Cencosud",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Pizza Hut",
-   "Tarjeta Cencosud",
-   "precio",
-   39.9,
-   0,
-   "",
-   "",
-   "2 pizzas medianas + 2 gaseosas regulares + 6 alitas BBQ o Hut",
-   "Pide el descuento en caja con tu Tarjeta Cencosud",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of"
-   }
-  ],
-  [
    "Mis Costillitas",
    "Tarjeta Cencosud",
    "precio",
@@ -6996,36 +6606,6 @@
    "",
    "2 costillas JR + 2 papas fritas + 2 ensaladas de col + 1 lt de limonada a S/79.90",
    "Pide el descuento en caja con tu Tarjeta Cencosud",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Fauna",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   50,
-   0,
-   "",
-   "",
-   "En toda la carta. Válido de lunes a domingo.",
-   "En toda la carta. Válido de lunes a domingo.",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Shi-Nuá",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   50,
-   0,
-   "",
-   "",
-   "En toda la carta. Válido de lunes a domingo.",
-   "En toda la carta. Válido de lunes a domingo.",
    "Tarjeta Cencosud",
    {
     "conf": "of"
@@ -7092,21 +6672,6 @@
    }
   ],
   [
-   "Granja Azul",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   50,
-   0,
-   "",
-   "",
-   "En la carta. Válido de lunes a domingo.",
-   "En la carta. Válido de lunes a domingo.",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of"
-   }
-  ],
-  [
    "Villa Chicken",
    "Tarjeta Cencosud",
    "precio",
@@ -7131,21 +6696,6 @@
    "",
    "1/4 pollo a la leña + papas fritas regulares + 1 vaso de chicha a S/24.90",
    "Pide el descuento en caja con tu Tarjeta Cencosud",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Baco & Vaca",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   50,
-   0,
-   "",
-   "",
-   "En la carta. Válido de lunes a domingo.",
-   "En la carta. Válido de lunes a domingo.",
    "Tarjeta Cencosud",
    {
     "conf": "of"
@@ -7182,21 +6732,6 @@
    }
   ],
   [
-   "Rally Kart",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   50,
-   0,
-   "",
-   "",
-   "En carreras de karts.",
-   "Pide el descuento en caja con tu Tarjeta Cencosud",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of"
-   }
-  ],
-  [
    "Diverticenter",
    "Tarjeta Cencosud",
    "precio",
@@ -7205,51 +6740,6 @@
    "",
    "",
    "Recarga",
-   "Pide el descuento en caja con tu Tarjeta Cencosud",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Rosatel",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   20,
-   0,
-   "",
-   "",
-   "En cajas de rosas.",
-   "Pide el descuento en caja con tu Tarjeta Cencosud",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Florería Bloom",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   25,
-   0,
-   "",
-   "",
-   "En toda la web. Código: BLOOM25CENCO.",
-   "Pide el descuento en caja con tu Tarjeta Cencosud",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "EF Perfumes",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   15,
-   0,
-   "",
-   "",
-   "En todos los perfumes.",
    "Pide el descuento en caja con tu Tarjeta Cencosud",
    "Tarjeta Cencosud",
    {
@@ -7317,25 +6807,6 @@
    }
   ],
   [
-   "Mercado Libre",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   15,
-   0,
-   "",
-   "",
-   "desct.",
-   "Todos los Martes por compras desde S/499",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of",
-    "dias": [
-     2
-    ],
-    "min": 499.0
-   }
-  ],
-  [
    "Bath & Body Works",
    "Tarjeta Cencosud",
    "porcentaje",
@@ -7351,21 +6822,6 @@
    }
   ],
   [
-   "New Athletic",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   30,
-   0,
-   "",
-   "",
-   "En todo calzado.",
-   "Pide el descuento en caja con tu Tarjeta Cencosud",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of"
-   }
-  ],
-  [
    "Triathlon Sport",
    "Tarjeta Cencosud",
    "porcentaje",
@@ -7374,51 +6830,6 @@
    "",
    "",
    "En la tienda online. Código: BTSCENCOSUD.",
-   "Pide el descuento en caja con tu Tarjeta Cencosud",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Topitop",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   20,
-   0,
-   "",
-   "",
-   "desct. Adicional.",
-   "Pide el descuento en caja con tu Tarjeta Cencosud",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Virtual Dent",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   50,
-   0,
-   "",
-   "",
-   "En implantes dentales.",
-   "Pide el descuento en caja con tu Tarjeta Cencosud",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Virtual Dent",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   20,
-   0,
-   "",
-   "",
-   "En curaciones dentales",
    "Pide el descuento en caja con tu Tarjeta Cencosud",
    "Tarjeta Cencosud",
    {
@@ -7486,36 +6897,6 @@
    }
   ],
   [
-   "Boticas y Salud",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   30,
-   0,
-   "",
-   "",
-   "En la web.",
-   "Pide el descuento en caja con tu Tarjeta Cencosud",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Boticas y Salud",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   30,
-   0,
-   "",
-   "",
-   "En las tiendas físicas y call center.",
-   "Pide el descuento en caja con tu Tarjeta Cencosud",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of"
-   }
-  ],
-  [
    "Cruz del Sur",
    "Tarjeta Cencosud",
    "porcentaje",
@@ -7572,60 +6953,6 @@
    }
   ],
   [
-   "Juntoz",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   15,
-   0,
-   "",
-   "",
-   "Jueves de Juntoz en compras online. Nombre del cupón: DIACENCO",
-   "Jueves de Juntoz en compras online. Nombre del cupón: DIACENCO",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of",
-    "dias": [
-     4
-    ]
-   }
-  ],
-  [
-   "Curacao",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   15,
-   0,
-   "",
-   "",
-   "Viernes de La Curacao en compras online. Nombre del cupón: DIACENCO",
-   "Viernes de La Curacao en compras online. Nombre del cupón: DIACENCO",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of",
-    "dias": [
-     5
-    ]
-   }
-  ],
-  [
-   "EFE",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   15,
-   0,
-   "",
-   "",
-   "Miércoles de EFE en compras online. Nombre del cupón: CENCO120",
-   "Miércoles de EFE en compras online. Nombre del cupón: CENCO120",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of",
-    "dias": [
-     3
-    ]
-   }
-  ],
-  [
    "Probela",
    "Tarjeta Cencosud",
    "porcentaje",
@@ -7635,21 +6962,6 @@
    "",
    "En marcas seleccionadas. Válido en tiendas físicas y web.",
    "En marcas seleccionadas. Válido en tiendas físicas y web.",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Cabify",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   40,
-   0,
-   "",
-   "",
-   "OFF en Cabify todos los dias l Código: CENCO1026",
-   "Pide el descuento en caja con tu Tarjeta Cencosud",
    "Tarjeta Cencosud",
    {
     "conf": "of"
@@ -7672,20 +6984,30 @@
    }
   ]
  ],
- "relampago": [],
+ "relampago": [
+  {
+   "f": "2026-10-31",
+   "t": "Tottus",
+   "o": "Termo Mug Quokka Drop Safe Vibe Pink Light Purple 880 mL a",
+   "p": 19.9,
+   "r": 0,
+   "n": "O F E R T A · ❗️ · #tottus · ✔️ · sólo S/ 19.90 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en · @concuponperu · ⚠️ · Válido hasta agota",
+   "u": "https://t.me/concuponperu/19328"
+  }
+ ],
  "ver": {
-  "Plin Interbank": "2026-10-31",
-  "Tarjeta Caja Arequipa": "2026-10-31",
-  "Cuponatic": "2026-10-31",
-  "Cuponidad": "2026-10-31",
-  "Web/app de la marca": "2026-10-31",
-  "Tarjeta Cencosud": "2026-10-31"
+  "Plin Interbank": "2026-11-01",
+  "Tarjeta Caja Arequipa": "2026-11-01",
+  "Cuponatic": "2026-11-01",
+  "Cuponidad": "2026-11-01",
+  "Web/app de la marca": "2026-11-01",
+  "Tarjeta Cencosud": "2026-11-01"
  },
  "estado": {
   "interbank": {
    "ok": true,
    "filas": 205,
-   "leido": "2026-10-31T11:08",
+   "leido": "2026-11-01T12:09",
    "error": "",
    "historial": [
     205,
@@ -7697,29 +7019,29 @@
   },
   "telegram": {
    "ok": true,
-   "filas": 0,
-   "leido": "2026-10-31T11:08",
+   "filas": 1,
+   "leido": "2026-11-01T12:09",
    "error": "",
    "historial": [
-    8,
     5,
     9,
     4,
-    0
+    0,
+    1
    ]
   },
   "bbva": {
    "ok": false,
    "filas": 0,
    "leido": "",
-   "intento": "2026-10-31T11:08",
+   "intento": "2026-11-01T12:09",
    "error": "No se pudo descargar https://www.bbva.pe/content/dam/public-web/peru/documents/personas/catalogo-promociones/Catalogo-provincias.pdf: 403 Client Error: Forbidden for url: https://www.bbva.pe/content/dam/public-web/peru/documents/personas/catalogo-promociones/Catalogo-provincias.pdf",
    "historial": []
   },
   "caja_arequipa": {
    "ok": true,
    "filas": 9,
-   "leido": "2026-10-31T11:08",
+   "leido": "2026-11-01T12:09",
    "error": "",
    "historial": [
     9,
@@ -7732,33 +7054,33 @@
   "cuponatic": {
    "ok": true,
    "filas": 16,
-   "leido": "2026-10-31T11:08",
+   "leido": "2026-11-01T12:09",
    "error": "",
    "historial": [
-    15,
     14,
     17,
     17,
+    16,
     16
    ]
   },
   "cuponidad": {
    "ok": true,
-   "filas": 27,
-   "leido": "2026-10-31T11:08",
+   "filas": 33,
+   "leido": "2026-11-01T12:09",
    "error": "",
    "historial": [
-    35,
     30,
     30,
     34,
-    27
+    27,
+    33
    ]
   },
   "papajohns": {
    "ok": true,
    "filas": 4,
-   "leido": "2026-10-31T11:08",
+   "leido": "2026-11-01T12:09",
    "error": "",
    "historial": [
     4,
@@ -7772,7 +7094,7 @@
    "ok": false,
    "filas": 2,
    "leido": "2026-10-23T12:35",
-   "intento": "2026-10-31T11:08",
+   "intento": "2026-11-01T12:09",
    "error": "solo 1 filas (mínimo 2)",
    "historial": [
     1,
@@ -7784,22 +7106,22 @@
   },
   "cencosud": {
    "ok": true,
-   "filas": 101,
-   "leido": "2026-10-31T11:08",
+   "filas": 53,
+   "leido": "2026-11-01T12:09",
    "error": "",
    "historial": [
     102,
     102,
     102,
-    102,
-    101
+    101,
+    53
    ]
   },
   "starperu": {
    "ok": false,
    "filas": 1,
    "leido": "2026-10-21T10:58",
-   "intento": "2026-10-31T11:08",
+   "intento": "2026-11-01T12:09",
    "error": "No se pudo descargar https://www.starperu.com/es/promociones/marca/diners_club: 403 Client Error: Forbidden for url: https://www.starperu.com/es/promociones/marca/diners_club",
    "historial": []
   }
