@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-01T12:09",
+ "actualizado": "2026-11-02T15:49",
  "filas": [
   [
    "Rappi",
@@ -1960,12 +1960,12 @@
    "Tambo",
    "Plin Interbank",
    "precio",
-   9.9,
-   20.8,
+   8.9,
+   16.6,
    "",
-   "2026-10-31",
-   "2 Sándwiches Especiales (Parrillera, Queso con Tocino, Megacrocante o Doble con Queso) + 2 Gaseosas de 300 ml (Inca Kola o Coca-Cola) a S/9.",
-   "Vigente hasta agotar stock. · Válido con el código: IBK1AOCT26.",
+   "2026-11-30",
+   "2 Triples (Jamón, pollo y queso o Pollo, durazno y queso) + 2 Gaseosas de 300 ml a S/8.90 (precio regular S/16.60).",
+   "Vigente hasta agotar stock. · Válido indicando el código: IBK1ANOV26.",
    "Plin Interbank",
    {
     "conf": "of",
@@ -1978,12 +1978,12 @@
    "Tambo",
    "Plin Interbank",
    "precio",
-   9.9,
-   17.2,
+   21.9,
+   57.98,
    "",
-   "2026-10-31",
-   "2 Smirnoff Ice lata de 350/355 ml a S/9.90 (precio regular S/17.20).",
-   "Vigente hasta agotar stock. · Válido con el código: IBK1BOCT26.",
+   "2026-11-30",
+   "1 Six Pack de Cerveza Pilsen de 355 ml a S/21.90 (precio regular S/57.98).",
+   "Vigente hasta agotar stock. · Válido indicando el código: IBK1BNOV26.",
    "Plin Interbank",
    {
     "conf": "of"
@@ -1993,12 +1993,12 @@
    "Tambo",
    "Plin Interbank",
    "precio",
-   4.9,
-   9.98,
+   8.9,
+   17.98,
    "",
-   "2026-10-31",
-   "2 Turrones San José de 125 g a S/4.90 (precio regular S/9.98).",
-   "Vigente hasta agotar stock. · Válido con el código: PLIN1AOCT26.",
+   "2026-11-30",
+   "2 Papas Lay’s Ondas Picantes, Artesanas Sal Marina o Alitas BBQ de 130/135 g a S/8.90 (precio regular S/17.98).",
+   "Válido con el código: PLIN1ANOV26. · Con opción de agregar 1 Inca Kola o Coca-Cola Regular de 1 L por S/2.90. · Válido con el código: PLIN1BNOV26. · Vigente hasta agotar stock.",
    "Plin Interbank",
    {
     "conf": "of"
@@ -2008,11 +2008,11 @@
    "OXXO",
    "Plin Interbank",
    "precio",
-   1.0,
-   2.5,
-   "2026-10-01",
-   "2026-11-04",
-   "1 Papas o Chifles Inka Chips de 30 g/33 g a S/1.00 (precio regular S/2.50).",
+   5.5,
+   7.8,
+   "2026-11-05",
+   "2026-12-02",
+   "2 Gaseosas Pepsi de 1 L a S/5.50 (precio regular S/7.80).",
    "Vigente hasta agotar stock.",
    "Plin Interbank",
    {
@@ -2023,11 +2023,26 @@
    "OXXO",
    "Plin Interbank",
    "precio",
-   26.9,
-   38.9,
-   "2026-10-01",
-   "2026-11-04",
-   "Cerveza Pilsen 8 Pack lata de 355 ml a S/26.90 (precio regular S/38.90).",
+   8.9,
+   15.0,
+   "2026-11-05",
+   "2026-12-02",
+   "2 Smirnoff Ice lata de 355 ml, sabores variados, a S/8.90 (precio regular S/15.00).",
+   "Vigente hasta agotar stock.",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "OXXO",
+   "Plin Interbank",
+   "precio",
+   18.5,
+   26.5,
+   "2026-11-05",
+   "2026-12-02",
+   "Six Pack de Cerveza Pilsen Regular o Pilsen Fresh botella de 305 ml a S/18.50 (precio regular S/26.50).",
    "Vigente hasta agotar stock.",
    "Plin Interbank",
    {
@@ -2040,8 +2055,8 @@
    "precio",
    9.9,
    11.97,
-   "2026-10-01",
-   "2026-11-04",
+   "2026-11-05",
+   "2026-12-02",
    "3 Empanadas Clásicas a S/9.90 (precio regular S/11.97).",
    "Vigente hasta agotar stock.",
    "Plin Interbank",
@@ -2053,11 +2068,11 @@
    "OXXO",
    "Plin Interbank",
    "precio",
-   7.9,
-   10.0,
-   "",
-   "2026-10-31",
-   "1 Turrón San José Exportación de 250 g + 1 Café del Día de 8 oz a S/7.90 (precio regular S/10.00).",
+   9.9,
+   15.99,
+   "2026-11-05",
+   "2026-12-02",
+   "1 Helado Peziduri de 900 ml, sabores variados, a S/9.90 (precio regular S/15.99).",
    "Vigente hasta agotar stock.",
    "Plin Interbank",
    {
@@ -2068,11 +2083,11 @@
    "OXXO",
    "Plin Interbank",
    "precio",
-   9.99,
-   11.98,
-   "2026-10-01",
-   "2026-11-04",
-   "2 Cuchareables Nestlé a S/9.99 (precio regular S/11.98).",
+   24.9,
+   28.9,
+   "2026-11-05",
+   "2026-12-02",
+   "1 Panetón Gloria en bolsa de 900 g a S/24.90 (precio regular S/28.90).",
    "Vigente hasta agotar stock.",
    "Plin Interbank",
    {
@@ -2080,14 +2095,29 @@
    }
   ],
   [
-   "Bembos",
+   "OXXO",
    "Plin Interbank",
    "precio",
-   5.9,
-   21.8,
+   30.5,
+   0,
+   "2026-11-05",
+   "2026-12-02",
+   "Six Pack de Cerveza Pilsen Regular o Pilsen Fresh lata de 473 ml a S/30.50.",
+   "Vigente hasta agotar stock.",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "KFC",
+   "Plin Interbank",
+   "precio",
+   7.9,
+   26.14,
    "",
-   "2026-10-31",
-   "1 Hamburguesa Cheese Regular + 1 Papa Regular a S/5.90 (precio regular S/21.80).",
+   "2026-11-30",
+   "6 Nuggets + 1 Papa Regular + 1 Gaseosa Regular a S/7.90 (precio regular S/26.14).",
    "Vigente hasta agotar stock.",
    "Plin Interbank",
    {
@@ -2098,29 +2128,14 @@
    }
   ],
   [
-   "Bembos",
-   "Plin Interbank",
-   "precio",
-   18.9,
-   44.6,
-   "2026-10-01",
-   "2026-12-31",
-   "1 Cheese Regular + 1 Queso Tocino Regular + 2 Papas Regulares a S/18.90 (precio regular S/44.60).",
-   "Vigente hasta agotar stock.",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Bembos",
+   "KFC",
    "Plin Interbank",
    "precio",
    12.9,
-   27.7,
+   18.7,
    "2026-10-01",
-   "2026-12-31",
-   "1 Royal Regular + 1 Papa Regular + 1 Gaseosa a S/12.90 (precio regular S/27.70).",
+   "2027-01-31",
+   "1 Krunchy BBQ + 1 Complemento Regular + 1 Gaseosa Regular a S/12.90 (precio regular S/18.70).",
    "Vigente hasta agotar stock.",
    "Plin Interbank",
    {
@@ -2128,14 +2143,44 @@
    }
   ],
   [
-   "Bembos",
+   "KFC",
    "Plin Interbank",
    "precio",
-   16.9,
-   30.7,
+   13.9,
+   26.4,
+   "2026-11-01",
+   "2027-01-31",
+   "2 Piezas de Pollo + 2 Hot Wings + 1 Papa Regular a S/13.90 (precio regular S/26.40).",
+   "Vigente hasta agotar stock.",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "KFC",
+   "Plin Interbank",
+   "precio",
+   29.9,
+   41.6,
    "2026-10-01",
-   "2026-12-31",
-   "1 Cheese Regular + 1 Papa Regular + 4 Nuggets a S/16.90 (precio regular S/30.70).",
+   "2027-01-31",
+   "4 Piezas de Pollo + 1 Papa Familiar a S/29.90 (precio regular S/41.60).",
+   "Vigente hasta agotar stock.",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "KFC",
+   "Plin Interbank",
+   "precio",
+   39.9,
+   59.8,
+   "2026-10-01",
+   "2027-01-31",
+   "4 Piezas de Pollo + 4 Nuggets + 2 Papas Regulares + 2 Gaseosas Regulares a S/39.90 (precio regular S/59.80).",
    "Vigente hasta agotar stock.",
    "Plin Interbank",
    {
@@ -2149,7 +2194,7 @@
    2.5,
    0,
    "",
-   "2026-10-31",
+   "2026-11-30",
    "S/2.50 de descuento por cada galón de Gasolina Regular y Premium.",
    "Vigente hasta agotar stock.",
    "Plin Interbank",
@@ -2167,7 +2212,7 @@
    2.0,
    0,
    "",
-   "2026-10-31",
+   "2026-11-30",
    "S/2.00 de descuento por cada galón de Gasolina Regular y Premium.",
    "Vigente hasta agotar stock.",
    "Plin Interbank",
@@ -2214,66 +2259,6 @@
    }
   ],
   [
-   "KFC",
-   "Plin Interbank",
-   "precio",
-   12.9,
-   18.7,
-   "2026-10-01",
-   "2027-01-31",
-   "1 Krunchy BBQ + 1 Complemento Regular + 1 Gaseosa Regular a S/12.90 (precio regular S/18.70).",
-   "Vigente hasta agotar stock.",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "KFC",
-   "Plin Interbank",
-   "precio",
-   13.9,
-   26.4,
-   "",
-   "2026-10-31",
-   "2 Piezas de Pollo + 2 Hot Wings + 1 Papa Regular a S/13.90 (precio regular S/26.40).",
-   "Vigente hasta agotar stock.",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "KFC",
-   "Plin Interbank",
-   "precio",
-   29.9,
-   41.6,
-   "2026-10-01",
-   "2027-01-31",
-   "4 Piezas de Pollo + 1 Papa Familiar a S/29.90 (precio regular S/41.60).",
-   "Vigente hasta agotar stock.",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "KFC",
-   "Plin Interbank",
-   "precio",
-   39.9,
-   59.8,
-   "2026-10-01",
-   "2027-01-31",
-   "4 Piezas de Pollo + 4 Nuggets + 2 Papas Regulares + 2 Gaseosas Regulares a S/39.90 (precio regular S/59.80).",
-   "Vigente hasta agotar stock.",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
    "Papa Johns",
    "Plin Interbank",
    "precio",
@@ -2312,6 +2297,51 @@
    "2026-10-01",
    "2026-12-31",
    "1 Pizza Mediana Hawaiana a S/11.90 (precio regular S/24.90).",
+   "Vigente hasta agotar stock.",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Bembos",
+   "Plin Interbank",
+   "precio",
+   18.9,
+   33.7,
+   "2026-10-01",
+   "2026-12-31",
+   "1 Cheese Regular + 1 Queso Tocino Regular + 2 Papas Regulares a S/18.90 (precio regular S/33.70).",
+   "Vigente hasta agotar stock.",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Bembos",
+   "Plin Interbank",
+   "precio",
+   12.9,
+   27.7,
+   "2026-10-01",
+   "2026-12-31",
+   "1 Royal Regular + 1 Papa Regular + 1 Gaseosa a S/12.90 (precio regular S/27.70).",
+   "Vigente hasta agotar stock.",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Bembos",
+   "Plin Interbank",
+   "precio",
+   16.9,
+   27.8,
+   "2026-10-01",
+   "2026-12-31",
+   "1 Cheese Regular + 1 Papa Regular + 4 Nuggets a S/16.90 (precio regular S/27.80).",
    "Vigente hasta agotar stock.",
    "Plin Interbank",
    {
@@ -2382,21 +2412,6 @@
    "ChinaWok",
    "Plin Interbank",
    "precio",
-   15.9,
-   39.6,
-   "",
-   "2026-10-27",
-   "1 Combinado Taypa + 1 Arroz Chaufa de Pollo + 2 Gaseosas Junior a S/15.90 (precio regular S/39.60).",
-   "Vigente hasta agotar stock.",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "ChinaWok",
-   "Plin Interbank",
-   "precio",
    19.9,
    38.6,
    "2026-10-01",
@@ -2409,14 +2424,14 @@
    }
   ],
   [
-   "Repshop",
+   "Cinnabon",
    "Plin Interbank",
    "precio",
-   10.9,
-   16.8,
+   19.9,
+   28.0,
    "",
-   "2026-10-31",
-   "1 Turrón Doña Pepa de 500 g + 1 Inca Kola de 1 L a S/10.90 (precio regular S/16.80).",
+   "2026-11-30",
+   "1 Pack de 12 BonBites a S/19.90 (precio regular S/28.00).",
    "Vigente hasta agotar stock.",
    "Plin Interbank",
    {
@@ -2477,6 +2492,96 @@
    "2026-10-01",
    "2027-01-31",
    "2 Pinkberry Small con Toppings a S/21.90 (precio regular S/27.80).",
+   "Vigente hasta agotar stock.",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Roky’s",
+   "Plin Interbank",
+   "precio",
+   16.9,
+   24.9,
+   "",
+   "2026-11-30",
+   "1/4 de Pollo + Papas Fritas + 1 Gaseosa de 500 ml a S/16.90 (precio regular S/24.90).",
+   "Vigente hasta agotar stock.",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Roky’s",
+   "Plin Interbank",
+   "precio",
+   18.9,
+   27.9,
+   "",
+   "2026-11-30",
+   "1/4 de Pollo + Arroz Oriental Personal + Papas Fritas + 1 Gaseosa de 500 ml a S/18.90 (precio regular S/27.90).",
+   "Vigente hasta agotar stock.",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Roky’s",
+   "Plin Interbank",
+   "precio",
+   29.9,
+   54.9,
+   "",
+   "2026-11-30",
+   "1/2 Pollo + Papas Fritas + 2 Gaseosas de 500 ml a S/29.90 (precio regular S/54.90).",
+   "Vigente hasta agotar stock.",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Roky’s",
+   "Plin Interbank",
+   "precio",
+   49.9,
+   78.9,
+   "",
+   "2026-11-30",
+   "1 Pollo + Papas Familiares + 1 Gaseosa de 1.5 L a S/49.90 (precio regular S/78.90).",
+   "Vigente hasta agotar stock.",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Little Caesars",
+   "Plin Interbank",
+   "precio",
+   12.9,
+   19.4,
+   "2026-11-01",
+   "2026-12-31",
+   "1 Crazy Cheese Bread + 1 Gaseosa de 355 ml + 1 Dip a S/12.90 (precio regular S/19.40).",
+   "Vigente hasta agotar stock.",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Little Caesars",
+   "Plin Interbank",
+   "precio",
+   27.9,
+   32.8,
+   "2026-11-01",
+   "2026-12-31",
+   "1 Pizza Familiar Mitad y Mitad + 1 Crazy Puff a S/27.90 (precio regular S/32.80).",
    "Vigente hasta agotar stock.",
    "Plin Interbank",
    {
@@ -2546,41 +2651,11 @@
    "Popeyes",
    "Plin Interbank",
    "precio",
-   12.9,
-   23.4,
-   "",
-   "2026-10-05",
-   "2 Piezas de Pollo + 1 Papa Cajún Regular a S/12.90 (precio regular S/23.40).",
-   "Vigente hasta agotar stock.",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Popeyes",
-   "Plin Interbank",
-   "precio",
    14.9,
    21.8,
    "2026-10-01",
    "2026-12-31",
    "2 Piezas de Pollo + 1 Papa Regular a S/14.90 (precio regular S/21.80).",
-   "Vigente hasta agotar stock.",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Popeyes",
-   "Plin Interbank",
-   "precio",
-   29.9,
-   60.5,
-   "",
-   "2026-10-28",
-   "6 Piezas de Pollo + 1 Papa Cajún Familiar + 3 Gaseosas Junior a S/29.90 (precio regular S/60.50).",
    "Vigente hasta agotar stock.",
    "Plin Interbank",
    {
@@ -2681,11 +2756,11 @@
    "Norky’s",
    "Plin Interbank",
    "precio",
-   16.9,
+   14.9,
    23.9,
-   "2026-10-01",
+   "2026-11-01",
    "2026-11-30",
-   "1/4 de Pollo + Papas Fritas a S/16.90 (precio regular S/23.90).",
+   "1/4 de Pollo + Papas Fritas a S/14.90 (precio regular S/23.90).",
    "Vigente hasta agotar stock.",
    "Plin Interbank",
    {
@@ -2761,6 +2836,21 @@
    "2026-10-01",
    "2027-01-31",
    "2 Whopper Jr. + 2 Papas Jr. + 2 Gaseosas de 12 oz a S/27.90 (precio regular S/47.40).",
+   "Vigente hasta agotar stock.",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Beso Francés",
+   "Plin Interbank",
+   "precio",
+   25.0,
+   34.0,
+   "2026-11-02",
+   "2026-11-30",
+   "2 Crepes de manjar con fresas a S/25.00 (precio regular S/34.00).",
    "Vigente hasta agotar stock.",
    "Plin Interbank",
    {
@@ -3605,26 +3695,6 @@
    "Plin Interbank",
    {
     "conf": "of"
-   }
-  ],
-  [
-   "Tambo",
-   "Plin Interbank",
-   "precio",
-   13.9,
-   21.98,
-   "",
-   "2026-10-31",
-   "2 Four Loko lata de 473 ml, sabores varios, a S/13.90 (precio regular S/21.98).",
-   "Vigente hasta agotar stock. · Válido con el código: PLIN1BOCT26.",
-   "Plin Interbank",
-   {
-    "conf": "of",
-    "dias": [
-     0,
-     5,
-     6
-    ]
    }
   ],
   [
@@ -5180,22 +5250,6 @@
    }
   ],
   [
-   "Alfa",
-   "Tarjeta Caja Arequipa",
-   "porcentaje",
-   20,
-   0,
-   "",
-   "",
-   "Restaurantes",
-   "Pagando con tarjeta de débito VISA de Caja Arequipa",
-   "Tarjeta Caja Arequipa",
-   {
-    "conf": "of",
-    "ciudad": "AQP"
-   }
-  ],
-  [
    "Patria",
    "Tarjeta Caja Arequipa",
    "porcentaje",
@@ -5212,7 +5266,7 @@
    }
   ],
   [
-   "Di Mazza",
+   "Alfa",
    "Tarjeta Caja Arequipa",
    "porcentaje",
    20,
@@ -5260,6 +5314,22 @@
    }
   ],
   [
+   "Di Mazza",
+   "Tarjeta Caja Arequipa",
+   "porcentaje",
+   20,
+   0,
+   "",
+   "",
+   "Restaurantes",
+   "Pagando con tarjeta de débito VISA de Caja Arequipa",
+   "Tarjeta Caja Arequipa",
+   {
+    "conf": "of",
+    "ciudad": "AQP"
+   }
+  ],
+  [
    "Circo Mundo de Dinosaurios",
    "Tarjeta Caja Arequipa",
    "2x1",
@@ -5276,14 +5346,14 @@
    }
   ],
   [
-   "Mr Jump",
+   "¡SPA DE LUJO! 60 minutos de Masaje + Aceites",
    "Cuponatic",
    "precio",
-   27.9,
-   55.0,
+   79.9,
+   120.0,
    "",
    "",
-   "Parque Inflable Más Grande de Lima - Entrada General Mr Jump",
+   "Q Spa Wellness",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -5327,107 +5397,27 @@
    "Coney Park",
    "Cuponatic",
    "precio",
-   59.9,
-   130.0,
-   "",
-   "",
-   "2996 Vendidos",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Patinaje Sobre Hielo en Lima Bajo Cero de Lunes a Domingo",
-   "Cuponatic",
-   "precio",
    39.9,
-   45.0,
-   "",
-   "",
-   "LIMA BAJO CERO",
-   "Patinaje Sobre Hielo en Lima Bajo Cero de Lunes a Domingo",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Elige cuánto saltar: 30, 45 o 60 min en Supernova",
-   "Cuponatic",
-   "precio",
-   25.0,
-   40.0,
-   "",
-   "",
-   "2298 Vendidos",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Granja Fundo San Vicente",
-   "Cuponatic",
-   "precio",
-   44.9,
-   59.0,
-   "",
-   "",
-   "Full Day en Granja Interactiva Fundo San Vicente",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Salta 60, 90, 120 Minutos o Full Day de L - D en 3 Locales",
-   "Cuponatic",
-   "precio",
-   21.9,
-   26.0,
-   "",
-   "",
-   "Flying Squirrel",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Vive la Adrenalina -Sesión de 6 Minutos Circuito -Euro Karts",
-   "Cuponatic",
-   "precio",
-   24.9,
-   35.0,
-   "",
-   "",
-   "6807 Vendidos",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "BUFFET INTERNACIONAL: Almuerzo ó Cena Bailable",
-   "Cuponatic",
-   "precio",
-   54.9,
    60.0,
    "",
    "",
-   "Buffet Internacional Mandarín",
+   "3358 Vendidos",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "6 Visitas de Anticelulitis Focalizado en Glúteos y Piernas",
+   "Cuponatic",
+   "precio",
+   69.9,
+   500.0,
+   "",
+   "",
+   "Bless Esthetic Spa",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -5452,6 +5442,38 @@
    }
   ],
   [
+   "Mr Jump",
+   "Cuponatic",
+   "precio",
+   27.9,
+   55.0,
+   "",
+   "",
+   "Parque Inflable Más Grande de Lima - Entrada General Mr Jump",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Masaje para 2 + Compresas Calientes + Facial Express y Más",
+   "Cuponatic",
+   "precio",
+   99.9,
+   250.0,
+   "",
+   "",
+   "Relax Vital Wellness",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
    "Cinemark",
    "Cuponatic",
    "precio",
@@ -5468,14 +5490,14 @@
    }
   ],
   [
-   "Coney Park",
+   "Elige cuánto saltar: 30, 45 o 60 min en Supernova",
    "Cuponatic",
    "precio",
-   39.9,
-   60.0,
+   25.0,
+   40.0,
    "",
    "",
-   "Últimas unidades",
+   "2306 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -5484,15 +5506,15 @@
    }
   ],
   [
-   "Circuito de Karting para Niños o Adultos Boulevard Asia",
+   "2 Entradas + Bebidas a Espectáculo Folklore en La Candelaria",
    "Cuponatic",
    "precio",
-   39.9,
-   0,
+   29.9,
+   124.0,
    "",
    "",
-   "RF Karting Asia",
-   "Compra el cupón en Cuponatic",
+   "1 Férula de Relajación + 1 Porta Férula + Fluor - Dentu",
+   "Letty Salón & Spa",
    "Cuponatic",
    {
     "conf": "of",
@@ -5564,15 +5586,15 @@
    }
   ],
   [
-   "Perulandia Full Day + Piscinas + S/. 35 de Vale de Consumo  ",
+   "Rally Kart: 10, 16 ó 30 vueltas en sus locales de Jockey Pla",
    "Cuponidad",
    "precio",
-   35.0,
-   64.9,
+   14.9,
+   50.0,
    "",
    "",
-   "ENTRETENIMIENTO",
-   "S/54.90 por Full day en Perulandia: entrada + vale de consumo de 35  soles + Perusaurus de lunes a domingo y feriados",
+   "Rally Kart: 10, 16 ó 30 vueltas en sus locales de Jockey Plaza, Open Plaza La Marina,   Bellavista, Mall Plaza Comas",
+   "Compra el cupón en Cuponidad",
    "Cuponidad",
    {
     "conf": "of",
@@ -5580,15 +5602,47 @@
    }
   ],
   [
-   "La Carlota y su Circo Halloween del  29 de Octubre hasta  01",
+   "Dragon Rolls",
    "Cuponidad",
    "precio",
-   14.9,
-   20.0,
-   "2026-10-29",
-   "2026-11-01",
-   "La Carlota y su Circo Halloween del  29 de Octubre hasta  01 de Noviembre en Parque Sinchi Roca - Comas",
+   39.9,
+   70.0,
+   "",
+   "",
+   "60 Makis (5 Sabores a elección) Válido solo para Recojo",
+   "60 Makis (5 Sabores a elección) Válido solo para Recojo",
+   "Cuponidad",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Go Enjoy City: Parque temático infantil, donde juegan a ser ",
+   "Cuponidad",
+   "precio",
+   69.9,
+   90.0,
+   "",
+   "",
+   "Go Enjoy City: Parque temático infantil, donde juegan a ser grandes en la ciudad de los niños",
    "Compra el cupón en Cuponidad",
+   "Cuponidad",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Cineplanet",
+   "Cuponidad",
+   "precio",
+   47.9,
+   104.0,
+   "",
+   "",
+   "Cineplanet: 2 Entradas 2D + 2 Bebidas Grandes + Pop corn gigante. Lunes a Domingo",
+   "Cineplanet: 2 Entradas 2D + 2 Bebidas Grandes + Pop corn gigante. Lunes a Domingo · Cineplanet: S/ 47.90 por 2 entradas 2D + Pop corn gigante  + 2 bebidas grandes. Válido a nivel n",
    "Cuponidad",
    {
     "conf": "of",
@@ -5612,47 +5666,15 @@
    }
   ],
   [
-   "Sesión de 6 minutos en el Circuito Explanada Olguín Jockey P",
+   "Perulandia Full Day + Piscinas + S/. 35 de Vale de Consumo  ",
    "Cuponidad",
    "precio",
-   24.9,
    35.0,
+   64.9,
    "",
    "",
-   "Sesión de 6 minutos en el Circuito Explanada Olguín Jockey Plaza.",
-   "S/ 24.90 por  Sesión en Circuito - Vive la Adrenalina al Máximo en Circuito Explanada Olguín con Euro Karts. Válido de Lunes a Domingo",
-   "Cuponidad",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Mr. Joy : Juega por 150 minutos (2:30 hrs). Válido en sus 3 ",
-   "Cuponidad",
-   "precio",
-   30.9,
-   50.0,
-   "",
-   "",
-   "Mr. Joy : Juega por 150 minutos (2:30 hrs). Válido en sus 3 locales. Lunes a Domingo.",
-   "Mr. Joy : Juega por 150 minutos (2:30 hrs). Válido en sus 3 locales. Lunes a Domingo. · Disfruta  2:30 horas de diversión en MR JOY por solo S/ 30.90 Válido en Real Plaza Puruchuco",
-   "Cuponidad",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Cineplanet",
-   "Cuponidad",
-   "precio",
-   47.9,
-   104.0,
-   "",
-   "",
-   "Cineplanet: 2 Entradas 2D + 2 Bebidas Grandes + Pop corn gigante. Lunes a Domingo",
-   "Cineplanet: 2 Entradas 2D + 2 Bebidas Grandes + Pop corn gigante. Lunes a Domingo · Cineplanet: S/ 47.90 por 2 entradas 2D + Pop corn gigante  + 2 bebidas grandes. Válido a nivel n",
+   "ENTRETENIMIENTO",
+   "S/54.90 por Full day en Perulandia: entrada + vale de consumo de 35  soles + Perusaurus de lunes a domingo y feriados",
    "Cuponidad",
    {
     "conf": "of",
@@ -5684,7 +5706,7 @@
    "",
    "",
    "breña, cercado de lima, comas, independencia, jesus maria, la molina, la victoria, lince, los olivos, miraflores, san borja, san isidro, san",
-   "Cinemark: Entrada 2D - opción a combo (Validación ONLINE o mostrando tu celular) · Cinemark: 2 Entradas + 2 gaseosas + cancha grande o mediana según elijas (validación ONLINE o fís",
+   "Cinemark: 2 Entradas + 2 gaseosas + cancha grande o mediana según elijas (validación ONLINE o física) · Cineplanet: 2 Entradas 2D + 2 Bebidas Grandes + Pop corn gigante. Lunes a Do",
    "Cuponidad",
    {
     "conf": "of",
@@ -5692,15 +5714,15 @@
    }
   ],
   [
-   "Rancho Aventura Park: Pulsera para juegos . Pachacamac",
+   "Vacilandia Park: Full Day para niños, adultos o pack familia",
    "Cuponidad",
    "precio",
-   15.0,
-   70.9,
+   16.9,
+   44.9,
    "",
    "",
-   "La Fogata de Cieneguilla: Full Day de lunes a domingo para niño o adulto + vale de consumo",
-   "La Fogata de Cieneguilla: Full Day de lunes a domingo para niño o adulto + vale de consumo",
+   "Vacilandia Park: Full Day para niños, adultos o pack familiar, incluye alimentación.",
+   "Compra el cupón en Cuponidad",
    "Cuponidad",
    {
     "conf": "of",
@@ -5708,14 +5730,14 @@
    }
   ],
   [
-   "JUMP SPOT KIDS: Full Diversión por 30 o 60 minutos Jockey Pl",
+   "Mr. Joy : Juega por 150 minutos (2:30 hrs). Válido en sus 3 ",
    "Cuponidad",
    "precio",
-   12.9,
-   35.9,
+   9.9,
+   69.9,
    "",
    "",
-   "JUMP SPOT KIDS: Full Diversión por 30 o 60 minutos Jockey Plaza, Mall Plaza Comas, Mall Plaza Arequipa",
+   "Go Enjoy City: Parque temático infantil, donde juegan a ser grandes en la ciudad de los niños",
    "Mr. Joy : Juega por 150 minutos (2:30 hrs). Válido en sus 3 locales. Lunes a Domingo.",
    "Cuponidad",
    {
@@ -5724,15 +5746,15 @@
    }
   ],
   [
-   "Flying Squirrel:  Full Day, 60 o 120 minutos según elijas en",
+   "Yakupark Paracas: 45 o 90 minutos de Diversión según elijas.",
    "Cuponidad",
    "precio",
    19.9,
-   28.9,
+   44.9,
    "",
    "",
-   "Fun Jungle: Full Day o 60 minutos según elijas en los Inflables en El Defby  y Parque de la Amistad",
-   "Compra el cupón en Cuponidad",
+   "Infinity Park Arequipa: entrada para niño o adulto al parque inflable más grande de  Arewuipa",
+   "Yakupark Paracas: 45 o 90 minutos de Diversión según elijas. Lunes a Domingo",
    "Cuponidad",
    {
     "conf": "of",
@@ -5740,15 +5762,15 @@
    }
   ],
   [
-   "RF Karting La Victoria: Sesiones para niños o adultos según ",
+   "Rally Kart:  5, 8 o 15 vueltas según elijas. Válido en sus 5",
    "Cuponidad",
    "precio",
    14.9,
-   24.9,
+   22.9,
    "",
    "",
    "Rally Kart: 10, 16 ó 30 vueltas en sus locales de Jockey Plaza, Open Plaza La Marina,   Bellavista, Mall Plaza Comas",
-   "Rally Kart:  5, 8 o 15 vueltas según elijas. Válido en sus 5 locales",
+   "Rally Kart:  5, 8 o 15 vueltas según elijas. Válido en sus 5 locales · Fórmula Kart:  Sesiones para niños y adultos. Lunes a domingo",
    "Cuponidad",
    {
     "conf": "of",
@@ -5756,15 +5778,15 @@
    }
   ],
   [
-   "La Bistecca",
+   "Kasamama",
    "Cuponidad",
    "precio",
-   26.9,
-   85.9,
+   37.9,
+   89.9,
    "",
    "",
    "Barra Libre Comida Mexicana, Pizzas, Makis, Hamburguesas + bebida ilimitada. 4 restaurantes",
-   "Buffet Almuerzo: Entradas + Ensaladas + Fondos + Postres de Lunes a Domingo",
+   "Buffet Almuerzo Criollo en 4 Sedes de Lunes a Domingo",
    "Cuponidad",
    {
     "conf": "of",
@@ -5788,14 +5810,14 @@
    }
   ],
   [
-   "Michael Jackson Sinfónica 360:  01 y 14 de Noviembre . Cúpul",
+   "El Adivino - Una Comedia Terrorífica. 30 y 31 de Octubre, 6,",
    "Cuponidad",
    "precio",
    14.9,
    39.9,
-   "2026-11-08",
-   "2026-11-15",
-   "El Soldadito de Plomo: El 01, 07, 08 de Noviembre en el teatro Jazz Zone - Miraflores",
+   "2026-10-31",
+   "2026-11-14",
+   "El Adivino - Una Comedia Terrorífica. 30 y 31 de Octubre, 6, 7, 13 y 14 de Noviemre en Capital Restobar Barranco",
    "Compra el cupón en Cuponidad",
    "Cuponidad",
    {
@@ -5804,14 +5826,14 @@
    }
   ],
   [
-   "Mr. Sushi",
+   "Dragon Rolls",
    "Cuponidad",
    "precio",
-   85.9,
+   9.9,
    0,
    "",
    "",
-   "50 makis a elección + 12 alitas . Consumo en el local o recojo.",
+   "MAKIS: Tabla de 12 Makis + bebida personal. Sabores a elección",
    "Compra el cupón en Cuponidad",
    "Cuponidad",
    {
@@ -5820,15 +5842,15 @@
    }
   ],
   [
-   "Mr. Sushi",
+   "Dragon Rolls",
    "Cuponidad",
    "precio",
-   29.9,
+   32.9,
    0,
    "",
    "",
-   "20 makis + 1 bebida de 300 ml. Sabores a elección para consumo o recojo",
-   "Compra el cupón en Cuponidad",
+   "MAKIS: 36 Makis+ yakimeshi +  bebidas en Dragon Rolls - Santiago de Surco",
+   "Delivery",
    "Cuponidad",
    {
     "conf": "of",
@@ -5836,27 +5858,11 @@
    }
   ],
   [
-   "Mr. Sushi",
-   "Cuponidad",
-   "precio",
-   39.9,
-   0,
-   "",
-   "",
-   "Para 2:  30 makis + 2 gaseosas. Sabores a elección (consumo o recojo)",
-   "Compra el cupón en Cuponidad",
-   "Cuponidad",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Examen médico de brevete COMAS para AUTO o MOTO",
+   "Examen médico para brevete CHORRILLOS para AUTO",
    "Cuponidad",
    "precio",
    89.9,
-   120.0,
+   109.99,
    "",
    "",
    "Examen Médico para Brevete de Auto o Moto: Licencia nuevo, revalidar, recategorizar",
@@ -5868,15 +5874,15 @@
    }
   ],
   [
-   "Excelencia Pollos",
+   "Pollo a la brasa + papas fritas + ensalada + gaseosa para CO",
    "Cuponidad",
    "precio",
    16.9,
-   83.9,
+   114.9,
    "",
    "",
-   "cercado de lima, independencia, jesus maria, la molina, lince, los olivos, magdalena del mar, miraflores, pueblo libre, san borja, san juan ",
-   "POLLO A LA LEÑA: 1 pollo + papas fritas + 1 lt. de bebida para CONSUMO EN SALON",
+   "Parilla para 2: Churrasco, Chuleta, Pollo a la leña, Mollejas, Anticucho, Chorizo, Botella de vino y más",
+   "Pollo a la brasa + papas fritas + ensalada + gaseosa para CONSUMO o  RECOJO.  Lunes a Domingo · Delivery",
    "Cuponidad",
    {
     "conf": "of",
@@ -5887,91 +5893,11 @@
    "El Salto del Fraile",
    "Cuponidad",
    "precio",
-   89.9,
+   99.0,
    129.0,
    "",
    "",
-   "Parrilla para 2: Parrilla marina para 2 personas + 2 copas de vino blanco, frente al mar",
-   "Compra el cupón en Cuponidad",
-   "Cuponidad",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Carwash Callao: Lavado de salón Vip para auto o camioneta",
-   "Cuponidad",
-   "precio",
-   99.9,
-   0,
-   "",
-   "",
-   "Ver más detalles",
-   "Carwash Callao: Lavado de salón Vip para auto o camioneta",
-   "Cuponidad",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Servicio de Undercoating La Perla: Para auto o camioneta de ",
-   "Cuponidad",
-   "precio",
-   99.9,
-   0,
-   "",
-   "",
-   "Servicio de Undercoating La Perla: Para auto o camioneta de hasta 3 filas",
-   "Compra el cupón en Cuponidad",
-   "Cuponidad",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Lavado VIP pata auto o camioneta + Lavado de motor + Encerad",
-   "Cuponidad",
-   "precio",
-   39.9,
-   0,
-   "",
-   "",
-   "Lavado VIP pata auto o camioneta + Lavado de motor + Encerado",
-   "Compra el cupón en Cuponidad",
-   "Cuponidad",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Carwash Callao: Lavado de salón Vip para auto o camioneta",
-   "Cuponidad",
-   "precio",
-   59.9,
-   0,
-   "",
-   "",
-   "Ver más detalles",
-   "Carwash Callao: Lavado de salón Vip para auto o camioneta",
-   "Cuponidad",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Pulido de faros para auto o camioneta",
-   "Cuponidad",
-   "precio",
-   59.9,
-   0,
-   "",
-   "",
-   "los negocios carwash",
+   "Parilla para 2: Churrasco, Chuleta, Pollo a la leña, Mollejas, Anticucho, Chorizo, Botella de vino y más",
    "Compra el cupón en Cuponidad",
    "Cuponidad",
    {
@@ -5996,15 +5922,15 @@
    }
   ],
   [
-   "Noche romántica para dos en habitación matrimonial + desayun",
+   "Pulido de faros para auto o camioneta",
    "Cuponidad",
    "precio",
-   16.9,
-   219.0,
+   59.9,
+   0,
    "",
    "",
-   "La Fogata de Cieneguilla: Full Day de lunes a domingo para niño o adulto + vale de consumo",
-   "La Fogata de Cieneguilla: Full Day de lunes a domingo para niño o adulto + vale de consumo",
+   "los negocios carwash",
+   "Compra el cupón en Cuponidad",
    "Cuponidad",
    {
     "conf": "of",
@@ -6012,15 +5938,31 @@
    }
   ],
   [
-   "3 sesiones de tratamiento para reducir papada y cachetes.",
+   "Lavado VIP pata auto o camioneta + Lavado de motor + Encerad",
+   "Cuponidad",
+   "precio",
+   39.9,
+   0,
+   "",
+   "",
+   "Lavado VIP pata auto o camioneta + Lavado de motor + Encerado",
+   "Compra el cupón en Cuponidad",
+   "Cuponidad",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Tour de aventura con tubulares y Sandboard",
    "Cuponidad",
    "precio",
    19.9,
-   0,
+   170.0,
    "",
    "",
-   "Ver más detalles",
-   "Compra el cupón en Cuponidad",
+   "La Fogata de Cieneguilla: Full Day de lunes a domingo para niño o adulto + vale de consumo",
+   "La Fogata de Cieneguilla: Full Day de lunes a domingo para niño o adulto + vale de consumo",
    "Cuponidad",
    {
     "conf": "of",
@@ -6028,31 +5970,15 @@
    }
   ],
   [
-   "Limpieza facial profunda + peeling punta de diamante y más",
+   "Mechas balayage o iluminación cepillado y más",
    "Cuponidad",
    "precio",
    14.9,
-   0,
-   "",
-   "",
-   "Ver más detalles",
-   "Compra el cupón en Cuponidad",
-   "Cuponidad",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Lipoescultura sin cirugía en 6 visitas, incluye: hidrolipocl",
-   "Cuponidad",
-   "precio",
    89.0,
-   0,
    "",
    "",
    "Lipoescultura sin cirugía en 6 visitas, incluye: hidrolipoclasia, ultracavitación y más.",
-   "Compra el cupón en Cuponidad",
+   "bonet´s salon spa",
    "Cuponidad",
    {
     "conf": "of",
@@ -6063,8 +5989,8 @@
    "Papa Johns",
    "Web/app de la marca",
    "precio",
-   35.9,
-   83.8,
+   6.0,
+   55.8,
    "",
    "",
    "1 pizza grande clásica mas gaseosa de 1LT con 3 rolls de pepperoni",
@@ -6099,7 +6025,7 @@
    71.7,
    "",
    "",
-   "1 Pizza grande clásica con complemento y gaseosa 1LT",
+   "1 Pizza Grande Clásica + 1 Pizza Grande Power Pepperoni + 1 Gaseosa 1 L",
    "Promo de la web y app de Papa Johns",
    "Web/app de la marca",
    {
@@ -6153,6 +6079,100 @@
    {
     "conf": "of",
     "canal": "A"
+   }
+  ],
+  [
+   "La Cabrera",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   20,
+   0,
+   "",
+   "",
+   "En la carta. Válido de lunes a domingo.",
+   "En la carta. Válido de lunes a domingo.",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "D'Tinto & Bife",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   30,
+   0,
+   "",
+   "",
+   "En la carta. Válido de lunes a domingo.",
+   "En la carta. Válido de lunes a domingo.",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Combo Practika GRATIS: Licuadora + olla arrocera + hervidor",
+   "Tarjeta Cencosud",
+   "precio",
+   1699.0,
+   0,
+   "",
+   "",
+   "Estilos",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Estilos",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   50,
+   0,
+   "",
+   "",
+   "En productos, calzado y textil deportivo en las marcas Adidas, Nike, Puma, Reebok y Under Armour.",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Estilos",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   10,
+   0,
+   "",
+   "",
+   "En todo juguetes, muebles, bicicletas (skus seleccionados) y adornos/decoración de Navidad.",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Wong",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   20,
+   0,
+   "",
+   "",
+   "En vinos, espumantes, licores y destilados",
+   "Sábados y Domingos",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of",
+    "dias": [
+     0,
+     6
+    ]
    }
   ],
   [
@@ -6240,7 +6260,7 @@
    "Rutina Café",
    "Tarjeta Cencosud",
    "porcentaje",
-   20,
+   50,
    0,
    "",
    "",
@@ -6255,7 +6275,7 @@
    "Kion Peruvian Chinese",
    "Tarjeta Cencosud",
    "porcentaje",
-   20,
+   50,
    0,
    "",
    "",
@@ -6306,6 +6326,144 @@
    "",
    "Válido en todos los parques Happyland a nivel nacional.",
    "Válido en todos los parques Happyland a nivel nacional.",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Metro",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   10,
+   0,
+   "",
+   "",
+   "Metro Almácen",
+   "Domingo 10% de dscto adicional",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of",
+    "dias": [
+     0
+    ]
+   }
+  ],
+  [
+   "Metro",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   10,
+   0,
+   "",
+   "",
+   "En alimentos para mascotas",
+   "Sábado 10% de dscto adicional",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of",
+    "dias": [
+     6
+    ]
+   }
+  ],
+  [
+   "Metro",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   10,
+   0,
+   "",
+   "",
+   "En aguas y gaseosas",
+   "Viernes 10% de dscto adicional",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of",
+    "dias": [
+     5
+    ]
+   }
+  ],
+  [
+   "Metro",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   5,
+   0,
+   "",
+   "",
+   "Metro Almácen",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Metro",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   5,
+   0,
+   "",
+   "",
+   "No válido para leches maternizadas",
+   "Miércoles 5% de dscto adicional en leches · No válido para leches maternizadas",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of",
+    "dias": [
+     3
+    ]
+   }
+  ],
+  [
+   "Metro",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   10,
+   0,
+   "",
+   "",
+   "En abarrotes de nuestras marcas propias",
+   "Martes 10% de dscto adicional",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of",
+    "dias": [
+     2
+    ]
+   }
+  ],
+  [
+   "Metro",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   10,
+   0,
+   "",
+   "",
+   "En aceites comestibles",
+   "Lunes 10% de dscto adicional",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of",
+    "dias": [
+     1
+    ]
+   }
+  ],
+  [
+   "Baliq",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   10,
+   0,
+   "",
+   "",
+   "En joyas de oro 18K.",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
    "Tarjeta Cencosud",
    {
     "conf": "of"
@@ -6372,6 +6530,21 @@
    }
   ],
   [
+   "La Piccolina",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   45,
+   0,
+   "",
+   "",
+   "En platos de la carta principal. Válido de lunes a domingo.",
+   "En platos de la carta principal. Válido de lunes a domingo.",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
    "Mikaela",
    "Tarjeta Cencosud",
    "porcentaje",
@@ -6432,6 +6605,39 @@
    }
   ],
   [
+   "PedidosYa",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   15,
+   0,
+   "",
+   "",
+   "Todos los lunes en supermercados",
+   "Todos los lunes en supermercados",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of",
+    "dias": [
+     1
+    ]
+   }
+  ],
+  [
+   "Wong",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   25,
+   0,
+   "",
+   "",
+   "En Wong Bistró pagando con Tarjeta Cencosud",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
    "Sorprende Lima",
    "Tarjeta Cencosud",
    "porcentaje",
@@ -6459,6 +6665,25 @@
    "Tarjeta Cencosud",
    {
     "conf": "of"
+   }
+  ],
+  [
+   "Wong",
+   "Tarjeta Cencosud",
+   "monto",
+   100.0,
+   0,
+   "",
+   "",
+   "Te devolvemos",
+   "Todos los martes por compras desde S/500 en Wong con Tarjeta Cencosud.",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of",
+    "dias": [
+     2
+    ],
+    "min": 500.0
    }
   ],
   [
@@ -6519,6 +6744,87 @@
    "Tarjeta Cencosud",
    {
     "conf": "of"
+   }
+  ],
+  [
+   "La Mora",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   20,
+   0,
+   "",
+   "",
+   "En la carta. Válido de lunes a domingo.",
+   "En la carta. Válido de lunes a domingo.",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "KFC",
+   "Tarjeta Cencosud",
+   "precio",
+   12.9,
+   0,
+   "",
+   "",
+   "2 Piezas de pollo + 2 Nuggets + 1 Papa regular + 1 Ensalada o puré regular",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Primax",
+   "Tarjeta Cencosud",
+   "monto",
+   1.5,
+   0,
+   "",
+   "",
+   "Por galón I Regístrate en la web:",
+   "Primax · https://convenios.primax.com",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Wong",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   10,
+   0,
+   "",
+   "",
+   "En salchichas y chorizos con tu Tarjeta Cencosud",
+   "Viernes",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of",
+    "dias": [
+     5
+    ]
+   }
+  ],
+  [
+   "Wong",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   20,
+   0,
+   "",
+   "",
+   "En cortes de carnes de res con tu Tarjeta Cencosud",
+   "Jueves",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of",
+    "dias": [
+     4
+    ]
    }
   ],
   [
@@ -6597,6 +6903,21 @@
    }
   ],
   [
+   "Pizza Hut",
+   "Tarjeta Cencosud",
+   "precio",
+   10.9,
+   0,
+   "",
+   "",
+   "1 pizza mediana (americana o pepperoni) + 1 gaseosa regular.",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
    "Mis Costillitas",
    "Tarjeta Cencosud",
    "precio",
@@ -6606,6 +6927,36 @@
    "",
    "2 costillas JR + 2 papas fritas + 2 ensaladas de col + 1 lt de limonada a S/79.90",
    "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Fauna",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   15,
+   0,
+   "",
+   "",
+   "En toda la carta. Válido de lunes a domingo.",
+   "En toda la carta. Válido de lunes a domingo.",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Shi-Nuá",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   15,
+   0,
+   "",
+   "",
+   "En toda la carta. Válido de lunes a domingo.",
+   "En toda la carta. Válido de lunes a domingo.",
    "Tarjeta Cencosud",
    {
     "conf": "of"
@@ -6672,6 +7023,21 @@
    }
   ],
   [
+   "Granja Azul",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   50,
+   0,
+   "",
+   "",
+   "En la carta. Válido de lunes a domingo.",
+   "En la carta. Válido de lunes a domingo.",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
    "Villa Chicken",
    "Tarjeta Cencosud",
    "precio",
@@ -6696,6 +7062,21 @@
    "",
    "1/4 pollo a la leña + papas fritas regulares + 1 vaso de chicha a S/24.90",
    "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Baco & Vaca",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   50,
+   0,
+   "",
+   "",
+   "En la carta. Válido de lunes a domingo.",
+   "En la carta. Válido de lunes a domingo.",
    "Tarjeta Cencosud",
    {
     "conf": "of"
@@ -6732,6 +7113,21 @@
    }
   ],
   [
+   "Rally Kart",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   50,
+   0,
+   "",
+   "",
+   "En carreras de karts.",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
    "Diverticenter",
    "Tarjeta Cencosud",
    "precio",
@@ -6740,6 +7136,36 @@
    "",
    "",
    "Recarga",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Rosatel",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   20,
+   0,
+   "",
+   "",
+   "Válido en página web, tiendas físicas y Call Center de Rosatel. Código: ROCENCOSUD20.",
+   "Válido en página web, tiendas físicas y Call Center de Rosatel. Código: ROCENCOSUD20.",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "EF Perfumes",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   15,
+   0,
+   "",
+   "",
+   "En todos los perfumes.",
    "Pide el descuento en caja con tu Tarjeta Cencosud",
    "Tarjeta Cencosud",
    {
@@ -6822,6 +7248,21 @@
    }
   ],
   [
+   "New Athletic",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   30,
+   0,
+   "",
+   "",
+   "En todo calzado.",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
    "Triathlon Sport",
    "Tarjeta Cencosud",
    "porcentaje",
@@ -6830,6 +7271,21 @@
    "",
    "",
    "En la tienda online. Código: BTSCENCOSUD.",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Topitop",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   20,
+   0,
+   "",
+   "",
+   "desct. Adicional.",
    "Pide el descuento en caja con tu Tarjeta Cencosud",
    "Tarjeta Cencosud",
    {
@@ -6897,6 +7353,36 @@
    }
   ],
   [
+   "Boticas y Salud",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   30,
+   0,
+   "",
+   "",
+   "En la web.",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Boticas y Salud",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   30,
+   0,
+   "",
+   "",
+   "En las tiendas físicas y call center.",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
    "Cruz del Sur",
    "Tarjeta Cencosud",
    "porcentaje",
@@ -6953,6 +7439,86 @@
    }
   ],
   [
+   "Curacao",
+   "Tarjeta Cencosud",
+   "monto",
+   100.0,
+   0,
+   "",
+   "",
+   "I Código CENCOWOW",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of",
+    "min": 999.0
+   }
+  ],
+  [
+   "Juntoz",
+   "Tarjeta Cencosud",
+   "monto",
+   30.0,
+   0,
+   "",
+   "",
+   "/ I Código CENCOWOW",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of",
+    "min": 299.0
+   }
+  ],
+  [
+   "EFE",
+   "Tarjeta Cencosud",
+   "monto",
+   100.0,
+   0,
+   "",
+   "",
+   "I Código CENCOEFE",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of",
+    "min": 999.0
+   }
+  ],
+  [
+   "Coolbox",
+   "Tarjeta Cencosud",
+   "monto",
+   100.0,
+   0,
+   "",
+   "",
+   "desct. Adicional",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of",
+    "min": 1499.0
+   }
+  ],
+  [
+   "Coolbox",
+   "Tarjeta Cencosud",
+   "monto",
+   200.0,
+   0,
+   "",
+   "",
+   "desct. Adicional",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of",
+    "min": 3999.0
+   }
+  ],
+  [
    "Probela",
    "Tarjeta Cencosud",
    "porcentaje",
@@ -6962,6 +7528,21 @@
    "",
    "En marcas seleccionadas. Válido en tiendas físicas y web.",
    "En marcas seleccionadas. Válido en tiendas físicas y web.",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Cabify",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   40,
+   0,
+   "",
+   "",
+   "OFF en Cabify todos los dias l Código: CENCO1126",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
    "Tarjeta Cencosud",
    {
     "conf": "of"
@@ -6986,62 +7567,224 @@
  ],
  "relampago": [
   {
-   "f": "2026-10-31",
-   "t": "Tottus",
-   "o": "Termo Mug Quokka Drop Safe Vibe Pink Light Purple 880 mL a",
+   "f": "2026-11-02",
+   "t": "Falabella",
+   "o": "#falabella",
+   "p": 15.98,
+   "r": 0,
+   "n": "O F E R T A · ❗️ · ✔️ · Botas Mujer Sybilla a · sólo S/ 15.98 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en · @concuponperu · ⚠️ · Váli",
+   "u": "https://t.me/concuponperu/19329"
+  },
+  {
+   "f": "2026-11-02",
+   "t": "Falabella",
+   "o": "#falabella",
    "p": 19.9,
    "r": 0,
-   "n": "O F E R T A · ❗️ · #tottus · ✔️ · sólo S/ 19.90 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en · @concuponperu · ⚠️ · Válido hasta agota",
-   "u": "https://t.me/concuponperu/19328"
+   "n": "O F E R T A · ❗️ · ✔️ · Antivirus Kaspersky Standard 1 Dispositivo 1 Año a · sólo S/ 19.90 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto e",
+   "u": "https://t.me/concuponperu/19330"
+  },
+  {
+   "f": "2026-11-02",
+   "t": "Falabella",
+   "o": "#falabella",
+   "p": 19.9,
+   "r": 0,
+   "n": "O F E R T A · ❗️ · ✔️ · Set x24 Piezas Taper Take Along a · sólo S/ 19.90 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en · @concuponperu",
+   "u": "https://t.me/concuponperu/19331"
+  },
+  {
+   "f": "2026-11-02",
+   "t": "Falabella",
+   "o": "#falabella",
+   "p": 399.9,
+   "r": 0,
+   "n": "O F E R T A · ❗️ · ✔️ · Carro a Batería Blanco 12V Mercedes a · sólo S/ 399.90 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en · @concupo",
+   "u": "https://t.me/concuponperu/19332"
+  },
+  {
+   "f": "2026-11-02",
+   "t": "Falabella",
+   "o": "#falabella",
+   "p": 0,
+   "r": 0,
+   "n": "O F E R T A · ❗️ · ✔️ · Hasta 80% de descuento en productos seleccionados · ‼️ · Stock depende de cada tienda. · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en · @concuponperu · ⚠️ · Válido hasta agotar sto",
+   "u": "https://t.me/concuponperu/19333"
+  },
+  {
+   "f": "2026-11-02",
+   "t": "Falabella",
+   "o": "#falabella",
+   "p": 69.0,
+   "r": 0,
+   "n": "O F E R T A · ❗️ · ✔️ · Silla de Comedor Figalo a · sólo S/ 69.00 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en · @concuponperu · ⚠️ · ",
+   "u": "https://t.me/concuponperu/19334"
+  },
+  {
+   "f": "2026-11-02",
+   "t": "Falabella",
+   "o": "#falabella",
+   "p": 349.0,
+   "r": 0,
+   "n": "O F E R T A · ❗️ · ✔️ · STARLINK MINI X a · sólo S/ 349.00 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en · @concuponperu · ⚠️ · Válido ",
+   "u": "https://t.me/concuponperu/19335"
+  },
+  {
+   "f": "2026-11-02",
+   "t": "Falabella",
+   "o": "#falabella",
+   "p": 279.0,
+   "r": 0,
+   "n": "O F E R T A · ❗️ · ✔️ · ASUS TUF Gaming F16 Intel Core 5 205H 8GB 512SSD RTX3050 16\" FHD+ a · sólo S/ 2799.00 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LIN",
+   "u": "https://t.me/concuponperu/19336"
+  },
+  {
+   "f": "2026-11-02",
+   "t": "Sodimac",
+   "o": "Grifería de Cocina Simple Valencia para Pared a",
+   "p": 279.0,
+   "r": 0,
+   "n": "O F E R T A · ❗️ · #sodimac · ✔️ · sólo S/ 2799.00 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en · @concuponperu · ⚠️ · Válido hasta ag",
+   "u": "https://t.me/concuponperu/19337"
+  },
+  {
+   "f": "2026-11-02",
+   "t": "Falabella",
+   "o": "#falabella",
+   "p": 142.83,
+   "r": 0,
+   "n": "O F E R T A · ❗️ · ✔️ · Zapatillas Running Hombre Adidas Adizero a · sólo S/ 142.83 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en · @co",
+   "u": "https://t.me/concuponperu/19338"
+  },
+  {
+   "f": "2026-11-02",
+   "t": "Falabella",
+   "o": "#falabella",
+   "p": 0,
+   "r": 0,
+   "n": "O F E R T A · ❗️ · ✔️ · Hasta 80% de descuento en productos seleccionados · ‼️ · Stock depende de cada tienda. · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en · @concuponperu · ⚠️ · Válido hasta agotar sto",
+   "u": "https://t.me/concuponperu/19339"
+  },
+  {
+   "f": "2026-11-02",
+   "t": "Falabella",
+   "o": "#falabella",
+   "p": 79.9,
+   "r": 0,
+   "n": "O F E R T A · ❗️ · ✔️ · Silla De Comedor Carella  a · sólo S/ 79.90 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en · @concuponperu · ⚠️ ",
+   "u": "https://t.me/concuponperu/19340"
+  },
+  {
+   "f": "2026-11-02",
+   "t": "Oechsle",
+   "o": "Secador Multistyler 6 En 1 Mint Blanco  a",
+   "p": 179.0,
+   "r": 0,
+   "n": "O F E R T A · ❗️ · #oechsle · ✔️ · sólo S/ 179.00 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en · @concuponperu · ⚠️ · Válido hasta ago",
+   "u": "https://t.me/concuponperu/19341"
+  },
+  {
+   "f": "2026-11-02",
+   "t": "Ripley",
+   "o": "CEPILLO ELÉCTRICO ROTATIVO GAMA TURBO ION 2600 1100W  a",
+   "p": 99.0,
+   "r": 0,
+   "n": "O F E R T A · ❗️ · #ripley · ✔️ · sólo S/ 99.00 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en · @concuponperu · ⚠️ · Válido hasta agota",
+   "u": "https://t.me/concuponperu/19342"
+  },
+  {
+   "f": "2026-11-02",
+   "t": "Falabella",
+   "o": "#falabella",
+   "p": 209.0,
+   "r": 0,
+   "n": "O F E R T A · ❗️ · ✔️ · Azzaro Pour Homme Edt 200 ml Azzaro Hombre  a · sólo S/ 209.00 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en · ",
+   "u": "https://t.me/concuponperu/19343"
+  },
+  {
+   "f": "2026-11-02",
+   "t": "Falabella",
+   "o": "#falabella",
+   "p": 179.0,
+   "r": 0,
+   "n": "O F E R T A · ❗️ · ✔️ · One Million Lucky EDT 100ml a · sólo S/ 179.00 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en · @concuponperu · ",
+   "u": "https://t.me/concuponperu/19344"
+  },
+  {
+   "f": "2026-11-02",
+   "t": "Falabella",
+   "o": "#falabella",
+   "p": 189.0,
+   "r": 0,
+   "n": "O F E R T A · ❗️ · ✔️ · L'Eau d'Issey Eau&Magnolia Eau de Toilette Intense 100 ml ISSEY MIYAKE Mujer a · sólo S/ 189.00 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ E",
+   "u": "https://t.me/concuponperu/19345"
+  },
+  {
+   "f": "2026-11-02",
+   "t": "Falabella",
+   "o": "#falabella",
+   "p": 199.0,
+   "r": 0,
+   "n": "O F E R T A · ❗️ · ✔️ · Jean Paul Gaultier Le Male Ultra Edt Intense 125ml a · sólo S/ 199.00 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Vist",
+   "u": "https://t.me/concuponperu/19346"
+  },
+  {
+   "f": "2026-11-02",
+   "t": "Falabella",
+   "o": "#falabella",
+   "p": 29.0,
+   "r": 0,
+   "n": "O F E R T A · ❗️ · ✔️ · Secadora de Cabello EOLIC Ceramic Ion GAMA a · sólo S/ 29.00 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en · @c",
+   "u": "https://t.me/concuponperu/19347"
   }
  ],
  "ver": {
-  "Plin Interbank": "2026-11-01",
-  "Tarjeta Caja Arequipa": "2026-11-01",
-  "Cuponatic": "2026-11-01",
-  "Cuponidad": "2026-11-01",
-  "Web/app de la marca": "2026-11-01",
-  "Tarjeta Cencosud": "2026-11-01"
+  "Plin Interbank": "2026-11-02",
+  "Tarjeta Caja Arequipa": "2026-11-02",
+  "Cuponatic": "2026-11-02",
+  "Cuponidad": "2026-11-02",
+  "Web/app de la marca": "2026-11-02",
+  "Tarjeta Cencosud": "2026-11-02"
  },
  "estado": {
   "interbank": {
    "ok": true,
-   "filas": 205,
-   "leido": "2026-11-01T12:09",
+   "filas": 210,
+   "leido": "2026-11-02T15:48",
    "error": "",
    "historial": [
     205,
     205,
     205,
     205,
-    205
+    210
    ]
   },
   "telegram": {
    "ok": true,
-   "filas": 1,
-   "leido": "2026-11-01T12:09",
+   "filas": 19,
+   "leido": "2026-11-02T15:48",
    "error": "",
    "historial": [
-    5,
     9,
     4,
     0,
-    1
+    1,
+    19
    ]
   },
   "bbva": {
    "ok": false,
    "filas": 0,
    "leido": "",
-   "intento": "2026-11-01T12:09",
+   "intento": "2026-11-02T15:48",
    "error": "No se pudo descargar https://www.bbva.pe/content/dam/public-web/peru/documents/personas/catalogo-promociones/Catalogo-provincias.pdf: 403 Client Error: Forbidden for url: https://www.bbva.pe/content/dam/public-web/peru/documents/personas/catalogo-promociones/Catalogo-provincias.pdf",
    "historial": []
   },
   "caja_arequipa": {
    "ok": true,
    "filas": 9,
-   "leido": "2026-11-01T12:09",
+   "leido": "2026-11-02T15:48",
    "error": "",
    "historial": [
     9,
@@ -7053,34 +7796,34 @@
   },
   "cuponatic": {
    "ok": true,
-   "filas": 16,
-   "leido": "2026-11-01T12:09",
+   "filas": 13,
+   "leido": "2026-11-02T15:48",
    "error": "",
    "historial": [
-    14,
     17,
     17,
     16,
-    16
+    16,
+    13
    ]
   },
   "cuponidad": {
    "ok": true,
-   "filas": 33,
-   "leido": "2026-11-01T12:09",
+   "filas": 27,
+   "leido": "2026-11-02T15:48",
    "error": "",
    "historial": [
     30,
-    30,
     34,
     27,
-    33
+    33,
+    27
    ]
   },
   "papajohns": {
    "ok": true,
    "filas": 4,
-   "leido": "2026-11-01T12:09",
+   "leido": "2026-11-02T15:48",
    "error": "",
    "historial": [
     4,
@@ -7094,7 +7837,7 @@
    "ok": false,
    "filas": 2,
    "leido": "2026-10-23T12:35",
-   "intento": "2026-11-01T12:09",
+   "intento": "2026-11-02T15:48",
    "error": "solo 1 filas (mínimo 2)",
    "historial": [
     1,
@@ -7106,22 +7849,22 @@
   },
   "cencosud": {
    "ok": true,
-   "filas": 53,
-   "leido": "2026-11-01T12:09",
+   "filas": 94,
+   "leido": "2026-11-02T15:48",
    "error": "",
    "historial": [
     102,
     102,
-    102,
     101,
-    53
+    53,
+    94
    ]
   },
   "starperu": {
    "ok": false,
    "filas": 1,
    "leido": "2026-10-21T10:58",
-   "intento": "2026-11-01T12:09",
+   "intento": "2026-11-02T15:48",
    "error": "No se pudo descargar https://www.starperu.com/es/promociones/marca/diners_club: 403 Client Error: Forbidden for url: https://www.starperu.com/es/promociones/marca/diners_club",
    "historial": []
   }

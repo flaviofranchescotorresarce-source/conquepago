@@ -1,17 +1,17 @@
 {
  "id": "interbank",
- "leido": "2026-11-01T12:09",
+ "leido": "2026-11-02T15:48",
  "filas": [
   [
    "Tambo",
    "Plin Interbank",
    "precio",
-   9.9,
-   20.8,
+   8.9,
+   16.6,
    "",
-   "2026-10-31",
-   "2 Sándwiches Especiales (Parrillera, Queso con Tocino, Megacrocante o Doble con Queso) + 2 Gaseosas de 300 ml (Inca Kola o Coca-Cola) a S/9.",
-   "Vigente hasta agotar stock. · Válido con el código: IBK1AOCT26.",
+   "2026-11-30",
+   "2 Triples (Jamón, pollo y queso o Pollo, durazno y queso) + 2 Gaseosas de 300 ml a S/8.90 (precio regular S/16.60).",
+   "Vigente hasta agotar stock. · Válido indicando el código: IBK1ANOV26.",
    "Plin Interbank",
    {
     "conf": "of",
@@ -24,12 +24,12 @@
    "Tambo",
    "Plin Interbank",
    "precio",
-   9.9,
-   17.2,
+   21.9,
+   57.98,
    "",
-   "2026-10-31",
-   "2 Smirnoff Ice lata de 350/355 ml a S/9.90 (precio regular S/17.20).",
-   "Vigente hasta agotar stock. · Válido con el código: IBK1BOCT26.",
+   "2026-11-30",
+   "1 Six Pack de Cerveza Pilsen de 355 ml a S/21.90 (precio regular S/57.98).",
+   "Vigente hasta agotar stock. · Válido indicando el código: IBK1BNOV26.",
    "Plin Interbank",
    {
     "conf": "of"
@@ -39,12 +39,12 @@
    "Tambo",
    "Plin Interbank",
    "precio",
-   4.9,
-   9.98,
+   8.9,
+   17.98,
    "",
-   "2026-10-31",
-   "2 Turrones San José de 125 g a S/4.90 (precio regular S/9.98).",
-   "Vigente hasta agotar stock. · Válido con el código: PLIN1AOCT26.",
+   "2026-11-30",
+   "2 Papas Lay’s Ondas Picantes, Artesanas Sal Marina o Alitas BBQ de 130/135 g a S/8.90 (precio regular S/17.98).",
+   "Válido con el código: PLIN1ANOV26. · Con opción de agregar 1 Inca Kola o Coca-Cola Regular de 1 L por S/2.90. · Válido con el código: PLIN1BNOV26. · Vigente hasta agotar stock.",
    "Plin Interbank",
    {
     "conf": "of"
@@ -54,11 +54,11 @@
    "OXXO",
    "Plin Interbank",
    "precio",
-   1.0,
-   2.5,
-   "2026-10-01",
-   "2026-11-04",
-   "1 Papas o Chifles Inka Chips de 30 g/33 g a S/1.00 (precio regular S/2.50).",
+   5.5,
+   7.8,
+   "2026-11-05",
+   "2026-12-02",
+   "2 Gaseosas Pepsi de 1 L a S/5.50 (precio regular S/7.80).",
    "Vigente hasta agotar stock.",
    "Plin Interbank",
    {
@@ -69,11 +69,26 @@
    "OXXO",
    "Plin Interbank",
    "precio",
-   26.9,
-   38.9,
-   "2026-10-01",
-   "2026-11-04",
-   "Cerveza Pilsen 8 Pack lata de 355 ml a S/26.90 (precio regular S/38.90).",
+   8.9,
+   15.0,
+   "2026-11-05",
+   "2026-12-02",
+   "2 Smirnoff Ice lata de 355 ml, sabores variados, a S/8.90 (precio regular S/15.00).",
+   "Vigente hasta agotar stock.",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "OXXO",
+   "Plin Interbank",
+   "precio",
+   18.5,
+   26.5,
+   "2026-11-05",
+   "2026-12-02",
+   "Six Pack de Cerveza Pilsen Regular o Pilsen Fresh botella de 305 ml a S/18.50 (precio regular S/26.50).",
    "Vigente hasta agotar stock.",
    "Plin Interbank",
    {
@@ -86,8 +101,8 @@
    "precio",
    9.9,
    11.97,
-   "2026-10-01",
-   "2026-11-04",
+   "2026-11-05",
+   "2026-12-02",
    "3 Empanadas Clásicas a S/9.90 (precio regular S/11.97).",
    "Vigente hasta agotar stock.",
    "Plin Interbank",
@@ -99,11 +114,11 @@
    "OXXO",
    "Plin Interbank",
    "precio",
-   7.9,
-   10.0,
-   "",
-   "2026-10-31",
-   "1 Turrón San José Exportación de 250 g + 1 Café del Día de 8 oz a S/7.90 (precio regular S/10.00).",
+   9.9,
+   15.99,
+   "2026-11-05",
+   "2026-12-02",
+   "1 Helado Peziduri de 900 ml, sabores variados, a S/9.90 (precio regular S/15.99).",
    "Vigente hasta agotar stock.",
    "Plin Interbank",
    {
@@ -114,11 +129,11 @@
    "OXXO",
    "Plin Interbank",
    "precio",
-   9.99,
-   11.98,
-   "2026-10-01",
-   "2026-11-04",
-   "2 Cuchareables Nestlé a S/9.99 (precio regular S/11.98).",
+   24.9,
+   28.9,
+   "2026-11-05",
+   "2026-12-02",
+   "1 Panetón Gloria en bolsa de 900 g a S/24.90 (precio regular S/28.90).",
    "Vigente hasta agotar stock.",
    "Plin Interbank",
    {
@@ -126,14 +141,29 @@
    }
   ],
   [
-   "Bembos",
+   "OXXO",
    "Plin Interbank",
    "precio",
-   5.9,
-   21.8,
+   30.5,
+   0,
+   "2026-11-05",
+   "2026-12-02",
+   "Six Pack de Cerveza Pilsen Regular o Pilsen Fresh lata de 473 ml a S/30.50.",
+   "Vigente hasta agotar stock.",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "KFC",
+   "Plin Interbank",
+   "precio",
+   7.9,
+   26.14,
    "",
-   "2026-10-31",
-   "1 Hamburguesa Cheese Regular + 1 Papa Regular a S/5.90 (precio regular S/21.80).",
+   "2026-11-30",
+   "6 Nuggets + 1 Papa Regular + 1 Gaseosa Regular a S/7.90 (precio regular S/26.14).",
    "Vigente hasta agotar stock.",
    "Plin Interbank",
    {
@@ -144,29 +174,14 @@
    }
   ],
   [
-   "Bembos",
-   "Plin Interbank",
-   "precio",
-   18.9,
-   44.6,
-   "2026-10-01",
-   "2026-12-31",
-   "1 Cheese Regular + 1 Queso Tocino Regular + 2 Papas Regulares a S/18.90 (precio regular S/44.60).",
-   "Vigente hasta agotar stock.",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Bembos",
+   "KFC",
    "Plin Interbank",
    "precio",
    12.9,
-   27.7,
+   18.7,
    "2026-10-01",
-   "2026-12-31",
-   "1 Royal Regular + 1 Papa Regular + 1 Gaseosa a S/12.90 (precio regular S/27.70).",
+   "2027-01-31",
+   "1 Krunchy BBQ + 1 Complemento Regular + 1 Gaseosa Regular a S/12.90 (precio regular S/18.70).",
    "Vigente hasta agotar stock.",
    "Plin Interbank",
    {
@@ -174,14 +189,44 @@
    }
   ],
   [
-   "Bembos",
+   "KFC",
    "Plin Interbank",
    "precio",
-   16.9,
-   30.7,
+   13.9,
+   26.4,
+   "2026-11-01",
+   "2027-01-31",
+   "2 Piezas de Pollo + 2 Hot Wings + 1 Papa Regular a S/13.90 (precio regular S/26.40).",
+   "Vigente hasta agotar stock.",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "KFC",
+   "Plin Interbank",
+   "precio",
+   29.9,
+   41.6,
    "2026-10-01",
-   "2026-12-31",
-   "1 Cheese Regular + 1 Papa Regular + 4 Nuggets a S/16.90 (precio regular S/30.70).",
+   "2027-01-31",
+   "4 Piezas de Pollo + 1 Papa Familiar a S/29.90 (precio regular S/41.60).",
+   "Vigente hasta agotar stock.",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "KFC",
+   "Plin Interbank",
+   "precio",
+   39.9,
+   59.8,
+   "2026-10-01",
+   "2027-01-31",
+   "4 Piezas de Pollo + 4 Nuggets + 2 Papas Regulares + 2 Gaseosas Regulares a S/39.90 (precio regular S/59.80).",
    "Vigente hasta agotar stock.",
    "Plin Interbank",
    {
@@ -195,7 +240,7 @@
    2.5,
    0,
    "",
-   "2026-10-31",
+   "2026-11-30",
    "S/2.50 de descuento por cada galón de Gasolina Regular y Premium.",
    "Vigente hasta agotar stock.",
    "Plin Interbank",
@@ -213,7 +258,7 @@
    2.0,
    0,
    "",
-   "2026-10-31",
+   "2026-11-30",
    "S/2.00 de descuento por cada galón de Gasolina Regular y Premium.",
    "Vigente hasta agotar stock.",
    "Plin Interbank",
@@ -260,66 +305,6 @@
    }
   ],
   [
-   "KFC",
-   "Plin Interbank",
-   "precio",
-   12.9,
-   18.7,
-   "2026-10-01",
-   "2027-01-31",
-   "1 Krunchy BBQ + 1 Complemento Regular + 1 Gaseosa Regular a S/12.90 (precio regular S/18.70).",
-   "Vigente hasta agotar stock.",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "KFC",
-   "Plin Interbank",
-   "precio",
-   13.9,
-   26.4,
-   "",
-   "2026-10-31",
-   "2 Piezas de Pollo + 2 Hot Wings + 1 Papa Regular a S/13.90 (precio regular S/26.40).",
-   "Vigente hasta agotar stock.",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "KFC",
-   "Plin Interbank",
-   "precio",
-   29.9,
-   41.6,
-   "2026-10-01",
-   "2027-01-31",
-   "4 Piezas de Pollo + 1 Papa Familiar a S/29.90 (precio regular S/41.60).",
-   "Vigente hasta agotar stock.",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "KFC",
-   "Plin Interbank",
-   "precio",
-   39.9,
-   59.8,
-   "2026-10-01",
-   "2027-01-31",
-   "4 Piezas de Pollo + 4 Nuggets + 2 Papas Regulares + 2 Gaseosas Regulares a S/39.90 (precio regular S/59.80).",
-   "Vigente hasta agotar stock.",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
    "Papa Johns",
    "Plin Interbank",
    "precio",
@@ -358,6 +343,51 @@
    "2026-10-01",
    "2026-12-31",
    "1 Pizza Mediana Hawaiana a S/11.90 (precio regular S/24.90).",
+   "Vigente hasta agotar stock.",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Bembos",
+   "Plin Interbank",
+   "precio",
+   18.9,
+   33.7,
+   "2026-10-01",
+   "2026-12-31",
+   "1 Cheese Regular + 1 Queso Tocino Regular + 2 Papas Regulares a S/18.90 (precio regular S/33.70).",
+   "Vigente hasta agotar stock.",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Bembos",
+   "Plin Interbank",
+   "precio",
+   12.9,
+   27.7,
+   "2026-10-01",
+   "2026-12-31",
+   "1 Royal Regular + 1 Papa Regular + 1 Gaseosa a S/12.90 (precio regular S/27.70).",
+   "Vigente hasta agotar stock.",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Bembos",
+   "Plin Interbank",
+   "precio",
+   16.9,
+   27.8,
+   "2026-10-01",
+   "2026-12-31",
+   "1 Cheese Regular + 1 Papa Regular + 4 Nuggets a S/16.90 (precio regular S/27.80).",
    "Vigente hasta agotar stock.",
    "Plin Interbank",
    {
@@ -428,21 +458,6 @@
    "ChinaWok",
    "Plin Interbank",
    "precio",
-   15.9,
-   39.6,
-   "",
-   "2026-10-27",
-   "1 Combinado Taypa + 1 Arroz Chaufa de Pollo + 2 Gaseosas Junior a S/15.90 (precio regular S/39.60).",
-   "Vigente hasta agotar stock.",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "ChinaWok",
-   "Plin Interbank",
-   "precio",
    19.9,
    38.6,
    "2026-10-01",
@@ -455,14 +470,14 @@
    }
   ],
   [
-   "Repshop",
+   "Cinnabon",
    "Plin Interbank",
    "precio",
-   10.9,
-   16.8,
+   19.9,
+   28.0,
    "",
-   "2026-10-31",
-   "1 Turrón Doña Pepa de 500 g + 1 Inca Kola de 1 L a S/10.90 (precio regular S/16.80).",
+   "2026-11-30",
+   "1 Pack de 12 BonBites a S/19.90 (precio regular S/28.00).",
    "Vigente hasta agotar stock.",
    "Plin Interbank",
    {
@@ -523,6 +538,96 @@
    "2026-10-01",
    "2027-01-31",
    "2 Pinkberry Small con Toppings a S/21.90 (precio regular S/27.80).",
+   "Vigente hasta agotar stock.",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Roky’s",
+   "Plin Interbank",
+   "precio",
+   16.9,
+   24.9,
+   "",
+   "2026-11-30",
+   "1/4 de Pollo + Papas Fritas + 1 Gaseosa de 500 ml a S/16.90 (precio regular S/24.90).",
+   "Vigente hasta agotar stock.",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Roky’s",
+   "Plin Interbank",
+   "precio",
+   18.9,
+   27.9,
+   "",
+   "2026-11-30",
+   "1/4 de Pollo + Arroz Oriental Personal + Papas Fritas + 1 Gaseosa de 500 ml a S/18.90 (precio regular S/27.90).",
+   "Vigente hasta agotar stock.",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Roky’s",
+   "Plin Interbank",
+   "precio",
+   29.9,
+   54.9,
+   "",
+   "2026-11-30",
+   "1/2 Pollo + Papas Fritas + 2 Gaseosas de 500 ml a S/29.90 (precio regular S/54.90).",
+   "Vigente hasta agotar stock.",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Roky’s",
+   "Plin Interbank",
+   "precio",
+   49.9,
+   78.9,
+   "",
+   "2026-11-30",
+   "1 Pollo + Papas Familiares + 1 Gaseosa de 1.5 L a S/49.90 (precio regular S/78.90).",
+   "Vigente hasta agotar stock.",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Little Caesars",
+   "Plin Interbank",
+   "precio",
+   12.9,
+   19.4,
+   "2026-11-01",
+   "2026-12-31",
+   "1 Crazy Cheese Bread + 1 Gaseosa de 355 ml + 1 Dip a S/12.90 (precio regular S/19.40).",
+   "Vigente hasta agotar stock.",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Little Caesars",
+   "Plin Interbank",
+   "precio",
+   27.9,
+   32.8,
+   "2026-11-01",
+   "2026-12-31",
+   "1 Pizza Familiar Mitad y Mitad + 1 Crazy Puff a S/27.90 (precio regular S/32.80).",
    "Vigente hasta agotar stock.",
    "Plin Interbank",
    {
@@ -592,41 +697,11 @@
    "Popeyes",
    "Plin Interbank",
    "precio",
-   12.9,
-   23.4,
-   "",
-   "2026-10-05",
-   "2 Piezas de Pollo + 1 Papa Cajún Regular a S/12.90 (precio regular S/23.40).",
-   "Vigente hasta agotar stock.",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Popeyes",
-   "Plin Interbank",
-   "precio",
    14.9,
    21.8,
    "2026-10-01",
    "2026-12-31",
    "2 Piezas de Pollo + 1 Papa Regular a S/14.90 (precio regular S/21.80).",
-   "Vigente hasta agotar stock.",
-   "Plin Interbank",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Popeyes",
-   "Plin Interbank",
-   "precio",
-   29.9,
-   60.5,
-   "",
-   "2026-10-28",
-   "6 Piezas de Pollo + 1 Papa Cajún Familiar + 3 Gaseosas Junior a S/29.90 (precio regular S/60.50).",
    "Vigente hasta agotar stock.",
    "Plin Interbank",
    {
@@ -727,11 +802,11 @@
    "Norky’s",
    "Plin Interbank",
    "precio",
-   16.9,
+   14.9,
    23.9,
-   "2026-10-01",
+   "2026-11-01",
    "2026-11-30",
-   "1/4 de Pollo + Papas Fritas a S/16.90 (precio regular S/23.90).",
+   "1/4 de Pollo + Papas Fritas a S/14.90 (precio regular S/23.90).",
    "Vigente hasta agotar stock.",
    "Plin Interbank",
    {
@@ -807,6 +882,21 @@
    "2026-10-01",
    "2027-01-31",
    "2 Whopper Jr. + 2 Papas Jr. + 2 Gaseosas de 12 oz a S/27.90 (precio regular S/47.40).",
+   "Vigente hasta agotar stock.",
+   "Plin Interbank",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Beso Francés",
+   "Plin Interbank",
+   "precio",
+   25.0,
+   34.0,
+   "2026-11-02",
+   "2026-11-30",
+   "2 Crepes de manjar con fresas a S/25.00 (precio regular S/34.00).",
    "Vigente hasta agotar stock.",
    "Plin Interbank",
    {
@@ -1651,26 +1741,6 @@
    "Plin Interbank",
    {
     "conf": "of"
-   }
-  ],
-  [
-   "Tambo",
-   "Plin Interbank",
-   "precio",
-   13.9,
-   21.98,
-   "",
-   "2026-10-31",
-   "2 Four Loko lata de 473 ml, sabores varios, a S/13.90 (precio regular S/21.98).",
-   "Vigente hasta agotar stock. · Válido con el código: PLIN1BOCT26.",
-   "Plin Interbank",
-   {
-    "conf": "of",
-    "dias": [
-     0,
-     5,
-     6
-    ]
    }
   ],
   [
