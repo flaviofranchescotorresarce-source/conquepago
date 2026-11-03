@@ -1,7 +1,67 @@
 {
  "id": "cencosud",
- "leido": "2026-11-02T15:48",
+ "leido": "2026-11-03T13:28",
  "filas": [
+  [
+   "Wong",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   60,
+   0,
+   "",
+   "",
+   "desct.",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Wong",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   50,
+   0,
+   "",
+   "",
+   "desct.",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Wong",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   10,
+   0,
+   "",
+   "",
+   "Con Tarjeta Cencosud en perecibles seleccionados en Wong.pe y App Wong.",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Wong",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   10,
+   0,
+   "",
+   "",
+   "desct. adicionales",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
   [
    "La Cabrera",
    "Tarjeta Cencosud",

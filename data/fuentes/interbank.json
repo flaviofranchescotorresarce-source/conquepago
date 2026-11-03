@@ -1,6 +1,6 @@
 {
  "id": "interbank",
- "leido": "2026-11-02T15:48",
+ "leido": "2026-11-03T13:28",
  "filas": [
   [
    "Tambo",
@@ -2935,6 +2935,40 @@
    "Plin Interbank",
    {
     "conf": "of"
+   }
+  ],
+  [
+   "Beso Francés",
+   "Plin Interbank",
+   "precio",
+   25.0,
+   34.0,
+   "",
+   "2026-11-30",
+   "Promoción 1: Promoción válida del 02 al 30 de noviembre de 2026 o hasta agotar stock promocional; lo que ocurra primero. 2 Crepes de manjar ",
+   "Promoción exclusiva pagando con PLIN, escaneando el código QR en los POS físicos. · El horario de tiendas a disposición del establecimiento. · La caja para llevar tiene un costo ad",
+   "Plin Interbank",
+   {
+    "conf": "of",
+    "stock": 1000,
+    "max": 1
+   }
+  ],
+  [
+   "Fridays",
+   "Plin Interbank",
+   "precio",
+   100.0,
+   0,
+   "2026-07-01",
+   "2026-12-31",
+   "Promoción 1: Promoción válida del 01 de julio al 31 de diciembre de 2026 o hasta agotar stock promocional; lo que ocurra primero. 25% de des",
+   "Promoción exclusiva pagando con PLIN, escaneando el código QR en los POS físicos. · Válido de lunes a domingo. · Válido para consumo en salón y para llevar realizando el pedido en ",
+   "Plin Interbank",
+   {
+    "conf": "of",
+    "stock": 3000,
+    "max": 1
    }
   ],
   [

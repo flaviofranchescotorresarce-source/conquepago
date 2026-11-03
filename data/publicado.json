@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-02T15:49",
+ "actualizado": "2026-11-03T13:29",
  "filas": [
   [
    "Rappi",
@@ -4892,6 +4892,40 @@
    }
   ],
   [
+   "Beso Francés",
+   "Plin Interbank",
+   "precio",
+   25.0,
+   34.0,
+   "",
+   "2026-11-30",
+   "Promoción 1: Promoción válida del 02 al 30 de noviembre de 2026 o hasta agotar stock promocional; lo que ocurra primero. 2 Crepes de manjar ",
+   "Promoción exclusiva pagando con PLIN, escaneando el código QR en los POS físicos. · El horario de tiendas a disposición del establecimiento. · La caja para llevar tiene un costo ad",
+   "Plin Interbank",
+   {
+    "conf": "of",
+    "stock": 1000,
+    "max": 1
+   }
+  ],
+  [
+   "Fridays",
+   "Plin Interbank",
+   "precio",
+   100.0,
+   0,
+   "2026-07-01",
+   "2026-12-31",
+   "Promoción 1: Promoción válida del 01 de julio al 31 de diciembre de 2026 o hasta agotar stock promocional; lo que ocurra primero. 25% de des",
+   "Promoción exclusiva pagando con PLIN, escaneando el código QR en los POS físicos. · Válido de lunes a domingo. · Válido para consumo en salón y para llevar realizando el pedido en ",
+   "Plin Interbank",
+   {
+    "conf": "of",
+    "stock": 3000,
+    "max": 1
+   }
+  ],
+  [
    "Madam Tusan",
    "Plin Interbank",
    "precio",
@@ -5250,6 +5284,22 @@
    }
   ],
   [
+   "Alfa",
+   "Tarjeta Caja Arequipa",
+   "porcentaje",
+   20,
+   0,
+   "",
+   "",
+   "Restaurantes",
+   "Pagando con tarjeta de débito VISA de Caja Arequipa",
+   "Tarjeta Caja Arequipa",
+   {
+    "conf": "of",
+    "ciudad": "AQP"
+   }
+  ],
+  [
    "Patria",
    "Tarjeta Caja Arequipa",
    "porcentaje",
@@ -5266,7 +5316,7 @@
    }
   ],
   [
-   "Alfa",
+   "Di Mazza",
    "Tarjeta Caja Arequipa",
    "porcentaje",
    20,
@@ -5314,22 +5364,6 @@
    }
   ],
   [
-   "Di Mazza",
-   "Tarjeta Caja Arequipa",
-   "porcentaje",
-   20,
-   0,
-   "",
-   "",
-   "Restaurantes",
-   "Pagando con tarjeta de débito VISA de Caja Arequipa",
-   "Tarjeta Caja Arequipa",
-   {
-    "conf": "of",
-    "ciudad": "AQP"
-   }
-  ],
-  [
    "Circo Mundo de Dinosaurios",
    "Tarjeta Caja Arequipa",
    "2x1",
@@ -5343,22 +5377,6 @@
    {
     "conf": "of",
     "ciudad": "AQP"
-   }
-  ],
-  [
-   "¡SPA DE LUJO! 60 minutos de Masaje + Aceites",
-   "Cuponatic",
-   "precio",
-   79.9,
-   120.0,
-   "",
-   "",
-   "Q Spa Wellness",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
    }
   ],
   [
@@ -5386,6 +5404,22 @@
    "",
    "",
    "LA BISTECCA Almuerzo o Cena Buffet + Bebida",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "¡SPA DE LUJO! 60 minutos de Masaje + Aceites",
+   "Cuponatic",
+   "precio",
+   79.9,
+   120.0,
+   "",
+   "",
+   "Q Spa Wellness",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -5442,14 +5476,14 @@
    }
   ],
   [
-   "Mr Jump",
+   "Rústica Pachacamac: 1 Noche - 2 Adultos + 1 Niño + Desayuno",
    "Cuponatic",
    "precio",
-   27.9,
-   55.0,
+   189.0,
+   250.0,
    "",
    "",
-   "Parque Inflable Más Grande de Lima - Entrada General Mr Jump",
+   "75 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -5497,7 +5531,7 @@
    40.0,
    "",
    "",
-   "2306 Vendidos",
+   "2325 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -5509,12 +5543,44 @@
    "2 Entradas + Bebidas a Espectáculo Folklore en La Candelaria",
    "Cuponatic",
    "precio",
-   29.9,
+   49.9,
    124.0,
    "",
    "",
-   "1 Férula de Relajación + 1 Porta Férula + Fluor - Dentu",
-   "Letty Salón & Spa",
+   "P. Normal",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "1 a 7 Noches en Madera Labrada TARAPOTO para  2, 3, 4",
+   "Cuponatic",
+   "precio",
+   129.9,
+   300.0,
+   "",
+   "",
+   "madera labrada",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Entrada + Piscina + Plato de Fondo y Mas",
+   "Cuponatic",
+   "precio",
+   29.9,
+   39.9,
+   "",
+   "",
+   "CLUB CAMPESTRE CAMPO Y SOL",
+   "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
     "conf": "of",
@@ -5586,31 +5652,15 @@
    }
   ],
   [
-   "Rally Kart: 10, 16 ó 30 vueltas en sus locales de Jockey Pla",
+   "Vacilandia Park: Full Day para niños, adultos o pack familia",
    "Cuponidad",
    "precio",
-   14.9,
-   50.0,
+   19.9,
+   35.0,
    "",
    "",
-   "Rally Kart: 10, 16 ó 30 vueltas en sus locales de Jockey Plaza, Open Plaza La Marina,   Bellavista, Mall Plaza Comas",
+   "Vacilandia Park: Full Day para niños, adultos o pack familiar, incluye alimentación.",
    "Compra el cupón en Cuponidad",
-   "Cuponidad",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Dragon Rolls",
-   "Cuponidad",
-   "precio",
-   39.9,
-   70.0,
-   "",
-   "",
-   "60 Makis (5 Sabores a elección) Válido solo para Recojo",
-   "60 Makis (5 Sabores a elección) Válido solo para Recojo",
    "Cuponidad",
    {
     "conf": "of",
@@ -5626,38 +5676,6 @@
    "",
    "",
    "Go Enjoy City: Parque temático infantil, donde juegan a ser grandes en la ciudad de los niños",
-   "Compra el cupón en Cuponidad",
-   "Cuponidad",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Cineplanet",
-   "Cuponidad",
-   "precio",
-   47.9,
-   104.0,
-   "",
-   "",
-   "Cineplanet: 2 Entradas 2D + 2 Bebidas Grandes + Pop corn gigante. Lunes a Domingo",
-   "Cineplanet: 2 Entradas 2D + 2 Bebidas Grandes + Pop corn gigante. Lunes a Domingo · Cineplanet: S/ 47.90 por 2 entradas 2D + Pop corn gigante  + 2 bebidas grandes. Válido a nivel n",
-   "Cuponidad",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Vacilandia Park: Full Day para niños, adultos o pack familia",
-   "Cuponidad",
-   "precio",
-   19.9,
-   35.0,
-   "",
-   "",
-   "Vacilandia Park: Full Day para niños, adultos o pack familiar, incluye alimentación.",
    "Compra el cupón en Cuponidad",
    "Cuponidad",
    {
@@ -5682,6 +5700,22 @@
    }
   ],
   [
+   "Rally Kart: 10, 16 ó 30 vueltas en sus locales de Jockey Pla",
+   "Cuponidad",
+   "precio",
+   14.9,
+   50.0,
+   "",
+   "",
+   "Rally Kart: 10, 16 ó 30 vueltas en sus locales de Jockey Plaza, Open Plaza La Marina,   Bellavista, Mall Plaza Comas",
+   "Compra el cupón en Cuponidad",
+   "Cuponidad",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
    "Flying Squirrel:  Full Day, 60 o 120 minutos según elijas en",
    "Cuponidad",
    "precio",
@@ -5698,6 +5732,38 @@
    }
   ],
   [
+   "Dragon Rolls",
+   "Cuponidad",
+   "precio",
+   39.9,
+   70.0,
+   "",
+   "",
+   "60 Makis (5 Sabores a elección) Válido solo para Recojo",
+   "60 Makis (5 Sabores a elección) Válido solo para Recojo",
+   "Cuponidad",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Cineplanet",
+   "Cuponidad",
+   "precio",
+   47.9,
+   104.0,
+   "",
+   "",
+   "Cineplanet: 2 Entradas 2D + 2 Bebidas Grandes + Pop corn gigante. Lunes a Domingo",
+   "Cineplanet: 2 Entradas 2D + 2 Bebidas Grandes + Pop corn gigante. Lunes a Domingo · Cineplanet: S/ 47.90 por 2 entradas 2D + Pop corn gigante  + 2 bebidas grandes. Válido a nivel n",
+   "Cuponidad",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
    "Cineplanet",
    "Cuponidad",
    "precio",
@@ -5706,7 +5772,7 @@
    "",
    "",
    "breña, cercado de lima, comas, independencia, jesus maria, la molina, la victoria, lince, los olivos, miraflores, san borja, san isidro, san",
-   "Cinemark: 2 Entradas + 2 gaseosas + cancha grande o mediana según elijas (validación ONLINE o física) · Cineplanet: 2 Entradas 2D + 2 Bebidas Grandes + Pop corn gigante. Lunes a Do",
+   "Cineplanet: 2 Entradas 2D + 2 Bebidas Grandes + Pop corn gigante. Lunes a Domingo · Cinemark: Entrada 2D - opción a combo (Validación ONLINE o mostrando tu celular) · Cinemark: 2 E",
    "Cuponidad",
    {
     "conf": "of",
@@ -5714,15 +5780,15 @@
    }
   ],
   [
-   "Vacilandia Park: Full Day para niños, adultos o pack familia",
+   "Perulandia Full Day + Piscinas + S/. 35 de Vale de Consumo  ",
    "Cuponidad",
    "precio",
-   16.9,
-   44.9,
+   19.9,
+   54.9,
    "",
    "",
-   "Vacilandia Park: Full Day para niños, adultos o pack familiar, incluye alimentación.",
-   "Compra el cupón en Cuponidad",
+   "La Fogata de Cieneguilla: Full Day de lunes a domingo para niño o adulto + vale de consumo",
+   "La Fogata de Cieneguilla: Full Day de lunes a domingo para niño o adulto + vale de consumo",
    "Cuponidad",
    {
     "conf": "of",
@@ -5730,15 +5796,15 @@
    }
   ],
   [
-   "Mr. Joy : Juega por 150 minutos (2:30 hrs). Válido en sus 3 ",
+   "Infinity Park Arequipa: entrada para niño o adulto al parque",
    "Cuponidad",
    "precio",
    9.9,
    69.9,
    "",
    "",
-   "Go Enjoy City: Parque temático infantil, donde juegan a ser grandes en la ciudad de los niños",
-   "Mr. Joy : Juega por 150 minutos (2:30 hrs). Válido en sus 3 locales. Lunes a Domingo.",
+   "JUMP SPOT KIDS: Full Diversión por 30 o 60 minutos Jockey Plaza, Mall Plaza Comas, Mall Plaza Arequipa",
+   "Compra el cupón en Cuponidad",
    "Cuponidad",
    {
     "conf": "of",
@@ -5753,7 +5819,7 @@
    44.9,
    "",
    "",
-   "Infinity Park Arequipa: entrada para niño o adulto al parque inflable más grande de  Arewuipa",
+   "Fun Jungle: Full Day o 60 minutos según elijas en los Inflables en El Defby  y Parque de la Amistad",
    "Yakupark Paracas: 45 o 90 minutos de Diversión según elijas. Lunes a Domingo",
    "Cuponidad",
    {
@@ -5762,31 +5828,15 @@
    }
   ],
   [
-   "Rally Kart:  5, 8 o 15 vueltas según elijas. Válido en sus 5",
+   "Buffet Almuerzo Marino y Criollo en La Choza Náutica Chorril",
    "Cuponidad",
    "precio",
-   14.9,
-   22.9,
-   "",
-   "",
-   "Rally Kart: 10, 16 ó 30 vueltas en sus locales de Jockey Plaza, Open Plaza La Marina,   Bellavista, Mall Plaza Comas",
-   "Rally Kart:  5, 8 o 15 vueltas según elijas. Válido en sus 5 locales · Fórmula Kart:  Sesiones para niños y adultos. Lunes a domingo",
-   "Cuponidad",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Kasamama",
-   "Cuponidad",
-   "precio",
-   37.9,
-   89.9,
+   39.9,
+   74.9,
    "",
    "",
    "Barra Libre Comida Mexicana, Pizzas, Makis, Hamburguesas + bebida ilimitada. 4 restaurantes",
-   "Buffet Almuerzo Criollo en 4 Sedes de Lunes a Domingo",
+   "Compra el cupón en Cuponidad",
    "Cuponidad",
    {
     "conf": "of",
@@ -5794,14 +5844,14 @@
    }
   ],
   [
-   "Dragon Rolls",
+   "Isushi",
    "Cuponidad",
    "precio",
    29.9,
    54.9,
    "",
    "",
-   "Barra Libre de Makis, temakis, poke bowl, alitas, cangre burguer sushi (nuestro plato estrella) y bebida del día ilimitada.",
+   "Barra Libre de Makis + alitas + refresco ILIMITADO ó 01 bebida embotellada (gaseosa o agua mineral) . Elige  cualquiera de sus 8 LOCALES",
    "Barra Libre de Makis o Alitas: Sabores a elección. De Lunes a Domingo",
    "Cuponidad",
    {
@@ -5810,7 +5860,7 @@
    }
   ],
   [
-   "El Adivino - Una Comedia Terrorífica. 30 y 31 de Octubre, 6,",
+   "Michael Jackson Sinfónica 360:  01 y 14 de Noviembre . Cúpul",
    "Cuponidad",
    "precio",
    14.9,
@@ -5858,15 +5908,15 @@
    }
   ],
   [
-   "Examen médico para brevete CHORRILLOS para AUTO",
+   "Examen medico para brevete LA MOLINA para AUTO",
    "Cuponidad",
    "precio",
-   89.9,
-   109.99,
+   99.0,
+   149.0,
    "",
    "",
-   "Examen Médico para Brevete de Auto o Moto: Licencia nuevo, revalidar, recategorizar",
-   "Examen Médico para Brevete de Auto o Moto: Licencia nuevo, revalidar, recategorizar",
+   "Examen Para Brevete y Recategorización de Licencia de Manejo",
+   "Compra el cupón en Cuponidad",
    "Cuponidad",
    {
     "conf": "of",
@@ -5874,15 +5924,31 @@
    }
   ],
   [
-   "Pollo a la brasa + papas fritas + ensalada + gaseosa para CO",
+   "Villa Chicken",
    "Cuponidad",
    "precio",
-   16.9,
+   54.9,
+   83.9,
+   "",
+   "",
+   "cercado de lima, independencia, jesus maria, la molina, lince, los olivos, magdalena del mar, miraflores, pueblo libre, san borja, san juan ",
+   "POLLO A LA LEÑA: 1 pollo + papas fritas + 1 lt. de bebida para CONSUMO EN SALON",
+   "Cuponidad",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Do Santos",
+   "Cuponidad",
+   "precio",
+   89.9,
    114.9,
    "",
    "",
    "Parilla para 2: Churrasco, Chuleta, Pollo a la leña, Mollejas, Anticucho, Chorizo, Botella de vino y más",
-   "Pollo a la brasa + papas fritas + ensalada + gaseosa para CONSUMO o  RECOJO.  Lunes a Domingo · Delivery",
+   "Compra el cupón en Cuponidad",
    "Cuponidad",
    {
     "conf": "of",
@@ -5890,14 +5956,14 @@
    }
   ],
   [
-   "El Salto del Fraile",
+   "Servicio de Undercoating La Perla: Para auto o camioneta de ",
    "Cuponidad",
    "precio",
-   99.0,
-   129.0,
+   99.9,
+   0,
    "",
    "",
-   "Parilla para 2: Churrasco, Chuleta, Pollo a la leña, Mollejas, Anticucho, Chorizo, Botella de vino y más",
+   "Servicio de Undercoating La Perla: Para auto o camioneta de hasta 3 filas",
    "Compra el cupón en Cuponidad",
    "Cuponidad",
    {
@@ -5922,22 +5988,6 @@
    }
   ],
   [
-   "Pulido de faros para auto o camioneta",
-   "Cuponidad",
-   "precio",
-   59.9,
-   0,
-   "",
-   "",
-   "los negocios carwash",
-   "Compra el cupón en Cuponidad",
-   "Cuponidad",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
    "Lavado VIP pata auto o camioneta + Lavado de motor + Encerad",
    "Cuponidad",
    "precio",
@@ -5954,11 +6004,59 @@
    }
   ],
   [
-   "Tour de aventura con tubulares y Sandboard",
+   "Carwash Callao: Lavado de salón Vip para auto o camioneta",
    "Cuponidad",
    "precio",
-   19.9,
-   170.0,
+   59.9,
+   0,
+   "",
+   "",
+   "Ver más detalles",
+   "Carwash Callao: Lavado de salón Vip para auto o camioneta",
+   "Cuponidad",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Pulido de faros para auto o camioneta",
+   "Cuponidad",
+   "precio",
+   59.9,
+   0,
+   "",
+   "",
+   "los negocios carwash",
+   "Compra el cupón en Cuponidad",
+   "Cuponidad",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Carwash Callao: Lavado de salón Vip para auto o camioneta",
+   "Cuponidad",
+   "precio",
+   99.9,
+   0,
+   "",
+   "",
+   "Ver más detalles",
+   "Carwash Callao: Lavado de salón Vip para auto o camioneta",
+   "Cuponidad",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Full Day en la Ruta del Cañon de los Perdidos con Illari Tou",
+   "Cuponidad",
+   "precio",
+   16.9,
+   159.0,
    "",
    "",
    "La Fogata de Cieneguilla: Full Day de lunes a domingo para niño o adulto + vale de consumo",
@@ -5970,15 +6068,47 @@
    }
   ],
   [
-   "Mechas balayage o iluminación cepillado y más",
+   "Lipoescultura sin cirugía en 6 visitas, incluye: hidrolipocl",
    "Cuponidad",
    "precio",
-   14.9,
    89.0,
+   0,
    "",
    "",
    "Lipoescultura sin cirugía en 6 visitas, incluye: hidrolipoclasia, ultracavitación y más.",
-   "bonet´s salon spa",
+   "Compra el cupón en Cuponidad",
+   "Cuponidad",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Limpieza facial profunda + peeling punta de diamante y más",
+   "Cuponidad",
+   "precio",
+   14.9,
+   0,
+   "",
+   "",
+   "Ver más detalles",
+   "Compra el cupón en Cuponidad",
+   "Cuponidad",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "3 sesiones de tratamiento para reducir papada y cachetes.",
+   "Cuponidad",
+   "precio",
+   19.9,
+   0,
+   "",
+   "",
+   "Ver más detalles",
+   "Compra el cupón en Cuponidad",
    "Cuponidad",
    {
     "conf": "of",
@@ -5989,16 +6119,19 @@
    "Papa Johns",
    "Web/app de la marca",
    "precio",
-   6.0,
-   55.8,
+   24.9,
+   113.7,
    "",
    "",
-   "1 pizza grande clásica mas gaseosa de 1LT con 3 rolls de pepperoni",
-   "Promo de la web y app de Papa Johns",
+   "1 Familiar Clasica + 1 Familiar Signature/Especialidad + Cheesticks + Pack Salsa + Gaseosa 1.5L",
+   "Martes de Hawaiana Familiar · Martes de Hawaiana Grande",
    "Web/app de la marca",
    {
     "conf": "of",
-    "canal": "A"
+    "canal": "A",
+    "dias": [
+     2
+    ]
    }
   ],
   [
@@ -6079,6 +6212,66 @@
    {
     "conf": "of",
     "canal": "A"
+   }
+  ],
+  [
+   "Wong",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   60,
+   0,
+   "",
+   "",
+   "desct.",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Wong",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   50,
+   0,
+   "",
+   "",
+   "desct.",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Wong",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   10,
+   0,
+   "",
+   "",
+   "Con Tarjeta Cencosud en perecibles seleccionados en Wong.pe y App Wong.",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Wong",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   10,
+   0,
+   "",
+   "",
+   "desct. adicionales",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
    }
   ],
   [
@@ -7570,132 +7763,6 @@
    "f": "2026-11-02",
    "t": "Falabella",
    "o": "#falabella",
-   "p": 15.98,
-   "r": 0,
-   "n": "O F E R T A · ❗️ · ✔️ · Botas Mujer Sybilla a · sólo S/ 15.98 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en · @concuponperu · ⚠️ · Váli",
-   "u": "https://t.me/concuponperu/19329"
-  },
-  {
-   "f": "2026-11-02",
-   "t": "Falabella",
-   "o": "#falabella",
-   "p": 19.9,
-   "r": 0,
-   "n": "O F E R T A · ❗️ · ✔️ · Antivirus Kaspersky Standard 1 Dispositivo 1 Año a · sólo S/ 19.90 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto e",
-   "u": "https://t.me/concuponperu/19330"
-  },
-  {
-   "f": "2026-11-02",
-   "t": "Falabella",
-   "o": "#falabella",
-   "p": 19.9,
-   "r": 0,
-   "n": "O F E R T A · ❗️ · ✔️ · Set x24 Piezas Taper Take Along a · sólo S/ 19.90 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en · @concuponperu",
-   "u": "https://t.me/concuponperu/19331"
-  },
-  {
-   "f": "2026-11-02",
-   "t": "Falabella",
-   "o": "#falabella",
-   "p": 399.9,
-   "r": 0,
-   "n": "O F E R T A · ❗️ · ✔️ · Carro a Batería Blanco 12V Mercedes a · sólo S/ 399.90 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en · @concupo",
-   "u": "https://t.me/concuponperu/19332"
-  },
-  {
-   "f": "2026-11-02",
-   "t": "Falabella",
-   "o": "#falabella",
-   "p": 0,
-   "r": 0,
-   "n": "O F E R T A · ❗️ · ✔️ · Hasta 80% de descuento en productos seleccionados · ‼️ · Stock depende de cada tienda. · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en · @concuponperu · ⚠️ · Válido hasta agotar sto",
-   "u": "https://t.me/concuponperu/19333"
-  },
-  {
-   "f": "2026-11-02",
-   "t": "Falabella",
-   "o": "#falabella",
-   "p": 69.0,
-   "r": 0,
-   "n": "O F E R T A · ❗️ · ✔️ · Silla de Comedor Figalo a · sólo S/ 69.00 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en · @concuponperu · ⚠️ · ",
-   "u": "https://t.me/concuponperu/19334"
-  },
-  {
-   "f": "2026-11-02",
-   "t": "Falabella",
-   "o": "#falabella",
-   "p": 349.0,
-   "r": 0,
-   "n": "O F E R T A · ❗️ · ✔️ · STARLINK MINI X a · sólo S/ 349.00 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en · @concuponperu · ⚠️ · Válido ",
-   "u": "https://t.me/concuponperu/19335"
-  },
-  {
-   "f": "2026-11-02",
-   "t": "Falabella",
-   "o": "#falabella",
-   "p": 279.0,
-   "r": 0,
-   "n": "O F E R T A · ❗️ · ✔️ · ASUS TUF Gaming F16 Intel Core 5 205H 8GB 512SSD RTX3050 16\" FHD+ a · sólo S/ 2799.00 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LIN",
-   "u": "https://t.me/concuponperu/19336"
-  },
-  {
-   "f": "2026-11-02",
-   "t": "Sodimac",
-   "o": "Grifería de Cocina Simple Valencia para Pared a",
-   "p": 279.0,
-   "r": 0,
-   "n": "O F E R T A · ❗️ · #sodimac · ✔️ · sólo S/ 2799.00 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en · @concuponperu · ⚠️ · Válido hasta ag",
-   "u": "https://t.me/concuponperu/19337"
-  },
-  {
-   "f": "2026-11-02",
-   "t": "Falabella",
-   "o": "#falabella",
-   "p": 142.83,
-   "r": 0,
-   "n": "O F E R T A · ❗️ · ✔️ · Zapatillas Running Hombre Adidas Adizero a · sólo S/ 142.83 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en · @co",
-   "u": "https://t.me/concuponperu/19338"
-  },
-  {
-   "f": "2026-11-02",
-   "t": "Falabella",
-   "o": "#falabella",
-   "p": 0,
-   "r": 0,
-   "n": "O F E R T A · ❗️ · ✔️ · Hasta 80% de descuento en productos seleccionados · ‼️ · Stock depende de cada tienda. · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en · @concuponperu · ⚠️ · Válido hasta agotar sto",
-   "u": "https://t.me/concuponperu/19339"
-  },
-  {
-   "f": "2026-11-02",
-   "t": "Falabella",
-   "o": "#falabella",
-   "p": 79.9,
-   "r": 0,
-   "n": "O F E R T A · ❗️ · ✔️ · Silla De Comedor Carella  a · sólo S/ 79.90 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en · @concuponperu · ⚠️ ",
-   "u": "https://t.me/concuponperu/19340"
-  },
-  {
-   "f": "2026-11-02",
-   "t": "Oechsle",
-   "o": "Secador Multistyler 6 En 1 Mint Blanco  a",
-   "p": 179.0,
-   "r": 0,
-   "n": "O F E R T A · ❗️ · #oechsle · ✔️ · sólo S/ 179.00 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en · @concuponperu · ⚠️ · Válido hasta ago",
-   "u": "https://t.me/concuponperu/19341"
-  },
-  {
-   "f": "2026-11-02",
-   "t": "Ripley",
-   "o": "CEPILLO ELÉCTRICO ROTATIVO GAMA TURBO ION 2600 1100W  a",
-   "p": 99.0,
-   "r": 0,
-   "n": "O F E R T A · ❗️ · #ripley · ✔️ · sólo S/ 99.00 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en · @concuponperu · ⚠️ · Válido hasta agota",
-   "u": "https://t.me/concuponperu/19342"
-  },
-  {
-   "f": "2026-11-02",
-   "t": "Falabella",
-   "o": "#falabella",
    "p": 209.0,
    "r": 0,
    "n": "O F E R T A · ❗️ · ✔️ · Azzaro Pour Homme Edt 200 ml Azzaro Hombre  a · sólo S/ 209.00 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en · ",
@@ -7736,55 +7803,190 @@
    "r": 0,
    "n": "O F E R T A · ❗️ · ✔️ · Secadora de Cabello EOLIC Ceramic Ion GAMA a · sólo S/ 29.00 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en · @c",
    "u": "https://t.me/concuponperu/19347"
+  },
+  {
+   "f": "2026-11-02",
+   "t": "Falabella",
+   "o": "#falabella",
+   "p": 999.9,
+   "r": 0,
+   "n": "O F E R T A · ❗️ · ✔️ · Lavadora WT19BVTB 19KG Turbodrum Carga Superior Negro Claro LG a · sólo S/ 999.90 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK · ",
+   "u": "https://t.me/concuponperu/19348"
+  },
+  {
+   "f": "2026-11-02",
+   "t": "Falabella",
+   "o": "#falabella",
+   "p": 302.97,
+   "r": 0,
+   "n": "O F E R T A · ❗️ · ✔️ · Sudadera Polo Ralph Lauren a · sólo S/ 302.97 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en · @concuponperu · ⚠",
+   "u": "https://t.me/concuponperu/19349"
+  },
+  {
+   "f": "2026-11-02",
+   "t": "Falabella",
+   "o": "#falabella",
+   "p": 99.0,
+   "r": 0,
+   "n": "O F E R T A · ❗️ · ✔️ · Montblanc Individuel Tonic EDT 75ml a · sólo S/ 99.00 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en · @concupon",
+   "u": "https://t.me/concuponperu/19350"
+  },
+  {
+   "f": "2026-11-02",
+   "t": "Falabella",
+   "o": "#falabella",
+   "p": 199.0,
+   "r": 0,
+   "n": "O F E R T A · ❗️ · ✔️ · Casa de Juguete Playhouse Blanca con Techo Gris y Ventanas Dolu a · sólo S/ 199.00 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK ·",
+   "u": "https://t.me/concuponperu/19351"
+  },
+  {
+   "f": "2026-11-02",
+   "t": "Oechsle",
+   "o": "Televisor SAMSUNG Mini LED 65\" UHD 4K Smart TV M80H Vision AI a",
+   "p": 144.0,
+   "r": 0,
+   "n": "O F E R T A · ❗️ · #oechsle · ✔️ · sólo S/ 1449.00 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en · @concuponperu · ⚠️ · Válido hasta ag",
+   "u": "https://t.me/concuponperu/19352"
+  },
+  {
+   "f": "2026-11-02",
+   "t": "Oechsle",
+   "o": "Cafetera BLACKLINE 1.25L CM4313A-CB Negro a",
+   "p": 39.0,
+   "r": 0,
+   "n": "O F E R T A · ❗️ · #oechsle · ✔️ · sólo S/ 39:00 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en · @concuponperu · ⚠️ · Válido hasta agot",
+   "u": "https://t.me/concuponperu/19353"
+  },
+  {
+   "f": "2026-11-02",
+   "t": "Oechsle",
+   "o": "Secadora Compacta Edicion Limitada 1875W Rosa a",
+   "p": 24.9,
+   "r": 0,
+   "n": "O F E R T A · ❗️ · #oechsle · ✔️ · sólo S/ 24.90 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en · @concuponperu · ⚠️ · Válido hasta agot",
+   "u": "https://t.me/concuponperu/19354"
+  },
+  {
+   "f": "2026-11-02",
+   "t": "Metro",
+   "o": "Batidora Vertical Nex 200W Cje-1108 a",
+   "p": 29.9,
+   "r": 0,
+   "n": "O F E R T A · ❗️ · #metro · ✔️ · sólo S/ 29.90 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en · @concuponperu · ⚠️ · Válido hasta agotar",
+   "u": "https://t.me/concuponperu/19355"
+  },
+  {
+   "f": "2026-11-02",
+   "t": "Samsung",
+   "o": "TELEVISOR SAMSUNG 65\" MINI LED VISION AI UN65M80HAGXPE SMART TV 2026",
+   "p": 179.0,
+   "r": 0,
+   "n": "O F E R T A · ❗️ · #ripley · ✔️ · a · sólo S/ 1799.00 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en · @concuponperu · ⚠️ · Válido hasta",
+   "u": "https://t.me/concuponperu/19356"
+  },
+  {
+   "f": "2026-11-02",
+   "t": "Ripley",
+   "o": "ASPIRADORA KARCHER VC1 DE POLVO",
+   "p": 69.99,
+   "r": 0,
+   "n": "O F E R T A · ❗️ · #ripley · ✔️ · a · sólo S/ 69.99 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en · @concuponperu · ⚠️ · Válido hasta a",
+   "u": "https://t.me/concuponperu/19357"
+  },
+  {
+   "f": "2026-11-03",
+   "t": "Falabella",
+   "o": "#falabella",
+   "p": 0,
+   "r": 0,
+   "n": "O F E R T A · ❗️ · ✔️ · Hasta 90% de descuento en productos seleccionados · ‼️ · Stock depende de cada tienda. · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en · @concuponperu · ⚠️ · Válido hasta agotar sto",
+   "u": "https://t.me/concuponperu/19358"
+  },
+  {
+   "f": "2026-11-03",
+   "t": "Falabella",
+   "o": "#falabella",
+   "p": 32.0,
+   "r": 0,
+   "n": "O F E R T A · ❗️ · ✔️ · Bronceador En Crema Hoola Wave a · sólo S/ 32.00 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en · @concuponperu ",
+   "u": "https://t.me/concuponperu/19359"
+  },
+  {
+   "f": "2026-11-03",
+   "t": "Falabella",
+   "o": "#falabella",
+   "p": 59.9,
+   "r": 0,
+   "n": "O F E R T A · ❗️ · ✔️ · Funda Plumón Federico Beige 100% Algodón a · sólo S/ 59.90 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en · @con",
+   "u": "https://t.me/concuponperu/19360"
+  },
+  {
+   "f": "2026-11-03",
+   "t": "Falabella",
+   "o": "#falabella",
+   "p": 43.98,
+   "r": 0,
+   "n": "O F E R T A · ❗️ · ✔️ · Zapatillas Urbanas Mujer Apology a · sólo S/ 43.98 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en · @concuponper",
+   "u": "https://t.me/concuponperu/19361"
+  },
+  {
+   "f": "2026-11-03",
+   "t": "Metro",
+   "o": "Hasta 80% de descuento en productos seleccionados",
+   "p": 0,
+   "r": 0,
+   "n": "O F E R T A · ❗️ · #metro · ✔️ · ‼️ · Stock depende de cada tienda. · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en · @concuponperu · ⚠️ · Válido hasta agotar stock",
+   "u": "https://t.me/concuponperu/19362"
   }
  ],
  "ver": {
-  "Plin Interbank": "2026-11-02",
-  "Tarjeta Caja Arequipa": "2026-11-02",
-  "Cuponatic": "2026-11-02",
-  "Cuponidad": "2026-11-02",
-  "Web/app de la marca": "2026-11-02",
-  "Tarjeta Cencosud": "2026-11-02"
+  "Plin Interbank": "2026-11-03",
+  "Tarjeta Caja Arequipa": "2026-11-03",
+  "Cuponatic": "2026-11-03",
+  "Cuponidad": "2026-11-03",
+  "Web/app de la marca": "2026-11-03",
+  "Tarjeta Cencosud": "2026-11-03"
  },
  "estado": {
   "interbank": {
    "ok": true,
-   "filas": 210,
-   "leido": "2026-11-02T15:48",
+   "filas": 212,
+   "leido": "2026-11-03T13:28",
    "error": "",
    "historial": [
     205,
     205,
     205,
-    205,
-    210
+    210,
+    212
    ]
   },
   "telegram": {
    "ok": true,
-   "filas": 19,
-   "leido": "2026-11-02T15:48",
+   "filas": 20,
+   "leido": "2026-11-03T13:28",
    "error": "",
    "historial": [
-    9,
     4,
     0,
     1,
-    19
+    19,
+    20
    ]
   },
   "bbva": {
    "ok": false,
    "filas": 0,
    "leido": "",
-   "intento": "2026-11-02T15:48",
+   "intento": "2026-11-03T13:28",
    "error": "No se pudo descargar https://www.bbva.pe/content/dam/public-web/peru/documents/personas/catalogo-promociones/Catalogo-provincias.pdf: 403 Client Error: Forbidden for url: https://www.bbva.pe/content/dam/public-web/peru/documents/personas/catalogo-promociones/Catalogo-provincias.pdf",
    "historial": []
   },
   "caja_arequipa": {
    "ok": true,
    "filas": 9,
-   "leido": "2026-11-02T15:48",
+   "leido": "2026-11-03T13:28",
    "error": "",
    "historial": [
     9,
@@ -7796,34 +7998,34 @@
   },
   "cuponatic": {
    "ok": true,
-   "filas": 13,
-   "leido": "2026-11-02T15:48",
+   "filas": 15,
+   "leido": "2026-11-03T13:28",
    "error": "",
    "historial": [
     17,
-    17,
     16,
     16,
-    13
+    13,
+    15
    ]
   },
   "cuponidad": {
    "ok": true,
-   "filas": 27,
-   "leido": "2026-11-02T15:48",
+   "filas": 31,
+   "leido": "2026-11-03T13:28",
    "error": "",
    "historial": [
-    30,
     34,
     27,
     33,
-    27
+    27,
+    31
    ]
   },
   "papajohns": {
    "ok": true,
    "filas": 4,
-   "leido": "2026-11-02T15:48",
+   "leido": "2026-11-03T13:28",
    "error": "",
    "historial": [
     4,
@@ -7837,7 +8039,7 @@
    "ok": false,
    "filas": 2,
    "leido": "2026-10-23T12:35",
-   "intento": "2026-11-02T15:48",
+   "intento": "2026-11-03T13:28",
    "error": "solo 1 filas (mínimo 2)",
    "historial": [
     1,
@@ -7849,22 +8051,22 @@
   },
   "cencosud": {
    "ok": true,
-   "filas": 94,
-   "leido": "2026-11-02T15:48",
+   "filas": 98,
+   "leido": "2026-11-03T13:28",
    "error": "",
    "historial": [
     102,
-    102,
     101,
     53,
-    94
+    94,
+    98
    ]
   },
   "starperu": {
    "ok": false,
    "filas": 1,
    "leido": "2026-10-21T10:58",
-   "intento": "2026-11-02T15:48",
+   "intento": "2026-11-03T13:28",
    "error": "No se pudo descargar https://www.starperu.com/es/promociones/marca/diners_club: 403 Client Error: Forbidden for url: https://www.starperu.com/es/promociones/marca/diners_club",
    "historial": []
   }

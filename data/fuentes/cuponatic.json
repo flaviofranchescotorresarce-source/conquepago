@@ -1,23 +1,7 @@
 {
  "id": "cuponatic",
- "leido": "2026-11-02T15:48",
+ "leido": "2026-11-03T13:28",
  "filas": [
-  [
-   "¡SPA DE LUJO! 60 minutos de Masaje + Aceites",
-   "Cuponatic",
-   "precio",
-   79.9,
-   120.0,
-   "",
-   "",
-   "Q Spa Wellness",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
   [
    "Cineplanet",
    "Cuponatic",
@@ -43,6 +27,22 @@
    "",
    "",
    "LA BISTECCA Almuerzo o Cena Buffet + Bebida",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "¡SPA DE LUJO! 60 minutos de Masaje + Aceites",
+   "Cuponatic",
+   "precio",
+   79.9,
+   120.0,
+   "",
+   "",
+   "Q Spa Wellness",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -99,14 +99,14 @@
    }
   ],
   [
-   "Mr Jump",
+   "Rústica Pachacamac: 1 Noche - 2 Adultos + 1 Niño + Desayuno",
    "Cuponatic",
    "precio",
-   27.9,
-   55.0,
+   189.0,
+   250.0,
    "",
    "",
-   "Parque Inflable Más Grande de Lima - Entrada General Mr Jump",
+   "75 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -154,7 +154,7 @@
    40.0,
    "",
    "",
-   "2306 Vendidos",
+   "2325 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -166,12 +166,44 @@
    "2 Entradas + Bebidas a Espectáculo Folklore en La Candelaria",
    "Cuponatic",
    "precio",
-   29.9,
+   49.9,
    124.0,
    "",
    "",
-   "1 Férula de Relajación + 1 Porta Férula + Fluor - Dentu",
-   "Letty Salón & Spa",
+   "P. Normal",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "1 a 7 Noches en Madera Labrada TARAPOTO para  2, 3, 4",
+   "Cuponatic",
+   "precio",
+   129.9,
+   300.0,
+   "",
+   "",
+   "madera labrada",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Entrada + Piscina + Plato de Fondo y Mas",
+   "Cuponatic",
+   "precio",
+   29.9,
+   39.9,
+   "",
+   "",
+   "CLUB CAMPESTRE CAMPO Y SOL",
+   "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
     "conf": "of",
