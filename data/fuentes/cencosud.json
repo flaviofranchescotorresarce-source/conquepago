@@ -1,6 +1,6 @@
 {
  "id": "cencosud",
- "leido": "2026-11-03T13:28",
+ "leido": "2026-11-04T13:40",
  "filas": [
   [
    "Wong",
@@ -755,6 +755,24 @@
    "Tarjeta Cencosud",
    {
     "conf": "of"
+   }
+  ],
+  [
+   "PedidosYa",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   15,
+   0,
+   "",
+   "",
+   "Todos los jueves en restaurantes",
+   "Todos los jueves en restaurantes",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of",
+    "dias": [
+     4
+    ]
    }
   ],
   [

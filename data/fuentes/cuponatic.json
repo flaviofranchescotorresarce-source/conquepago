@@ -1,7 +1,23 @@
 {
  "id": "cuponatic",
- "leido": "2026-11-03T13:28",
+ "leido": "2026-11-04T13:40",
  "filas": [
+  [
+   "3 Horas de Navegación en Velero + Paddle Board en el Callao",
+   "Cuponatic",
+   "precio",
+   99.9,
+   145.0,
+   "",
+   "",
+   "Alamar Perú",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
   [
    "Cineplanet",
    "Cuponatic",
@@ -11,70 +27,6 @@
    "",
    "",
    "Cineplanet: 2 Entradas + Combo Gigante para 2 Todos los Días",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "La Bistecca",
-   "Cuponatic",
-   "precio",
-   85.9,
-   103.9,
-   "",
-   "",
-   "LA BISTECCA Almuerzo o Cena Buffet + Bebida",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "¡SPA DE LUJO! 60 minutos de Masaje + Aceites",
-   "Cuponatic",
-   "precio",
-   79.9,
-   120.0,
-   "",
-   "",
-   "Q Spa Wellness",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Coney Park",
-   "Cuponatic",
-   "precio",
-   39.9,
-   60.0,
-   "",
-   "",
-   "3358 Vendidos",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "6 Visitas de Anticelulitis Focalizado en Glúteos y Piernas",
-   "Cuponatic",
-   "precio",
-   69.9,
-   500.0,
-   "",
-   "",
-   "Bless Esthetic Spa",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -106,7 +58,7 @@
    250.0,
    "",
    "",
-   "75 Vendidos",
+   "77 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -115,14 +67,14 @@
    }
   ],
   [
-   "Masaje para 2 + Compresas Calientes + Facial Express y Más",
+   "La Bistecca",
    "Cuponatic",
    "precio",
-   99.9,
-   250.0,
+   85.9,
+   103.9,
    "",
    "",
-   "Relax Vital Wellness",
+   "LA BISTECCA Almuerzo o Cena Buffet + Bebida",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -131,15 +83,15 @@
    }
   ],
   [
-   "Cinemark",
+   "Coney Park",
    "Cuponatic",
    "precio",
-   10.9,
-   27.8,
+   39.9,
+   60.0,
    "",
    "",
-   "¡Cinemark! Entrada 2D de Lunes a Domingo",
-   "¡Cinemark! Entrada 2D de Lunes a Domingo",
+   "3358 Vendidos",
+   "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
     "conf": "of",
@@ -154,7 +106,7 @@
    40.0,
    "",
    "",
-   "2325 Vendidos",
+   "2327 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -163,30 +115,14 @@
    }
   ],
   [
-   "2 Entradas + Bebidas a Espectáculo Folklore en La Candelaria",
-   "Cuponatic",
-   "precio",
-   49.9,
-   124.0,
-   "",
-   "",
-   "P. Normal",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "1 a 7 Noches en Madera Labrada TARAPOTO para  2, 3, 4",
+   "Hora de Spa + Facial  en Murukas Spa Hotel Los Delfines",
    "Cuponatic",
    "precio",
    129.9,
-   300.0,
+   470.0,
    "",
    "",
-   "madera labrada",
+   "363 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -195,14 +131,46 @@
    }
   ],
   [
-   "Entrada + Piscina + Plato de Fondo y Mas",
+   "Full Day Lunahuaná + Cerro Azul + Aventura y Mucho Más",
+   "Cuponatic",
+   "precio",
+   79.0,
+   99.0,
+   "",
+   "",
+   "2 Vendidos",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Mr Jump",
+   "Cuponatic",
+   "precio",
+   27.9,
+   55.0,
+   "",
+   "",
+   "Parque Inflable Más Grande de Lima - Entrada General Mr Jump",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Lipoescultura Sin Cirugía: Lipolaser + Carbox + Liporeductor",
    "Cuponatic",
    "precio",
    29.9,
-   39.9,
+   550.0,
    "",
    "",
-   "CLUB CAMPESTRE CAMPO Y SOL",
+   "2 Entradas + Bebidas a Espectáculo Folklore en La Candelaria",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
