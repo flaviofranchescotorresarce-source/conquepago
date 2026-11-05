@@ -1,16 +1,16 @@
 {
  "id": "cuponatic",
- "leido": "2026-11-04T13:40",
+ "leido": "2026-11-05T13:47",
  "filas": [
   [
-   "3 Horas de Navegación en Velero + Paddle Board en el Callao",
+   "ECOGRANJITA: Granjita Interactiva en Jockey Club",
    "Cuponatic",
    "precio",
-   99.9,
-   145.0,
+   17.9,
+   30.0,
    "",
    "",
-   "Alamar Perú",
+   "Ecogranjita",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -35,38 +35,6 @@
    }
   ],
   [
-   "Revisión Técnica para Auto ó Camioneta Categoría M1",
-   "Cuponatic",
-   "precio",
-   69.0,
-   130.0,
-   "",
-   "",
-   "REVISIONES TÉCNICAS ABC - ATE",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Rústica Pachacamac: 1 Noche - 2 Adultos + 1 Niño + Desayuno",
-   "Cuponatic",
-   "precio",
-   189.0,
-   250.0,
-   "",
-   "",
-   "77 Vendidos",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
    "La Bistecca",
    "Cuponatic",
    "precio",
@@ -83,62 +51,14 @@
    }
   ],
   [
-   "Coney Park",
+   "Revisión Técnica para Auto ó Camioneta Categoría M1",
    "Cuponatic",
    "precio",
-   39.9,
-   60.0,
+   69.0,
+   130.0,
    "",
    "",
-   "3358 Vendidos",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Elige cuánto saltar: 30, 45 o 60 min en Supernova",
-   "Cuponatic",
-   "precio",
-   25.0,
-   40.0,
-   "",
-   "",
-   "2327 Vendidos",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Hora de Spa + Facial  en Murukas Spa Hotel Los Delfines",
-   "Cuponatic",
-   "precio",
-   129.9,
-   470.0,
-   "",
-   "",
-   "363 Vendidos",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Full Day Lunahuaná + Cerro Azul + Aventura y Mucho Más",
-   "Cuponatic",
-   "precio",
-   79.0,
-   99.0,
-   "",
-   "",
-   "2 Vendidos",
+   "REVISIONES TÉCNICAS ABC - ATE",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -163,11 +83,107 @@
    }
   ],
   [
-   "Lipoescultura Sin Cirugía: Lipolaser + Carbox + Liporeductor",
+   "Rústica Pachacamac: 1 Noche - 2 Adultos + 1 Niño + Desayuno",
+   "Cuponatic",
+   "precio",
+   189.0,
+   250.0,
+   "",
+   "",
+   "77 Vendidos",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Elige cuánto saltar: 30, 45 o 60 min en Supernova",
+   "Cuponatic",
+   "precio",
+   25.0,
+   40.0,
+   "",
+   "",
+   "2340 Vendidos",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Hora de Spa + Facial  en Murukas Spa Hotel Los Delfines",
+   "Cuponatic",
+   "precio",
+   129.9,
+   470.0,
+   "",
+   "",
+   "363 Vendidos",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "TODAS LAS SEDES - Juega 30 o 60 Minutos en JUMP SPOT",
+   "Cuponatic",
+   "precio",
+   19.9,
+   35.0,
+   "",
+   "",
+   "Jump Spot Perú",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Salta 60, 90, 120 Minutos o Full Day de L - D en 3 Locales",
+   "Cuponatic",
+   "precio",
+   21.9,
+   26.0,
+   "",
+   "",
+   "Flying Squirrel",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Coney Park",
+   "Cuponatic",
+   "precio",
+   39.9,
+   60.0,
+   "",
+   "",
+   "3358 Vendidos",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "3 Horas de Navegación en Velero + Paddle Board en el Callao",
    "Cuponatic",
    "precio",
    29.9,
-   550.0,
+   145.0,
    "",
    "",
    "2 Entradas + Bebidas a Espectáculo Folklore en La Candelaria",

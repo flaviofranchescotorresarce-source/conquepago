@@ -1,6 +1,6 @@
 {
  "id": "cencosud",
- "leido": "2026-11-04T13:40",
+ "leido": "2026-11-05T13:47",
  "filas": [
   [
    "Wong",
@@ -850,6 +850,21 @@
    "",
    "",
    "En la carta.",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "KFC",
+   "Tarjeta Cencosud",
+   "precio",
+   62.9,
+   0,
+   "",
+   "",
+   "10 piezas de pollo y 1 complemento familiar",
    "Pide el descuento en caja con tu Tarjeta Cencosud",
    "Tarjeta Cencosud",
    {
