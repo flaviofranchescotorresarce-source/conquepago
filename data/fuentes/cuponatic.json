@@ -1,16 +1,16 @@
 {
  "id": "cuponatic",
- "leido": "2026-11-05T13:47",
+ "leido": "2026-11-06T13:02",
  "filas": [
   [
-   "ECOGRANJITA: Granjita Interactiva en Jockey Club",
+   "La Bistecca",
    "Cuponatic",
    "precio",
-   17.9,
-   30.0,
+   85.9,
+   103.9,
    "",
    "",
-   "Ecogranjita",
+   "LA BISTECCA Almuerzo o Cena Buffet + Bebida",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -35,14 +35,14 @@
    }
   ],
   [
-   "La Bistecca",
+   "Mr Jump",
    "Cuponatic",
    "precio",
-   85.9,
-   103.9,
+   27.9,
+   55.0,
    "",
    "",
-   "LA BISTECCA Almuerzo o Cena Buffet + Bebida",
+   "Parque Inflable Más Grande de Lima - Entrada General Mr Jump",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -67,14 +67,14 @@
    }
   ],
   [
-   "Mr Jump",
+   "Elige cuánto saltar: 30, 45 o 60 min en Supernova",
    "Cuponatic",
    "precio",
-   27.9,
-   55.0,
+   25.0,
+   40.0,
    "",
    "",
-   "Parque Inflable Más Grande de Lima - Entrada General Mr Jump",
+   "2350 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -99,14 +99,14 @@
    }
   ],
   [
-   "Elige cuánto saltar: 30, 45 o 60 min en Supernova",
+   "Granja Fundo San Vicente",
    "Cuponatic",
    "precio",
-   25.0,
-   40.0,
+   44.9,
+   59.0,
    "",
    "",
-   "2340 Vendidos",
+   "Full Day en Granja Interactiva Fundo San Vicente",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -115,14 +115,14 @@
    }
   ],
   [
-   "Hora de Spa + Facial  en Murukas Spa Hotel Los Delfines",
+   "Hora de Spa + Facial en Murukas Spa en HOTEL LOS DELFINES!",
    "Cuponatic",
    "precio",
    129.9,
    470.0,
    "",
    "",
-   "363 Vendidos",
+   "364 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -179,15 +179,15 @@
    }
   ],
   [
-   "3 Horas de Navegación en Velero + Paddle Board en el Callao",
+   "Cinemark",
    "Cuponatic",
    "precio",
-   29.9,
-   145.0,
+   10.9,
+   27.8,
    "",
    "",
    "2 Entradas + Bebidas a Espectáculo Folklore en La Candelaria",
-   "Compra el cupón en Cuponatic",
+   "¡Cinemark! Entrada 2D de Lunes a Domingo",
    "Cuponatic",
    {
     "conf": "of",
