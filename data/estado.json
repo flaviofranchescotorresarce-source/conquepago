@@ -2,10 +2,10 @@
  "interbank": {
   "ok": true,
   "filas": 212,
-  "leido": "2026-11-06T13:02",
+  "leido": "2026-11-07T11:52",
   "error": "",
   "historial": [
-   210,
+   212,
    212,
    212,
    212,
@@ -14,29 +14,29 @@
  },
  "telegram": {
   "ok": true,
-  "filas": 14,
-  "leido": "2026-11-06T13:02",
+  "filas": 0,
+  "leido": "2026-11-07T11:52",
   "error": "",
   "historial": [
-   19,
    20,
    8,
    13,
-   14
+   14,
+   0
   ]
  },
  "bbva": {
   "ok": false,
   "filas": 0,
   "leido": "",
-  "intento": "2026-11-06T13:02",
+  "intento": "2026-11-07T11:52",
   "error": "No se pudo descargar https://www.bbva.pe/content/dam/public-web/peru/documents/personas/catalogo-promociones/Catalogo-provincias.pdf: 403 Client Error: Forbidden for url: https://www.bbva.pe/content/dam/public-web/peru/documents/personas/catalogo-promociones/Catalogo-provincias.pdf",
   "historial": []
  },
  "caja_arequipa": {
   "ok": true,
   "filas": 9,
-  "leido": "2026-11-06T13:02",
+  "leido": "2026-11-07T11:52",
   "error": "",
   "historial": [
    9,
@@ -48,34 +48,34 @@
  },
  "cuponatic": {
   "ok": true,
-  "filas": 14,
-  "leido": "2026-11-06T13:02",
+  "filas": 18,
+  "leido": "2026-11-07T11:52",
   "error": "",
   "historial": [
-   13,
    15,
    13,
    14,
-   14
+   14,
+   18
   ]
  },
  "cuponidad": {
   "ok": true,
-  "filas": 30,
-  "leido": "2026-11-06T13:02",
+  "filas": 32,
+  "leido": "2026-11-07T11:52",
   "error": "",
   "historial": [
-   27,
    31,
    33,
    30,
-   30
+   30,
+   32
   ]
  },
  "papajohns": {
   "ok": true,
   "filas": 4,
-  "leido": "2026-11-06T13:02",
+  "leido": "2026-11-07T11:52",
   "error": "",
   "historial": [
    4,
@@ -89,7 +89,7 @@
   "ok": false,
   "filas": 2,
   "leido": "2026-10-23T12:35",
-  "intento": "2026-11-06T13:02",
+  "intento": "2026-11-07T11:52",
   "error": "solo 1 filas (mínimo 2)",
   "historial": [
    1,
@@ -102,12 +102,12 @@
  "cencosud": {
   "ok": true,
   "filas": 100,
-  "leido": "2026-11-06T13:02",
+  "leido": "2026-11-07T11:52",
   "error": "",
   "historial": [
-   94,
    98,
    99,
+   100,
    100,
    100
   ]
@@ -116,7 +116,7 @@
   "ok": false,
   "filas": 1,
   "leido": "2026-10-21T10:58",
-  "intento": "2026-11-06T13:02",
+  "intento": "2026-11-07T11:52",
   "error": "No se pudo descargar https://www.starperu.com/es/promociones/marca/diners_club: 403 Client Error: Forbidden for url: https://www.starperu.com/es/promociones/marca/diners_club",
   "historial": []
  }
