@@ -1,71 +1,7 @@
 {
  "id": "cuponatic",
- "leido": "2026-11-07T11:52",
+ "leido": "2026-11-08T12:05",
  "filas": [
-  [
-   "Revisión Técnica para Auto ó Camioneta Categoría M1",
-   "Cuponatic",
-   "precio",
-   69.0,
-   130.0,
-   "",
-   "",
-   "REVISIONES TÉCNICAS ABC - ATE",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Vive la Adrenalina -Sesión de 6 Minutos Circuito -Euro Karts",
-   "Cuponatic",
-   "precio",
-   24.9,
-   35.0,
-   "",
-   "",
-   "6809 Vendidos",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Coney Park",
-   "Cuponatic",
-   "precio",
-   59.9,
-   130.0,
-   "",
-   "",
-   "3038 Vendidos",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Láser CO2 Fraccionado Full Face + Consulta",
-   "Cuponatic",
-   "precio",
-   249.9,
-   1600.0,
-   "",
-   "",
-   "Stetik Laser Surco",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
   [
    "Cineplanet",
    "Cuponatic",
@@ -83,14 +19,14 @@
    }
   ],
   [
-   "Láser CO2 Fraccionado 5 Lunares o Verrugas",
+   "Salta 60, 90, 120 Minutos o Full Day de L - D en 3 Locales",
    "Cuponatic",
    "precio",
-   49.9,
-   100.0,
+   21.9,
+   26.0,
    "",
    "",
-   "Stetik Laser Surco",
+   "Flying Squirrel",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -99,14 +35,14 @@
    }
   ],
   [
-   "1 a 7 Noches en Madera Labrada TARAPOTO para  2, 3, 4",
+   "Coney Park",
    "Cuponatic",
    "precio",
-   149.9,
-   300.0,
+   39.9,
+   60.0,
    "",
    "",
-   "madera labrada",
+   "3358 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -115,14 +51,94 @@
    }
   ],
   [
-   "¡Apunta y Dispara! Clases de Tiro en Safari Ranch",
+   "La Bistecca",
    "Cuponatic",
    "precio",
-   59.9,
+   85.9,
+   103.9,
+   "",
+   "",
+   "LA BISTECCA Almuerzo o Cena Buffet + Bebida",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "ECOGRANJITA: Granjita Interactiva en Jockey Club",
+   "Cuponatic",
+   "precio",
+   17.9,
+   30.0,
+   "",
+   "",
+   "Ecogranjita",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Rústica Pachacamac: 1 Noche - 2 Adultos + 1 Niño + Desayuno",
+   "Cuponatic",
+   "precio",
+   189.0,
+   250.0,
+   "",
+   "",
+   "77 Vendidos",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Elige cuánto saltar: 30, 45 o 60 min en Supernova",
+   "Cuponatic",
+   "precio",
+   25.0,
+   40.0,
+   "",
+   "",
+   "2389 Vendidos",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Granja Fundo San Vicente",
+   "Cuponatic",
+   "precio",
+   44.9,
+   59.0,
+   "",
+   "",
+   "Full Day en Granja Interactiva Fundo San Vicente",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Revisión Técnica para Auto ó Camioneta Categoría M1",
+   "Cuponatic",
+   "precio",
+   69.0,
    130.0,
    "",
    "",
-   "Safari Ranch - Clases de Tiro",
+   "REVISIONES TÉCNICAS ABC - ATE",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -131,30 +147,14 @@
    }
   ],
   [
-   "¡Renuevate! Día de SPA para 02 - THERAPY SPA",
+   "TODAS LAS SEDES - Juega 30 o 60 Minutos en JUMP SPOT",
    "Cuponatic",
    "precio",
-   99.0,
-   189.0,
+   19.9,
+   35.0,
    "",
    "",
-   "341 Vendidos",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "¡Revisión Técnica para Auto Particular!  Sede Callao",
-   "Cuponatic",
-   "precio",
-   49.99,
-   70.0,
-   "",
-   "",
-   "Últimas unidades",
+   "Jump Spot Perú",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -179,79 +179,15 @@
    }
   ],
   [
-   "Lavado y Desinfección de Muebles a Domicilio",
+   "Cinemark",
    "Cuponatic",
    "precio",
-   35.9,
-   120.0,
+   10.9,
+   27.8,
    "",
    "",
-   "Avalon Ecofriendly",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Láser para hongos 10 sesiones + Alta frecuencia 3 sesiones",
-   "Cuponatic",
-   "precio",
-   59.9,
-   200.0,
-   "",
-   "",
-   "podologos delgado",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Show Pirata y Nado con Lobos",
-   "Cuponatic",
-   "precio",
-   119.9,
-   160.0,
-   "",
-   "",
-   "237 Vendidos",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "2D/1N Para 2 Personas y Más en Hotel Villa Jazmin - Ica",
-   "Cuponatic",
-   "precio",
-   219.9,
-   375.0,
-   "",
-   "",
-   "Últimas unidades",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Para 2: Masaje Relajante + Reflexología + Copa Vino",
-   "Cuponatic",
-   "precio",
-   130.0,
-   200.0,
-   "",
-   "",
-   "Essenza Massage",
-   "Compra el cupón en Cuponatic",
+   "2 Entradas + Bebidas a Espectáculo Folklore en La Candelaria",
+   "¡Cinemark! Entrada 2D de Lunes a Domingo",
    "Cuponatic",
    {
     "conf": "of",
