@@ -1,7 +1,23 @@
 {
  "id": "cuponatic",
- "leido": "2026-11-08T12:05",
+ "leido": "2026-11-09T16:28",
  "filas": [
+  [
+   "Rústica Pachacamac: 1 Noche - 2 Adultos + 1 Niño + Desayuno",
+   "Cuponatic",
+   "precio",
+   189.0,
+   250.0,
+   "",
+   "",
+   "77 Vendidos",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
   [
    "Cineplanet",
    "Cuponatic",
@@ -11,38 +27,6 @@
    "",
    "",
    "Cineplanet: 2 Entradas + Combo Gigante para 2 Todos los Días",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Salta 60, 90, 120 Minutos o Full Day de L - D en 3 Locales",
-   "Cuponatic",
-   "precio",
-   21.9,
-   26.0,
-   "",
-   "",
-   "Flying Squirrel",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Coney Park",
-   "Cuponatic",
-   "precio",
-   39.9,
-   60.0,
-   "",
-   "",
-   "3358 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -67,70 +51,6 @@
    }
   ],
   [
-   "ECOGRANJITA: Granjita Interactiva en Jockey Club",
-   "Cuponatic",
-   "precio",
-   17.9,
-   30.0,
-   "",
-   "",
-   "Ecogranjita",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Rústica Pachacamac: 1 Noche - 2 Adultos + 1 Niño + Desayuno",
-   "Cuponatic",
-   "precio",
-   189.0,
-   250.0,
-   "",
-   "",
-   "77 Vendidos",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Elige cuánto saltar: 30, 45 o 60 min en Supernova",
-   "Cuponatic",
-   "precio",
-   25.0,
-   40.0,
-   "",
-   "",
-   "2389 Vendidos",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Granja Fundo San Vicente",
-   "Cuponatic",
-   "precio",
-   44.9,
-   59.0,
-   "",
-   "",
-   "Full Day en Granja Interactiva Fundo San Vicente",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
    "Revisión Técnica para Auto ó Camioneta Categoría M1",
    "Cuponatic",
    "precio",
@@ -147,14 +67,14 @@
    }
   ],
   [
-   "TODAS LAS SEDES - Juega 30 o 60 Minutos en JUMP SPOT",
+   "Coney Park",
    "Cuponatic",
    "precio",
    19.9,
-   35.0,
+   60.0,
    "",
    "",
-   "Jump Spot Perú",
+   "2 Entradas + Bebidas a Espectáculo Folklore en La Candelaria",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -163,14 +83,62 @@
    }
   ],
   [
-   "Mr Jump",
+   "Rodizio",
    "Cuponatic",
    "precio",
-   27.9,
-   55.0,
+   89.9,
+   94.9,
    "",
    "",
-   "Parque Inflable Más Grande de Lima - Entrada General Mr Jump",
+   "Buffet de Carnes ILIMITADAS + Salad Bar - RODIZIO",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Elige cuánto saltar: 30, 45 o 60 min en Supernova",
+   "Cuponatic",
+   "precio",
+   25.0,
+   40.0,
+   "",
+   "",
+   "2409 Vendidos",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Hora de Spa + Facial en Murukas Spa en HOTEL LOS DELFINES!",
+   "Cuponatic",
+   "precio",
+   129.9,
+   470.0,
+   "",
+   "",
+   "365 Vendidos",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Full Day Vichaycocha + Azulcocha - Enlace Mundial",
+   "Cuponatic",
+   "precio",
+   145.0,
+   0,
+   "",
+   "",
+   "ENLACE MUNDIAL",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -186,8 +154,40 @@
    27.8,
    "",
    "",
-   "2 Entradas + Bebidas a Espectáculo Folklore en La Candelaria",
    "¡Cinemark! Entrada 2D de Lunes a Domingo",
+   "¡Cinemark! Entrada 2D de Lunes a Domingo",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Salta 60, 90, 120 Minutos o Full Day de L - D en 3 Locales",
+   "Cuponatic",
+   "precio",
+   21.9,
+   26.0,
+   "",
+   "",
+   "Flying Squirrel",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Noche para 2 hasta 9 Personas + Desayuno en Oxapampa",
+   "Cuponatic",
+   "precio",
+   215.0,
+   250.0,
+   "",
+   "",
+   "Cabañas El Pinar de Oxapampa",
+   "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
     "conf": "of",

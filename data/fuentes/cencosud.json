@@ -1,67 +1,7 @@
 {
  "id": "cencosud",
- "leido": "2026-11-08T12:05",
+ "leido": "2026-11-09T16:28",
  "filas": [
-  [
-   "Wong",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   60,
-   0,
-   "",
-   "",
-   "desct.",
-   "Pide el descuento en caja con tu Tarjeta Cencosud",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Wong",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   50,
-   0,
-   "",
-   "",
-   "desct.",
-   "Pide el descuento en caja con tu Tarjeta Cencosud",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Wong",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   10,
-   0,
-   "",
-   "",
-   "Con Tarjeta Cencosud en perecibles seleccionados en Wong.pe y App Wong.",
-   "Pide el descuento en caja con tu Tarjeta Cencosud",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Wong",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   10,
-   0,
-   "",
-   "",
-   "desct. adicionales",
-   "Pide el descuento en caja con tu Tarjeta Cencosud",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of"
-   }
-  ],
   [
    "La Cabrera",
    "Tarjeta Cencosud",
@@ -791,6 +731,78 @@
    }
   ],
   [
+   "Metro",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   10,
+   0,
+   "",
+   "",
+   "En fideos, salsas y aderezos con tu Tarjeta Cencosud",
+   "Jueves",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of",
+    "dias": [
+     4
+    ]
+   }
+  ],
+  [
+   "Metro",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   10,
+   0,
+   "",
+   "",
+   "En frutas con tu Tarjeta Cencosud",
+   "Miércoles",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of",
+    "dias": [
+     3
+    ]
+   }
+  ],
+  [
+   "Metro",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   10,
+   0,
+   "",
+   "",
+   "En aceites comestibles con tu Tarjeta Cencosud",
+   "Martes",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of",
+    "dias": [
+     2
+    ]
+   }
+  ],
+  [
+   "Metro",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   10,
+   0,
+   "",
+   "",
+   "En verduras con tu Tarjeta Cencosud",
+   "Lunes",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of",
+    "dias": [
+     1
+    ]
+   }
+  ],
+  [
    "Wong",
    "Tarjeta Cencosud",
    "porcentaje",
@@ -1119,7 +1131,7 @@
    0,
    "",
    "",
-   "Paga",
+   "S/50.00 en E-dinero y 30 Coney Bonos Estándar.",
    "Pide el descuento en caja con tu Tarjeta Cencosud",
    "Tarjeta Cencosud",
    {
@@ -1450,86 +1462,6 @@
      3,
      4
     ]
-   }
-  ],
-  [
-   "Curacao",
-   "Tarjeta Cencosud",
-   "monto",
-   100.0,
-   0,
-   "",
-   "",
-   "I Código CENCOWOW",
-   "Pide el descuento en caja con tu Tarjeta Cencosud",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of",
-    "min": 999.0
-   }
-  ],
-  [
-   "Juntoz",
-   "Tarjeta Cencosud",
-   "monto",
-   30.0,
-   0,
-   "",
-   "",
-   "/ I Código CENCOWOW",
-   "Pide el descuento en caja con tu Tarjeta Cencosud",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of",
-    "min": 299.0
-   }
-  ],
-  [
-   "EFE",
-   "Tarjeta Cencosud",
-   "monto",
-   100.0,
-   0,
-   "",
-   "",
-   "I Código CENCOEFE",
-   "Pide el descuento en caja con tu Tarjeta Cencosud",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of",
-    "min": 999.0
-   }
-  ],
-  [
-   "Coolbox",
-   "Tarjeta Cencosud",
-   "monto",
-   100.0,
-   0,
-   "",
-   "",
-   "desct. Adicional",
-   "Pide el descuento en caja con tu Tarjeta Cencosud",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of",
-    "min": 1499.0
-   }
-  ],
-  [
-   "Coolbox",
-   "Tarjeta Cencosud",
-   "monto",
-   200.0,
-   0,
-   "",
-   "",
-   "desct. Adicional",
-   "Pide el descuento en caja con tu Tarjeta Cencosud",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of",
-    "min": 3999.0
    }
   ],
   [
