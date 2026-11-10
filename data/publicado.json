@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-09T16:28",
+ "actualizado": "2026-11-10T13:42",
  "filas": [
   [
    "Rappi",
@@ -5380,22 +5380,6 @@
    }
   ],
   [
-   "Rústica Pachacamac: 1 Noche - 2 Adultos + 1 Niño + Desayuno",
-   "Cuponatic",
-   "precio",
-   189.0,
-   250.0,
-   "",
-   "",
-   "77 Vendidos",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
    "Cineplanet",
    "Cuponatic",
    "precio",
@@ -5412,6 +5396,38 @@
    }
   ],
   [
+   "Hora de Spa + Facial en Murukas Spa en HOTEL LOS DELFINES!",
+   "Cuponatic",
+   "precio",
+   139.9,
+   470.0,
+   "",
+   "",
+   "365 Vendidos",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Soho.color",
+   "Cuponatic",
+   "precio",
+   99.9,
+   140.0,
+   "",
+   "",
+   "Valido Todas las Sedes: Alisado Brasilero y Más en SohoColor",
+   "Valido Todas las Sedes: Alisado Brasilero y Más en SohoColor",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
    "La Bistecca",
    "Cuponatic",
    "precio",
@@ -5420,54 +5436,6 @@
    "",
    "",
    "LA BISTECCA Almuerzo o Cena Buffet + Bebida",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Revisión Técnica para Auto ó Camioneta Categoría M1",
-   "Cuponatic",
-   "precio",
-   69.0,
-   130.0,
-   "",
-   "",
-   "REVISIONES TÉCNICAS ABC - ATE",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Coney Park",
-   "Cuponatic",
-   "precio",
-   19.9,
-   60.0,
-   "",
-   "",
-   "2 Entradas + Bebidas a Espectáculo Folklore en La Candelaria",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Rodizio",
-   "Cuponatic",
-   "precio",
-   89.9,
-   94.9,
-   "",
-   "",
-   "Buffet de Carnes ILIMITADAS + Salad Bar - RODIZIO",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -5492,14 +5460,14 @@
    }
   ],
   [
-   "Hora de Spa + Facial en Murukas Spa en HOTEL LOS DELFINES!",
+   "¡Revisión Técnica para Auto Particular!  Sede Callao",
    "Cuponatic",
    "precio",
-   129.9,
-   470.0,
+   49.99,
+   70.0,
    "",
    "",
-   "365 Vendidos",
+   "Últimas unidades",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -5508,14 +5476,14 @@
    }
   ],
   [
-   "Full Day Vichaycocha + Azulcocha - Enlace Mundial",
+   "Vive la Adrenalina -Sesión de 6 Minutos Circuito -Euro Karts",
    "Cuponatic",
    "precio",
-   145.0,
-   0,
+   24.9,
+   35.0,
    "",
    "",
-   "ENLACE MUNDIAL",
+   "6813 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -5524,30 +5492,14 @@
    }
   ],
   [
-   "Cinemark",
+   "Rodizio",
    "Cuponatic",
    "precio",
-   10.9,
-   27.8,
+   29.9,
+   39.9,
    "",
    "",
-   "¡Cinemark! Entrada 2D de Lunes a Domingo",
-   "¡Cinemark! Entrada 2D de Lunes a Domingo",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Salta 60, 90, 120 Minutos o Full Day de L - D en 3 Locales",
-   "Cuponatic",
-   "precio",
-   21.9,
-   26.0,
-   "",
-   "",
-   "Flying Squirrel",
+   "2 Entradas + Bebidas a Espectáculo Folklore en La Candelaria",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -5556,19 +5508,20 @@
    }
   ],
   [
-   "Noche para 2 hasta 9 Personas + Desayuno en Oxapampa",
+   "Mr Jump",
    "Cuponatic",
    "precio",
-   215.0,
-   250.0,
+   19.9,
+   85.0,
    "",
    "",
-   "Cabañas El Pinar de Oxapampa",
-   "Compra el cupón en Cuponatic",
+   "Parque Inflable Más Grande de Lima - Entrada General Mr Jump",
+   "Tratamiento Reparador o Hidratante con Italian Max",
    "Cuponatic",
    {
     "conf": "of",
-    "ciudad": "Lima"
+    "ciudad": "Lima",
+    "max": 9
    }
   ],
   [
@@ -5620,31 +5573,15 @@
    }
   ],
   [
-   "Rally Kart: 10, 16 ó 30 vueltas en sus locales de Jockey Pla",
+   "La Bistecca",
    "Cuponidad",
    "precio",
-   14.9,
-   50.0,
+   85.9,
+   97.9,
    "",
    "",
-   "Rally Kart: 10, 16 ó 30 vueltas en sus locales de Jockey Plaza, Open Plaza La Marina,   Bellavista, Mall Plaza Comas",
+   "Buffet Almuerzo o Cena + Postres + Bebida. Aplica en sus 5 locales.",
    "Compra el cupón en Cuponidad",
-   "Cuponidad",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Cineplanet",
-   "Cuponidad",
-   "precio",
-   47.9,
-   104.0,
-   "",
-   "",
-   "Cineplanet: 2 Entradas 2D + 2 Bebidas Grandes + Pop corn gigante. Lunes a Domingo",
-   "Cineplanet: 2 Entradas 2D + 2 Bebidas Grandes + Pop corn gigante. Lunes a Domingo · Cineplanet: S/ 47.90 por 2 entradas 2D + Pop corn gigante  + 2 bebidas grandes. Válido a nivel n",
    "Cuponidad",
    {
     "conf": "of",
@@ -5656,11 +5593,11 @@
    "Cuponidad",
    "precio",
    35.0,
-   64.9,
+   69.9,
    "",
    "",
    "ENTRETENIMIENTO",
-   "S/54.90 por Full day en Perulandia: entrada + vale de consumo de 35  soles + Perusaurus de lunes a domingo y feriados",
+   "S/59.90 por Full day en Perulandia: entrada + vale de consumo de 35  soles + Perusaurus de lunes a domingo y feriados",
    "Cuponidad",
    {
     "conf": "of",
@@ -5668,30 +5605,14 @@
    }
   ],
   [
-   "Vacilandia Park: Full Day para niños, adultos o pack familia",
+   "Rally Kart: 10, 16 ó 30 vueltas en sus locales de Jockey Pla",
    "Cuponidad",
    "precio",
-   19.9,
-   35.0,
+   14.9,
+   50.0,
    "",
    "",
-   "Vacilandia Park: Full Day para niños, adultos o pack familiar, incluye alimentación.",
-   "Compra el cupón en Cuponidad",
-   "Cuponidad",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Coney Park",
-   "Cuponidad",
-   "precio",
-   28.9,
-   69.0,
-   "",
-   "",
-   "Coney Park - Coney Active: Juega por 1 hora. Lima y Provincias. Cupón movil",
+   "Rally Kart: 10, 16 ó 30 vueltas en sus locales de Jockey Plaza, Open Plaza La Marina,   Bellavista, Mall Plaza Comas",
    "Compra el cupón en Cuponidad",
    "Cuponidad",
    {
@@ -5716,15 +5637,31 @@
    }
   ],
   [
-   "La Bistecca",
+   "Vacilandia Park: Full Day para niños, adultos o pack familia",
    "Cuponidad",
    "precio",
-   85.9,
-   97.9,
+   19.9,
+   35.0,
    "",
    "",
-   "Buffet Almuerzo o Cena + Postres + Bebida. Aplica en sus 5 locales.",
+   "Vacilandia Park: Full Day para niños, adultos o pack familiar, incluye alimentación.",
    "Compra el cupón en Cuponidad",
+   "Cuponidad",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Cineplanet",
+   "Cuponidad",
+   "precio",
+   47.9,
+   104.0,
+   "",
+   "",
+   "Cineplanet: 2 Entradas 2D + 2 Bebidas Grandes + Pop corn gigante. Lunes a Domingo",
+   "Cineplanet: 2 Entradas 2D + 2 Bebidas Grandes + Pop corn gigante. Lunes a Domingo · Cineplanet: S/ 47.90 por 2 entradas 2D + Pop corn gigante  + 2 bebidas grandes. Válido a nivel n",
    "Cuponidad",
    {
     "conf": "of",
@@ -5748,6 +5685,22 @@
    }
   ],
   [
+   "Coney Park",
+   "Cuponidad",
+   "precio",
+   28.9,
+   69.0,
+   "",
+   "",
+   "Coney Park - Coney Active: Juega por 1 hora. Lima y Provincias. Cupón movil",
+   "Compra el cupón en Cuponidad",
+   "Cuponidad",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
    "Cineplanet",
    "Cuponidad",
    "precio",
@@ -5756,7 +5709,7 @@
    "",
    "",
    "breña, cercado de lima, comas, independencia, jesus maria, la molina, la victoria, lince, los olivos, miraflores, san borja, san isidro, san",
-   "Cinemark: 2 Entradas + 2 gaseosas + cancha grande o mediana según elijas (validación ONLINE o física) · Cineplanet: 2 Entradas 2D + 2 Bebidas Grandes + Pop corn gigante. Lunes a Do",
+   "Cinemark: Entrada 2D - opción a combo (Validación ONLINE o mostrando tu celular) · Cineplanet: 2 Entradas 2D + 2 Bebidas Grandes + Pop corn gigante. Lunes a Domingo · Cinemark: 2 E",
    "Cuponidad",
    {
     "conf": "of",
@@ -5764,11 +5717,11 @@
    }
   ],
   [
-   "Perulandia Full Day + Piscinas + S/. 35 de Vale de Consumo  ",
+   "Full Day para 1 o 2 personas niño o adulto a Complejo Turíst",
    "Cuponidad",
    "precio",
-   19.9,
-   54.9,
+   15.0,
+   44.9,
    "",
    "",
    "La Fogata de Cieneguilla: Full Day de lunes a domingo para niño o adulto + vale de consumo",
@@ -5780,11 +5733,11 @@
    }
   ],
   [
-   "GO ENJOY: 1 hora de juegos en el Parque de juegos Infantiles",
+   "PLAYIN VR: Simuladores de Realidad Virtual en Jockey Plaza y",
    "Cuponidad",
    "precio",
-   9.9,
-   35.9,
+   12.9,
+   69.9,
    "",
    "",
    "JUMP SPOT KIDS: Full Diversión por 30 o 60 minutos Jockey Plaza, Mall Plaza Comas, Mall Plaza Arequipa",
@@ -5799,12 +5752,12 @@
    "Fun Jungle: Full Day o 60 minutos según elijas en los Inflab",
    "Cuponidad",
    "precio",
-   19.9,
-   28.9,
+   21.9,
+   44.9,
    "",
    "",
    "Fun Jungle: Full Day o 60 minutos según elijas en los Inflables en El Defby  y Parque de la Amistad",
-   "Compra el cupón en Cuponidad",
+   "Yakupark Paracas: 45 o 90 minutos de Diversión según elijas. Lunes a Domingo",
    "Cuponidad",
    {
     "conf": "of",
@@ -5812,14 +5765,14 @@
    }
   ],
   [
-   "RF Karting La Victoria: Sesiones para niños o adultos según ",
+   "Sesión de 6 minutos en el Circuito Explanada Olguín Jockey P",
    "Cuponidad",
    "precio",
    14.9,
-   39.9,
+   24.9,
    "",
    "",
-   "Kartódromo RF Karting de Asia: Entrada para niños o adultos según elijas",
+   "Rally Kart:  5, 8 o 15 vueltas según elijas. Válido en sus 5 locales",
    "Rally Kart:  5, 8 o 15 vueltas según elijas. Válido en sus 5 locales · Fórmula Kart:  Sesiones para niños y adultos. Lunes a domingo",
    "Cuponidad",
    {
@@ -5828,15 +5781,15 @@
    }
   ],
   [
-   "La Bistecca",
+   "Kasamama",
    "Cuponidad",
    "precio",
-   26.9,
-   85.9,
+   37.9,
+   89.9,
    "",
    "",
-   "Buffet Almuerzo: Entradas + Ensaladas + Fondos + Postres de Lunes a Domingo",
-   "Buffet Almuerzo: Entradas + Ensaladas + Fondos + Postres de Lunes a Domingo",
+   "la molina, los olivos, miraflores, san miguel, santiago de surco",
+   "Buffet Almuerzo Criollo en 4 Sedes de Lunes a Domingo",
    "Cuponidad",
    {
     "conf": "of",
@@ -5844,15 +5797,31 @@
    }
   ],
   [
-   "Dragon Rolls",
+   "Isushi",
    "Cuponidad",
    "precio",
-   29.9,
+   34.9,
    54.9,
    "",
    "",
-   "Barra Libre de Makis, temakis, poke bowl, alitas, cangre burguer sushi (nuestro plato estrella) y bebida del día ilimitada.",
-   "Barra Libre de Makis o Alitas: Sabores a elección. De Lunes a Domingo",
+   "Barra Libre de Makis + alitas + refresco ILIMITADO ó 01 bebida embotellada (gaseosa o agua mineral) . Elige  cualquiera de sus 8 LOCALES",
+   "Compra el cupón en Cuponidad",
+   "Cuponidad",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Pinocho: Obra Teatral  14, 15, 21, 22 de Noviembre en el tea",
+   "Cuponidad",
+   "precio",
+   14.9,
+   0,
+   "",
+   "2026-11-22",
+   "Pinocho: Obra Teatral  14, 15, 21, 22 de Noviembre en el teatro Jazz Zone - Miraflores",
+   "Compra el cupón en Cuponidad",
    "Cuponidad",
    {
     "conf": "of",
@@ -5864,10 +5833,10 @@
    "Cuponidad",
    "precio",
    14.9,
-   29.9,
-   "2026-10-31",
+   0,
+   "2026-11-29",
    "2026-12-09",
-   "El Adivino - Una Comedia Terrorífica. 30 y 31 de Octubre, 6, 7, 13 y 14 de Noviembre en Capital Restobar Barranco",
+   "La Navidad Mágica de Blanca Nieves: Obra Teatral  28, 29 de Noviembre  y 09 de Diciembre Jazz Zone Miraflores",
    "Compra el cupón en Cuponidad",
    "Cuponidad",
    {
@@ -5876,14 +5845,30 @@
    }
   ],
   [
-   "D Mare Sushi",
+   "El Soldadito de Plomo: El 01, 07, 08 de Noviembre en el teat",
    "Cuponidad",
    "precio",
-   55.0,
+   14.9,
+   0,
+   "",
+   "2026-11-08",
+   "El Soldadito de Plomo: El 01, 07, 08 de Noviembre en el teatro Jazz Zone - Miraflores",
+   "Compra el cupón en Cuponidad",
+   "Cuponidad",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Dragon Rolls",
+   "Cuponidad",
+   "precio",
+   9.9,
    0,
    "",
    "",
-   "MAKIS: 60 cortes de makis + 2 gaseosas de 500 ml ¡Deliciosos sabores a elección",
+   "MAKIS: Tabla de 12 Makis + bebida personal. Sabores a elección",
    "Compra el cupón en Cuponidad",
    "Cuponidad",
    {
@@ -5892,47 +5877,15 @@
    }
   ],
   [
-   "D Mare Sushi",
-   "Cuponidad",
-   "precio",
-   19.9,
-   0,
-   "",
-   "",
-   "MAKIS: 10 cortes de makis + 1 porción de alitas + gaseosa personal",
-   "Compra el cupón en Cuponidad",
-   "Cuponidad",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Mr. Sushi",
-   "Cuponidad",
-   "precio",
-   29.9,
-   0,
-   "",
-   "",
-   "20 makis + 1 bebida de 300 ml. Sabores a elección para consumo o recojo",
-   "Compra el cupón en Cuponidad",
-   "Cuponidad",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Mr. Sushi",
+   "Dragon Rolls",
    "Cuponidad",
    "precio",
    39.9,
    0,
    "",
    "",
-   "Para 2:  30 makis + 2 gaseosas. Sabores a elección (consumo o recojo)",
-   "Compra el cupón en Cuponidad",
+   "60 Makis (5 Sabores a elección) Válido solo para Recojo",
+   "60 Makis (5 Sabores a elección) Válido solo para Recojo",
    "Cuponidad",
    {
     "conf": "of",
@@ -5940,15 +5893,15 @@
    }
   ],
   [
-   "D Mare Sushi",
+   "Dragon Rolls",
    "Cuponidad",
    "precio",
-   37.0,
+   32.9,
    0,
    "",
    "",
-   "MAKIS: 40 cortes de makis + 4 fish fingers, deliciosos sabores a elección",
-   "Compra el cupón en Cuponidad",
+   "MAKIS: 36 Makis+ yakimeshi +  bebidas en Dragon Rolls - Santiago de Surco",
+   "Delivery",
    "Cuponidad",
    {
     "conf": "of",
@@ -5956,47 +5909,15 @@
    }
   ],
   [
-   "Mr. Sushi",
-   "Cuponidad",
-   "precio",
-   85.9,
-   0,
-   "",
-   "",
-   "50 makis a elección + 12 alitas . Consumo en el local o recojo.",
-   "Compra el cupón en Cuponidad",
-   "Cuponidad",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "D Mare Sushi",
-   "Cuponidad",
-   "precio",
-   27.0,
-   0,
-   "",
-   "",
-   "MAKIS: 30 Cortes de Makis + Gaseosa de 500 ml, deliciosos sabores a elección",
-   "Compra el cupón en Cuponidad",
-   "Cuponidad",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Examen médico para brevete SAN BORJA para AUTO o MOTO",
+   "Examen médico para brevete INDEPENDENCIA para AUTO",
    "Cuponidad",
    "precio",
    89.9,
    149.0,
    "",
    "",
-   "Examen Médico Para Brevete SAN JUAN DE MIRAFLORES para auto y moto",
-   "Compra el cupón en Cuponidad",
+   "Examen Médico para Brevete de Auto o Moto: Licencia nuevo, revalidar, recategorizar",
+   "Examen Médico para Brevete de Auto o Moto: Licencia nuevo, revalidar, recategorizar",
    "Cuponidad",
    {
     "conf": "of",
@@ -6008,11 +5929,11 @@
    "Cuponidad",
    "precio",
    16.9,
-   83.9,
+   80.9,
    "",
    "",
    "cercado de lima, independencia, jesus maria, la molina, lince, los olivos, magdalena del mar, miraflores, pueblo libre, san borja, san juan ",
-   "1 Pollo a la brasa + papas fritas + ensalada + gaseosa para CONSUMO o  RECOJO.  Lunes a Domingo",
+   "POLLO A LA LEÑA: 1 pollo + papas fritas + 1 lt. de bebida para CONSUMO EN SALON · 1 Pollo a la brasa + papas fritas + ensalada + gaseosa para CONSUMO o  RECOJO.  Lunes a Domingo",
    "Cuponidad",
    {
     "conf": "of",
@@ -6024,27 +5945,11 @@
    "Cuponidad",
    "precio",
    89.9,
-   129.0,
+   199.0,
    "",
    "",
    "Parilla para 2: Churrasco, Chuleta, Pollo a la leña, Mollejas, Anticucho, Chorizo, Botella de vino y más",
    "Compra el cupón en Cuponidad",
-   "Cuponidad",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Carwash Callao: Lavado de salón Vip para auto o camioneta",
-   "Cuponidad",
-   "precio",
-   59.9,
-   0,
-   "",
-   "",
-   "Ver más detalles",
-   "Carwash Callao: Lavado de salón Vip para auto o camioneta",
    "Cuponidad",
    {
     "conf": "of",
@@ -6084,10 +5989,26 @@
    }
   ],
   [
-   "Full Day Paracas con Turístico + Huacachina + Vitivinícola +",
+   "Carwash Callao: Lavado de salón Vip para auto o camioneta",
    "Cuponidad",
    "precio",
-   16.9,
+   59.9,
+   0,
+   "",
+   "",
+   "Ver más detalles",
+   "Carwash Callao: Lavado de salón Vip para auto o camioneta",
+   "Cuponidad",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Vacilandia Park: Full Day para niños, adultos o pack familia",
+   "Cuponidad",
+   "precio",
+   19.9,
    170.0,
    "",
    "",
@@ -6103,12 +6024,44 @@
    "Lipoescultura sin cirugía en 6 visitas, incluye: hidrolipocl",
    "Cuponidad",
    "precio",
-   14.9,
-   299.9,
+   89.0,
+   0,
    "",
    "",
    "Lipoescultura sin cirugía en 6 visitas, incluye: hidrolipoclasia, ultracavitación y más.",
-   "bonet´s salon spa",
+   "Compra el cupón en Cuponidad",
+   "Cuponidad",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "3 sesiones de tratamiento para reducir papada y cachetes.",
+   "Cuponidad",
+   "precio",
+   19.9,
+   0,
+   "",
+   "",
+   "Ver más detalles",
+   "Compra el cupón en Cuponidad",
+   "Cuponidad",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Limpieza facial profunda + peeling punta de diamante y más",
+   "Cuponidad",
+   "precio",
+   14.9,
+   0,
+   "",
+   "",
+   "Ver más detalles",
+   "Compra el cupón en Cuponidad",
    "Cuponidad",
    {
     "conf": "of",
@@ -6119,16 +6072,19 @@
    "Papa Johns",
    "Web/app de la marca",
    "precio",
-   6.0,
-   55.8,
+   24.9,
+   83.8,
    "",
    "",
    "1 pizza grande clásica mas gaseosa de 1LT con 3 rolls de pepperoni",
-   "Promo de la web y app de Papa Johns",
+   "MARTES DE 🍕🍍 · Martes de Hawaiana Familiar · Martes de Hawaiana Grande",
    "Web/app de la marca",
    {
     "conf": "of",
-    "canal": "A"
+    "canal": "A",
+    "dias": [
+     2
+    ]
    }
   ],
   [
@@ -7738,21 +7694,48 @@
    "r": 0,
    "n": "O F E R T A · ❗️ · ✔️ · Mug Marin De Gres Azul 12oz. a · sólo S/ 9.99 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en · @concuponperu · ⚠",
    "u": "https://t.me/concuponperu/19381"
+  },
+  {
+   "f": "2026-11-10",
+   "t": "Falabella",
+   "o": "#falabella",
+   "p": 49.9,
+   "r": 0,
+   "n": "O F E R T A · ❗️ · ✔️ · Teint Idole Ultra Wear 455w 30 Ml. a · sólo S/ 49.90 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en · @concuponp",
+   "u": "https://t.me/concuponperu/19382"
+  },
+  {
+   "f": "2026-11-10",
+   "t": "Falabella",
+   "o": "#falabella",
+   "p": 12.9,
+   "r": 0,
+   "n": "O F E R T A · ❗️ · ✔️ · Bra Deportivo Mujer Training Diadora. a · sólo S/ 12.90 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en · @concup",
+   "u": "https://t.me/concuponperu/19383"
+  },
+  {
+   "f": "2026-11-10",
+   "t": "Falabella",
+   "o": "#falabella",
+   "p": 29.9,
+   "r": 0,
+   "n": "O F E R T A · ❗️ · ✔️ · Cubrecama Infantil Wash Estrella a · sólo S/ 29.90 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en · @concuponper",
+   "u": "https://t.me/concuponperu/19384"
   }
  ],
  "ver": {
-  "Plin Interbank": "2026-11-09",
-  "Tarjeta Caja Arequipa": "2026-11-09",
-  "Cuponatic": "2026-11-09",
-  "Cuponidad": "2026-11-09",
-  "Web/app de la marca": "2026-11-09",
-  "Tarjeta Cencosud": "2026-11-09"
+  "Plin Interbank": "2026-11-10",
+  "Tarjeta Caja Arequipa": "2026-11-10",
+  "Cuponatic": "2026-11-10",
+  "Cuponidad": "2026-11-10",
+  "Web/app de la marca": "2026-11-10",
+  "Tarjeta Cencosud": "2026-11-10"
  },
  "estado": {
   "interbank": {
    "ok": true,
    "filas": 212,
-   "leido": "2026-11-09T16:28",
+   "leido": "2026-11-10T13:41",
    "error": "",
    "historial": [
     212,
@@ -7764,29 +7747,29 @@
   },
   "telegram": {
    "ok": true,
-   "filas": 2,
-   "leido": "2026-11-09T16:28",
+   "filas": 5,
+   "leido": "2026-11-10T13:41",
    "error": "",
    "historial": [
-    13,
     14,
     0,
     0,
-    2
+    2,
+    5
    ]
   },
   "bbva": {
    "ok": false,
    "filas": 0,
    "leido": "",
-   "intento": "2026-11-09T16:28",
+   "intento": "2026-11-10T13:41",
    "error": "No se pudo descargar https://www.bbva.pe/content/dam/public-web/peru/documents/personas/catalogo-promociones/Catalogo-provincias.pdf: 403 Client Error: Forbidden for url: https://www.bbva.pe/content/dam/public-web/peru/documents/personas/catalogo-promociones/Catalogo-provincias.pdf",
    "historial": []
   },
   "caja_arequipa": {
    "ok": true,
    "filas": 9,
-   "leido": "2026-11-09T16:28",
+   "leido": "2026-11-10T13:41",
    "error": "",
    "historial": [
     9,
@@ -7798,34 +7781,34 @@
   },
   "cuponatic": {
    "ok": true,
-   "filas": 14,
-   "leido": "2026-11-09T16:28",
+   "filas": 11,
+   "leido": "2026-11-10T13:41",
    "error": "",
    "historial": [
     14,
-    14,
     18,
     14,
-    14
+    14,
+    11
    ]
   },
   "cuponidad": {
    "ok": true,
    "filas": 32,
-   "leido": "2026-11-09T16:28",
+   "leido": "2026-11-10T13:41",
    "error": "",
    "historial": [
     30,
-    30,
     32,
     28,
+    32,
     32
    ]
   },
   "papajohns": {
    "ok": true,
    "filas": 4,
-   "leido": "2026-11-09T16:28",
+   "leido": "2026-11-10T13:41",
    "error": "",
    "historial": [
     4,
@@ -7839,7 +7822,7 @@
    "ok": false,
    "filas": 2,
    "leido": "2026-10-23T12:35",
-   "intento": "2026-11-09T16:28",
+   "intento": "2026-11-10T13:41",
    "error": "solo 1 filas (mínimo 2)",
    "historial": [
     1,
@@ -7852,13 +7835,13 @@
   "cencosud": {
    "ok": true,
    "filas": 95,
-   "leido": "2026-11-09T16:28",
+   "leido": "2026-11-10T13:41",
    "error": "",
    "historial": [
     100,
     100,
     100,
-    100,
+    95,
     95
    ]
   },
@@ -7866,7 +7849,7 @@
    "ok": false,
    "filas": 1,
    "leido": "2026-10-21T10:58",
-   "intento": "2026-11-09T16:28",
+   "intento": "2026-11-10T13:41",
    "error": "No se pudo descargar https://www.starperu.com/es/promociones/marca/diners_club: 403 Client Error: Forbidden for url: https://www.starperu.com/es/promociones/marca/diners_club",
    "historial": []
   }
