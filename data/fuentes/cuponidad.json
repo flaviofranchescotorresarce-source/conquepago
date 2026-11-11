@@ -1,6 +1,6 @@
 {
  "id": "cuponidad",
- "leido": "2026-11-10T13:41",
+ "leido": "2026-11-11T13:43",
  "filas": [
   [
    "Cupones de descuento en Perú — Hasta 90% OFF | Cuponidad",
@@ -11,6 +11,38 @@
    "",
    "",
    "Cupones de descuento en Perú — Hasta 90% OFF | Cuponidad",
+   "Compra el cupón en Cuponidad",
+   "Cuponidad",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Coney Park",
+   "Cuponidad",
+   "precio",
+   28.9,
+   69.0,
+   "",
+   "",
+   "Coney Park - Coney Active: Juega por 1 hora. Lima y Provincias. Cupón movil",
+   "Compra el cupón en Cuponidad",
+   "Cuponidad",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Flying Squirrel:  Full Day, 60 o 120 minutos según elijas en",
+   "Cuponidad",
+   "precio",
+   21.9,
+   70.0,
+   "",
+   "",
+   "Flying Squirrel:  Full Day, 60 o 120 minutos según elijas en sus 3 locales",
    "Compra el cupón en Cuponidad",
    "Cuponidad",
    {
@@ -51,38 +83,6 @@
    }
   ],
   [
-   "Rally Kart: 10, 16 ó 30 vueltas en sus locales de Jockey Pla",
-   "Cuponidad",
-   "precio",
-   14.9,
-   50.0,
-   "",
-   "",
-   "Rally Kart: 10, 16 ó 30 vueltas en sus locales de Jockey Plaza, Open Plaza La Marina,   Bellavista, Mall Plaza Comas",
-   "Compra el cupón en Cuponidad",
-   "Cuponidad",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Mr. Joy : Juega por 150 minutos (2:30 hrs). Válido en sus 3 ",
-   "Cuponidad",
-   "precio",
-   30.9,
-   50.0,
-   "",
-   "",
-   "Mr. Joy : Juega por 150 minutos (2:30 hrs). Válido en sus 3 locales. Lunes a Domingo.",
-   "Mr. Joy : Juega por 150 minutos (2:30 hrs). Válido en sus 3 locales. Lunes a Domingo. · Disfruta  2:30 horas de diversión en MR JOY por solo S/ 30.90 Válido en Real Plaza Puruchuco",
-   "Cuponidad",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
    "Vacilandia Park: Full Day para niños, adultos o pack familia",
    "Cuponidad",
    "precio",
@@ -115,14 +115,14 @@
    }
   ],
   [
-   "Flying Squirrel:  Full Day, 60 o 120 minutos según elijas en",
+   "Rally Kart: 10, 16 ó 30 vueltas en sus locales de Jockey Pla",
    "Cuponidad",
    "precio",
-   21.9,
-   70.0,
+   14.9,
+   50.0,
    "",
    "",
-   "Flying Squirrel:  Full Day, 60 o 120 minutos según elijas en sus 3 locales",
+   "Rally Kart: 10, 16 ó 30 vueltas en sus locales de Jockey Plaza, Open Plaza La Marina,   Bellavista, Mall Plaza Comas",
    "Compra el cupón en Cuponidad",
    "Cuponidad",
    {
@@ -131,15 +131,15 @@
    }
   ],
   [
-   "Coney Park",
+   "Mr. Joy : Juega por 150 minutos (2:30 hrs). Válido en sus 3 ",
    "Cuponidad",
    "precio",
-   28.9,
-   69.0,
+   30.9,
+   50.0,
    "",
    "",
-   "Coney Park - Coney Active: Juega por 1 hora. Lima y Provincias. Cupón movil",
-   "Compra el cupón en Cuponidad",
+   "Mr. Joy : Juega por 150 minutos (2:30 hrs). Válido en sus 3 locales. Lunes a Domingo.",
+   "Mr. Joy : Juega por 150 minutos (2:30 hrs). Válido en sus 3 locales. Lunes a Domingo. · Disfruta  2:30 horas de diversión en MR JOY por solo S/ 30.90 Válido en Real Plaza Puruchuco",
    "Cuponidad",
    {
     "conf": "of",
@@ -155,7 +155,7 @@
    "",
    "",
    "breña, cercado de lima, comas, independencia, jesus maria, la molina, la victoria, lince, los olivos, miraflores, san borja, san isidro, san",
-   "Cinemark: Entrada 2D - opción a combo (Validación ONLINE o mostrando tu celular) · Cineplanet: 2 Entradas 2D + 2 Bebidas Grandes + Pop corn gigante. Lunes a Domingo · Cinemark: 2 E",
+   "Cinemark: 2 Entradas + 2 gaseosas + cancha grande o mediana según elijas (validación ONLINE o física) · Cineplanet: 2 Entradas 2D + 2 Bebidas Grandes + Pop corn gigante. Lunes a Do",
    "Cuponidad",
    {
     "conf": "of",
@@ -167,11 +167,11 @@
    "Cuponidad",
    "precio",
    15.0,
-   44.9,
+   70.9,
    "",
    "",
-   "La Fogata de Cieneguilla: Full Day de lunes a domingo para niño o adulto + vale de consumo",
-   "La Fogata de Cieneguilla: Full Day de lunes a domingo para niño o adulto + vale de consumo",
+   "Full Day para 1 o 2 personas niño o adulto a Complejo Turístico EL ANDEN: Piscinas, y más",
+   "Compra el cupón en Cuponidad",
    "Cuponidad",
    {
     "conf": "of",
@@ -179,11 +179,11 @@
    }
   ],
   [
-   "PLAYIN VR: Simuladores de Realidad Virtual en Jockey Plaza y",
+   "Small Place Breña: 01 Hora Niño + Adulto. Cupón movil",
    "Cuponidad",
    "precio",
    12.9,
-   69.9,
+   35.9,
    "",
    "",
    "JUMP SPOT KIDS: Full Diversión por 30 o 60 minutos Jockey Plaza, Mall Plaza Comas, Mall Plaza Arequipa",
@@ -198,7 +198,7 @@
    "Fun Jungle: Full Day o 60 minutos según elijas en los Inflab",
    "Cuponidad",
    "precio",
-   21.9,
+   19.9,
    44.9,
    "",
    "",
@@ -211,14 +211,14 @@
    }
   ],
   [
-   "Sesión de 6 minutos en el Circuito Explanada Olguín Jockey P",
+   "Rally Kart:  5, 8 o 15 vueltas según elijas. Válido en sus 5",
    "Cuponidad",
    "precio",
    14.9,
-   24.9,
+   22.9,
    "",
    "",
-   "Rally Kart:  5, 8 o 15 vueltas según elijas. Válido en sus 5 locales",
+   "Rally Kart: 10, 16 ó 30 vueltas en sus locales de Jockey Plaza, Open Plaza La Marina,   Bellavista, Mall Plaza Comas",
    "Rally Kart:  5, 8 o 15 vueltas según elijas. Válido en sus 5 locales · Fórmula Kart:  Sesiones para niños y adultos. Lunes a domingo",
    "Cuponidad",
    {
@@ -227,15 +227,15 @@
    }
   ],
   [
-   "Kasamama",
+   "La Bistecca",
    "Cuponidad",
    "precio",
-   37.9,
+   43.9,
    89.9,
    "",
    "",
-   "la molina, los olivos, miraflores, san miguel, santiago de surco",
-   "Buffet Almuerzo Criollo en 4 Sedes de Lunes a Domingo",
+   "Buffet Almuerzo o Cena + Postres + Bebida. Aplica en sus 5 locales.",
+   "Compra el cupón en Cuponidad",
    "Cuponidad",
    {
     "conf": "of",
@@ -246,12 +246,12 @@
    "Isushi",
    "Cuponidad",
    "precio",
-   34.9,
+   29.9,
    54.9,
    "",
    "",
    "Barra Libre de Makis + alitas + refresco ILIMITADO ó 01 bebida embotellada (gaseosa o agua mineral) . Elige  cualquiera de sus 8 LOCALES",
-   "Compra el cupón en Cuponidad",
+   "Barra Libre de Makis o Alitas: Sabores a elección. De Lunes a Domingo",
    "Cuponidad",
    {
     "conf": "of",
@@ -259,14 +259,14 @@
    }
   ],
   [
-   "Pinocho: Obra Teatral  14, 15, 21, 22 de Noviembre en el tea",
+   "Coco: Obra Teatral 1, 7 , 8, 14, 15,  21 y 22 de Noviebmre J",
    "Cuponidad",
    "precio",
    14.9,
    0,
    "",
-   "2026-11-22",
-   "Pinocho: Obra Teatral  14, 15, 21, 22 de Noviembre en el teatro Jazz Zone - Miraflores",
+   "",
+   "Coco: Obra Teatral 1, 7 , 8, 14, 15,  21 y 22 de Noviebmre Jazz Zona de Miraflores",
    "Compra el cupón en Cuponidad",
    "Cuponidad",
    {
@@ -275,14 +275,14 @@
    }
   ],
   [
-   "La Navidad Mágica de Blanca Nieves: Obra Teatral  28, 29 de ",
+   "Extraña Pareja:  06 de Diciembre  en el teatro Jazz Zone - M",
    "Cuponidad",
    "precio",
-   14.9,
+   19.9,
    0,
-   "2026-11-29",
-   "2026-12-09",
-   "La Navidad Mágica de Blanca Nieves: Obra Teatral  28, 29 de Noviembre  y 09 de Diciembre Jazz Zone Miraflores",
+   "",
+   "2026-12-06",
+   "Extraña Pareja:  06 de Diciembre  en el teatro Jazz Zone - Miraflores",
    "Compra el cupón en Cuponidad",
    "Cuponidad",
    {
@@ -307,14 +307,14 @@
    }
   ],
   [
-   "Dragon Rolls",
+   "Mr. Sushi",
    "Cuponidad",
    "precio",
-   9.9,
+   39.9,
    0,
    "",
    "",
-   "MAKIS: Tabla de 12 Makis + bebida personal. Sabores a elección",
+   "Para 2:  30 makis + 2 gaseosas. Sabores a elección (consumo o recojo)",
    "Compra el cupón en Cuponidad",
    "Cuponidad",
    {
@@ -323,15 +323,15 @@
    }
   ],
   [
-   "Dragon Rolls",
+   "Mr. Sushi",
    "Cuponidad",
    "precio",
-   39.9,
+   29.9,
    0,
    "",
    "",
-   "60 Makis (5 Sabores a elección) Válido solo para Recojo",
-   "60 Makis (5 Sabores a elección) Válido solo para Recojo",
+   "20 makis + 1 bebida de 300 ml. Sabores a elección para consumo o recojo",
+   "Compra el cupón en Cuponidad",
    "Cuponidad",
    {
     "conf": "of",
@@ -339,15 +339,15 @@
    }
   ],
   [
-   "Dragon Rolls",
+   "D Mare Sushi",
    "Cuponidad",
    "precio",
-   32.9,
+   55.0,
    0,
    "",
    "",
-   "MAKIS: 36 Makis+ yakimeshi +  bebidas en Dragon Rolls - Santiago de Surco",
-   "Delivery",
+   "MAKIS: 60 cortes de makis + 2 gaseosas de 500 ml ¡Deliciosos sabores a elección",
+   "Compra el cupón en Cuponidad",
    "Cuponidad",
    {
     "conf": "of",
@@ -355,15 +355,63 @@
    }
   ],
   [
-   "Examen médico para brevete INDEPENDENCIA para AUTO",
+   "D Mare Sushi",
    "Cuponidad",
    "precio",
-   89.9,
+   19.9,
+   0,
+   "",
+   "",
+   "MAKIS: 10 cortes de makis + 1 porción de alitas + gaseosa personal",
+   "Compra el cupón en Cuponidad",
+   "Cuponidad",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "D Mare Sushi",
+   "Cuponidad",
+   "precio",
+   27.0,
+   0,
+   "",
+   "",
+   "MAKIS: 30 Cortes de Makis + Gaseosa de 500 ml, deliciosos sabores a elección",
+   "Compra el cupón en Cuponidad",
+   "Cuponidad",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Mr. Sushi",
+   "Cuponidad",
+   "precio",
+   85.9,
+   0,
+   "",
+   "",
+   "50 makis a elección + 12 alitas . Consumo en el local o recojo.",
+   "Compra el cupón en Cuponidad",
+   "Cuponidad",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Examen médico de brevete COMAS para AUTO o MOTO",
+   "Cuponidad",
+   "precio",
+   99.0,
    149.0,
    "",
    "",
-   "Examen Médico para Brevete de Auto o Moto: Licencia nuevo, revalidar, recategorizar",
-   "Examen Médico para Brevete de Auto o Moto: Licencia nuevo, revalidar, recategorizar",
+   "Examen Para Brevete y Recategorización de Licencia de Manejo",
+   "Compra el cupón en Cuponidad",
    "Cuponidad",
    {
     "conf": "of",
@@ -375,11 +423,11 @@
    "Cuponidad",
    "precio",
    16.9,
-   80.9,
+   114.9,
    "",
    "",
    "cercado de lima, independencia, jesus maria, la molina, lince, los olivos, magdalena del mar, miraflores, pueblo libre, san borja, san juan ",
-   "POLLO A LA LEÑA: 1 pollo + papas fritas + 1 lt. de bebida para CONSUMO EN SALON · 1 Pollo a la brasa + papas fritas + ensalada + gaseosa para CONSUMO o  RECOJO.  Lunes a Domingo",
+   "POLLO A LA BRASA: 1 Pollo  a la brasa entero + papas fritas + ensalada (SOLO RECOJO) · POLLO A LA LEÑA: 1 pollo + papas fritas + 1 lt. de bebida para CONSUMO EN SALON",
    "Cuponidad",
    {
     "conf": "of",
@@ -394,7 +442,7 @@
    199.0,
    "",
    "",
-   "Parilla para 2: Churrasco, Chuleta, Pollo a la leña, Mollejas, Anticucho, Chorizo, Botella de vino y más",
+   "Parrilla para 2: Parrilla marina para 2 personas + 2 copas de vino blanco, frente al mar",
    "Compra el cupón en Cuponidad",
    "Cuponidad",
    {
@@ -454,8 +502,8 @@
    "Vacilandia Park: Full Day para niños, adultos o pack familia",
    "Cuponidad",
    "precio",
-   19.9,
-   170.0,
+   16.9,
+   219.0,
    "",
    "",
    "La Fogata de Cieneguilla: Full Day de lunes a domingo para niño o adulto + vale de consumo",
@@ -467,46 +515,14 @@
    }
   ],
   [
-   "Lipoescultura sin cirugía en 6 visitas, incluye: hidrolipocl",
-   "Cuponidad",
-   "precio",
-   89.0,
-   0,
-   "",
-   "",
-   "Lipoescultura sin cirugía en 6 visitas, incluye: hidrolipoclasia, ultracavitación y más.",
-   "Compra el cupón en Cuponidad",
-   "Cuponidad",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "3 sesiones de tratamiento para reducir papada y cachetes.",
-   "Cuponidad",
-   "precio",
-   19.9,
-   0,
-   "",
-   "",
-   "Ver más detalles",
-   "Compra el cupón en Cuponidad",
-   "Cuponidad",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Limpieza facial profunda + peeling punta de diamante y más",
+   "Tinte completo + iluminación + corte de puntas + cepillado y",
    "Cuponidad",
    "precio",
    14.9,
-   0,
+   299.9,
    "",
    "",
-   "Ver más detalles",
+   "Terapia antiestrés + reflexología + hidratación de manos y pies y más.",
    "Compra el cupón en Cuponidad",
    "Cuponidad",
    {

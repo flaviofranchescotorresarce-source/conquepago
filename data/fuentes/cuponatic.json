@@ -1,6 +1,6 @@
 {
  "id": "cuponatic",
- "leido": "2026-11-10T13:41",
+ "leido": "2026-11-11T13:43",
  "filas": [
   [
    "Cineplanet",
@@ -19,78 +19,14 @@
    }
   ],
   [
-   "Hora de Spa + Facial en Murukas Spa en HOTEL LOS DELFINES!",
+   "Mr Jump",
    "Cuponatic",
    "precio",
-   139.9,
-   470.0,
+   27.9,
+   55.0,
    "",
    "",
-   "365 Vendidos",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Soho.color",
-   "Cuponatic",
-   "precio",
-   99.9,
-   140.0,
-   "",
-   "",
-   "Valido Todas las Sedes: Alisado Brasilero y Más en SohoColor",
-   "Valido Todas las Sedes: Alisado Brasilero y Más en SohoColor",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "La Bistecca",
-   "Cuponatic",
-   "precio",
-   85.9,
-   103.9,
-   "",
-   "",
-   "LA BISTECCA Almuerzo o Cena Buffet + Bebida",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Elige cuánto saltar: 30, 45 o 60 min en Supernova",
-   "Cuponatic",
-   "precio",
-   25.0,
-   40.0,
-   "",
-   "",
-   "2409 Vendidos",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "¡Revisión Técnica para Auto Particular!  Sede Callao",
-   "Cuponatic",
-   "precio",
-   49.99,
-   70.0,
-   "",
-   "",
-   "Últimas unidades",
+   "Parque Inflable Más Grande de Lima - Entrada General Mr Jump",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -115,14 +51,14 @@
    }
   ],
   [
-   "Rodizio",
+   "La Bistecca",
    "Cuponatic",
    "precio",
-   29.9,
-   39.9,
+   85.9,
+   103.9,
    "",
    "",
-   "2 Entradas + Bebidas a Espectáculo Folklore en La Candelaria",
+   "LA BISTECCA Almuerzo o Cena Buffet + Bebida",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -131,20 +67,163 @@
    }
   ],
   [
-   "Mr Jump",
+   "Cinemark",
    "Cuponatic",
    "precio",
-   19.9,
-   85.0,
+   10.9,
+   27.8,
    "",
    "",
-   "Parque Inflable Más Grande de Lima - Entrada General Mr Jump",
-   "Tratamiento Reparador o Hidratante con Italian Max",
+   "¡Cinemark! Entrada 2D de Lunes a Domingo",
+   "¡Cinemark! Entrada 2D de Lunes a Domingo",
    "Cuponatic",
    {
     "conf": "of",
-    "ciudad": "Lima",
-    "max": 9
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Revisión Técnica para Auto ó Camioneta Categoría M1",
+   "Cuponatic",
+   "precio",
+   69.0,
+   130.0,
+   "",
+   "",
+   "REVISIONES TÉCNICAS ABC - ATE",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Limpieza Facial + Extraccion de Puntos Negros y Mas",
+   "Cuponatic",
+   "precio",
+   33.9,
+   120.0,
+   "",
+   "",
+   "Últimas unidades",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Plasma Rico en Plaquetas con Dermapen + Fototerapia Led",
+   "Cuponatic",
+   "precio",
+   39.9,
+   350.0,
+   "",
+   "",
+   "Bless Esthetic Spa",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Coney Park",
+   "Cuponatic",
+   "precio",
+   39.9,
+   60.0,
+   "",
+   "",
+   "3358 Vendidos",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Elige cuánto saltar: 30, 45 o 60 min en Supernova",
+   "Cuponatic",
+   "precio",
+   25.0,
+   40.0,
+   "",
+   "",
+   "2414 Vendidos",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Láser CO2 Fraccionado Full Face + Consulta",
+   "Cuponatic",
+   "precio",
+   249.9,
+   1600.0,
+   "",
+   "",
+   "Stetik Laser Surco",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "¡Cuerpo de Infarto! 10 Sesiones de Carboxiterapia",
+   "Cuponatic",
+   "precio",
+   64.9,
+   1200.0,
+   "",
+   "",
+   "A&C estética integral y spa",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Rizado de Pestañas Permanentes + Manicure express",
+   "Cuponatic",
+   "precio",
+   9.9,
+   60.0,
+   "",
+   "",
+   "Vicky Salón & Spa",
+   "Vicky Salón & Spa",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "¡Revisión Técnica para Auto Particular!  Sede Callao",
+   "Cuponatic",
+   "precio",
+   49.99,
+   70.0,
+   "",
+   "",
+   "Últimas unidades",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
    }
   ],
   [
