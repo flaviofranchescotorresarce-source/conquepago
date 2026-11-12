@@ -1,6 +1,6 @@
 {
  "id": "cuponatic",
- "leido": "2026-11-11T13:43",
+ "leido": "2026-11-12T13:58",
  "filas": [
   [
    "Cineplanet",
@@ -19,30 +19,14 @@
    }
   ],
   [
-   "Mr Jump",
+   "Elige cuánto saltar: 30, 45 o 60 min en Supernova",
    "Cuponatic",
    "precio",
-   27.9,
-   55.0,
+   25.0,
+   40.0,
    "",
    "",
-   "Parque Inflable Más Grande de Lima - Entrada General Mr Jump",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Vive la Adrenalina -Sesión de 6 Minutos Circuito -Euro Karts",
-   "Cuponatic",
-   "precio",
-   24.9,
-   35.0,
-   "",
-   "",
-   "6813 Vendidos",
+   "2415 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -67,15 +51,15 @@
    }
   ],
   [
-   "Cinemark",
+   "Rodizio",
    "Cuponatic",
    "precio",
-   10.9,
-   27.8,
+   89.9,
+   94.9,
    "",
    "",
-   "¡Cinemark! Entrada 2D de Lunes a Domingo",
-   "¡Cinemark! Entrada 2D de Lunes a Domingo",
+   "Buffet de Carnes ILIMITADAS + Salad Bar - RODIZIO",
+   "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
     "conf": "of",
@@ -91,38 +75,6 @@
    "",
    "",
    "REVISIONES TÉCNICAS ABC - ATE",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Limpieza Facial + Extraccion de Puntos Negros y Mas",
-   "Cuponatic",
-   "precio",
-   33.9,
-   120.0,
-   "",
-   "",
-   "Últimas unidades",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Plasma Rico en Plaquetas con Dermapen + Fototerapia Led",
-   "Cuponatic",
-   "precio",
-   39.9,
-   350.0,
-   "",
-   "",
-   "Bless Esthetic Spa",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -147,14 +99,30 @@
    }
   ],
   [
-   "Elige cuánto saltar: 30, 45 o 60 min en Supernova",
+   "Patinaje Sobre Hielo en Lima Bajo Cero de Lunes a Domingo",
    "Cuponatic",
    "precio",
-   25.0,
-   40.0,
+   39.9,
+   45.0,
    "",
    "",
-   "2414 Vendidos",
+   "LIMA BAJO CERO",
+   "Patinaje Sobre Hielo en Lima Bajo Cero de Lunes a Domingo",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Artrotheca Exhibición Animales en Jockey Plaza",
+   "Cuponatic",
+   "precio",
+   16.99,
+   80.0,
+   "",
+   "",
+   "38 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -163,14 +131,14 @@
    }
   ],
   [
-   "Láser CO2 Fraccionado Full Face + Consulta",
+   "Licencia permanente de Office 2021 Pro Plus-1 Equipo",
    "Cuponatic",
    "precio",
-   249.9,
-   1600.0,
+   29.9,
+   37.9,
    "",
    "",
-   "Stetik Laser Surco",
+   "COMPU GAMES",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -179,14 +147,14 @@
    }
   ],
   [
-   "¡Cuerpo de Infarto! 10 Sesiones de Carboxiterapia",
+   "Mr Jump",
    "Cuponatic",
    "precio",
-   64.9,
-   1200.0,
+   27.9,
+   55.0,
    "",
    "",
-   "A&C estética integral y spa",
+   "Parque Inflable Más Grande de Lima - Entrada General Mr Jump",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -195,15 +163,15 @@
    }
   ],
   [
-   "Rizado de Pestañas Permanentes + Manicure express",
+   "Tour Baquíjano Nocturno: Individual o Dúo ¡No Vayas Solo!",
    "Cuponatic",
    "precio",
-   9.9,
-   60.0,
+   54.9,
+   76.9,
    "",
    "",
-   "Vicky Salón & Spa",
-   "Vicky Salón & Spa",
+   "Tour Nocturno Baquijano",
+   "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
     "conf": "of",
@@ -211,14 +179,78 @@
    }
   ],
   [
-   "¡Revisión Técnica para Auto Particular!  Sede Callao",
+   "30 o 60 Minutos Full Diversión en Jump Spot KIDS - 3 Sedes",
    "Cuponatic",
    "precio",
-   49.99,
-   70.0,
+   19.9,
+   50.0,
    "",
    "",
-   "Últimas unidades",
+   "Jump Spot Perú",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Cinemark",
+   "Cuponatic",
+   "precio",
+   10.9,
+   27.8,
+   "",
+   "",
+   "¡Cinemark! Entrada 2D de Lunes a Domingo",
+   "¡Cinemark! Entrada 2D de Lunes a Domingo",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "02 Potes de Helado GRIDO de 1 Litro c/u",
+   "Cuponatic",
+   "precio",
+   30.9,
+   36.9,
+   "",
+   "",
+   "Grido Helados",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "ALMUERZO BUFFET: Marino y Criollo en La Choza Náutica",
+   "Cuponatic",
+   "precio",
+   39.9,
+   0,
+   "",
+   "",
+   "la choza nautica chorrillos",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Lipoescultura Sin Cirugía: Lipolaser + Carbox + Liporeductor",
+   "Cuponatic",
+   "precio",
+   79.9,
+   550.0,
+   "",
+   "",
+   "Corpo lineal estetica",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
