@@ -1,6 +1,6 @@
 {
  "id": "cuponatic",
- "leido": "2026-11-12T13:58",
+ "leido": "2026-11-13T13:33",
  "filas": [
   [
    "Cineplanet",
@@ -11,70 +11,6 @@
    "",
    "",
    "Cineplanet: 2 Entradas + Combo Gigante para 2 Todos los Días",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Elige cuánto saltar: 30, 45 o 60 min en Supernova",
-   "Cuponatic",
-   "precio",
-   25.0,
-   40.0,
-   "",
-   "",
-   "2415 Vendidos",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "La Bistecca",
-   "Cuponatic",
-   "precio",
-   85.9,
-   103.9,
-   "",
-   "",
-   "LA BISTECCA Almuerzo o Cena Buffet + Bebida",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Rodizio",
-   "Cuponatic",
-   "precio",
-   89.9,
-   94.9,
-   "",
-   "",
-   "Buffet de Carnes ILIMITADAS + Salad Bar - RODIZIO",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Revisión Técnica para Auto ó Camioneta Categoría M1",
-   "Cuponatic",
-   "precio",
-   69.0,
-   130.0,
-   "",
-   "",
-   "REVISIONES TÉCNICAS ABC - ATE",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -99,30 +35,14 @@
    }
   ],
   [
-   "Patinaje Sobre Hielo en Lima Bajo Cero de Lunes a Domingo",
+   "La Bistecca",
    "Cuponatic",
    "precio",
-   39.9,
-   45.0,
+   85.9,
+   103.9,
    "",
    "",
-   "LIMA BAJO CERO",
-   "Patinaje Sobre Hielo en Lima Bajo Cero de Lunes a Domingo",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Artrotheca Exhibición Animales en Jockey Plaza",
-   "Cuponatic",
-   "precio",
-   16.99,
-   80.0,
-   "",
-   "",
-   "38 Vendidos",
+   "LA BISTECCA Almuerzo o Cena Buffet + Bebida",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -131,14 +51,46 @@
    }
   ],
   [
-   "Licencia permanente de Office 2021 Pro Plus-1 Equipo",
+   "6 Visitas de Anticelulitis Focalizado en Glúteos y Piernas",
    "Cuponatic",
    "precio",
-   29.9,
-   37.9,
+   69.9,
+   500.0,
    "",
    "",
-   "COMPU GAMES",
+   "Bless Esthetic Spa",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Revisión Técnica para Auto ó Camioneta Categoría M1",
+   "Cuponatic",
+   "precio",
+   69.0,
+   130.0,
+   "",
+   "",
+   "REVISIONES TÉCNICAS ABC - ATE",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Elige cuánto saltar: 30, 45 o 60 min en Supernova",
+   "Cuponatic",
+   "precio",
+   25.0,
+   40.0,
+   "",
+   "",
+   "2415 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -163,14 +115,62 @@
    }
   ],
   [
-   "Tour Baquíjano Nocturno: Individual o Dúo ¡No Vayas Solo!",
+   "TODAS LAS SEDES - Juega 30 o 60 Minutos en JUMP SPOT",
    "Cuponatic",
    "precio",
-   54.9,
-   76.9,
+   19.9,
+   35.0,
    "",
    "",
-   "Tour Nocturno Baquijano",
+   "Jump Spot Perú",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Sweet Spa Para 1 o 2 - 1 Hora Masaje Cuerpo Completo y Más",
+   "Cuponatic",
+   "precio",
+   89.9,
+   180.0,
+   "",
+   "",
+   "Revive Massage Perú",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Coney Park",
+   "Cuponatic",
+   "precio",
+   59.9,
+   130.0,
+   "",
+   "",
+   "3081 Vendidos",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Rivera Maya 6D/5N en Grand Sirenis - TODO INCLUIDO PARA 4",
+   "Cuponatic",
+   "precio",
+   745.0,
+   0,
+   "",
+   "",
+   "CARIBETODOINCLUIDO",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -211,30 +211,14 @@
    }
   ],
   [
-   "02 Potes de Helado GRIDO de 1 Litro c/u",
+   "City Tour Cusco + Transporte + Guía + 04 Ruinas y Más",
    "Cuponatic",
    "precio",
-   30.9,
-   36.9,
-   "",
-   "",
-   "Grido Helados",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "ALMUERZO BUFFET: Marino y Criollo en La Choza Náutica",
-   "Cuponatic",
-   "precio",
-   39.9,
+   23.9,
    0,
    "",
    "",
-   "la choza nautica chorrillos",
+   "JASTHY`N TRAVEL TOURS",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -243,14 +227,14 @@
    }
   ],
   [
-   "Lipoescultura Sin Cirugía: Lipolaser + Carbox + Liporeductor",
+   "Noche para 2 hasta 9 Personas + Desayuno en Oxapampa",
    "Cuponatic",
    "precio",
-   79.9,
-   550.0,
+   215.0,
+   250.0,
    "",
    "",
-   "Corpo lineal estetica",
+   "Cabañas El Pinar de Oxapampa",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
