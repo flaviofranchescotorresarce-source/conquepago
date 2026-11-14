@@ -1,16 +1,16 @@
 {
  "id": "cuponatic",
- "leido": "2026-11-13T13:33",
+ "leido": "2026-11-14T12:11",
  "filas": [
   [
-   "Cineplanet",
+   "Salta 60, 90, 120 Minutos o Full Day de L - D en 3 Locales",
    "Cuponatic",
    "precio",
-   47.9,
-   107.0,
+   21.9,
+   26.0,
    "",
    "",
-   "Cineplanet: 2 Entradas + Combo Gigante para 2 Todos los Días",
+   "Flying Squirrel",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -51,14 +51,14 @@
    }
   ],
   [
-   "6 Visitas de Anticelulitis Focalizado en Glúteos y Piernas",
+   "TODAS LAS SEDES - Juega 30 o 60 Minutos en JUMP SPOT",
    "Cuponatic",
    "precio",
-   69.9,
-   500.0,
+   19.9,
+   35.0,
    "",
    "",
-   "Bless Esthetic Spa",
+   "Jump Spot Perú",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -90,7 +90,39 @@
    40.0,
    "",
    "",
-   "2415 Vendidos",
+   "2424 Vendidos",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Cineplanet",
+   "Cuponatic",
+   "precio",
+   47.9,
+   107.0,
+   "",
+   "",
+   "Cineplanet: 2 Entradas + Combo Gigante para 2 Todos los Días",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Coney Park",
+   "Cuponatic",
+   "precio",
+   59.9,
+   130.0,
+   "",
+   "",
+   "3084 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -107,70 +139,6 @@
    "",
    "",
    "Parque Inflable Más Grande de Lima - Entrada General Mr Jump",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "TODAS LAS SEDES - Juega 30 o 60 Minutos en JUMP SPOT",
-   "Cuponatic",
-   "precio",
-   19.9,
-   35.0,
-   "",
-   "",
-   "Jump Spot Perú",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Sweet Spa Para 1 o 2 - 1 Hora Masaje Cuerpo Completo y Más",
-   "Cuponatic",
-   "precio",
-   89.9,
-   180.0,
-   "",
-   "",
-   "Revive Massage Perú",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Coney Park",
-   "Cuponatic",
-   "precio",
-   59.9,
-   130.0,
-   "",
-   "",
-   "3081 Vendidos",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Rivera Maya 6D/5N en Grand Sirenis - TODO INCLUIDO PARA 4",
-   "Cuponatic",
-   "precio",
-   745.0,
-   0,
-   "",
-   "",
-   "CARIBETODOINCLUIDO",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -211,14 +179,14 @@
    }
   ],
   [
-   "City Tour Cusco + Transporte + Guía + 04 Ruinas y Más",
+   "Vive la Adrenalina -Sesión de 6 Minutos Circuito -Euro Karts",
    "Cuponatic",
    "precio",
-   23.9,
-   0,
+   24.9,
+   35.0,
    "",
    "",
-   "JASTHY`N TRAVEL TOURS",
+   "6814 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -227,14 +195,30 @@
    }
   ],
   [
-   "Noche para 2 hasta 9 Personas + Desayuno en Oxapampa",
+   "Rivera Maya 6D/5N en Grand Sirenis - TODO INCLUIDO PARA 4",
    "Cuponatic",
    "precio",
-   215.0,
-   250.0,
+   745.0,
+   0,
    "",
    "",
-   "Cabañas El Pinar de Oxapampa",
+   "CARIBETODOINCLUIDO",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "45 o 90 Minutos de Diversión En Yakupark - PARACAS",
+   "Cuponatic",
+   "precio",
+   44.9,
+   50.0,
+   "",
+   "",
+   "Yakupark Adventure",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
