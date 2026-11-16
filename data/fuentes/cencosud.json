@@ -1,6 +1,6 @@
 {
  "id": "cencosud",
- "leido": "2026-11-15T12:46",
+ "leido": "2026-11-16T16:04",
  "filas": [
   [
    "Wong",
@@ -32,36 +32,6 @@
    {
     "conf": "of",
     "max": 3
-   }
-  ],
-  [
-   "Wong",
-   "Tarjeta Cencosud",
-   "precio",
-   100.0,
-   0,
-   "",
-   "",
-   "desct.",
-   "En Juguetes de tus marcas favoritas. Máx S/100 dsct.",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of"
-   }
-  ],
-  [
-   "Wong",
-   "Tarjeta Cencosud",
-   "porcentaje",
-   50,
-   0,
-   "",
-   "",
-   "desct.",
-   "Pide el descuento en caja con tu Tarjeta Cencosud",
-   "Tarjeta Cencosud",
-   {
-    "conf": "of"
    }
   ],
   [

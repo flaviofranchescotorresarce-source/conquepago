@@ -1,39 +1,7 @@
 {
  "id": "cuponatic",
- "leido": "2026-11-15T12:46",
+ "leido": "2026-11-16T16:04",
  "filas": [
-  [
-   "Cineplanet",
-   "Cuponatic",
-   "precio",
-   47.9,
-   107.0,
-   "",
-   "",
-   "Cineplanet: 2 Entradas + Combo Gigante para 2 Todos los Días",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Coney Park",
-   "Cuponatic",
-   "precio",
-   39.9,
-   60.0,
-   "",
-   "",
-   "3358 Vendidos",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
   [
    "La Bistecca",
    "Cuponatic",
@@ -42,7 +10,23 @@
    103.9,
    "",
    "",
-   "LA BISTECCA Almuerzo o Cena Buffet + Bebida",
+   "LA BISTECCA Almuerzo o Cena Buffet + Bebida - 4 Locales",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Elige cuánto saltar: 30, 45 o 60 min en Supernova",
+   "Cuponatic",
+   "precio",
+   25.0,
+   40.0,
+   "",
+   "",
+   "2447 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -67,14 +51,14 @@
    }
   ],
   [
-   "TODAS LAS SEDES - Juega 30 o 60 Minutos en JUMP SPOT",
+   "Cineplanet",
    "Cuponatic",
    "precio",
-   19.9,
-   35.0,
+   47.9,
+   107.0,
    "",
    "",
-   "Jump Spot Perú",
+   "Cineplanet: 2 Entradas + Combo Gigante para 2 Todos los Días",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -83,15 +67,47 @@
    }
   ],
   [
-   "Elige cuánto saltar: 30, 45 o 60 min en Supernova",
+   "Limpieza Facial Premium: Arco LED + Masaje + Vapor y Más",
    "Cuponatic",
    "precio",
-   25.0,
-   40.0,
+   29.9,
+   69.9,
    "",
    "",
-   "2437 Vendidos",
+   "Masajes Miraflores",
    "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Coney Park",
+   "Cuponatic",
+   "precio",
+   39.9,
+   60.0,
+   "",
+   "",
+   "3358 Vendidos",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Soho.color",
+   "Cuponatic",
+   "precio",
+   99.9,
+   140.0,
+   "",
+   "",
+   "Valido Todas las Sedes: Alisado Brasilero y Más en SohoColor",
+   "Valido Todas las Sedes: Alisado Brasilero y Más en SohoColor",
    "Cuponatic",
    {
     "conf": "of",
@@ -115,30 +131,14 @@
    }
   ],
   [
-   "Vive la Adrenalina -Sesión de 6 Minutos Circuito -Euro Karts",
+   "¡Renuevate! Día de SPA para 02 - THERAPY SPA",
    "Cuponatic",
    "precio",
-   24.9,
-   35.0,
+   99.0,
+   189.0,
    "",
    "",
-   "6816 Vendidos",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Coney Park",
-   "Cuponatic",
-   "precio",
-   59.9,
-   130.0,
-   "",
-   "",
-   "3094 Vendidos",
+   "344 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -195,38 +195,6 @@
    }
   ],
   [
-   "45 o 90 Minutos de Diversión En Yakupark - PARACAS",
-   "Cuponatic",
-   "precio",
-   44.9,
-   50.0,
-   "",
-   "",
-   "Yakupark Adventure",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Rivera Maya 6D/5N en Grand Sirenis - TODO INCLUIDO PARA 4",
-   "Cuponatic",
-   "precio",
-   745.0,
-   0,
-   "",
-   "",
-   "CARIBETODOINCLUIDO",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
    "ECOGRANJITA: Granjita Interactiva en Jockey Club",
    "Cuponatic",
    "precio",
@@ -235,6 +203,38 @@
    "",
    "",
    "Ecogranjita",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Extensiones de Pestañas Clásicas + Perfilado de Cejas",
+   "Cuponatic",
+   "precio",
+   39.9,
+   0,
+   "",
+   "",
+   "¡Mejor precio!",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "1 Férula de Relajación + 1 Porta Férula + Fluor - Dentu",
+   "Cuponatic",
+   "precio",
+   129.9,
+   250.0,
+   "",
+   "",
+   "2 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
