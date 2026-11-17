@@ -1,6 +1,6 @@
 {
  "id": "telegram",
- "leido": "2026-11-16T16:04",
+ "leido": "2026-11-17T14:54",
  "filas": [
   {
    "f": "2026-11-16",
@@ -28,6 +28,42 @@
    "r": 0,
    "n": "O F E R T A · ❗️ · #tambo · ✔️ · Más info: · ‼️ · No requiere cupón, solo en base al stock de cada local. Máximo 3 promos por cliente · 🌐 · Locales, web y app TAMBO · 🔥 · Visto en · @concuponperu · ⚠️",
    "u": "https://t.me/concuponperu/19389"
+  },
+  {
+   "f": "2026-11-16",
+   "t": "Metro",
+   "o": "Hasta 80% de descuento en productos seleccionados",
+   "p": 0,
+   "r": 0,
+   "n": "O F E R T A · ❗️ · #metro · ✔️ · ‼️ · Stock depende de cada tienda. · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en · @concuponperu · ⚠️ · Válido hasta agotar stock",
+   "u": "https://t.me/concuponperu/19390"
+  },
+  {
+   "f": "2026-11-16",
+   "t": "Wong",
+   "o": "Hasta 80% de descuento en productos seleccionados",
+   "p": 0,
+   "r": 0,
+   "n": "O F E R T A · ❗️ · #wong · ✔️ · ‼️ · Stock depende de cada tienda. · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en · @concuponperu · ⚠️ · Válido hasta agotar stock",
+   "u": "https://t.me/concuponperu/19391"
+  },
+  {
+   "f": "2026-11-16",
+   "t": "Dunkin",
+   "o": "#dunkinDonuts",
+   "p": 6.0,
+   "r": 0,
+   "n": "O F E R T A · ❗️ · ✔️ · Si eres cliente con cuenta sueldo BCP · llévate 6 Donuts Clásicas a S/ 6.00 · Más info: · ‼️ · Aplica sólo para clientes CUENTA SUELDO BCP del nivel 2 al nivel 5, en tienda te ",
+   "u": "https://t.me/concuponperu/19392"
+  },
+  {
+   "f": "2026-11-17",
+   "t": "Falabella",
+   "o": "#falabella",
+   "p": 29.9,
+   "r": 0,
+   "n": "O F E R T A · ❗️ · ✔️ · Set x24 Piezas Taper Take Along a · sólo S/ 29.90 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en · @concuponperu",
+   "u": "https://t.me/concuponperu/19393"
   }
  ]
 }
