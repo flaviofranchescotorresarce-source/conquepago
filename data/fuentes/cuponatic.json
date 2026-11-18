@@ -1,6 +1,6 @@
 {
  "id": "cuponatic",
- "leido": "2026-11-17T14:54",
+ "leido": "2026-11-18T14:25",
  "filas": [
   [
    "Rústica Pachacamac: 1 Noche - 2 Adultos + 1 Niño + Desayuno",
@@ -74,7 +74,7 @@
    189.0,
    "",
    "",
-   "344 Vendidos",
+   "345 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -99,31 +99,38 @@
    }
   ],
   [
-   "¡BARRA LIBRE MEX! + Bebidas Ilimitadas Válido en 4 Locales",
+   "Buffet Almuerzo o Cena de Lunes a Viernes en Buffet Mágico",
    "Cuponatic",
    "precio",
-   44.9,
-   59.9,
+   17.9,
+   29.9,
    "",
    "",
-   "766 Vendidos",
-   "¡BARRA LIBRE MEX! + Bebidas Ilimitadas Válido en 4 Locales",
+   "Buffet Mágico",
+   "Buffet Almuerzo o Cena de Lunes a Viernes en Buffet Mágico",
    "Cuponatic",
    {
     "conf": "of",
-    "ciudad": "Lima"
+    "ciudad": "Lima",
+    "dias": [
+     1,
+     2,
+     3,
+     4,
+     5
+    ]
    }
   ],
   [
-   "Elige cuánto saltar: 30, 45 o 60 min en Supernova",
+   "Soho.color",
    "Cuponatic",
    "precio",
-   25.0,
-   40.0,
+   99.9,
+   140.0,
    "",
    "",
-   "2453 Vendidos",
-   "Compra el cupón en Cuponatic",
+   "Valido Todas las Sedes: Alisado Brasilero y Más en SohoColor",
+   "Valido Todas las Sedes: Alisado Brasilero y Más en SohoColor",
    "Cuponatic",
    {
     "conf": "of",
@@ -147,6 +154,22 @@
    }
   ],
   [
+   "Lavado de Salón Extremo Para Auto o Camioneta en Star Wash",
+   "Cuponatic",
+   "precio",
+   99.9,
+   250.0,
+   "",
+   "",
+   "35 Vendidos",
+   "Lavado de Salón Extremo Para Auto o Camioneta en Star Wash",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
    "Mr Jump",
    "Cuponatic",
    "precio",
@@ -163,14 +186,14 @@
    }
   ],
   [
-   "Vive la Adrenalina -Sesión de 6 Minutos Circuito -Euro Karts",
+   "Ronda Chozera para 02: 1 Cebiche + Arroz con mariscos y Más",
    "Cuponatic",
    "precio",
-   24.9,
-   35.0,
+   27.9,
+   85.0,
    "",
    "",
-   "6816 Vendidos",
+   "La Choza Naútica Breña",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -195,14 +218,14 @@
    }
   ],
   [
-   "Lentes de Sol Carey o Metal en Factory Lens",
+   "City Tour Cusco + Transporte + Guía + 04 Ruinas y Más",
    "Cuponatic",
    "precio",
-   19.9,
-   29.9,
+   23.9,
+   0,
    "",
    "",
-   "factory lens",
+   "JASTHY`N TRAVEL TOURS",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -219,22 +242,6 @@
    "",
    "",
    "Cabañas El Pinar de Oxapampa",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "City Tour Cusco + Transporte + Guía + 04 Ruinas y Más",
-   "Cuponatic",
-   "precio",
-   23.9,
-   0,
-   "",
-   "",
-   "JASTHY`N TRAVEL TOURS",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {

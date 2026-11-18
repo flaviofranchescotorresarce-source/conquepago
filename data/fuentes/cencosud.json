@@ -1,6 +1,6 @@
 {
  "id": "cencosud",
- "leido": "2026-11-17T14:54",
+ "leido": "2026-11-18T14:25",
  "filas": [
   [
    "Wong",
@@ -32,6 +32,21 @@
    {
     "conf": "of",
     "max": 3
+   }
+  ],
+  [
+   "Wong",
+   "Tarjeta Cencosud",
+   "porcentaje",
+   60,
+   0,
+   "",
+   "",
+   "en Deco Navidad KREA",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
    }
   ],
   [
