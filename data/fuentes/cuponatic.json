@@ -1,16 +1,32 @@
 {
  "id": "cuponatic",
- "leido": "2026-11-18T14:25",
+ "leido": "2026-11-19T14:30",
  "filas": [
   [
-   "Rústica Pachacamac: 1 Noche - 2 Adultos + 1 Niño + Desayuno",
+   "Coney Park",
    "Cuponatic",
    "precio",
-   189.0,
-   250.0,
+   39.9,
+   60.0,
    "",
    "",
-   "80 Vendidos",
+   "3358 Vendidos",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "EMSculpt Premium: 20 Mil Abdominales o Sentadilla y Más",
+   "Cuponatic",
+   "precio",
+   199.9,
+   599.0,
+   "",
+   "",
+   "Milania Centro Estético 1",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -35,78 +51,14 @@
    }
   ],
   [
-   "Revisión Técnica para Auto ó Camioneta Categoría M1",
-   "Cuponatic",
-   "precio",
-   69.0,
-   130.0,
-   "",
-   "",
-   "REVISIONES TÉCNICAS ABC - ATE",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
    "La Bistecca",
    "Cuponatic",
    "precio",
-   85.9,
+   17.9,
    103.9,
    "",
    "",
-   "LA BISTECCA Almuerzo o Cena Buffet + Bebida - 4 Locales",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "¡Renuevate! Día de SPA para 02 - THERAPY SPA",
-   "Cuponatic",
-   "precio",
-   99.0,
-   189.0,
-   "",
-   "",
-   "345 Vendidos",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Coney Park",
-   "Cuponatic",
-   "precio",
-   39.9,
-   60.0,
-   "",
-   "",
-   "3358 Vendidos",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
    "Buffet Almuerzo o Cena de Lunes a Viernes en Buffet Mágico",
-   "Cuponatic",
-   "precio",
-   17.9,
-   29.9,
-   "",
-   "",
-   "Buffet Mágico",
    "Buffet Almuerzo o Cena de Lunes a Viernes en Buffet Mágico",
    "Cuponatic",
    {
@@ -122,30 +74,14 @@
    }
   ],
   [
-   "Soho.color",
+   "Rústica Pachacamac: 1 Noche - 2 Adultos + 1 Niño + Desayuno",
    "Cuponatic",
    "precio",
-   99.9,
-   140.0,
+   189.0,
+   250.0,
    "",
    "",
-   "Valido Todas las Sedes: Alisado Brasilero y Más en SohoColor",
-   "Valido Todas las Sedes: Alisado Brasilero y Más en SohoColor",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Salta 60, 90, 120 Minutos o Full Day de L - D en 3 Locales",
-   "Cuponatic",
-   "precio",
-   21.9,
-   26.0,
-   "",
-   "",
-   "Flying Squirrel",
+   "81 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -154,15 +90,15 @@
    }
   ],
   [
-   "Lavado de Salón Extremo Para Auto o Camioneta en Star Wash",
+   "Revisión Técnica para Auto ó Camioneta Categoría M1",
    "Cuponatic",
    "precio",
-   99.9,
-   250.0,
+   69.0,
+   130.0,
    "",
    "",
-   "35 Vendidos",
-   "Lavado de Salón Extremo Para Auto o Camioneta en Star Wash",
+   "REVISIONES TÉCNICAS ABC - ATE",
+   "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
     "conf": "of",
@@ -186,14 +122,14 @@
    }
   ],
   [
-   "Ronda Chozera para 02: 1 Cebiche + Arroz con mariscos y Más",
+   "Depilación IPL- 28 Sesiones en 4 Zonas a Elección",
    "Cuponatic",
    "precio",
-   27.9,
-   85.0,
+   109.9,
+   800.0,
    "",
    "",
-   "La Choza Naútica Breña",
+   "Stetik Laser Surco",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -218,14 +154,14 @@
    }
   ],
   [
-   "City Tour Cusco + Transporte + Guía + 04 Ruinas y Más",
+   "Salta 60, 90, 120 Minutos o Full Day de L - D en 3 Locales",
    "Cuponatic",
    "precio",
-   23.9,
-   0,
+   21.9,
+   26.0,
    "",
    "",
-   "JASTHY`N TRAVEL TOURS",
+   "Flying Squirrel",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -242,6 +178,22 @@
    "",
    "",
    "Cabañas El Pinar de Oxapampa",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "City Tour Cusco + Transporte + Guía + 04 Ruinas y Más",
+   "Cuponatic",
+   "precio",
+   23.9,
+   0,
+   "",
+   "",
+   "JASTHY`N TRAVEL TOURS",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
