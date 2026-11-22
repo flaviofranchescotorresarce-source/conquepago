@@ -1,39 +1,7 @@
 {
  "id": "cuponatic",
- "leido": "2026-11-21T13:01",
+ "leido": "2026-11-22T13:33",
  "filas": [
-  [
-   "Juegos + Piscina – Rancho Aventura Park – CIENEGUILLA",
-   "Cuponatic",
-   "precio",
-   41.9,
-   0,
-   "",
-   "",
-   "¡Mejor precio!",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Coney Park",
-   "Cuponatic",
-   "precio",
-   39.9,
-   60.0,
-   "",
-   "",
-   "3358 Vendidos",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
   [
    "Cineplanet",
    "Cuponatic",
@@ -43,22 +11,6 @@
    "",
    "",
    "Cineplanet: 2 Entradas+ Pop Corn Gigante + 2 Bebidas Grandes",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "La Bistecca",
-   "Cuponatic",
-   "precio",
-   85.9,
-   103.9,
-   "",
-   "",
-   "LA BISTECCA Almuerzo o Cena Buffet + Bebida - 4 Locales",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -83,6 +35,22 @@
    }
   ],
   [
+   "La Bistecca",
+   "Cuponatic",
+   "precio",
+   85.9,
+   103.9,
+   "",
+   "",
+   "LA BISTECCA Almuerzo o Cena Buffet + Bebida - 4 Locales",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
    "Salta 60, 90, 120 Minutos o Full Day de L - D en 3 Locales",
    "Cuponatic",
    "precio",
@@ -91,6 +59,38 @@
    "",
    "",
    "Flying Squirrel",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "45 o 90 Minutos de Diversión En Yakupark - PARACAS",
+   "Cuponatic",
+   "precio",
+   44.9,
+   50.0,
+   "",
+   "",
+   "Yakupark Adventure",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Coney Park",
+   "Cuponatic",
+   "precio",
+   39.9,
+   60.0,
+   "",
+   "",
+   "3358 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -115,14 +115,14 @@
    }
   ],
   [
-   "Mr Jump",
+   "Juegos + Piscina – Rancho Aventura Park – CIENEGUILLA",
    "Cuponatic",
    "precio",
-   27.9,
-   55.0,
+   41.9,
+   0,
    "",
    "",
-   "Parque Inflable Más Grande de Lima - Entrada General Mr Jump",
+   "¡Mejor precio!",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -131,14 +131,30 @@
    }
   ],
   [
-   "45 o 90 Minutos de Diversión En Yakupark - PARACAS",
+   "TODAS LAS SEDES - Juega 30 o 60 Minutos en JUMP SPOT",
    "Cuponatic",
    "precio",
-   44.9,
-   50.0,
+   19.9,
+   35.0,
    "",
    "",
-   "Yakupark Adventure",
+   "Jump Spot Perú",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Mr Jump",
+   "Cuponatic",
+   "precio",
+   27.9,
+   55.0,
+   "",
+   "",
+   "Parque Inflable Más Grande de Lima - Entrada General Mr Jump",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -179,14 +195,14 @@
    }
   ],
   [
-   "10 Cortes de Makis + 1 Porción de Alitas + 1 Gaseosa",
+   "Vive la Adrenalina -Sesión de 6 Minutos Circuito -Euro Karts",
    "Cuponatic",
    "precio",
-   19.9,
-   29.9,
+   24.9,
+   35.0,
    "",
    "",
-   "D MARE SUHI",
+   "6820 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -195,14 +211,14 @@
    }
   ],
   [
-   "Los Amigos de Santa Claus en el Jazz Zone - Nov y Dic",
+   "ECOGRANJITA: Granjita Interactiva en Jockey Club",
    "Cuponatic",
    "precio",
-   14.9,
+   17.9,
    30.0,
    "",
    "",
-   "Vicky Paz Producciones",
+   "Ecogranjita",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
