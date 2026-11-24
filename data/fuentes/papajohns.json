@@ -1,28 +1,31 @@
 {
  "id": "papajohns",
- "leido": "2026-11-23T17:41",
+ "leido": "2026-11-24T16:18",
  "filas": [
   [
    "Papa Johns",
    "Web/app de la marca",
    "precio",
-   6.0,
-   55.8,
+   3.0,
+   83.8,
    "",
    "",
-   "1 pizza grande clásica mas gaseosa de 1LT con 3 rolls de pepperoni",
-   "Promo de la web y app de Papa Johns",
+   "2 Grandes Clasicas Seleccionada (Pepperoni, Mozzarella y Vegetariana) + 3 Palitos a la parmesana + Gaseosa 1L",
+   "MARTES DE 🍕🍍 · Martes de Hawaiana Familiar · Martes de Hawaiana Grande",
    "Web/app de la marca",
    {
     "conf": "of",
-    "canal": "A"
+    "canal": "A",
+    "dias": [
+     2
+    ]
    }
   ],
   [
    "Papa Johns",
    "Web/app de la marca",
    "precio",
-   79.9,
+   75.9,
    183.6,
    "",
    "",
