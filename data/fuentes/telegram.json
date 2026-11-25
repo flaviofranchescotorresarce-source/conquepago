@@ -1,25 +1,7 @@
 {
  "id": "telegram",
- "leido": "2026-11-24T16:18",
+ "leido": "2026-11-25T15:29",
  "filas": [
-  {
-   "f": "2026-11-23",
-   "t": "Tambo",
-   "o": "Promoción disponible en TIENDA",
-   "p": 0,
-   "r": 0,
-   "n": "O F E R T A · ❗️ · #tambo · ✔️ · Más info: · ‼️ · No requiere cupón, solo en base al stock de cada local. Máximo 3 promos por cliente · 🌐 · Locales, web y app TAMBO · 🔥 · Visto en · @concuponperu · ⚠️",
-   "u": "https://t.me/concuponperu/19399"
-  },
-  {
-   "f": "2026-11-23",
-   "t": "Falabella",
-   "o": "#falabella",
-   "p": 19.9,
-   "r": 0,
-   "n": "O F E R T A · ❗️ · ✔️ · Antivirus Kaspersky Standard 1 Dispositivo 1 Año a · sólo S/ 19.90 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto e",
-   "u": "https://t.me/concuponperu/19400"
-  },
   {
    "f": "2026-11-24",
    "t": "Tottus",
@@ -73,6 +55,15 @@
    "r": 0,
    "n": "O F E R T A · ❗️ · #ripley · ✔️ · sólo S/ 69.99 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en · @concuponperu · ⚠️ · Válido hasta agota",
    "u": "https://t.me/concuponperu/19406"
+  },
+  {
+   "f": "2026-11-25",
+   "t": "Falabella",
+   "o": "#falabella",
+   "p": 19.98,
+   "r": 0,
+   "n": "O F E R T A · ❗️ · Camisa de vestir hombre Christian Lacroix a · sólo S/ 19.98 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en · @concupo",
+   "u": "https://t.me/concuponperu/19407"
   }
  ]
 }
