@@ -1,6 +1,6 @@
 {
  "id": "cencosud",
- "leido": "2026-11-25T15:29",
+ "leido": "2026-11-26T15:13",
  "filas": [
   [
    "Wong",
@@ -1451,6 +1451,37 @@
    "Tarjeta Cencosud",
    {
     "conf": "of"
+   }
+  ],
+  [
+   "Mercado Libre",
+   "Tarjeta Cencosud",
+   "monto",
+   80.0,
+   0,
+   "",
+   "",
+   "En GTA VI en Mercado Libre",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of"
+   }
+  ],
+  [
+   "Mercado Libre",
+   "Tarjeta Cencosud",
+   "monto",
+   100.0,
+   0,
+   "",
+   "",
+   "www.mercadolibre.com.pe",
+   "Pide el descuento en caja con tu Tarjeta Cencosud",
+   "Tarjeta Cencosud",
+   {
+    "conf": "of",
+    "min": 1299.0
    }
   ],
   [

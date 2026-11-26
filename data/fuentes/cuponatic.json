@@ -1,6 +1,6 @@
 {
  "id": "cuponatic",
- "leido": "2026-11-25T15:29",
+ "leido": "2026-11-26T15:13",
  "filas": [
   [
    "Cineplanet",
@@ -11,22 +11,6 @@
    "",
    "",
    "Cineplanet: 2 Entradas+ Pop Corn Gigante + 2 Bebidas Grandes",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Revisión Técnica para Auto ó Camioneta Categoría M1",
-   "Cuponatic",
-   "precio",
-   69.0,
-   130.0,
-   "",
-   "",
-   "REVISIONES TÉCNICAS ABC - ATE",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -51,14 +35,62 @@
    }
   ],
   [
+   "Set de 6 Ollas Professional Max XL  ¡Cocina a lo Grande!",
+   "Cuponatic",
+   "precio",
+   159.0,
+   270.0,
+   "",
+   "",
+   "P. Normal",
+   "Set de 6 Ollas Professional Max XL  ¡Cocina a lo Grande!",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "La Choza de La Anaconda",
+   "Cuponatic",
+   "precio",
+   37.9,
+   0,
+   "",
+   "",
+   "BUFFET Amazónico / Criollo: Jesús María - Los Olivos",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
    "Coney Park",
    "Cuponatic",
    "precio",
    39.9,
-   130.0,
+   60.0,
    "",
    "",
-   "2 Entradas + Bebidas a Espectáculo Folklore en La Candelaria",
+   "3358 Vendidos",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "El Salto del Fraile",
+   "Cuponatic",
+   "precio",
+   109.9,
+   128.9,
+   "",
+   "",
+   "Precio Black Friday - Parrilla para 2 + Vino",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -83,14 +115,14 @@
    }
   ],
   [
-   "Oshi",
+   "Isushi",
    "Cuponatic",
    "precio",
-   9.9,
-   0,
+   54.9,
+   66.0,
    "",
    "",
-   "10 Cortes de Makis Consumo en local en OSHI",
+   "Barra de Libre de Makis + Alitas + Bebida Ilimitada",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -99,14 +131,14 @@
    }
   ],
   [
-   "Manicure con Efecto Aurora + Vino y Collarín Relax",
+   "2x1 Day Spa + Facial en Relax Vital Wellness",
    "Cuponatic",
-   "precio",
-   29.9,
-   129.0,
+   "2x1",
+   0,
+   0,
    "",
    "",
-   "Wine Spa Centro",
+   "Relax Vital Wellness",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -131,15 +163,15 @@
    }
   ],
   [
-   "Iluminación ó Mechas Balayage + Corte + Cepillado",
+   "TODAS LAS SEDES - Juega 30 o 60 Minutos en JUMP SPOT",
    "Cuponatic",
    "precio",
-   39.9,
-   200.0,
+   19.9,
+   35.0,
    "",
    "",
-   "Hope Spa Salón Urban",
-   "Hope Spa Salón Urban",
+   "Jump Spot Perú",
+   "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
     "conf": "of",
@@ -147,14 +179,30 @@
    }
   ],
   [
-   "Cierre de Costillas! en 8 Visitas con Maderoterapia",
+   "Manicure con Efecto Aurora + Vino y Collarín Relax",
    "Cuponatic",
    "precio",
-   99.9,
-   350.0,
+   29.9,
+   129.0,
    "",
    "",
-   "REDUTECH TRATAMIENTOS REDUCTORES",
+   "Wine Spa Centro",
+   "Compra el cupón en Cuponatic",
+   "Cuponatic",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Licencia Permanente de Microsoft Office Professional 2021",
+   "Cuponatic",
+   "precio",
+   20.0,
+   100.0,
+   "",
+   "",
+   "A&G Technology",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
