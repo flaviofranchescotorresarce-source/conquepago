@@ -1,31 +1,28 @@
 {
  "id": "papajohns",
- "leido": "2026-11-26T15:13",
+ "leido": "2026-11-27T14:59",
  "filas": [
   [
    "Papa Johns",
    "Web/app de la marca",
    "precio",
    3.0,
-   91.8,
+   113.7,
    "",
    "",
    "2 Grandes Clasicas Seleccionada (Pepperoni, Mozzarella y Vegetariana) + 3 Palitos a la parmesana + Gaseosa 1L",
-   "Miercoles de Signature Familiar · Miercoles de Signature Grande",
+   "Promo de la web y app de Papa Johns",
    "Web/app de la marca",
    {
     "conf": "of",
-    "canal": "A",
-    "dias": [
-     3
-    ]
+    "canal": "A"
    }
   ],
   [
    "Papa Johns",
    "Web/app de la marca",
    "precio",
-   59.9,
+   75.9,
    183.6,
    "",
    "",

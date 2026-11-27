@@ -1,6 +1,6 @@
 {
  "id": "cuponatic",
- "leido": "2026-11-26T15:13",
+ "leido": "2026-11-27T14:59",
  "filas": [
   [
    "Cineplanet",
@@ -42,40 +42,8 @@
    270.0,
    "",
    "",
-   "P. Normal",
+   "1 Vendidos",
    "Set de 6 Ollas Professional Max XL  ¡Cocina a lo Grande!",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "La Choza de La Anaconda",
-   "Cuponatic",
-   "precio",
-   37.9,
-   0,
-   "",
-   "",
-   "BUFFET Amazónico / Criollo: Jesús María - Los Olivos",
-   "Compra el cupón en Cuponatic",
-   "Cuponatic",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Coney Park",
-   "Cuponatic",
-   "precio",
-   39.9,
-   60.0,
-   "",
-   "",
-   "3358 Vendidos",
-   "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
     "conf": "of",
@@ -86,11 +54,11 @@
    "El Salto del Fraile",
    "Cuponatic",
    "precio",
-   109.9,
-   128.9,
+   19.9,
+   119.0,
    "",
    "",
-   "Precio Black Friday - Parrilla para 2 + Vino",
+   "Ronda Chozera para 02: 1 Cebiche + Arroz con mariscos y Más",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
