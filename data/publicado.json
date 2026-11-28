@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-27T15:00",
+ "actualizado": "2026-11-28T13:59",
  "filas": [
   [
    "Rappi",
@@ -5451,7 +5451,7 @@
    40.0,
    "",
    "",
-   "2516 Vendidos",
+   "2520 Vendidos",
    "Compra el cupón en Cuponatic",
    "Cuponatic",
    {
@@ -5604,14 +5604,14 @@
    }
   ],
   [
-   "Buffet Almuerzo o Cena: Comida criolla, marina e internacion",
+   "Vacilandia Park: Full Day para niños, adultos o pack familia",
    "Cuponidad",
    "precio",
-   54.9,
-   92.0,
+   19.9,
+   35.0,
    "",
    "",
-   "Buffet Almuerzo o Cena: Comida criolla, marina e internacional",
+   "Vacilandia Park: Full Day para niños, adultos o pack familiar, incluye alimentación.",
    "Compra el cupón en Cuponidad",
    "Cuponidad",
    {
@@ -5620,30 +5620,14 @@
    }
   ],
   [
-   "Sesión de 6 minutos en el Circuito Explanada Olguín Jockey P",
+   "La Bistecca",
    "Cuponidad",
    "precio",
-   24.9,
-   35.0,
+   85.9,
+   97.9,
    "",
    "",
-   "Sesión de 6 minutos en el Circuito Explanada Olguín Jockey Plaza.",
-   "S/ 24.90 por  Sesión en Circuito - Vive la Adrenalina al Máximo en Circuito Explanada Olguín con Euro Karts. Válido de Lunes a Domingo",
-   "Cuponidad",
-   {
-    "conf": "of",
-    "ciudad": "Lima"
-   }
-  ],
-  [
-   "Rally Kart: 10, 16 ó 30 vueltas en sus locales de Jockey Pla",
-   "Cuponidad",
-   "precio",
-   14.9,
-   50.0,
-   "",
-   "",
-   "Rally Kart: 10, 16 ó 30 vueltas en sus locales de Jockey Plaza, Open Plaza La Marina,   Bellavista, Mall Plaza Comas",
+   "Buffet Almuerzo o Cena + Postres + Bebida. Aplica en sus 6 locales.",
    "Compra el cupón en Cuponidad",
    "Cuponidad",
    {
@@ -5661,6 +5645,22 @@
    "",
    "ENTRETENIMIENTO",
    "S/59.90 por Full day en Perulandia: entrada + vale de consumo de 35  soles + Perusaurus de lunes a domingo y feriados",
+   "Cuponidad",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Sesión de 6 minutos en el Circuito Explanada Olguín Jockey P",
+   "Cuponidad",
+   "precio",
+   24.9,
+   35.0,
+   "",
+   "",
+   "Sesión de 6 minutos en el Circuito Explanada Olguín Jockey Plaza.",
+   "S/ 24.90 por  Sesión en Circuito - Vive la Adrenalina al Máximo en Circuito Explanada Olguín con Euro Karts. Válido de Lunes a Domingo",
    "Cuponidad",
    {
     "conf": "of",
@@ -5700,14 +5700,14 @@
    }
   ],
   [
-   "La Bistecca",
+   "Buffet Almuerzo o Cena: Comida criolla, marina e internacion",
    "Cuponidad",
    "precio",
-   85.9,
-   97.9,
+   54.9,
+   92.0,
    "",
    "",
-   "Buffet Almuerzo o Cena + Postres + Bebida. Aplica en sus 6 locales.",
+   "Buffet Almuerzo o Cena: Comida criolla, marina e internacional",
    "Compra el cupón en Cuponidad",
    "Cuponidad",
    {
@@ -5716,14 +5716,14 @@
    }
   ],
   [
-   "Vacilandia Park: Full Day para niños, adultos o pack familia",
+   "Rally Kart: 10, 16 ó 30 vueltas en sus locales de Jockey Pla",
    "Cuponidad",
    "precio",
-   19.9,
-   35.0,
+   14.9,
+   50.0,
    "",
    "",
-   "Vacilandia Park: Full Day para niños, adultos o pack familiar, incluye alimentación.",
+   "Rally Kart: 10, 16 ó 30 vueltas en sus locales de Jockey Plaza, Open Plaza La Marina,   Bellavista, Mall Plaza Comas",
    "Compra el cupón en Cuponidad",
    "Cuponidad",
    {
@@ -5735,7 +5735,7 @@
    "Cineplanet",
    "Cuponidad",
    "precio",
-   40.9,
+   10.9,
    47.9,
    "",
    "",
@@ -5748,7 +5748,7 @@
    }
   ],
   [
-   "Buffet Tea Time Navideño \"Sunset & Magic\" en Piso 21 , Miraf",
+   "Buffet Tea Time Navideño a partir del 20 de Noviembre: Solo ",
    "Cuponidad",
    "precio",
    34.9,
@@ -5756,11 +5756,18 @@
    "2026-11-17",
    "2026-11-20",
    "Buffet Tea Time Navideño a partir del 20 de Noviembre: Solo los viernes. Panes, Jugos, frutas, huevos, fiambres y más",
-   "Buffet Tea Time Navideño a partir del 19 de Noviembre de Lunes a Domingo · Buffet Tea Time Navideño: a partir del 17 de Noviembre para niño o adulto disponible de lunes a viernes. ",
+   "Buffet Tea Time Navideño a partir del 20 de Noviembre: Solo los viernes. Panes, Jugos, frutas, huevos, fiambres y más · Buffet Tea Time Navideño: a partir del 17 de Noviembre para ",
    "Cuponidad",
    {
     "conf": "of",
-    "ciudad": "Lima"
+    "ciudad": "Lima",
+    "dias": [
+     1,
+     2,
+     3,
+     4,
+     5
+    ]
    }
   ],
   [
@@ -5780,15 +5787,15 @@
    }
   ],
   [
-   "Toboganes de Santa Ana: Ingreso con opción a almuerzo. Lunes",
+   "Full Day en Huampani:  Piscina, granja, juegos, restaurantes",
    "Cuponidad",
    "precio",
    16.9,
-   70.9,
+   44.9,
    "",
    "",
-   "Toboganes de Santa Ana: Ingreso con opción a almuerzo. Lunes a Domingo. Chosica",
-   "Toboganes de Santa Ana: Ingreso con opción a almuerzo. Lunes a Domingo. Chosica",
+   "La Fogata de Cieneguilla: Full Day de lunes a domingo para niño o adulto + vale de consumo",
+   "La Fogata de Cieneguilla: Full Day de lunes a domingo para niño o adulto + vale de consumo",
    "Cuponidad",
    {
     "conf": "of",
@@ -5796,31 +5803,15 @@
    }
   ],
   [
-   "120 minutos de Juegos en Futbol Fest X 2026 en Megaplaza de ",
-   "Cuponidad",
-   "precio",
-   9.9,
-   69.9,
-   "",
-   "",
-   "JUMP SPOT KIDS: Full Diversión por 30 o 60 minutos Jockey Plaza, Mall Plaza Comas, Mall Plaza Arequipa",
-   "120 minutos de Juegos en Futbol Fest X 2026 en Megaplaza de lunes a domingo y feriados",
-   "Cuponidad",
-   {
-    "conf": "of",
-    "ciudad": "AQP"
-   }
-  ],
-  [
    "Infinity Park Arequipa: entrada para niño o adulto al parque",
    "Cuponidad",
    "precio",
-   19.9,
-   27.9,
+   12.9,
+   35.9,
    "",
    "",
-   "Infinity Park Arequipa: entrada para niño o adulto al parque inflable más grande de  Arewuipa",
-   "120 minutos de Juegos en Futbol Fest X 2026 en Megaplaza de lunes a domingo y feriados",
+   "JUMP SPOT KIDS: Full Diversión por 30 o 60 minutos Jockey Plaza, Mall Plaza Comas, Mall Plaza Arequipa",
+   "Mr. Joy : Juega por 150 minutos (2:30 hrs). Válido en sus 3 locales. Lunes a Domingo.",
    "Cuponidad",
    {
     "conf": "of",
@@ -5828,11 +5819,27 @@
    }
   ],
   [
-   "Sesión de 6 minutos en el Circuito Explanada Olguín Jockey P",
+   "Fun Jungle: Full Day o 60 minutos según elijas en los Inflab",
+   "Cuponidad",
+   "precio",
+   19.9,
+   44.9,
+   "",
+   "",
+   "Fun Jungle: Full Day o 60 minutos según elijas en los Inflables en El Defby  y Parque de la Amistad",
+   "120 minutos de Juegos en Futbol Fest X 2026 en Megaplaza de lunes a domingo y feriados · Yakupark Paracas: 45 o 90 minutos de Diversión según elijas. Lunes a Domingo",
+   "Cuponidad",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "RF Karting La Victoria: Sesiones para niños o adultos según ",
    "Cuponidad",
    "precio",
    14.9,
-   24.9,
+   39.9,
    "",
    "",
    "Rally Kart: 10, 16 ó 30 vueltas en sus locales de Jockey Plaza, Open Plaza La Marina,   Bellavista, Mall Plaza Comas",
@@ -5847,12 +5854,12 @@
    "La Bistecca",
    "Cuponidad",
    "precio",
-   43.9,
+   37.9,
    85.9,
    "",
    "",
    "jesus maria, san borja, san isidro, san martin de porres, san miguel, santiago de surco",
-   "Compra el cupón en Cuponidad",
+   "Buffet Almuerzo Criollo en 4 Sedes de Lunes a Domingo",
    "Cuponidad",
    {
     "conf": "of",
@@ -5860,7 +5867,7 @@
    }
   ],
   [
-   "Dragon Rolls",
+   "Isushi",
    "Cuponidad",
    "precio",
    29.9,
@@ -5876,14 +5883,46 @@
    }
   ],
   [
-   "Mujer que no jode, es Hombre: 21  de Noviembre y 05 de Dicie",
+   "El Grinch en Navidad: Obra Teatral  8, 13, 26, 27 de Diciemb",
    "Cuponidad",
    "precio",
    14.9,
-   34.9,
-   "2026-11-21",
+   0,
+   "",
    "2026-12-27",
-   "Mujer que no jode, es Hombre: 21  de Noviembre y 05 de Diciembre. Estación de Barranco - Milagros Porturas",
+   "El Grinch en Navidad: Obra Teatral  8, 13, 26, 27 de Diciembre Jazz Zone Miraflores",
+   "Compra el cupón en Cuponidad",
+   "Cuponidad",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Los amitos de Santa: Obra Teatral el 28 de Noviembre en el J",
+   "Cuponidad",
+   "precio",
+   14.9,
+   0,
+   "",
+   "2026-11-28",
+   "Los amitos de Santa: Obra Teatral el 28 de Noviembre en el Jazz Zone de Miraflores",
+   "Compra el cupón en Cuponidad",
+   "Cuponidad",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Un cuento de Navidad: Obra Teatral  19, 20 y 27 de Diciembre",
+   "Cuponidad",
+   "precio",
+   14.9,
+   0,
+   "",
+   "2026-12-27",
+   "Un cuento de Navidad: Obra Teatral  19, 20 y 27 de Diciembre Jazz Zone Miraflores",
    "Compra el cupón en Cuponidad",
    "Cuponidad",
    {
@@ -5911,11 +5950,11 @@
    "D Mare Sushi",
    "Cuponidad",
    "precio",
-   55.0,
+   37.0,
    0,
    "",
    "",
-   "MAKIS: 60 cortes de makis + 2 gaseosas de 500 ml ¡Deliciosos sabores a elección",
+   "MAKIS: 40 cortes de makis + 4 fish fingers, deliciosos sabores a elección",
    "Compra el cupón en Cuponidad",
    "Cuponidad",
    {
@@ -5940,14 +5979,14 @@
    }
   ],
   [
-   "Examen médico para brevete CHORRILLOS para AUTO",
+   "D Mare Sushi",
    "Cuponidad",
    "precio",
-   99.0,
-   149.0,
+   55.0,
+   0,
    "",
    "",
-   "Examen Para Brevete y Recategorización de Licencia de Manejo",
+   "MAKIS: 60 cortes de makis + 2 gaseosas de 500 ml ¡Deliciosos sabores a elección",
    "Compra el cupón en Cuponidad",
    "Cuponidad",
    {
@@ -5956,15 +5995,31 @@
    }
   ],
   [
-   "Do Santos",
+   "Examen Médico para Brevete de Auto o Moto: Licencia nuevo, r",
    "Cuponidad",
    "precio",
-   49.9,
+   89.9,
+   110.0,
+   "",
+   "",
+   "Examen Médico para Brevete de Auto o Moto: Licencia nuevo, revalidar, recategorizar",
+   "Examen Médico para Brevete de Auto o Moto: Licencia nuevo, revalidar, recategorizar",
+   "Cuponidad",
+   {
+    "conf": "of",
+    "ciudad": "Lima"
+   }
+  ],
+  [
+   "Excelencia Pollos",
+   "Cuponidad",
+   "precio",
+   16.9,
    78.9,
    "",
    "",
-   "1 Pollo a la Brasa + 1/4 pollo a la leña + 1 porción de papas nativas fritas + 1 ensalada familiar + Bebida familiar",
-   "Delivery · Pollo a la brasa + papas fritas + ensalada + gaseosa para CONSUMO o  RECOJO.  Lunes a Domingo",
+   "1/4 de Pollo a la brasa + papas fritas + ensalada + cremas + gaseosa en local a elección para consumo en el local o recojo con Excelencia Po",
+   "Delivery",
    "Cuponidad",
    {
     "conf": "of",
@@ -5976,10 +6031,10 @@
    "Cuponidad",
    "precio",
    89.9,
-   129.0,
+   199.0,
    "",
    "",
-   "Parrilla para 2: Parrilla marina para 2 personas + 2 copas de vino blanco, frente al mar",
+   "Parrilla para 2:  Baby beef, pollo, chorizo, anticucho, etc frente al mar",
    "Compra el cupón en Cuponidad",
    "Cuponidad",
    {
@@ -6004,11 +6059,11 @@
    }
   ],
   [
-   "1 noche en habitación matrimonial + desayuno continental con",
+   "Vacilandia Park: Full Day para niños, adultos o pack familia",
    "Cuponidad",
    "precio",
-   19.9,
-   219.0,
+   16.9,
+   170.0,
    "",
    "",
    "La Fogata de Cieneguilla: Full Day de lunes a domingo para niño o adulto + vale de consumo",
@@ -6020,15 +6075,15 @@
    }
   ],
   [
-   "Depilación brasilera completa para damas.",
+   "Mechas balayage o iluminación cepillado y más",
    "Cuponidad",
    "precio",
    14.9,
-   69.0,
+   299.9,
    "",
    "",
    "¡Adiós horquillas! Tratamiento Split Ender + mascarilla + trat. bruma y más.",
-   "bonet´s salon spa",
+   "bonet´s salon spa · salón spa gina",
    "Cuponidad",
    {
     "conf": "of",
@@ -7866,20 +7921,57 @@
    }
   ]
  ],
- "relampago": [],
+ "relampago": [
+  {
+   "f": "2026-11-27",
+   "t": "Mercado Libre",
+   "o": "#mercadolibre",
+   "p": 0,
+   "r": 0,
+   "n": "O F E R T A · ❗️ · ✔️ · Obtén 20 soles de descuento en zapatillas con el código · ZAPATILLASBF. · Para un mínimo de compra de 104 soles y aplica para · TODOS los usuarios · . Y si pagas con YAPE obtie",
+   "u": "https://t.me/concuponperu/19410"
+  },
+  {
+   "f": "2026-11-27",
+   "t": "Falabella",
+   "o": "#falabella",
+   "p": 1.0,
+   "r": 0,
+   "n": "O F E R T A · ❗️ · RXC_ANTH UVM ANTIPIGM FL T15ml a · sólo S/ 1.00 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK · ! · 🔥 · Visto en · @concuponperu · ⚠️ ·",
+   "u": "https://t.me/concuponperu/19411"
+  },
+  {
+   "f": "2026-11-27",
+   "t": "Falabella",
+   "o": "#falabella",
+   "p": 799.0,
+   "r": 0,
+   "n": "O F E R T A · ❗️ · Juego De Sala De Terraza Parma 2-1-1 Cuerpos Con Mesa De Centro a · sólo S/ 799.00 · ‼️ · Stock depende de cada tienda. Comenta donde encuentras stock · 🌐 · AQUÍ ESTÁ EL LINK · ! · ",
+   "u": "https://t.me/concuponperu/19412"
+  },
+  {
+   "f": "2026-11-27",
+   "t": "Platanitos",
+   "o": "#platanitos",
+   "p": 0,
+   "r": 0,
+   "n": "O F E R T A · ❗️ · ✔️ · Hasta 50% de descuento en productos seleccionados Adidas y descuento adicional utilizando el cupón · AD40 · Más info: · ‼️ · Stock depende de cada tienda. El cupón aplica · par",
+   "u": "https://t.me/concuponperu/19413"
+  }
+ ],
  "ver": {
-  "Plin Interbank": "2026-11-27",
-  "Tarjeta Caja Arequipa": "2026-11-27",
-  "Cuponatic": "2026-11-27",
-  "Cuponidad": "2026-11-27",
-  "Web/app de la marca": "2026-11-27",
-  "Tarjeta Cencosud": "2026-11-27"
+  "Plin Interbank": "2026-11-28",
+  "Tarjeta Caja Arequipa": "2026-11-28",
+  "Cuponatic": "2026-11-28",
+  "Cuponidad": "2026-11-28",
+  "Web/app de la marca": "2026-11-28",
+  "Tarjeta Cencosud": "2026-11-28"
  },
  "estado": {
   "interbank": {
    "ok": true,
    "filas": 212,
-   "leido": "2026-11-27T14:59",
+   "leido": "2026-11-28T13:58",
    "error": "",
    "historial": [
     212,
@@ -7891,29 +7983,29 @@
   },
   "telegram": {
    "ok": true,
-   "filas": 0,
-   "leido": "2026-11-27T14:59",
+   "filas": 4,
+   "leido": "2026-11-28T13:58",
    "error": "",
    "historial": [
-    2,
     8,
     7,
     3,
-    0
+    0,
+    4
    ]
   },
   "bbva": {
    "ok": false,
    "filas": 0,
    "leido": "",
-   "intento": "2026-11-27T14:59",
+   "intento": "2026-11-28T13:58",
    "error": "No se pudo descargar https://www.bbva.pe/content/dam/public-web/peru/documents/personas/catalogo-promociones/Catalogo-provincias.pdf: 403 Client Error: Forbidden for url: https://www.bbva.pe/content/dam/public-web/peru/documents/personas/catalogo-promociones/Catalogo-provincias.pdf",
    "historial": []
   },
   "caja_arequipa": {
    "ok": true,
    "filas": 9,
-   "leido": "2026-11-27T14:59",
+   "leido": "2026-11-28T13:58",
    "error": "",
    "historial": [
     9,
@@ -7926,33 +8018,33 @@
   "cuponatic": {
    "ok": true,
    "filas": 13,
-   "leido": "2026-11-27T14:59",
+   "leido": "2026-11-28T13:58",
    "error": "",
    "historial": [
-    18,
     17,
     12,
     15,
+    13,
     13
    ]
   },
   "cuponidad": {
    "ok": true,
-   "filas": 28,
-   "leido": "2026-11-27T14:59",
+   "filas": 31,
+   "leido": "2026-11-28T13:58",
    "error": "",
    "historial": [
-    33,
     30,
     37,
     29,
-    28
+    28,
+    31
    ]
   },
   "papajohns": {
    "ok": true,
    "filas": 4,
-   "leido": "2026-11-27T14:59",
+   "leido": "2026-11-28T13:58",
    "error": "",
    "historial": [
     4,
@@ -7966,7 +8058,7 @@
    "ok": false,
    "filas": 2,
    "leido": "2026-10-23T12:35",
-   "intento": "2026-11-27T14:59",
+   "intento": "2026-11-28T13:58",
    "error": "solo 1 filas (mínimo 2)",
    "historial": [
     1,
@@ -7979,12 +8071,12 @@
   "cencosud": {
    "ok": true,
    "filas": 109,
-   "leido": "2026-11-27T14:59",
+   "leido": "2026-11-28T13:58",
    "error": "",
    "historial": [
     107,
     107,
-    107,
+    109,
     109,
     109
    ]
@@ -7993,7 +8085,7 @@
    "ok": false,
    "filas": 1,
    "leido": "2026-10-21T10:58",
-   "intento": "2026-11-27T14:59",
+   "intento": "2026-11-28T13:58",
    "error": "No se pudo descargar https://www.starperu.com/es/promociones/marca/diners_club: 403 Client Error: Forbidden for url: https://www.starperu.com/es/promociones/marca/diners_club",
    "historial": []
   }
